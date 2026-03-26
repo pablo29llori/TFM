@@ -1,0 +1,563 @@
+,,EST. BASE SALARY,EST. BASE SALARY,EST. BONUS,CONTRACT DETAILS,CONTRACT DETAILS,CONTRACT DETAILS,CONTRACT DETAILS,CONTRACT DETAILS,BIO,BIO,BIO,BIO,BIO,,,,data_country,data_season
+PLAYER,,"GROSS P/W
+(EUR)","GROSS P/Y
+(EUR)","GROSS P/Y
+(EUR)",SIGNED,EXPIRATION,YEARS REMAINING,"GROSS REMAINING
+(EUR)","RELEASE CLAUSE
+(EUR)",STATUS,POS.,POS.,AGE,COUNTRY,CLUB,ACTIVE,LOAN,,
+Harry Kane,,"€ 480,769","€ 25,000,000","€ 6,250,000","Aug 12, 2023","Jun 30, 2027",2,"€ 50,000,000","€ 65,000,000",Starter,F,CF,32,England,Bayern Munich,True,,germany,2526
+Manuel Neuer,,"€ 403,846","€ 21,000,000","€ 5,250,000","Feb 3, 2025","Jun 30, 2026",1,"€ 21,000,000",,Reserve,K,GK,39,Germany,Bayern Munich,True,,germany,2526
+Jamal Musiala,,"€ 399,038","€ 20,750,000","€ 11,320,000","Feb 14, 2025","Jun 30, 2030",5,"€ 103,750,000","€ 150,000,000",Starter,F,AM,22,Germany,Bayern Munich,True,,germany,2526
+Joshua Kimmich,,"€ 384,615","€ 20,000,000","€ 5,000,000","Mar 13, 2025","Jun 30, 2029",4,"€ 80,000,000",,Starter,M,DM,30,Germany,Bayern Munich,True,,germany,2526
+Alphonso Davies,,"€ 288,462","€ 15,000,000","€ 5,000,000","Feb 4, 2025","Jun 30, 2030",5,"€ 75,000,000",,Starter,D,LB,25,Canada,Bayern Munich,True,,germany,2526
+Luis Díaz,,"€ 269,231","€ 14,000,000","€ 3,500,000","Jul 30, 2025","Jun 30, 2029",4,"€ 56,000,000",,Starter,F,LW,29,Colombia,Bayern Munich,True,,germany,2526
+Michael Olise,,"€ 259,808","€ 13,510,000","€ 3,380,000","Jul 7, 2024","Jun 30, 2029",4,"€ 54,040,000",,Starter,F,RW,24,France,Bayern Munich,True,,germany,2526
+Leon Goretzka,,"€ 250,000","€ 13,000,000","€ 4,000,000","Sep 16, 2021","Jun 30, 2026",1,"€ 13,000,000",,Reserve,M,CM,30,Germany,Bayern Munich,True,,germany,2526
+Serge Gnabry,,"€ 250,000","€ 13,000,000","€ 2,000,000","Feb 5, 2026","Jun 30, 2028",3,"€ 39,000,000",,Reserve,F,SS,30,Germany,Bayern Munich,True,,germany,2526
+Min-jae Kim,,"€ 230,769","€ 12,000,000","€ 3,000,000","Jul 18, 2023","Jun 30, 2028",3,"€ 36,000,000","€ 110,000,000",Starter,D,CB,29,South Korea,Bayern Munich,True,,germany,2526
+Jonathan Tah,,"€ 230,769","€ 12,000,000","€ 3,000,000","Jun 9, 2025","Jun 30, 2029",4,"€ 48,000,000",,Reserve,D,CB,29,Germany,Bayern Munich,True,,germany,2526
+Niklas Süle,,"€ 192,308","€ 10,000,000","€ 2,500,000","Jul 1, 2022","Jun 30, 2026",1,"€ 10,000,000",,Reserve,D,CB,30,Germany,Borussia Dortmund,True,,germany,2526
+Dayot Upamecano,,"€ 192,308","€ 10,000,000","€ 2,500,000","Feb 13, 2026","Jun 30, 2030",5,"€ 50,000,000","€ 65,000,000",Starter,D,CB,27,France,Bayern Munich,True,,germany,2526
+Serhou Guirassy,,"€ 181,346","€ 9,430,000","€ 2,360,000","Jul 18, 2024","Jun 30, 2028",3,"€ 28,290,000","€ 70,000,000",Starter,F,CF,29,Guinea,Borussia Dortmund,True,,germany,2526
+Gregor Kobel,,"€ 174,231","€ 9,060,000","€ 2,260,000","Oct 5, 2023","Jun 30, 2028",3,"€ 27,180,000",,Starter,K,GK,28,Switzerland,Borussia Dortmund,True,,germany,2526
+Konrad Laimer,,"€ 173,077","€ 9,000,000","€ 2,250,000","Jul 1, 2023","Jun 30, 2027",2,"€ 18,000,000",,Reserve,D,RB,28,Austria,Bayern Munich,True,,germany,2526
+Alexander Nübel,,"€ 153,846","€ 8,000,000","€ 2,000,000","Apr 12, 2024","Jun 30, 2029",4,"€ 32,000,000",,Reserve,K,GK,28,Germany,Bayern Munich,False,,germany,2526
+Raphaël Guerreiro,,"€ 153,846","€ 8,000,000","€ 2,000,000","Jul 1, 2023","Jun 30, 2026",1,"€ 8,000,000",,Reserve,D,LB,32,Portugal,Bayern Munich,True,,germany,2526
+Emre Can,,"€ 153,846","€ 8,000,000","€ 2,000,000","Jul 22, 2023","Jun 30, 2026",1,"€ 8,000,000",,Reserve,D,CB,32,Germany,Borussia Dortmund,True,,germany,2526
+Nicolas Jackson,,"€ 145,192","€ 7,550,000","€ 1,890,000","Sep 1, 2025","Jun 30, 2026",1,"€ 7,550,000",,Reserve,F,CF,24,Senegal,Bayern Munich,True,,germany,2526
+Patrik Schick,,"€ 145,192","€ 7,550,000","€ 1,890,000","Aug 4, 2025","Jun 30, 2030",5,"€ 37,750,000",,Reserve,F,CF,30,Czech Republic,Bayer Leverkusen,True,,germany,2526
+Benjamin Henrichs,,"€ 145,192","€ 7,550,000","€ 1,890,000","May 17, 2024","Jun 30, 2028",3,"€ 22,650,000",,Reserve,D,RB,28,Germany,Leipzig,True,,germany,2526
+David Raum,,"€ 145,192","€ 7,550,000","€ 1,890,000","Jul 31, 2022","Jun 30, 2027",2,"€ 15,100,000","€ 50,000,000",Starter,D,LB,27,Germany,Leipzig,True,,germany,2526
+Exequiel Palacios,,"€ 145,192","€ 7,550,000","€ 1,890,000","Oct 3, 2025","Jun 30, 2030",5,"€ 37,750,000",,Reserve,M,CM,27,Argentina,Bayer Leverkusen,True,,germany,2526
+Marcel Sabitzer,,"€ 144,423","€ 7,510,000","€ 1,880,000","Jul 24, 2023","Jun 30, 2027",2,"€ 15,020,000",,Starter,M,CM,31,Austria,Borussia Dortmund,True,,germany,2526
+Alejandro Grimaldo,,"€ 137,885","€ 7,170,000","€ 1,890,000","Jul 1, 2023","Jun 30, 2027",2,"€ 14,340,000",,Starter,D,LB,30,Spain,Bayer Leverkusen,True,,germany,2526
+Julian Brandt,,"€ 134,615","€ 7,000,000","€ 1,750,000","Apr 11, 2023","Jun 30, 2026",1,"€ 7,000,000",,Reserve,F,AM,29,Germany,Borussia Dortmund,True,,germany,2526
+Lucas Vázquez,,"€ 126,923","€ 6,600,000","€ 1,650,000","Aug 26, 2025","Jun 30, 2027",2,"€ 13,200,000",,Reserve,D,RB,34,Spain,Bayer Leverkusen,True,,germany,2526
+Josip Stanisic,,"€ 126,923","€ 6,600,000","€ 1,650,000","Jun 27, 2024","Jun 30, 2029",4,"€ 26,400,000",,Starter,D,RB,25,Croatia,Bayern Munich,True,,germany,2526
+Carney Chukwuemeka,,"€ 115,385","€ 6,000,000","€ 1,500,000","Aug 26, 2025","Jun 30, 2030",5,"€ 30,000,000",,Reserve,M,CM,22,England,Borussia Dortmund,True,,germany,2526
+Matthias Ginter,,"€ 108,846","€ 5,660,000","€ 1,420,000","Jul 1, 2022","Jun 30, 2027",2,"€ 11,320,000",,Starter,D,CB,32,Germany,Freiburg,True,,germany,2526
+Willi Orbán,,"€ 108,846","€ 5,660,000","€ 1,420,000","Oct 6, 2023","Jun 30, 2027",2,"€ 11,320,000",,Starter,D,CB,33,Hungary,Leipzig,True,,germany,2526
+Lukas Klostermann,,"€ 108,846","€ 5,660,000","€ 1,420,000","Jan 11, 2024","Jun 30, 2028",3,"€ 16,980,000",,Reserve,D,CB,29,Germany,Leipzig,True,,germany,2526
+Robin Koch,,"€ 108,846","€ 5,660,000","€ 1,320,000","Jun 10, 2025","Jun 30, 2030",5,"€ 28,300,000",,Reserve,D,CB,29,Germany,Eintracht Frankfurt,True,,germany,2526
+Edmond Tapsoba,,"€ 108,846","€ 5,660,000","€ 1,420,000","Sep 4, 2023","Jun 30, 2028",3,"€ 16,980,000","€ 100,000,000",Starter,D,CB,27,Burkina Faso,Bayer Leverkusen,True,,germany,2526
+Ritsu Doan,,"€ 108,846","€ 5,660,000","€ 1,420,000","Aug 7, 2025","Jun 30, 2030",5,"€ 28,300,000",,Starter,F,RW,27,Japan,Eintracht Frankfurt,True,,germany,2526
+Aleksandar Pavlovic,,"€ 108,846","€ 5,660,000","€ 1,420,000","Jun 16, 2024","Jun 30, 2029",4,"€ 22,640,000",,Starter,M,DM,21,Germany,Bayern Munich,True,,germany,2526
+Péter Gulácsi,,"€ 108,846","€ 5,660,000","€ 1,420,000","Feb 9, 2026","Jun 30, 2027",2,"€ 11,320,000",,Reserve,K,GK,35,Hungary,Leipzig,True,,germany,2526
+Lovro Majer,,"€ 108,846","€ 5,660,000","€ 1,420,000","Aug 16, 2023","Jun 30, 2028",3,"€ 16,980,000",,Starter,F,AM,28,Croatia,Wolfsburg,True,,germany,2526
+Waldemar Anton,,"€ 101,538","€ 5,280,000","€ 1,320,000","Jul 8, 2024","Jun 30, 2028",3,"€ 15,840,000",,Starter,D,CB,29,Germany,Borussia Dortmund,True,,germany,2526
+Aleix García,,"€ 101,538","€ 5,280,000","€ 1,320,000","Jul 1, 2024","Jun 30, 2029",4,"€ 21,120,000",,Starter,M,CM,28,Spain,Bayer Leverkusen,True,,germany,2526
+Castello Lukeba,,"€ 101,538","€ 5,280,000","€ 1,320,000","Oct 23, 2024","Jun 30, 2029",4,"€ 21,120,000","€ 80,000,000",Starter,D,CB,23,France,Leipzig,True,,germany,2526
+Philipp Lienhart,,"€ 101,538","€ 5,280,000","€ 1,320,000","Jun 1, 2023","Jun 30, 2026",1,"€ 5,280,000",,Reserve,D,CB,29,Austria,Freiburg,True,,germany,2526
+Felix Nmecha,,"€ 96,154","€ 5,000,000","€ 1,250,000","Jul 3, 2023","Jun 30, 2028",3,"€ 15,000,000",,Starter,M,CM,25,Germany,Borussia Dortmund,True,,germany,2526
+Karim Adeyemi,,"€ 96,154","€ 5,000,000","€ 1,250,000","Jul 1, 2022","Jun 30, 2027",2,"€ 10,000,000",,Reserve,F,RW,24,Germany,Borussia Dortmund,True,,germany,2526
+Julian Ryerson,,"€ 96,154","€ 5,000,000","€ 1,250,000","Oct 3, 2024","Jun 30, 2028",3,"€ 15,000,000",,Starter,D,RB,28,Norway,Borussia Dortmund,True,,germany,2526
+Maximilian Mittelstädt,,"€ 94,423","€ 4,910,000","€ 1,230,000","Aug 31, 2024","Jun 30, 2028",3,"€ 14,730,000",,Starter,D,LB,28,Germany,Stuttgart,True,,germany,2526
+Jonathan Burkardt,,"€ 94,423","€ 4,910,000","€ 1,230,000","Jul 4, 2025","Jun 30, 2030",5,"€ 24,550,000",,Reserve,F,CF,25,Germany,Eintracht Frankfurt,True,,germany,2526
+Jobe Bellingham,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jun 10, 2025","Jun 30, 2030",5,"€ 23,600,000",,Starter,M,CM,20,England,Borussia Dortmund,True,,germany,2526
+Nico Schlotterbeck,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 1, 2022","Jun 30, 2027",2,"€ 9,440,000",,Starter,D,CB,26,Germany,Borussia Dortmund,True,,germany,2526
+Yan Couto,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 1, 2025","Jun 30, 2030",5,"€ 23,600,000",,Reserve,M,RM,23,Brazil,Borussia Dortmund,True,,germany,2526
+Franck Honorat,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 22, 2025","Jun 30, 2029",4,"€ 18,880,000",,Starter,F,RW,29,France,Monchengladbach,True,,germany,2526
+Loïc Badé,,"€ 90,769","€ 4,720,000","€ 1,180,000","Aug 21, 2025","Jun 30, 2030",5,"€ 23,600,000",,Starter,D,CB,25,France,Bayer Leverkusen,True,,germany,2526
+Malik Tillman,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 12, 2025","Jun 30, 2030",5,"€ 23,600,000",,Starter,F,AM,23,United States,Bayer Leverkusen,True,,germany,2526
+Mark Flekken,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 1, 2025","Jun 30, 2028",3,"€ 14,160,000",,Reserve,K,GK,32,Netherlands,Bayer Leverkusen,True,,germany,2526
+Martin Terrier,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 18, 2024","Jun 30, 2029",4,"€ 18,880,000",,Reserve,F,LW,28,France,Bayer Leverkusen,True,,germany,2526
+Maximilian Arnold,,"€ 90,769","€ 4,720,000","€ 1,180,000","Nov 6, 2025","Jun 30, 2028",3,"€ 14,160,000",,Reserve,M,CM,31,Germany,Wolfsburg,True,,germany,2526
+Maximilian Eggestein,,"€ 90,769","€ 4,720,000","€ 1,180,000","Mar 25, 2024","Jun 30, 2026",1,"€ 4,720,000",,Starter,M,CM,29,Germany,Freiburg,True,,germany,2526
+Mohamed Amoura,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 1, 2025","Jun 30, 2029",4,"€ 18,880,000",,Starter,F,CF,25,Algeria,Wolfsburg,True,,germany,2526
+Vinicius Souza,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 5, 2025","Jun 30, 2030",5,"€ 23,600,000",,Reserve,M,DM,26,Brazil,Wolfsburg,True,,germany,2526
+Ermedin Demirovic,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 16, 2024","Jun 30, 2028",3,"€ 14,160,000",,Starter,F,CF,27,Bosnia-Herzegovina,Stuttgart,True,,germany,2526
+Rasmus Kristensen,,"€ 90,769","€ 4,720,000","€ 1,180,000","Jul 1, 2025","Jun 30, 2029",4,"€ 18,880,000",,Reserve,D,RB,28,Denmark,Eintracht Frankfurt,True,,germany,2526
+Deniz Undav,,"€ 87,115","€ 4,530,000","€ 1,130,000","Aug 9, 2024","Jun 30, 2027",2,"€ 9,060,000",,Reserve,F,CF,29,Germany,Stuttgart,True,,germany,2526
+Vincenzo Grifo,,"€ 87,115","€ 4,530,000","€ 1,130,000","Jun 25, 2025","Jun 30, 2027",2,"€ 9,060,000",,Starter,F,LW,32,Italy,Freiburg,True,,germany,2526
+Angelo Stiller,,"€ 87,115","€ 4,530,000","€ 1,130,000","Jan 28, 2025","Jun 30, 2028",3,"€ 13,590,000","€ 36,500,000",Starter,M,DM,24,Germany,Stuttgart,True,,germany,2526
+Ramy Bensebaini,,"€ 86,731","€ 4,510,000","€ 1,130,000","Jul 1, 2023","Jun 30, 2027",2,"€ 9,020,000",,Starter,D,CB,30,Algeria,Borussia Dortmund,True,,germany,2526
+Jonas Hofmann,,"€ 83,462","€ 4,340,000","€ 1,080,000","Jul 5, 2023","Jun 30, 2027",2,"€ 8,680,000",,Reserve,F,AM,33,Germany,Bayer Leverkusen,True,,germany,2526
+Christoph Baumgartner,,"€ 83,462","€ 4,340,000","€ 1,080,000","Jul 1, 2023","Jun 30, 2028",3,"€ 13,020,000",,Starter,F,AM,26,Austria,Leipzig,True,,germany,2526
+Jesper Lindstrøm,,"€ 83,462","€ 4,340,000","€ 1,080,000","Jul 23, 2025","Jun 30, 2026",1,"€ 4,340,000",,Reserve,F,RW,25,Denmark,Wolfsburg,True,,germany,2526
+Maximilian Beier,,"€ 79,808","€ 4,150,000","€ 1,040,000","Aug 12, 2024","Jun 30, 2029",4,"€ 16,600,000",,Starter,F,CF,23,Germany,Borussia Dortmund,True,,germany,2526
+Alexander Nübel,,"€ 79,808","€ 4,150,000","€ 1,040,000","Apr 12, 2024","Jun 30, 2026",1,"€ 4,150,000",,Starter,K,GK,29,Germany,Stuttgart,True,,germany,2526
+Joakim Maehle,,"€ 79,808","€ 4,150,000","€ 1,040,000","Aug 12, 2023","Jun 30, 2027",2,"€ 8,300,000",,Reserve,D,LB,28,Denmark,Wolfsburg,True,,germany,2526
+Mario Götze,,"€ 79,808","€ 4,150,000","€ 1,510,000","Jun 2, 2023","Jun 30, 2026",1,"€ 4,150,000",,Reserve,F,AM,33,Germany,Eintracht Frankfurt,True,,germany,2526
+Arthur Theate,,"€ 79,808","€ 4,150,000","€ 1,040,000","Feb 2, 2025","Jun 30, 2029",4,"€ 16,600,000",,Reserve,D,CB,25,Belgium,Eintracht Frankfurt,True,,germany,2526
+Fábio Silva,,"€ 79,808","€ 4,150,000","€ 1,040,000","Aug 29, 2025","Jun 30, 2030",5,"€ 20,750,000",,Reserve,F,CF,23,Portugal,Borussia Dortmund,True,,germany,2526
+Xaver Schlager,,"€ 76,923","€ 4,000,000","€ 1,000,000","Jul 1, 2022","Jun 30, 2026",1,"€ 4,000,000",,Starter,M,CM,28,Austria,Leipzig,True,,germany,2526
+Andrej Kramaric,,"€ 76,154","€ 3,960,000","€ 990,000","Dec 12, 2024","Jun 30, 2026",1,"€ 3,960,000",,Starter,F,AM,34,Croatia,Hoffenheim,True,,germany,2526
+Florian Neuhaus,,"€ 76,154","€ 3,960,000","€ 990,000","Jul 28, 2023","Jun 30, 2027",2,"€ 7,920,000",,Reserve,M,CM,28,Germany,Monchengladbach,True,,germany,2526
+Ridle Baku,,"€ 72,500","€ 3,770,000","€ 940,000","Jan 10, 2025","Jun 30, 2027",2,"€ 7,540,000",,Starter,D,RB,27,Germany,Leipzig,True,,germany,2526
+Tim Kleindienst,,"€ 72,500","€ 3,770,000","€ 940,000","Nov 6, 2025","Jun 30, 2029",4,"€ 15,080,000",,Reserve,F,CF,30,Germany,Monchengladbach,True,,germany,2526
+Cameron Puertas,,"€ 72,500","€ 3,770,000","€ 940,000","Sep 1, 2025","Jun 30, 2026",1,"€ 3,770,000",,Starter,F,AM,27,Spain,Werder Bremen,True,,germany,2526
+Hiroki Ito,,"€ 72,500","€ 3,770,000","€ 940,000","Jul 1, 2024","Jun 30, 2028",3,"€ 11,310,000",,Reserve,D,CB,26,Japan,Bayern Munich,True,,germany,2526
+Jarell Quansah,,"€ 72,500","€ 3,770,000","€ 940,000","Jul 2, 2025","Jun 30, 2030",5,"€ 18,850,000",,Reserve,D,CB,23,England,Bayer Leverkusen,True,,germany,2526
+Salih Özcan,,"€ 72,500","€ 3,770,000","€ 940,000","Jul 1, 2022","Jun 30, 2026",1,"€ 3,770,000",,Reserve,M,DM,28,Turkey,Borussia Dortmund,True,,germany,2526
+Michael Zetterer,,"€ 72,500","€ 3,770,000","€ 940,000","Aug 20, 2025","Jun 30, 2029",4,"€ 15,080,000",,Reserve,K,GK,30,Germany,Eintracht Frankfurt,True,,germany,2526
+Robert Andrich,,"€ 72,500","€ 3,770,000","€ 940,000","Aug 16, 2024","Jun 30, 2028",3,"€ 11,310,000",,Starter,M,DM,31,Germany,Bayer Leverkusen,True,,germany,2526
+Vladimír Coufal,,"€ 72,500","€ 3,770,000","€ 940,000","Feb 17, 2026","Jun 30, 2028",3,"€ 11,310,000",,Starter,D,RB,33,Czech Republic,Hoffenheim,True,,germany,2526
+Bernardo,,"€ 72,500","€ 3,770,000","€ 940,000","Jul 1, 2025","Jun 30, 2026",1,"€ 3,770,000",,Reserve,D,LB,30,Brazil,Hoffenheim,True,,germany,2526
+Robin Hack,,"€ 72,500","€ 3,770,000","€ 940,000","Oct 17, 2024","Jun 30, 2029",4,"€ 15,080,000",,Reserve,F,LW,27,Germany,Monchengladbach,True,,germany,2526
+Koki Machida,,"€ 72,500","€ 3,770,000","€ 940,000","Jul 1, 2025","Jun 30, 2026",1,"€ 3,770,000",,Reserve,D,CB,28,Japan,Hoffenheim,True,,germany,2526
+Nico Elvedi,,"€ 68,846","€ 3,580,000","€ 900,000","Sep 21, 2023","Jun 30, 2027",2,"€ 7,160,000","€ 10,000,000",Starter,D,CB,29,Switzerland,Monchengladbach,True,,germany,2526
+Yannick Gerhardt,,"€ 68,846","€ 3,580,000","€ 900,000","Mar 27, 2024","Jun 30, 2026",1,"€ 3,580,000",,Starter,M,CM,31,Germany,Wolfsburg,True,,germany,2526
+Oliver Baumann,,"€ 68,846","€ 3,580,000","€ 900,000","Aug 1, 2025","Jun 30, 2028",3,"€ 10,740,000",,Starter,K,GK,35,Germany,Hoffenheim,True,,germany,2526
+Christian Eriksen,,"€ 67,115","€ 3,490,000","€ 870,000","Sep 10, 2025","Jun 30, 2027",2,"€ 6,980,000",,Starter,F,AM,33,Denmark,Wolfsburg,True,,germany,2526
+Chris Führich,,"€ 65,385","€ 3,400,000","€ 850,000","Feb 1, 2024","Jun 30, 2028",3,"€ 10,200,000","€ 26,000,000",Starter,F,LW,28,Germany,Stuttgart,True,,germany,2526
+Michy Batshuayi,,"€ 65,385","€ 3,400,000","€ 850,000","Feb 3, 2025","Jun 30, 2027",2,"€ 6,800,000",,Reserve,F,CF,32,Belgium,Eintracht Frankfurt,True,,germany,2526
+Jan-Niklas Beste,,"€ 65,385","€ 3,400,000","€ 850,000","Jan 31, 2025","Jun 30, 2030",5,"€ 17,000,000",,Starter,F,RW,27,Germany,Freiburg,True,,germany,2526
+Denis Vavro,,"€ 65,385","€ 3,400,000","€ 850,000","Jul 1, 2025","Jun 30, 2027",2,"€ 6,800,000",,Starter,D,CB,29,Slovakia,Wolfsburg,True,,germany,2526
+Nicolas Seiwald,,"€ 65,385","€ 3,400,000","€ 850,000","Jul 1, 2023","Jun 30, 2028",3,"€ 10,200,000",,Starter,M,DM,24,Austria,Leipzig,True,,germany,2526
+Nathan Tella,,"€ 65,385","€ 3,400,000","€ 850,000","Aug 27, 2023","Jun 30, 2028",3,"€ 10,200,000",,Reserve,F,RW,26,Nigeria,Bayer Leverkusen,True,,germany,2526
+Ellyes Skhiri,,"€ 65,385","€ 3,400,000","€ 850,000","Jul 5, 2023","Jun 30, 2027",2,"€ 6,800,000",,Starter,M,DM,30,Tunisia,Eintracht Frankfurt,True,,germany,2526
+Mahmoud Dahoud,,"€ 61,731","€ 3,210,000","€ 800,000","Aug 30, 2024","Jun 30, 2026",1,"€ 3,210,000",,Starter,M,CM,30,Syria,Eintracht Frankfurt,True,,germany,2526
+Jens Stage,,"€ 61,731","€ 3,210,000","€ 800,000","Nov 18, 2024","Jun 30, 2026",1,"€ 3,210,000",,Starter,M,CM,29,Denmark,Werder Bremen,True,,germany,2526
+Eliesse Ben Seghir,,"€ 61,731","€ 3,210,000","€ 800,000","Aug 31, 2025","Jun 30, 2030",5,"€ 16,050,000",,Reserve,F,LW,20,Morocco,Bayer Leverkusen,True,,germany,2526
+Johan Bakayoko,,"€ 61,731","€ 3,210,000","€ 800,000","Jul 16, 2025","Jun 30, 2030",5,"€ 16,050,000",,Reserve,F,RW,22,Belgium,Leipzig,True,,germany,2526
+Kamil Grabara,,"€ 61,731","€ 3,210,000","€ 800,000","Jul 1, 2024","Jun 30, 2028",3,"€ 9,630,000",,Starter,K,GK,27,Poland,Wolfsburg,True,,germany,2526
+Yuito Suzuki,,"€ 61,731","€ 3,210,000","€ 800,000","Jul 1, 2025","Jun 30, 2026",1,"€ 3,210,000",,Starter,F,SS,24,Japan,Freiburg,True,,germany,2526
+Jamie Leweling,,"€ 61,731","€ 3,210,000","€ 800,000","Dec 17, 2024","Jun 30, 2029",4,"€ 12,840,000",,Reserve,F,RW,24,Germany,Stuttgart,True,,germany,2526
+Luca Waldschmidt,,"€ 58,077","€ 3,020,000","€ 750,000","Jul 1, 2024","Jun 30, 2027",2,"€ 6,040,000",,Reserve,F,CF,29,Germany,Koln,True,,germany,2526
+Jordy Makengo,,"€ 58,077","€ 3,020,000","€ 750,000","Jul 7, 2025","Jun 30, 2026",1,"€ 3,020,000",,Reserve,D,LB,24,France,Freiburg,True,,germany,2526
+Marco Friedl,,"€ 58,077","€ 3,020,000","€ 750,000","Apr 18, 2025","Jun 30, 2028",3,"€ 9,060,000",,Starter,D,CB,27,Austria,Werder Bremen,True,,germany,2526
+Moritz Nicolas,,"€ 54,423","€ 2,830,000","€ 710,000","Mar 8, 2024","Jun 30, 2029",4,"€ 11,320,000",,Starter,K,GK,28,Germany,Monchengladbach,True,,germany,2526
+El Chadaille Bitshiabu,,"€ 54,423","€ 2,830,000","€ 710,000","Jun 6, 2025","Jun 30, 2029",4,"€ 11,320,000",,Reserve,D,CB,20,France,Leipzig,True,,germany,2526
+Julian Chabot,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 1, 2024","Jun 30, 2028",3,"€ 8,490,000",,Starter,D,CB,27,Germany,Stuttgart,True,,germany,2526
+Kevin Diks,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 1, 2025","Jun 30, 2030",5,"€ 14,150,000",,Starter,D,CB,29,Indonesia,Monchengladbach,True,,germany,2526
+Mattias Svanberg,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 16, 2022","Jun 30, 2027",2,"€ 5,660,000",,Starter,M,CM,27,Sweden,Wolfsburg,True,,germany,2526
+Victor Boniface,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 22, 2023","Jun 30, 2028",3,"€ 8,490,000",,Reserve,F,CF,24,Nigeria,Bayer Leverkusen,False,,germany,2526
+Adam Hlozek,,"€ 54,423","€ 2,830,000","€ 710,000","Aug 17, 2024","Jun 30, 2029",4,"€ 11,320,000",,Reserve,F,CF,23,Czech Republic,Hoffenheim,True,,germany,2526
+Ozan Kabak,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 23, 2022","Jun 30, 2026",1,"€ 2,830,000",,Starter,D,CB,25,Turkey,Hoffenheim,True,,germany,2526
+Hugo Larsson,,"€ 54,423","€ 2,830,000","€ 710,000","Oct 4, 2024","Jun 30, 2029",4,"€ 11,320,000",,Starter,M,CM,21,Sweden,Eintracht Frankfurt,True,,germany,2526
+Mitchell Weiser,,"€ 54,423","€ 2,830,000","€ 710,000","May 17, 2024","Jun 30, 2026",1,"€ 2,830,000",,Reserve,D,RB,31,Germany,Werder Bremen,True,,germany,2526
+Bilal El Khannouss,,"€ 54,423","€ 2,830,000","€ 710,000","Sep 1, 2025","Jun 30, 2026",1,"€ 2,830,000",,Starter,F,AM,21,Morocco,Stuttgart,True,,germany,2526
+Nadiem Amiri,,"€ 54,423","€ 2,830,000","€ 710,000","May 21, 2024","Jun 30, 2028",3,"€ 8,490,000",,Starter,M,CM,29,Germany,Mainz,True,,germany,2526
+Atakan Karazor,,"€ 54,423","€ 2,830,000","€ 710,000","Jun 12, 2024","Jun 30, 2028",3,"€ 8,490,000",,Reserve,M,DM,29,Turkey,Stuttgart,True,,germany,2526
+Christian Günter,,"€ 54,423","€ 2,830,000","€ 710,000","Feb 4, 2026","Jun 30, 2026",1,"€ 2,830,000",,Starter,D,LB,32,Germany,Freiburg,True,,germany,2526
+Tom Bischof,,"€ 54,423","€ 2,830,000","€ 710,000","Jun 9, 2025","Jun 30, 2029",4,"€ 11,320,000",,Reserve,M,CM,20,Germany,Bayern Munich,True,,germany,2526
+Fábio Vieira,,"€ 54,423","€ 2,830,000","€ 710,000","Sep 1, 2025","Jun 30, 2026",1,"€ 2,830,000",,Starter,F,AM,25,Portugal,Hamburg,True,,germany,2526
+Ragnar Ache,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 1, 2025","Jun 30, 2029",4,"€ 11,320,000",,Starter,F,CF,27,Germany,Koln,True,,germany,2526
+Kevin Stöger,,"€ 54,423","€ 2,830,000","€ 710,000","Jul 1, 2024","Jun 30, 2027",2,"€ 5,660,000",,Reserve,F,AM,32,Austria,Monchengladbach,True,,germany,2526
+Danilho Doekhi,,"€ 54,423","€ 2,830,000","€ 710,000","Oct 27, 2024","Jun 30, 2026",1,"€ 2,830,000",,Starter,D,CB,27,Netherlands,Union Berlin,True,,germany,2526
+Josha Vagnoman,,"€ 54,423","€ 2,830,000","€ 710,000","Aug 31, 2025","Jun 30, 2028",3,"€ 8,490,000",,Reserve,D,RB,25,Germany,Stuttgart,True,,germany,2526
+Victor Boniface,,"€ 54,423","€ 2,830,000","€ 710,000","Sep 1, 2025","Jun 30, 2026",1,"€ 2,830,000",,Reserve,F,CF,25,Nigeria,Werder Bremen,True,,germany,2526
+Yussuf Poulsen,,"€ 50,769","€ 2,640,000","€ 660,000","Jul 13, 2025","Jun 30, 2027",2,"€ 5,280,000",,Reserve,F,CF,31,Denmark,Hamburg,True,,germany,2526
+Niklas Stark,,"€ 50,769","€ 2,640,000","€ 660,000","Jun 19, 2025","Jun 30, 2026",1,"€ 2,640,000",,Starter,D,CB,30,Germany,Werder Bremen,True,,germany,2526
+Timo Hübers,,"€ 50,769","€ 2,640,000","€ 660,000","Jul 13, 2023","Jun 30, 2026",1,"€ 2,640,000",,Reserve,D,CB,29,Germany,Koln,True,,germany,2526
+Alessio Castro-Montes,,"€ 50,769","€ 2,640,000","€ 660,000","Sep 1, 2025","Jun 30, 2028",3,"€ 7,920,000",,Reserve,M,RM,28,Belgium,Koln,True,,germany,2526
+Jae-sung Lee,,"€ 50,769","€ 2,640,000","€ 660,000","Jun 27, 2023","Jun 30, 2026",1,"€ 2,640,000",,Starter,F,AM,33,South Korea,Mainz,True,,germany,2526
+Leonardo Bittencourt,,"€ 50,769","€ 2,640,000","€ 660,000","Oct 26, 2022","Jun 30, 2026",1,"€ 2,640,000",,Reserve,M,CM,32,Germany,Werder Bremen,True,,germany,2526
+Senne Lynen,,"€ 50,769","€ 2,640,000","€ 660,000","Jul 18, 2025","Jun 30, 2026",1,"€ 2,640,000",,Starter,M,DM,26,Belgium,Werder Bremen,True,,germany,2526
+Robin Zentner,,"€ 47,115","€ 2,450,000","€ 610,000","Dec 1, 2024","Jun 30, 2028",3,"€ 7,350,000",,Reserve,K,GK,31,Germany,Mainz,True,,germany,2526
+Ezequiel Fernández,,"€ 47,115","€ 2,450,000","€ 610,000","Sep 1, 2025","Jun 30, 2030",5,"€ 12,250,000",,Starter,M,DM,23,Argentina,Bayer Leverkusen,True,,germany,2526
+Daniel Svensson,,"€ 47,115","€ 2,450,000","€ 610,000","Jul 1, 2025","Jun 30, 2029",4,"€ 9,800,000",,Starter,D,LB,23,Sweden,Borussia Dortmund,True,,germany,2526
+Philipp Treu,,"€ 47,115","€ 2,450,000","€ 610,000","Jul 1, 2025","Jun 30, 2026",1,"€ 2,450,000",,Starter,D,RB,25,Germany,Freiburg,True,,germany,2526
+Valentin Gendrey,,"€ 47,115","€ 2,450,000","€ 610,000","Aug 27, 2024","Jun 30, 2028",3,"€ 7,350,000",,Reserve,D,RB,25,France,Hoffenheim,True,,germany,2526
+Andreas Hanche-Olsen,,"€ 47,115","€ 2,450,000","€ 610,000","Jul 10, 2025","Jun 30, 2028",3,"€ 7,350,000",,Reserve,D,CB,29,Norway,Mainz,True,,germany,2526
+Yukinari Sugawara,,"€ 45,385","€ 2,360,000","€ 590,000","Aug 26, 2025","Jun 30, 2026",1,"€ 2,360,000",,Reserve,D,RB,25,Japan,Werder Bremen,True,,germany,2526
+Nathaniel Brown,,"€ 43,462","€ 2,260,000","€ 570,000","Feb 27, 2025","Jun 30, 2030",5,"€ 11,300,000",,Starter,D,LB,22,Germany,Eintracht Frankfurt,True,,germany,2526
+Chrislain Matsima,,"€ 43,462","€ 2,260,000","€ 570,000","Nov 25, 2025","Jun 30, 2030",5,"€ 11,300,000",,Reserve,D,CB,23,France,Augsburg,True,,germany,2526
+Finn Dahmen,,"€ 43,462","€ 2,260,000","€ 570,000","May 2, 2025","Jun 30, 2027",2,"€ 4,520,000",,Starter,K,GK,27,Germany,Augsburg,True,,germany,2526
+Jeffrey Gouweleeuw,,"€ 43,462","€ 2,260,000","€ 570,000","Jan 30, 2026","Jun 30, 2027",2,"€ 4,520,000",,Reserve,D,CB,34,Netherlands,Augsburg,True,,germany,2526
+Kristijan Jakic,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 1, 2024","Jun 30, 2028",3,"€ 6,780,000",,Starter,M,DM,28,Croatia,Augsburg,True,,germany,2526
+Marius Wolf,,"€ 43,462","€ 2,260,000","€ 570,000","Aug 8, 2024","Jun 30, 2027",2,"€ 4,520,000",,Reserve,D,RB,30,Germany,Augsburg,True,,germany,2526
+Josip Juranovic,,"€ 43,462","€ 2,260,000","€ 570,000","Aug 22, 2025","Jun 30, 2026",1,"€ 2,260,000",,Reserve,D,RB,30,Croatia,Union Berlin,True,,germany,2526
+Alex Král,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 1, 2024","Jun 30, 2026",1,"€ 2,260,000",,Reserve,M,CM,27,Czech Republic,Union Berlin,True,,germany,2526
+Lorenz Assignon,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 1, 2025","Jun 30, 2029",4,"€ 9,040,000",,Starter,D,RB,25,France,Stuttgart,True,,germany,2526
+Dan-Axel Zagadou,,"€ 43,462","€ 2,260,000","€ 570,000","Sep 19, 2022","Jun 30, 2026",1,"€ 2,260,000","€ 15,000,000",Reserve,D,CB,26,France,Stuttgart,True,,germany,2526
+Maximilian Philipp,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 1, 2024","Jun 30, 2026",1,"€ 2,260,000",,Reserve,F,SS,31,Germany,Freiburg,True,,germany,2526
+Shuto Machino,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 26, 2025","Jun 30, 2029",4,"€ 9,040,000",,Reserve,F,CF,26,Japan,Monchengladbach,True,,germany,2526
+Nicolás Capaldo,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 10, 2025","Jun 30, 2028",3,"€ 6,780,000",,Starter,M,CM,27,Argentina,Hamburg,True,,germany,2526
+Robert Glatzel,,"€ 43,462","€ 2,260,000","€ 570,000","Jun 12, 2023","Jun 30, 2027",2,"€ 4,520,000",,Starter,F,CF,32,Germany,Hamburg,True,,germany,2526
+Dominik Kohr,,"€ 43,462","€ 2,260,000","€ 570,000","Apr 11, 2025","Jun 30, 2028",3,"€ 6,780,000",,Starter,D,CB,32,Germany,Mainz,True,,germany,2526
+Benedict Hollerbach,,"€ 43,462","€ 2,260,000","€ 570,000","Jul 1, 2025","Jun 30, 2029",4,"€ 9,040,000",,Reserve,F,CF,24,Germany,Mainz,True,,germany,2526
+Ihlas Bebou,,"€ 43,462","€ 2,260,000","€ 570,000","Dec 17, 2021","Jun 30, 2026",1,"€ 2,260,000",,Reserve,F,CF,31,Togo,Hoffenheim,True,,germany,2526
+Conrad Harder,,"€ 43,462","€ 2,260,000","€ 570,000","Sep 1, 2025","Jun 30, 2030",5,"€ 11,300,000",,Reserve,F,CF,20,Denmark,Leipzig,True,,germany,2526
+Antonio Nusa,,"€ 43,462","€ 2,260,000","€ 570,000","Aug 13, 2024","Jun 30, 2029",4,"€ 9,040,000",,Reserve,F,LW,20,Norway,Leipzig,True,,germany,2526
+Marvin Schwäbe,,"€ 43,462","€ 2,260,000","€ 570,000","Jun 28, 2023","Jun 30, 2027",2,"€ 4,520,000",,Starter,K,GK,30,Germany,Koln,True,,germany,2526
+Silvan Widmer,,"€ 40,000","€ 2,080,000","€ 520,000","May 5, 2023","Jun 30, 2026",1,"€ 2,080,000",,Reserve,D,RB,32,Switzerland,Mainz,True,,germany,2526
+Robert Skov,,"€ 40,000","€ 2,080,000","€ 520,000","Sep 4, 2024","Jun 30, 2026",1,"€ 2,080,000",,Reserve,M,LM,29,Denmark,Union Berlin,True,,germany,2526
+Cédric Zesiger,,"€ 40,000","€ 2,080,000","€ 520,000","Jul 1, 2025","Jun 30, 2029",4,"€ 8,320,000",,Starter,D,CB,27,Switzerland,Augsburg,True,,germany,2526
+Marvin Friedrich,,"€ 40,000","€ 2,080,000","€ 520,000","Jan 11, 2022","Jun 30, 2026",1,"€ 2,080,000",,Reserve,D,CB,30,Germany,Monchengladbach,True,,germany,2526
+Jordan Torunarigha,,"€ 40,000","€ 2,080,000","€ 520,000","Jul 1, 2025","Jun 30, 2028",3,"€ 6,240,000",,Starter,D,CB,28,Nigeria,Hamburg,True,,germany,2526
+Keven Schlotterbeck,,"€ 40,000","€ 2,080,000","€ 520,000","Jul 1, 2024","Jun 30, 2027",2,"€ 4,160,000",,Starter,D,CB,28,Germany,Augsburg,True,,germany,2526
+Samuel Mbangula,,"€ 40,000","€ 2,080,000","€ 520,000","Jul 23, 2025","Jun 30, 2030",5,"€ 10,400,000",,Starter,F,LW,22,Belgium,Werder Bremen,True,,germany,2526
+Jonas Wind,,"€ 40,000","€ 2,080,000","€ 520,000","Jan 31, 2022","Jun 30, 2026",1,"€ 2,080,000",,Reserve,F,CF,26,Denmark,Wolfsburg,True,,germany,2526
+Maximilian Wöber,,"€ 40,000","€ 2,080,000","€ 520,000","Jul 4, 2025","Jun 30, 2026",1,"€ 2,080,000",,Reserve,D,CB,28,Austria,Werder Bremen,True,,germany,2526
+Alexander Prass,,"€ 40,000","€ 2,080,000","€ 520,000","Aug 5, 2024","Jun 30, 2028",3,"€ 6,240,000",,Reserve,M,LM,24,Austria,Hoffenheim,True,,germany,2526
+Jackson Irvine,,"€ 40,000","€ 2,080,000","€ 520,000","Aug 24, 2024","Jun 30, 2026",1,"€ 2,080,000",,Starter,M,CM,32,Australia,St Pauli,True,,germany,2526
+Lennart Karl,,"€ 38,462","€ 2,000,000","€ 500,000","Feb 22, 2026","Jun 30, 2029",4,"€ 8,000,000",,Reserve,F,AM,18,Germany,Bayern Munich,True,,germany,2526
+Rani Khedira,,"€ 36,346","€ 1,890,000","€ 470,000","May 15, 2025","Jun 30, 2026",1,"€ 1,890,000",,Starter,M,DM,32,Germany,Union Berlin,True,,germany,2526
+Tiago Tomás,,"€ 36,346","€ 1,890,000","€ 470,000","Aug 16, 2025","Jun 30, 2029",4,"€ 7,560,000",,Starter,F,CF,23,Portugal,Stuttgart,True,,germany,2526
+Frederik Rönnow,,"€ 36,346","€ 1,890,000","€ 470,000","Sep 27, 2025","Jun 30, 2026",1,"€ 1,890,000",,Starter,K,GK,33,Denmark,Union Berlin,True,,germany,2526
+Fisnik Asllani,,"€ 36,346","€ 1,890,000","€ 470,000","Jul 13, 2025","Jun 30, 2029",4,"€ 7,560,000","€ 29,000,000",Starter,F,CF,23,Kosovo,Hoffenheim,True,,germany,2526
+Patrick Wimmer,,"€ 36,346","€ 1,890,000","€ 470,000","Jul 1, 2022","Jun 30, 2027",2,"€ 3,780,000",,Reserve,F,RW,24,Austria,Wolfsburg,True,,germany,2526
+Jean-Luc Dompé,,"€ 36,346","€ 1,890,000","€ 470,000","Apr 27, 2025","Jun 30, 2027",2,"€ 3,780,000",,Reserve,F,LW,30,France,Hamburg,True,,germany,2526
+Maarten Vandevoordt,,"€ 36,346","€ 1,890,000","€ 470,000","Jul 1, 2024","Jun 30, 2029",4,"€ 7,560,000",,Starter,K,GK,23,Belgium,Leipzig,True,,germany,2526
+Miro Muheim,,"€ 36,346","€ 1,890,000","€ 470,000","Mar 19, 2024","Jun 30, 2027",2,"€ 3,780,000",,Starter,D,LB,27,Switzerland,Hamburg,True,,germany,2526
+Farès Chaïbi,,"€ 36,346","€ 1,890,000","€ 470,000","Aug 30, 2023","Jun 30, 2028",3,"€ 5,670,000",,Reserve,M,CM,23,Algeria,Eintracht Frankfurt,True,,germany,2526
+Andreas Skov Olsen,,"€ 36,346","€ 1,890,000","€ 470,000","Jan 17, 2025","Jun 30, 2029",4,"€ 7,560,000",,Reserve,F,RW,26,Denmark,Wolfsburg,False,,germany,2526
+Anthony Caci,,"€ 36,346","€ 1,890,000","€ 470,000","Oct 28, 2025","Jun 30, 2028",3,"€ 5,670,000",,Reserve,D,RB,28,France,Mainz,True,,germany,2526
+Patrick Mainka,,"€ 36,346","€ 1,890,000","€ 470,000","Aug 23, 2025","Jun 30, 2029",4,"€ 7,560,000",,Starter,D,CB,31,Germany,Heidenheim,True,,germany,2526
+Rogério,,"€ 36,346","€ 1,890,000","€ 470,000","Aug 5, 2023","Jun 30, 2027",2,"€ 3,780,000",,Reserve,D,LB,28,Brazil,Wolfsburg,True,,germany,2526
+Phillipp Mwene,,"€ 36,346","€ 1,890,000","€ 470,000","Aug 23, 2023","Jun 30, 2026",1,"€ 1,890,000",,Starter,D,LB,32,Austria,Mainz,True,,germany,2526
+Sven Ulreich,,"€ 36,346","€ 1,890,000","€ 470,000","Jul 29, 2025","Jun 30, 2026",1,"€ 1,890,000",,Reserve,K,GK,37,Germany,Bayern Munich,True,,germany,2526
+Haris Tabakovic,,"€ 36,346","€ 1,890,000","€ 470,000","Jul 18, 2025","Jun 30, 2026",1,"€ 1,890,000",,Starter,F,CF,31,Bosnia-Herzegovina,Monchengladbach,True,,germany,2526
+Budu Zivzivadze,,"€ 36,346","€ 1,890,000","€ 470,000","Jan 3, 2025","Jun 30, 2029",4,"€ 7,560,000",,Reserve,F,CF,31,Georgia,Heidenheim,True,,germany,2526
+Lukas Kübler,,"€ 36,346","€ 1,890,000","€ 470,000","Nov 26, 2024","Jun 30, 2026",1,"€ 1,890,000",,Reserve,D,RB,33,Germany,Freiburg,True,,germany,2526
+Christopher Trimmel,,"€ 36,346","€ 1,890,000","€ 470,000","Jan 20, 2026","Jun 30, 2027",2,"€ 3,780,000",,Reserve,D,RB,38,Austria,Union Berlin,True,,germany,2526
+Elye Wahi,,"€ 36,346","€ 1,890,000","€ 470,000","Jan 24, 2025","Jun 30, 2030",5,"€ 9,450,000",,Reserve,F,CF,22,France,Eintracht Frankfurt,False,,germany,2526
+Eric Smith,,"€ 36,346","€ 1,890,000","€ 470,000","Oct 21, 2024","Jun 30, 2026",1,"€ 1,890,000",,Starter,D,CB,29,Sweden,St Pauli,True,,germany,2526
+Arnaud Kalimuendo,,"€ 34,423","€ 1,790,000","€ 450,000","Jan 7, 2026","Jun 30, 2026",1,"€ 1,790,000",,Reserve,F,CF,24,France,Eintracht Frankfurt,True,,germany,2526
+Felix Agu,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 16, 2024","Jun 30, 2027",2,"€ 3,400,000","€ 9,000,000",Reserve,D,LB,26,Nigeria,Werder Bremen,True,,germany,2526
+Nikola Vasilj,,"€ 32,692","€ 1,700,000","€ 420,000","Jan 24, 2024","Jun 30, 2026",1,"€ 1,700,000",,Starter,K,GK,30,Bosnia-Herzegovina,St Pauli,True,,germany,2526
+Patrick Osterhage,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 1, 2024","Jun 30, 2026",1,"€ 1,700,000",,Starter,M,DM,26,Germany,Freiburg,True,,germany,2526
+Derrick Köhn,,"€ 32,692","€ 1,700,000","€ 420,000","Aug 19, 2025","Jun 30, 2029",4,"€ 6,800,000",,Starter,D,LB,27,Ghana,Union Berlin,True,,germany,2526
+Manolis Saliakas,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 9, 2024","Jun 30, 2026",1,"€ 1,700,000",,Starter,D,RB,29,Greece,St Pauli,True,,germany,2526
+Hauke Wahl,,"€ 32,692","€ 1,700,000","€ 420,000","Sep 22, 2025","Jun 30, 2026",1,"€ 1,700,000",,Starter,D,CB,31,Germany,St Pauli,True,,germany,2526
+Daniel Elfadli,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 27, 2025","Jun 30, 2028",3,"€ 5,100,000",,Reserve,D,CB,28,Libya,Hamburg,True,,germany,2526
+Wael Mohya,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 6, 2025","Jun 30, 2026",1,"€ 1,700,000",,Reserve,F,AM,17,Germany,Monchengladbach,True,,germany,2526
+Rocco Reitz,,"€ 32,692","€ 1,700,000","€ 420,000","Feb 1, 2024","Jun 30, 2028",3,"€ 5,100,000","€ 28,000,000",Reserve,M,CM,23,Germany,Monchengladbach,True,,germany,2526
+Janik Haberer,,"€ 32,692","€ 1,700,000","€ 420,000","Oct 24, 2024","Jun 30, 2027",2,"€ 3,400,000",,Starter,M,CM,31,Germany,Union Berlin,True,,germany,2526
+Nathan N'Goumou,,"€ 32,692","€ 1,700,000","€ 420,000","Aug 30, 2022","Jun 30, 2027",2,"€ 3,400,000",,Reserve,F,RW,25,Cameroon,Monchengladbach,True,,germany,2526
+Alexis Claude-Maurice,,"€ 32,692","€ 1,700,000","€ 420,000","Aug 30, 2024","Jun 30, 2027",2,"€ 3,400,000",,Starter,F,AM,27,France,Augsburg,True,,germany,2526
+Benedikt Gimber,,"€ 32,692","€ 1,700,000","€ 420,000","Sep 1, 2024","Jun 30, 2028",3,"€ 5,100,000",,Starter,D,CB,28,Germany,Heidenheim,True,,germany,2526
+Woo-yeong Jeong,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 1, 2025","Jun 30, 2026",1,"€ 1,700,000",,Starter,F,AM,26,South Korea,Union Berlin,True,,germany,2526
+Stefan Bell,,"€ 32,692","€ 1,700,000","€ 420,000","May 2, 2025","Jun 30, 2026",1,"€ 1,700,000",,Reserve,D,CB,34,Germany,Mainz,True,,germany,2526
+Niklas Dorsch,,"€ 32,692","€ 1,700,000","€ 420,000","Aug 30, 2024","Jun 30, 2028",3,"€ 5,100,000",,Reserve,M,DM,28,Germany,Heidenheim,True,,germany,2526
+Moritz Jenz,,"€ 32,692","€ 1,700,000","€ 420,000","Jul 1, 2023","Jun 30, 2027",2,"€ 3,400,000",,Starter,D,CB,26,Germany,Wolfsburg,True,,germany,2526
+András Schäfer,,"€ 32,692","€ 1,700,000","€ 420,000","May 1, 2024","Jun 30, 2027",2,"€ 3,400,000",,Starter,M,CM,26,Hungary,Union Berlin,True,,germany,2526
+Mathias Pereira Lage,,"€ 30,769","€ 1,600,000","€ 400,000","Jul 1, 2025","Jun 30, 2028",3,"€ 4,800,000",,Reserve,F,LW,29,Portugal,St Pauli,True,,germany,2526
+Martijn Kaars,,"€ 30,769","€ 1,600,000","€ 400,000","Aug 28, 2025","Jun 30, 2026",1,"€ 1,600,000",,Starter,F,CF,26,Netherlands,St Pauli,True,,germany,2526
+Ezechiel Banzuzi,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2025","Jun 30, 2030",5,"€ 7,550,000","€ 65,000,000",Reserve,M,CM,20,Netherlands,Leipzig,True,,germany,2526
+Ameen Al-Dakhil,,"€ 29,038","€ 1,510,000","€ 380,000","Aug 27, 2024","Jun 30, 2028",3,"€ 4,530,000",,Reserve,D,CB,23,Belgium,Stuttgart,True,,germany,2526
+Kevin Akpoguma,,"€ 29,038","€ 1,510,000","€ 380,000","Jun 21, 2023","Jun 30, 2026",1,"€ 1,510,000",,Reserve,D,CB,30,Nigeria,Hoffenheim,True,,germany,2526
+Adrian Beck,,"€ 29,038","€ 1,510,000","€ 380,000","Sep 1, 2024","Jun 30, 2028",3,"€ 4,530,000",,Reserve,F,AM,28,Germany,Heidenheim,True,,germany,2526
+Joe Scally,,"€ 29,038","€ 1,510,000","€ 380,000","Apr 20, 2023","Jun 30, 2027",2,"€ 3,020,000",,Starter,D,RB,23,United States,Monchengladbach,True,,germany,2526
+Jan Schöppner,,"€ 29,038","€ 1,510,000","€ 380,000","Jan 10, 2025","Jun 30, 2028",3,"€ 4,530,000",,Starter,M,CM,26,Germany,Heidenheim,True,,germany,2526
+Jonas Omlin,,"€ 29,038","€ 1,510,000","€ 380,000","Jan 19, 2023","Jun 30, 2027",2,"€ 3,020,000",,Reserve,K,GK,31,Switzerland,Monchengladbach,False,,germany,2526
+Daniel-Kofi Kyereh,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2022","Jun 30, 2026",1,"€ 1,510,000",,Reserve,F,AM,29,Ghana,Freiburg,True,,germany,2526
+Badredine Bouanani,,"€ 29,038","€ 1,510,000","€ 380,000","Aug 31, 2025","Jun 30, 2030",5,"€ 7,550,000",,Reserve,F,RW,21,Algeria,Stuttgart,True,,germany,2526
+Elvis Rexhbecaj,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 27, 2022","Jun 30, 2026",1,"€ 1,510,000",,Reserve,M,CM,28,Kosovo,Augsburg,True,,germany,2526
+Lukas Ullrich,,"€ 29,038","€ 1,510,000","€ 380,000","Jan 8, 2026","Jun 30, 2029",4,"€ 6,040,000",,Starter,D,LB,21,Germany,Monchengladbach,True,,germany,2526
+Andrej Ilic,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2025","Jun 30, 2027",2,"€ 3,020,000",,Starter,F,CF,25,Serbia,Union Berlin,True,,germany,2526
+Danny da Costa,,"€ 29,038","€ 1,510,000","€ 380,000","Apr 11, 2025","Jun 30, 2026",1,"€ 1,510,000",,Starter,D,CB,32,Germany,Mainz,True,,germany,2526
+Fabian Rieder,,"€ 29,038","€ 1,510,000","€ 380,000","Sep 1, 2025","Jun 30, 2030",5,"€ 7,550,000",,Reserve,F,AM,23,Switzerland,Augsburg,True,,germany,2526
+Linton Maina,,"€ 29,038","€ 1,510,000","€ 380,000","May 18, 2025","Jun 30, 2026",1,"€ 1,510,000",,Reserve,F,LW,26,Germany,Koln,True,,germany,2526
+Rayan Philippe,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 2, 2025","Jun 30, 2029",4,"€ 6,040,000",,Reserve,F,RW,25,France,Hamburg,True,,germany,2526
+Oliver Burke,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2025","Jun 30, 2029",4,"€ 6,040,000",,Reserve,F,CF,28,Scotland,Union Berlin,True,,germany,2526
+Max Rosenfelder,,"€ 29,038","€ 1,510,000","€ 380,000","Nov 28, 2024","Jun 30, 2026",1,"€ 1,510,000",,Reserve,D,CB,22,Germany,Freiburg,True,,germany,2526
+Rômulo,,"€ 29,038","€ 1,510,000","€ 380,000","Aug 15, 2025","Jun 30, 2030",5,"€ 7,550,000",,Starter,F,CF,23,Brazil,Leipzig,True,,germany,2526
+Justin Njinmah,,"€ 29,038","€ 1,510,000","€ 380,000","Jun 13, 2024","Jun 30, 2027",2,"€ 3,020,000",,Starter,F,RW,25,Germany,Werder Bremen,True,,germany,2526
+Albian Hajdari,,"€ 29,038","€ 1,510,000","€ 380,000","Aug 25, 2025","Jun 30, 2029",4,"€ 6,040,000",,Starter,D,CB,22,Kosovo,Hoffenheim,True,,germany,2526
+Diant Ramaj,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 28, 2025","Jun 30, 2026",1,"€ 1,510,000",,Starter,K,GK,24,Germany,Heidenheim,True,,germany,2526
+Marco Grüll,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2024","Jun 30, 2026",1,"€ 1,510,000",,Starter,F,LW,27,Austria,Werder Bremen,True,,germany,2526
+Jonas Omlin,,"€ 29,038","€ 1,510,000","€ 380,000","Jan 27, 2026","Jun 30, 2026",1,"€ 1,510,000",,Reserve,K,GK,32,Switzerland,Bayer Leverkusen,True,,germany,2526
+Brajan Gruda,,"€ 29,038","€ 1,510,000","€ 380,000","Feb 2, 2026","Jun 30, 2026",1,"€ 1,510,000",,Starter,F,RW,21,Germany,Leipzig,True,,germany,2526
+Han-Noah Massengo,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 15, 2025","Jun 30, 2030",5,"€ 7,550,000",,Starter,M,CM,24,France,Augsburg,True,,germany,2526
+Diogo Leite,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2023","Jun 30, 2026",1,"€ 1,510,000",,Reserve,D,CB,27,Portugal,Union Berlin,True,,germany,2526
+Philipp Sander,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2024","Jun 30, 2028",3,"€ 4,530,000",,Starter,M,CM,27,Germany,Monchengladbach,True,,germany,2526
+Albert Sambi Lokonga,,"€ 29,038","€ 1,510,000","€ 380,000","Sep 1, 2025","Jun 30, 2028",3,"€ 4,530,000",,Reserve,M,CM,26,Belgium,Hamburg,True,,germany,2526
+Florian Kainz,,"€ 29,038","€ 1,510,000","€ 380,000","Jun 13, 2024","Jun 30, 2026",1,"€ 1,510,000",,Reserve,F,AM,33,Austria,Koln,True,,germany,2526
+Samuel Essende,,"€ 29,038","€ 1,510,000","€ 380,000","Jul 1, 2024","Jun 30, 2028",3,"€ 4,530,000",,Reserve,F,CF,28,Democratic Republic of the Congo,Augsburg,True,,germany,2526
+David Nemeth,,"€ 27,308","€ 1,420,000","€ 350,000","May 21, 2025","Jun 30, 2026",1,"€ 1,420,000",,Reserve,D,CB,24,Austria,St Pauli,True,,germany,2526
+Paul Nebel,,"€ 27,308","€ 1,420,000","€ 350,000","Jun 11, 2024","Jun 30, 2027",2,"€ 2,840,000",,Reserve,F,AM,23,Germany,Mainz,True,,germany,2526
+Sacha Boey,,"€ 27,308","€ 1,420,000","€ 350,000","Jan 28, 2024","Jun 30, 2028",3,"€ 4,260,000",,Reserve,D,RB,25,France,Bayern Munich,False,,germany,2526
+Noah Katterbach,,"€ 27,308","€ 1,420,000","€ 350,000","Jan 31, 2024","Jun 30, 2027",2,"€ 2,840,000",,Reserve,D,LB,24,Germany,Hamburg,True,,germany,2526
+Tom Krauß,,"€ 27,308","€ 1,420,000","€ 350,000","Jul 5, 2025","Jun 30, 2026",1,"€ 1,420,000",,Starter,M,DM,24,Germany,Koln,True,,germany,2526
+Leon Avdullahu,,"€ 27,308","€ 1,420,000","€ 350,000","Jul 1, 2025","Jun 30, 2029",4,"€ 5,680,000",,Starter,M,DM,21,Kosovo,Hoffenheim,True,,germany,2526
+Konstantinos Koulierakis,,"€ 27,308","€ 1,420,000","€ 350,000","Aug 30, 2024","Jun 30, 2029",4,"€ 5,680,000",,Reserve,D,CB,22,Greece,Wolfsburg,True,,germany,2526
+Tim Skarke,,"€ 27,308","€ 1,420,000","€ 350,000","Sep 20, 2024","Jun 30, 2026",1,"€ 1,420,000",,Reserve,F,CF,29,Germany,Union Berlin,True,,germany,2526
+Marius Bülter,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 31, 2025","Jun 30, 2027",2,"€ 2,640,000",,Reserve,F,LW,32,Germany,Koln,True,,germany,2526
+Grischa Prömel,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 1, 2022","Jun 30, 2026",1,"€ 1,320,000",,Starter,M,CM,31,Germany,Hoffenheim,True,,germany,2526
+Robin Fellhauer,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 1, 2025","Jun 30, 2029",4,"€ 5,280,000",,Starter,M,DM,28,Germany,Augsburg,True,,germany,2526
+Romano Schmid,,"€ 25,385","€ 1,320,000","€ 330,000","Dec 13, 2023","Jun 30, 2027",2,"€ 2,640,000",,Starter,F,AM,26,Austria,Werder Bremen,True,,germany,2526
+Ibrahim Maza,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 1, 2025","Jun 30, 2030",5,"€ 6,600,000",,Starter,F,AM,20,Algeria,Bayer Leverkusen,True,,germany,2526
+Alexander Meyer,,"€ 25,385","€ 1,320,000","€ 330,000","Dec 3, 2025","Jun 30, 2027",2,"€ 2,640,000",,Reserve,K,GK,34,Germany,Borussia Dortmund,True,,germany,2526
+Can Uzun,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 2, 2024","Jun 30, 2029",4,"€ 5,280,000",,Reserve,F,AM,20,Turkey,Eintracht Frankfurt,True,,germany,2526
+Leart Paqarada,,"€ 25,385","€ 1,320,000","€ 330,000","Aug 28, 2025","Jun 30, 2027",2,"€ 2,640,000",,Reserve,D,LB,31,Kosovo,Heidenheim,True,,germany,2526
+Connor Metcalfe,,"€ 25,385","€ 1,320,000","€ 330,000","Aug 22, 2024","Jun 30, 2026",1,"€ 1,320,000",,Reserve,M,CM,26,Australia,St Pauli,True,,germany,2526
+Phillip Tietz,,"€ 25,385","€ 1,320,000","€ 330,000","Jan 2, 2026","Jun 30, 2028",3,"€ 3,960,000",,Starter,F,CF,28,Germany,Mainz,True,,germany,2526
+Kosta Nedeljkovic,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 14, 2025","Jun 30, 2026",1,"€ 1,320,000",,Reserve,D,RB,20,Serbia,Leipzig,True,,germany,2526
+Robin Hranac,,"€ 25,385","€ 1,320,000","€ 330,000","Aug 25, 2024","Jun 30, 2028",3,"€ 3,960,000",,Starter,D,CB,26,Czech Republic,Hoffenheim,True,,germany,2526
+Nicolai Remberg,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 1, 2025","Jun 30, 2028",3,"€ 3,960,000",,Starter,M,DM,25,Germany,Hamburg,True,,germany,2526
+Jonas Urbig,,"€ 25,385","€ 1,320,000","€ 330,000","Jan 27, 2025","Jun 30, 2029",4,"€ 5,280,000",,Starter,K,GK,22,Germany,Bayern Munich,True,,germany,2526
+Dimitrios Giannoulis,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 23, 2024","Jun 30, 2028",3,"€ 3,960,000",,Starter,D,LB,30,Greece,Augsburg,True,,germany,2526
+Assan Ouédraogo,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 1, 2024","Jun 30, 2029",4,"€ 5,280,000",,Reserve,M,CM,19,Germany,Leipzig,True,,germany,2526
+Mathias Honsak,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 1, 2024","Jun 30, 2027",2,"€ 2,640,000",,Reserve,F,LW,29,Austria,Heidenheim,True,,germany,2526
+Igor Matanovic,,"€ 25,385","€ 1,320,000","€ 330,000","Jul 9, 2025","Jun 30, 2026",1,"€ 1,320,000",,Starter,F,CF,22,Croatia,Freiburg,True,,germany,2526
+Lennard Maloney,,"€ 25,385","€ 1,320,000","€ 330,000","Jan 21, 2025","Jun 30, 2028",3,"€ 3,960,000",,Reserve,M,DM,26,United States,Mainz,True,,germany,2526
+Janis Blaswich,,"€ 23,654","€ 1,230,000","€ 310,000","Aug 11, 2025","Jun 30, 2027",2,"€ 2,460,000",,Starter,K,GK,34,Germany,Bayer Leverkusen,True,,germany,2526
+Kota Takai,,"€ 23,654","€ 1,230,000","€ 310,000","Jan 2, 2026","Jun 30, 2026",1,"€ 1,230,000",,Starter,D,CB,21,Japan,Monchengladbach,True,,germany,2526
+Amos Pieper,,"€ 23,654","€ 1,230,000","€ 310,000","Nov 28, 2025","Jun 30, 2026",1,"€ 1,230,000",,Reserve,D,CB,28,Germany,Werder Bremen,True,,germany,2526
+Bazoumana Touré,,"€ 23,654","€ 1,230,000","€ 310,000","Feb 1, 2025","Jun 30, 2029",4,"€ 4,920,000",,Starter,F,LW,19,Cote d'Ivoire,Hoffenheim,True,,germany,2526
+Jan Thielmann,,"€ 23,654","€ 1,230,000","€ 310,000","Aug 2, 2025","Jun 30, 2028",3,"€ 3,690,000",,Reserve,F,RW,23,Germany,Koln,True,,germany,2526
+Stanley Nsoki,,"€ 23,269","€ 1,210,000","€ 300,000","Jul 24, 2025","Jun 30, 2026",1,"€ 1,210,000",,Starter,D,CB,26,France,Union Berlin,True,,germany,2526
+Kevin Paredes,,"€ 21,731","€ 1,130,000","€ 280,000","Jan 28, 2022","Jun 30, 2026",1,"€ 1,130,000",,Reserve,M,LM,22,United States,Wolfsburg,True,,germany,2526
+Cyriaque Irié,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 1, 2025","Jun 30, 2026",1,"€ 1,130,000",,Reserve,F,RW,20,Burkina Faso,Freiburg,True,,germany,2526
+Kilian Fischer,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 1, 2022","Jun 30, 2027",2,"€ 2,260,000",,Reserve,D,RB,25,Germany,Wolfsburg,True,,germany,2526
+Nelson Weiper,,"€ 21,731","€ 1,130,000","€ 280,000","Aug 28, 2025","Jun 30, 2029",4,"€ 4,520,000",,Reserve,F,CF,20,Germany,Mainz,True,,germany,2526
+Rav van den Berg,,"€ 21,731","€ 1,130,000","€ 280,000","Aug 13, 2025","Jun 30, 2030",5,"€ 5,650,000",,Starter,D,CB,21,Netherlands,Koln,True,,germany,2526
+Ísak Jóhannesson,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 1, 2025","Jun 30, 2030",5,"€ 5,650,000",,Reserve,M,CM,22,Iceland,Koln,True,,germany,2526
+Fabian Bredlow,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 14, 2025","Jun 30, 2027",2,"€ 2,260,000",,Reserve,K,GK,30,Germany,Stuttgart,True,,germany,2526
+Danel Sinani,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 4, 2023","Jun 30, 2026",1,"€ 1,130,000",,Starter,F,AM,28,Luxembourg,St Pauli,True,,germany,2526
+Jens Castrop,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 1, 2025","Jun 30, 2029",4,"€ 4,520,000",,Reserve,M,CM,22,South Korea,Monchengladbach,True,,germany,2526
+Giovanni Reyna,,"€ 21,731","€ 1,130,000","€ 280,000","Aug 23, 2025","Jun 30, 2028",3,"€ 3,390,000",,Reserve,F,AM,23,United States,Monchengladbach,True,,germany,2526
+Arijon Ibrahimovic,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 1, 2025","Jun 30, 2026",1,"€ 1,130,000",,Starter,F,AM,20,Germany,Heidenheim,True,,germany,2526
+Yannik Engelhardt,,"€ 21,731","€ 1,130,000","€ 280,000","Sep 1, 2025","Jun 30, 2026",1,"€ 1,130,000",,Starter,M,DM,24,Germany,Monchengladbach,True,,germany,2526
+Jean-Mattéo Bahoya,,"€ 21,731","€ 1,130,000","€ 280,000","Jan 25, 2024","Jun 30, 2029",4,"€ 4,520,000",,Starter,F,LW,20,France,Eintracht Frankfurt,True,,germany,2526
+Noah Atubolu,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 13, 2023","Jun 30, 2027",2,"€ 2,260,000",,Starter,K,GK,23,Germany,Freiburg,True,,germany,2526
+Bakery Jatta,,"€ 21,731","€ 1,130,000","€ 280,000","Jan 14, 2024","Jun 30, 2029",4,"€ 4,520,000",,Starter,F,RW,27,The Gambia,Hamburg,True,,germany,2526
+Mads Pedersen,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 14, 2023","Jun 30, 2027",2,"€ 2,260,000",,Reserve,D,LB,29,Denmark,Augsburg,True,,germany,2526
+Albert Grønbaek,,"€ 21,731","€ 1,130,000","€ 280,000","Jan 31, 2026","Jun 30, 2026",1,"€ 1,130,000",,Reserve,F,AM,24,Denmark,Hamburg,True,,germany,2526
+Silas Katompa Mvumpa,,"€ 21,731","€ 1,130,000","€ 280,000","Jan 6, 2026","Jun 30, 2026",1,"€ 1,130,000",,Starter,F,RW,27,Democratic Republic of the Congo,Mainz,True,,germany,2526
+Jakub Kaminski,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 4, 2025","Jun 30, 2026",1,"€ 1,130,000",,Starter,F,LW,23,Poland,Koln,True,,germany,2526
+Dominique Heintz,,"€ 21,731","€ 1,130,000","€ 280,000","Mar 29, 2024","Jun 30, 2026",1,"€ 1,130,000",,Reserve,D,CB,32,Germany,Koln,True,,germany,2526
+Marvin Pieringer,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 3, 2023","Jun 30, 2027",2,"€ 2,260,000",,Starter,F,CF,26,Germany,Heidenheim,True,,germany,2526
+Tom Rothe,,"€ 21,731","€ 1,130,000","€ 280,000","Aug 7, 2024","Jun 30, 2026",1,"€ 1,130,000",,Reserve,D,LB,21,Germany,Union Berlin,True,,germany,2526
+Andrija Maksimovic,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 16, 2025","Jun 30, 2030",5,"€ 5,650,000",,Reserve,F,AM,18,Serbia,Leipzig,True,,germany,2526
+Maxim Leitsch,,"€ 21,731","€ 1,130,000","€ 280,000","Jul 1, 2022","Jun 30, 2026",1,"€ 1,130,000",,Reserve,D,CB,27,Germany,Mainz,True,,germany,2526
+Daniel Heuer Fernandes,,"€ 21,731","€ 1,130,000","€ 280,000","Dec 8, 2023","Jun 30, 2026",1,"€ 1,130,000",,Starter,K,GK,33,Portugal,Hamburg,True,,germany,2526
+James Sands,,"€ 20,000","€ 1,040,000","€ 260,000","May 20, 2025","Jun 30, 2026",1,"€ 1,040,000",,Reserve,M,DM,25,United States,St Pauli,True,,germany,2526
+Wouter Burger,,"€ 20,000","€ 1,040,000","€ 260,000","Jul 22, 2025","Jun 30, 2030",5,"€ 5,200,000",,Starter,M,DM,24,Netherlands,Hoffenheim,True,,germany,2526
+Dennis Geiger,,"€ 20,000","€ 1,040,000","€ 260,000","Apr 20, 2023","Jun 30, 2027",2,"€ 2,080,000",,Reserve,M,CM,27,Germany,Hoffenheim,False,,germany,2526
+Sebastian Sebulonsen,,"€ 20,000","€ 1,040,000","€ 260,000","Jul 18, 2025","Jun 30, 2028",3,"€ 3,120,000",,Starter,D,RB,26,Norway,Koln,True,,germany,2526
+William Bøving,,"€ 20,000","€ 1,040,000","€ 260,000","Sep 1, 2025","Jun 30, 2029",4,"€ 4,160,000",,Reserve,F,CF,22,Denmark,Mainz,True,,germany,2526
+Joël Schmied,,"€ 20,000","€ 1,040,000","€ 260,000","Jan 13, 2025","Jun 30, 2029",4,"€ 4,160,000",,Starter,D,CB,27,Switzerland,Koln,True,,germany,2526
+Derry Scherhant,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2025","Jun 30, 2026",1,"€ 940,000",,Reserve,F,LW,23,Germany,Freiburg,True,,germany,2526
+Ansgar Knauff,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2023","Jun 30, 2028",3,"€ 2,820,000",,Reserve,F,RW,24,Germany,Eintracht Frankfurt,True,,germany,2526
+Leopold Querfeld,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2024","Jun 30, 2026",1,"€ 940,000",,Starter,D,CB,22,Austria,Union Berlin,True,,germany,2526
+Denis Huseinbasic,,"€ 18,077","€ 940,000","€ 240,000","Jun 30, 2024","Jun 30, 2027",2,"€ 1,880,000",,Reserve,M,CM,24,Bosnia-Herzegovina,Koln,True,,germany,2526
+Anthony Jung,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2025","Jun 30, 2026",1,"€ 940,000",,Reserve,D,CB,34,Germany,Freiburg,True,,germany,2526
+Timothy Chandler,,"€ 18,077","€ 940,000","€ 240,000","May 8, 2025","Jun 30, 2026",1,"€ 940,000",,Reserve,D,RB,35,United States,Eintracht Frankfurt,True,,germany,2526
+Nicolas Höfler,,"€ 18,077","€ 940,000","€ 240,000","Nov 18, 2024","Jun 30, 2026",1,"€ 940,000",,Reserve,M,DM,35,Germany,Freiburg,True,,germany,2526
+Tim Lemperle,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2025","Jun 30, 2029",4,"€ 3,760,000",,Reserve,F,CF,24,Germany,Hoffenheim,True,,germany,2526
+Muhammed Damar,,"€ 18,077","€ 940,000","€ 240,000","May 21, 2025","Jun 30, 2029",4,"€ 3,760,000",,Reserve,F,AM,21,Germany,Hoffenheim,True,,germany,2526
+Finn Jeltsch,,"€ 18,077","€ 940,000","€ 240,000","Feb 3, 2025","Jun 30, 2030",5,"€ 4,700,000",,Reserve,D,CB,19,Germany,Stuttgart,True,,germany,2526
+Nediljko Labrovic,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2024","Jun 30, 2029",4,"€ 3,760,000",,Reserve,K,GK,26,Croatia,Augsburg,True,,germany,2526
+Nnamdi Collins,,"€ 18,077","€ 940,000","€ 240,000","Dec 16, 2024","Jun 30, 2030",5,"€ 4,700,000",,Starter,D,CB,22,Germany,Eintracht Frankfurt,True,,germany,2526
+Jonas Adjetey,,"€ 18,077","€ 940,000","€ 240,000","Feb 2, 2026","Jun 30, 2030",5,"€ 4,700,000",,Reserve,D,CB,22,Ghana,Wolfsburg,True,,germany,2526
+Saël Kumbedi,,"€ 18,077","€ 940,000","€ 240,000","Jan 1, 2026","Jun 30, 2029",4,"€ 3,760,000",,Starter,D,RB,20,France,Wolfsburg,True,,germany,2526
+Pascal Stenzel,,"€ 18,077","€ 940,000","€ 240,000","Jan 17, 2024","Jun 30, 2026",1,"€ 940,000",,Reserve,D,RB,29,Germany,Stuttgart,True,,germany,2526
+Aljoscha Kemlein,,"€ 18,077","€ 940,000","€ 240,000","May 21, 2025","Jun 30, 2026",1,"€ 940,000",,Starter,M,DM,21,Germany,Union Berlin,True,,germany,2526
+Arthur,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2023","Jun 30, 2028",3,"€ 2,820,000",,Starter,D,RB,22,Brazil,Bayer Leverkusen,True,,germany,2526
+Tim Siersleben,,"€ 18,077","€ 940,000","€ 240,000","Sep 13, 2025","Jun 30, 2028",3,"€ 2,820,000",,Starter,D,CB,25,Germany,Heidenheim,True,,germany,2526
+Ransford-Yeboah Königsdörffer,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2022","Jun 30, 2026",1,"€ 940,000",,Starter,F,CF,24,Ghana,Hamburg,True,,germany,2526
+Olivier Deman,,"€ 18,077","€ 940,000","€ 240,000","Aug 31, 2023","Jun 30, 2028",3,"€ 2,820,000",,Reserve,D,LB,25,Belgium,Werder Bremen,True,,germany,2526
+Johan Manzambi,,"€ 18,077","€ 940,000","€ 240,000","Jun 24, 2025","Jun 30, 2030",5,"€ 4,700,000",,Reserve,M,CM,20,Switzerland,Freiburg,True,,germany,2526
+Ernest Poku,,"€ 18,077","€ 940,000","€ 240,000","Aug 12, 2025","Jun 30, 2030",5,"€ 4,700,000",,Reserve,F,RW,22,Netherlands,Bayer Leverkusen,True,,germany,2526
+Elias Saad,,"€ 18,077","€ 940,000","€ 240,000","Jul 1, 2025","Jun 30, 2029",4,"€ 3,760,000",,Reserve,F,LW,26,Tunisia,Augsburg,False,,germany,2526
+Livan Burcu,,"€ 16,346","€ 850,000","€ 210,000","Jul 8, 2025","Jun 30, 2026",1,"€ 850,000",,Reserve,F,LW,21,Turkey,Union Berlin,True,,germany,2526
+Arnaud Nordin,,"€ 16,346","€ 850,000","€ 210,000","Jan 28, 2025","Jun 30, 2028",3,"€ 2,550,000",,Reserve,F,RW,27,France,Mainz,False,,germany,2526
+Kristoffer Lund,,"€ 16,346","€ 850,000","€ 210,000","Aug 5, 2025","Jun 30, 2026",1,"€ 850,000",,Starter,D,LB,23,United States,Koln,True,,germany,2526
+Aaron Zehnter,,"€ 16,346","€ 850,000","€ 210,000","Jul 1, 2025","Jun 30, 2030",5,"€ 4,250,000",,Reserve,D,LB,21,Germany,Wolfsburg,True,,germany,2526
+Florian Müller,,"€ 16,346","€ 850,000","€ 210,000","Jul 1, 2023","Jun 30, 2026",1,"€ 850,000",,Reserve,K,GK,28,Germany,Freiburg,True,,germany,2526
+Kaishu Sano,,"€ 16,346","€ 850,000","€ 210,000","Jul 3, 2024","Jun 30, 2028",3,"€ 2,550,000",,Starter,M,DM,25,Japan,Mainz,True,,germany,2526
+Luca Jaquez,,"€ 16,346","€ 850,000","€ 210,000","Feb 3, 2025","Jun 30, 2029",4,"€ 3,400,000",,Reserve,D,CB,22,Switzerland,Stuttgart,True,,germany,2526
+Aurèle Amenda,,"€ 16,346","€ 850,000","€ 210,000","Jan 24, 2024","Jun 30, 2029",4,"€ 3,400,000",,Starter,D,CB,22,Switzerland,Eintracht Frankfurt,True,,germany,2526
+Adam Daghim,,"€ 16,346","€ 850,000","€ 210,000","Sep 1, 2025","Jun 30, 2026",1,"€ 850,000",,Starter,F,RW,20,Denmark,Wolfsburg,True,,germany,2526
+Mathias Rasmussen,,"€ 16,346","€ 850,000","€ 210,000","Jan 24, 2026","Jun 30, 2029",4,"€ 3,400,000",,Reserve,M,CM,28,Norway,St Pauli,True,,germany,2526
+Giorgi Gocholeishvili,,"€ 15,192","€ 790,000","€ 200,000","Aug 7, 2025","Jun 30, 2026",1,"€ 790,000",,Reserve,D,RB,24,Georgia,Hamburg,True,,germany,2526
+Daniel Peretz,,"€ 14,423","€ 750,000","€ 190,000","Jul 21, 2025","Jun 30, 2026",1,"€ 750,000",,Reserve,K,GK,25,Israel,Hamburg,False,,germany,2526
+Chema Andrés,,"€ 14,423","€ 750,000","€ 190,000","Jul 27, 2025","Jun 30, 2030",5,"€ 3,750,000",,Starter,M,DM,20,Spain,Stuttgart,True,,germany,2526
+Marius Müller,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2024","Jun 30, 2027",2,"€ 1,500,000",,Reserve,K,GK,32,Germany,Wolfsburg,True,,germany,2526
+Kento Shiogai,,"€ 14,423","€ 750,000","€ 190,000","Jan 20, 2026","Jun 30, 2030",5,"€ 3,750,000",,Reserve,F,CF,20,Japan,Wolfsburg,True,,germany,2526
+Jeanuël Belocian,,"€ 14,423","€ 750,000","€ 190,000","Feb 2, 2026","Jun 30, 2026",1,"€ 750,000",,Starter,D,CB,20,France,Wolfsburg,True,,germany,2526
+Max Finkgräfe,,"€ 14,423","€ 750,000","€ 190,000","Jul 3, 2025","Jun 30, 2030",5,"€ 3,750,000",,Reserve,D,LB,21,Germany,Leipzig,True,,germany,2526
+Yan Diomande,,"€ 14,423","€ 750,000","€ 190,000","Jul 16, 2025","Jun 30, 2030",5,"€ 3,750,000",,Starter,F,LW,19,Cote d'Ivoire,Leipzig,True,,germany,2526
+Sirlord Conteh,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2024","Jun 30, 2027",2,"€ 1,500,000",,Reserve,F,RW,29,Germany,Heidenheim,True,,germany,2526
+Armindo Sieb,,"€ 14,423","€ 750,000","€ 190,000","Jul 2, 2024","Jun 30, 2026",1,"€ 750,000",,Reserve,F,SS,22,Germany,Mainz,True,,germany,2526
+Jeanuël Belocian,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2024","Jun 30, 2029",4,"€ 3,000,000",,Reserve,D,CB,20,France,Bayer Leverkusen,False,,germany,2526
+Niklas Lomb,,"€ 14,423","€ 750,000","€ 190,000","Apr 8, 2024","Jun 30, 2027",2,"€ 1,500,000",,Reserve,K,GK,32,Germany,Bayer Leverkusen,True,,germany,2526
+Mikkel Kaufmann,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2024","Jun 30, 2028",3,"€ 2,250,000",,Reserve,F,CF,25,Denmark,Heidenheim,True,,germany,2526
+Arijon Ibrahimovic,,"€ 14,423","€ 750,000","€ 190,000","Jul 2, 2024","Jun 30, 2027",2,"€ 1,500,000",,Reserve,F,AM,19,Germany,Bayern Munich,False,,germany,2526
+Marnon Busch,,"€ 14,423","€ 750,000","€ 190,000","Dec 12, 2022","Jun 30, 2027",2,"€ 1,500,000",,Reserve,D,RB,31,Germany,Heidenheim,True,,germany,2526
+Niklas Tauer,,"€ 14,423","€ 750,000","€ 190,000","Jun 21, 2022","Jun 30, 2026",1,"€ 750,000",,Reserve,M,DM,24,Germany,Mainz,True,,germany,2526
+Anton Kade,,"€ 14,423","€ 750,000","€ 190,000","Aug 25, 2025","Jun 30, 2029",4,"€ 3,000,000",,Reserve,M,RM,22,Germany,Augsburg,True,,germany,2526
+Almugera Kabar,,"€ 14,423","€ 750,000","€ 190,000","Feb 20, 2025","Jun 30, 2028",3,"€ 2,250,000",,Reserve,D,LB,19,Germany,Borussia Dortmund,True,,germany,2526
+Sheraldo Becker,,"€ 14,423","€ 750,000","€ 190,000","Feb 2, 2026","Jun 30, 2026",1,"€ 750,000",,Reserve,F,LW,30,Suriname,Mainz,True,,germany,2526
+Sota Kawasaki,,"€ 14,423","€ 750,000","€ 190,000","Jul 9, 2025","Jun 30, 2026",1,"€ 750,000",,Reserve,M,DM,24,Japan,Mainz,True,,germany,2526
+Stefan Posch,,"€ 14,423","€ 750,000","€ 190,000","Jan 22, 2026","Jun 30, 2026",1,"€ 750,000",,Starter,D,CB,28,Austria,Mainz,True,,germany,2526
+Ilyas Ansah,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2025","Jun 30, 2026",1,"€ 750,000",,Reserve,F,CF,21,Germany,Union Berlin,True,,germany,2526
+Luca Kilian,,"€ 14,423","€ 750,000","€ 190,000","Dec 23, 2024","Jun 30, 2026",1,"€ 750,000",,Reserve,D,CB,26,Germany,Koln,True,,germany,2526
+Ramon Hendriks,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2024","Jun 30, 2028",3,"€ 2,250,000",,Starter,D,CB,24,Netherlands,Stuttgart,True,,germany,2526
+Pavao Pervan,,"€ 14,423","€ 750,000","€ 190,000","Apr 16, 2025","Jun 30, 2026",1,"€ 750,000",,Reserve,K,GK,38,Austria,Wolfsburg,True,,germany,2526
+Damion Downs,,"€ 14,423","€ 750,000","€ 190,000","Jan 7, 2026","Jun 30, 2026",1,"€ 750,000",,Reserve,F,CF,21,United States,Hamburg,True,,germany,2526
+Jeremy Arévalo,,"€ 14,423","€ 750,000","€ 190,000","Jan 2, 2026","Jun 30, 2031",6,"€ 4,500,000",,Reserve,F,CF,20,Ecuador,Stuttgart,True,,germany,2526
+Joel Chima Fujita,,"€ 14,423","€ 750,000","€ 190,000","Jul 1, 2025","Jun 30, 2026",1,"€ 750,000",,Starter,M,CM,23,Japan,St Pauli,True,,germany,2526
+Younes Ebnoutalib,,"€ 14,423","€ 750,000","€ 190,000","Jan 1, 2026","Jun 30, 2031",6,"€ 4,500,000",,Reserve,F,CF,22,Germany,Eintracht Frankfurt,True,,germany,2526
+Said El Mala,,"€ 13,846","€ 720,000","€ 180,000","Jul 19, 2025","Jun 30, 2030",5,"€ 3,600,000",,Starter,F,LW,19,Germany,Koln,True,,germany,2526
+Andréas Hountondji,,"€ 12,692","€ 660,000","€ 170,000","Jul 8, 2025","Jun 30, 2026",1,"€ 660,000",,Reserve,F,CF,23,Benin,St Pauli,True,,germany,2526
+Arkadiusz Pyrka,,"€ 12,692","€ 660,000","€ 170,000","Jul 1, 2025","Jun 30, 2026",1,"€ 660,000",,Starter,D,RB,23,Poland,St Pauli,True,,germany,2526
+Louis Oppie,,"€ 12,692","€ 660,000","€ 170,000","Jul 11, 2025","Jun 30, 2026",1,"€ 660,000",,Reserve,D,LB,23,Germany,St Pauli,True,,germany,2526
+Warmed Omari,,"€ 12,692","€ 660,000","€ 170,000","Feb 2, 2026","Jun 30, 2030",5,"€ 3,300,000",,Starter,D,CB,25,Comoros,Hamburg,True,,germany,2526
+Elias Baum,,"€ 12,692","€ 660,000","€ 170,000","Oct 26, 2023","Jun 30, 2028",3,"€ 1,980,000",,Reserve,D,RB,20,Germany,Eintracht Frankfurt,True,,germany,2526
+Christian Kofane,,"€ 12,692","€ 660,000","€ 170,000","Jul 11, 2025","Jun 30, 2029",4,"€ 2,640,000",,Starter,F,CF,19,Cameroon,Bayer Leverkusen,True,,germany,2526
+Mert Kömür,,"€ 12,692","€ 660,000","€ 170,000","Jul 4, 2025","Jun 30, 2029",4,"€ 2,640,000",,Starter,F,AM,20,Germany,Augsburg,True,,germany,2526
+Cenk Özkacar,,"€ 12,692","€ 660,000","€ 170,000","Aug 9, 2025","Jun 30, 2026",1,"€ 660,000",,Starter,D,CB,25,Turkey,Koln,True,,germany,2526
+Julián Malatini,,"€ 12,692","€ 660,000","€ 170,000","Jan 16, 2024","Jun 30, 2026",1,"€ 660,000",,Reserve,D,CB,24,Argentina,Werder Bremen,True,,germany,2526
+Noahkai Banks,,"€ 12,692","€ 660,000","€ 170,000","Jun 23, 2025","Jun 30, 2029",4,"€ 2,640,000",,Starter,D,CB,19,United States,Augsburg,True,,germany,2526
+Leopold Zingerle,,"€ 12,692","€ 660,000","€ 170,000","Feb 9, 2026","Jun 30, 2028",3,"€ 1,980,000",,Reserve,K,GK,31,Germany,Leipzig,True,,germany,2526
+Eren Dinkçi,,"€ 12,692","€ 660,000","€ 170,000","Jul 1, 2024","Jun 30, 2026",1,"€ 660,000",,Reserve,F,RW,24,Turkey,Freiburg,False,,germany,2526
+Ron-Robert Zieler,,"€ 12,692","€ 660,000","€ 170,000","Jul 7, 2025","Jun 30, 2027",2,"€ 1,320,000",,Reserve,K,GK,36,Germany,Koln,True,,germany,2526
+Lucas Höler,,"€ 12,692","€ 660,000","€ 170,000","Mar 27, 2023","Jun 30, 2026",1,"€ 660,000",,Reserve,F,CF,31,Germany,Freiburg,True,,germany,2526
+Tomoya Ando,,"€ 12,692","€ 660,000","€ 170,000","Jan 1, 2026","Jun 30, 2026",1,"€ 660,000",,Starter,D,CB,27,Japan,St Pauli,True,,germany,2526
+Karol Mets,,"€ 12,692","€ 660,000","€ 170,000","Jul 1, 2023","Jun 30, 2026",1,"€ 660,000",,Starter,D,CB,32,Estonia,St Pauli,True,,germany,2526
+Bence Dárdai,,"€ 12,692","€ 660,000","€ 170,000","Jul 1, 2024","Jun 30, 2029",4,"€ 2,640,000",,Reserve,F,AM,20,Hungary,Wolfsburg,True,,germany,2526
+Fabio Chiarodia,,"€ 12,692","€ 660,000","€ 170,000","Jul 1, 2023","Jun 30, 2027",2,"€ 1,320,000",,Reserve,D,CB,20,Italy,Monchengladbach,True,,germany,2526
+Jonas Föhrenbach,,"€ 12,692","€ 660,000","€ 170,000","Dec 12, 2022","Jun 30, 2027",2,"€ 1,320,000",,Reserve,D,LB,30,Germany,Heidenheim,True,,germany,2526
+Eren Dinkçi,,"€ 12,692","€ 660,000","€ 170,000","Jan 30, 2026","Jun 30, 2026",1,"€ 660,000",,Starter,F,RW,24,Turkey,Heidenheim,True,,germany,2526
+Nikolas Nartey,,"€ 12,692","€ 660,000","€ 170,000","Jun 26, 2025","Jun 30, 2026",1,"€ 660,000",,Reserve,M,CM,25,Denmark,Stuttgart,True,,germany,2526
+Dzenan Pejcinovic,,"€ 12,692","€ 660,000","€ 170,000","Jun 27, 2024","Jun 30, 2029",4,"€ 2,640,000",,Reserve,F,CF,20,Germany,Wolfsburg,True,,germany,2526
+Christian Conteh,,"€ 12,692","€ 660,000","€ 170,000","Jan 12, 2026","Jun 30, 2029",4,"€ 2,640,000",,Starter,F,RW,26,Germany,Heidenheim,True,,germany,2526
+Karl Hein,,"€ 11,923","€ 620,000","€ 160,000","Aug 22, 2025","Jun 30, 2026",1,"€ 620,000",,Reserve,K,GK,23,Estonia,Werder Bremen,True,,germany,2526
+Isaac Schmidt,,"€ 11,538","€ 600,000","€ 150,000","Aug 28, 2025","Jun 30, 2026",1,"€ 600,000",,Starter,D,LB,26,Switzerland,Werder Bremen,True,,germany,2526
+Luca Philipp,,"€ 10,962","€ 570,000","€ 140,000","Jun 2, 2025","Jun 30, 2026",1,"€ 570,000",,Reserve,K,GK,25,Germany,Hoffenheim,True,,germany,2526
+Omar Traoré,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2023","Jun 30, 2026",1,"€ 570,000",,Reserve,D,RB,28,Germany,Heidenheim,True,,germany,2526
+Keke Topp,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2024","Jun 30, 2028",3,"€ 1,710,000",,Reserve,F,CF,21,Germany,Werder Bremen,True,,germany,2526
+Philip Otele,,"€ 10,962","€ 570,000","€ 140,000","Feb 2, 2026","Jun 30, 2026",1,"€ 570,000",,Starter,F,LW,26,Nigeria,Hamburg,True,,germany,2526
+Otto Stange,,"€ 10,962","€ 570,000","€ 140,000","Feb 2, 2026","Jun 30, 2028",3,"€ 1,710,000",,Reserve,F,CF,18,Germany,Hamburg,True,,germany,2526
+Tidiam Gomis,,"€ 10,962","€ 570,000","€ 140,000","Feb 3, 2025","Jun 30, 2029",4,"€ 2,280,000",,Reserve,F,LW,19,France,Leipzig,True,,germany,2526
+Kauã Santos,,"€ 10,962","€ 570,000","€ 140,000","Oct 9, 2024","Jun 30, 2030",5,"€ 2,850,000",,Starter,K,GK,22,Brazil,Eintracht Frankfurt,True,,germany,2526
+Luka Vuskovic,,"€ 10,962","€ 570,000","€ 140,000","Aug 29, 2025","Jun 30, 2026",1,"€ 570,000",,Reserve,D,CB,18,Croatia,Hamburg,True,,germany,2526
+Yannik Keitel,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2024","Jun 30, 2028",3,"€ 1,710,000",,Reserve,M,DM,25,Germany,Stuttgart,False,,germany,2526
+Jannik Huth,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2024","Jun 30, 2026",1,"€ 570,000",,Reserve,K,GK,31,Germany,Freiburg,True,,germany,2526
+Yannik Keitel,,"€ 10,962","€ 570,000","€ 140,000","Jan 3, 2026","Jun 30, 2026",1,"€ 570,000",,Reserve,M,DM,25,Germany,Augsburg,True,,germany,2526
+Arthur Chaves,,"€ 10,962","€ 570,000","€ 140,000","Jan 22, 2026","Jun 30, 2026",1,"€ 570,000",,Reserve,D,CB,25,Brazil,Augsburg,True,,germany,2526
+Arthur Chaves,,"€ 10,962","€ 570,000","€ 140,000","Jul 17, 2025","Jun 30, 2029",4,"€ 2,280,000",,Reserve,D,CB,24,Brazil,Hoffenheim,False,,germany,2526
+Junior Adamu,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2023","Jun 30, 2026",1,"€ 570,000",,Reserve,F,CF,24,Austria,Freiburg,False,,germany,2526
+Lazar Jovanovic,,"€ 10,962","€ 570,000","€ 140,000","Jul 8, 2025","Jun 30, 2029",4,"€ 2,280,000",,Reserve,F,RW,19,Serbia,Stuttgart,True,,germany,2526
+Eric Martel,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2022","Jun 30, 2026",1,"€ 570,000",,Starter,M,DM,23,Germany,Koln,True,,germany,2526
+Hugo Bolin,,"€ 10,962","€ 570,000","€ 140,000","Feb 2, 2026","Jun 30, 2026",1,"€ 570,000",,Starter,M,LM,22,Sweden,Monchengladbach,True,,germany,2526
+Michael Gregoritsch,,"€ 10,962","€ 570,000","€ 140,000","Jan 7, 2026","Jun 30, 2026",1,"€ 570,000",,Reserve,F,CF,31,Austria,Augsburg,True,,germany,2526
+Justin Diehl,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2024","Jun 30, 2029",4,"€ 2,280,000",,Reserve,F,LW,21,Germany,Stuttgart,True,,germany,2526
+Taichi Hara,,"€ 10,962","€ 570,000","€ 140,000","Jan 31, 2026","Jun 30, 2026",1,"€ 570,000",,Reserve,F,CF,26,Japan,St Pauli,True,,germany,2526
+Patrick Drewes,,"€ 10,962","€ 570,000","€ 140,000","Jul 1, 2025","Jun 30, 2027",2,"€ 1,140,000",,Reserve,K,GK,33,Germany,Borussia Dortmund,True,,germany,2526
+Marin Ljubicic,,"€ 10,962","€ 570,000","€ 140,000","Feb 2, 2025","Jun 30, 2026",1,"€ 570,000",,Reserve,F,CF,23,Croatia,Union Berlin,False,,germany,2526
+Kevin Müller,,"€ 10,962","€ 570,000","€ 140,000","Jan 23, 2025","Jun 30, 2027",2,"€ 1,140,000",,Reserve,K,GK,34,Germany,Heidenheim,False,,germany,2526
+Leonidas Stergiou,,"€ 10,962","€ 570,000","€ 140,000","Jan 15, 2026","Jun 30, 2026",1,"€ 570,000",,Reserve,D,RB,23,Switzerland,Heidenheim,True,,germany,2526
+Sander Tangvik,,"€ 9,038","€ 470,000","€ 120,000","Jan 22, 2026","Jun 30, 2030",5,"€ 2,350,000",,Reserve,K,GK,23,Norway,Hamburg,True,,germany,2526
+Jusuf Gazibegovic,,"€ 9,038","€ 470,000","€ 120,000","Jan 1, 2025","Jun 30, 2028",3,"€ 1,410,000",,Reserve,D,RB,25,Bosnia-Herzegovina,Koln,False,,germany,2526
+Max Moerstedt,,"€ 9,038","€ 470,000","€ 120,000","Jan 8, 2026","Jun 30, 2030",5,"€ 2,350,000",,Reserve,F,CF,20,Germany,Hoffenheim,True,,germany,2526
+Cole Campbell,,"€ 9,038","€ 470,000","€ 120,000","Jan 5, 2026","Jun 30, 2026",1,"€ 470,000",,Reserve,F,RW,19,United States,Hoffenheim,True,,germany,2526
+Fabio Moreno Fell,,"€ 9,038","€ 470,000","€ 120,000","Dec 15, 2025","Jun 30, 2028",3,"€ 1,410,000",,Reserve,F,CF,25,Spain,Mainz,True,,germany,2526
+Nikolas Veratschnig,,"€ 9,038","€ 470,000","€ 120,000","Jul 1, 2024","Jun 30, 2028",3,"€ 1,410,000",,Reserve,D,RB,23,Austria,Mainz,True,,germany,2526
+Luca Kerber,,"€ 9,038","€ 470,000","€ 120,000","Jul 1, 2024","Jun 30, 2027",2,"€ 940,000",,Reserve,M,CM,23,Germany,Heidenheim,True,,germany,2526
+William Mikelbrencis,,"€ 9,038","€ 470,000","€ 120,000","Aug 31, 2022","Jun 30, 2026",1,"€ 470,000",,Reserve,D,RB,21,France,Hamburg,True,,germany,2526
+Tiago Pereira Cardoso,,"€ 9,038","€ 470,000","€ 120,000","Sep 30, 2024","Jun 30, 2026",1,"€ 470,000",,Reserve,K,GK,19,Luxembourg,Monchengladbach,True,,germany,2526
+Tobias Sippel,,"€ 9,038","€ 470,000","€ 120,000","Jul 6, 2025","Jun 30, 2026",1,"€ 470,000",,Reserve,K,GK,37,Germany,Monchengladbach,True,,germany,2526
+Adam Dzwigala,,"€ 9,038","€ 470,000","€ 120,000","Mar 26, 2024","Jun 30, 2026",1,"€ 470,000",,Reserve,D,CB,30,Poland,St Pauli,True,,germany,2526
+Fábio Baldé,,"€ 9,038","€ 470,000","€ 120,000","Sep 10, 2024","Jun 30, 2029",4,"€ 1,880,000",,Reserve,F,LW,20,Portugal,Hamburg,True,,germany,2526
+Lars Ritzka,,"€ 9,038","€ 470,000","€ 120,000","Nov 15, 2023","Jun 30, 2026",1,"€ 470,000",,Reserve,D,LB,27,Germany,St Pauli,True,,germany,2526
+Alexander Røssing-Lelesiit,,"€ 9,038","€ 470,000","€ 120,000","Dec 24, 2025","Jun 30, 2030",5,"€ 2,350,000",,Reserve,F,LW,19,Norway,Hamburg,True,,germany,2526
+Oscar Højlund,,"€ 9,038","€ 470,000","€ 120,000","Jul 10, 2024","Jun 30, 2029",4,"€ 1,880,000",,Starter,M,CM,21,Denmark,Eintracht Frankfurt,True,,germany,2526
+Noah Darvich,,"€ 9,038","€ 470,000","€ 120,000","Jul 1, 2025","Jun 30, 2029",4,"€ 1,880,000",,Reserve,F,RW,19,Germany,Stuttgart,True,,germany,2526
+Keita Kosugi,,"€ 9,038","€ 470,000","€ 120,000","Jan 1, 2026","Jun 30, 2031",6,"€ 2,820,000",,Reserve,D,LB,19,Japan,Eintracht Frankfurt,True,,germany,2526
+Jessic Ngankam,,"€ 9,038","€ 470,000","€ 120,000","Jul 14, 2023","Jun 30, 2028",3,"€ 1,410,000",,Reserve,F,CF,25,Germany,Eintracht Frankfurt,False,,germany,2526
+Jens Grahl,,"€ 9,038","€ 470,000","€ 120,000","Feb 2, 2023","Jun 30, 2026",1,"€ 470,000",,Reserve,K,GK,37,Germany,Eintracht Frankfurt,True,,germany,2526
+Matheo Raab,,"€ 9,038","€ 470,000","€ 120,000","Jul 11, 2025","Jun 30, 2026",1,"€ 470,000",,Reserve,K,GK,27,Germany,Union Berlin,True,,germany,2526
+Julien Duranville,,"€ 9,038","€ 470,000","€ 120,000","Jan 27, 2023","Jun 30, 2028",3,"€ 1,410,000",,Reserve,F,LW,19,Belgium,Borussia Dortmund,False,,germany,2526
+Jovan Milosevic,,"€ 9,038","€ 470,000","€ 120,000","Jan 11, 2026","Jun 30, 2026",1,"€ 470,000",,Reserve,F,CF,20,Serbia,Werder Bremen,True,,germany,2526
+Tim Oermann,,"€ 9,038","€ 470,000","€ 120,000","Jul 1, 2025","Jun 30, 2029",4,"€ 1,880,000",,Reserve,D,CB,22,Germany,Bayer Leverkusen,True,,germany,2526
+Patrice Covic,,"€ 9,038","€ 470,000","€ 120,000","Jul 8, 2025","Jun 30, 2026",1,"€ 470,000",,Reserve,F,AM,18,Croatia,Werder Bremen,True,,germany,2526
+Claudio Echeverri,,"€ 9,038","€ 470,000","€ 120,000","Aug 21, 2025","Jun 30, 2026",1,"€ 470,000",,Reserve,F,AM,19,Argentina,Bayer Leverkusen,False,,germany,2526
+Skelly Alvero,,"€ 9,038","€ 470,000","€ 120,000","Jul 1, 2024","Jun 30, 2028",3,"€ 1,410,000",,Reserve,M,DM,23,France,Werder Bremen,False,,germany,2526
+Uchenna Ogundu,,"€ 9,038","€ 470,000","€ 120,000","Feb 2, 2026","Jun 30, 2031",6,"€ 2,820,000",,Reserve,F,CF,19,Nigeria,Augsburg,True,,germany,2526
+Jenson Seelt,,"€ 9,038","€ 470,000","€ 120,000","Sep 1, 2025","Jun 30, 2026",1,"€ 470,000",,Reserve,D,CB,22,Netherlands,Wolfsburg,True,,germany,2526
+Rodrigo Ribeiro,,"€ 9,038","€ 470,000","€ 120,000","Jan 15, 2026","Jun 30, 2026",1,"€ 470,000",,Starter,F,CF,20,Portugal,Augsburg,True,,germany,2526
+Ismaël Gharbi,,"€ 9,038","€ 470,000","€ 120,000","Sep 1, 2025","Jun 30, 2026",1,"€ 470,000",,Reserve,F,LW,21,Tunisia,Augsburg,True,,germany,2526
+Mio Backhaus,,"€ 8,077","€ 420,000","€ 100,000","Jun 13, 2025","Jun 30, 2026",1,"€ 420,000",,Starter,K,GK,21,Germany,Werder Bremen,True,,germany,2526
+Julian Niehues,,"€ 8,077","€ 420,000","€ 100,000","Jul 1, 2024","Jun 30, 2027",2,"€ 840,000",,Starter,M,DM,24,Germany,Heidenheim,True,,germany,2526
+Leon Klanac,,"€ 7,308","€ 380,000","€ 90,000","Sep 4, 2024","Jun 30, 2027",2,"€ 760,000",,Reserve,K,GK,18,Germany,Bayern Munich,True,,germany,2526
+Fin Stevens,,"€ 7,308","€ 380,000","€ 90,000","Jul 26, 2024","Jun 30, 2026",1,"€ 380,000",,Reserve,D,RB,22,Wales,St Pauli,True,,germany,2526
+Stefan Schimmer,,"€ 7,308","€ 380,000","€ 90,000","Feb 24, 2023","Jun 30, 2026",1,"€ 380,000",,Reserve,F,CF,31,Germany,Heidenheim,True,,germany,2526
+Ben Voll,,"€ 7,308","€ 380,000","€ 90,000","Jul 1, 2024","Jun 30, 2026",1,"€ 380,000",,Reserve,K,GK,25,Germany,St Pauli,True,,germany,2526
+Ben Bobzien,,"€ 7,308","€ 380,000","€ 90,000","Jul 2, 2025","Jun 30, 2027",2,"€ 760,000",,Reserve,F,CF,22,Germany,Mainz,False,,germany,2526
+Love Arrhov,,"€ 7,308","€ 380,000","€ 90,000","Jan 1, 2026","Jun 30, 2028",3,"€ 1,140,000",,Reserve,F,AM,17,Sweden,Eintracht Frankfurt,True,,germany,2526
+Karim Coulibaly,,"€ 7,308","€ 380,000","€ 90,000","Jul 16, 2025","Jun 30, 2029",4,"€ 1,520,000",,Reserve,D,CB,18,Germany,Werder Bremen,True,,germany,2526
+Umut Tohumcu,,"€ 7,308","€ 380,000","€ 90,000","Feb 16, 2024","Jun 30, 2028",3,"€ 1,140,000",,Reserve,M,CM,21,Germany,Hoffenheim,False,,germany,2526
+Jahmai Simpson-Pusey,,"€ 7,308","€ 380,000","€ 90,000","Jan 6, 2026","Jun 30, 2026",1,"€ 380,000",,Reserve,D,CB,20,England,Koln,True,,germany,2526
+Ricky-Jade Jones,,"€ 7,308","€ 380,000","€ 90,000","Jul 1, 2025","Jun 30, 2026",1,"€ 380,000",,Reserve,F,CF,23,England,St Pauli,True,,germany,2526
+Daniel Batz,,"€ 7,308","€ 380,000","€ 90,000","Apr 11, 2025","Jun 30, 2026",1,"€ 380,000",,Starter,K,GK,35,Germany,Mainz,True,,germany,2526
+Ayoube Amaimouni-Echghouyab,,"€ 7,308","€ 380,000","€ 90,000","Jan 2, 2026","Jun 30, 2031",6,"€ 2,280,000",,Starter,F,RW,21,Morocco,Eintracht Frankfurt,True,,germany,2526
+Adam Kölle,,"€ 7,308","€ 380,000","€ 90,000","Oct 30, 2025","Jun 30, 2029",4,"€ 1,520,000",,Reserve,D,CB,19,Germany,Heidenheim,True,,germany,2526
+Luis Engelns,,"€ 7,308","€ 380,000","€ 90,000","Feb 2, 2026","Jun 30, 2026",1,"€ 380,000",,Reserve,M,CM,18,Germany,Hoffenheim,True,,germany,2526
+Immanuel Pherai,,"€ 7,308","€ 380,000","€ 90,000","Jul 1, 2023","Jun 30, 2027",2,"€ 760,000",,Reserve,F,AM,24,Suriname,Hamburg,False,,germany,2526
+Jan Olschowsky,,"€ 7,308","€ 380,000","€ 90,000","Feb 7, 2023","Jun 30, 2027",2,"€ 760,000",,Reserve,K,GK,24,Germany,Monchengladbach,True,,germany,2526
+Axel Tape,,"€ 7,308","€ 380,000","€ 90,000","Jul 1, 2025","Jun 30, 2030",5,"€ 1,900,000",,Reserve,D,CB,18,France,Bayer Leverkusen,True,,germany,2526
+Filippo Mane,,"€ 7,308","€ 380,000","€ 90,000","Jan 6, 2025","Jun 30, 2028",3,"€ 1,140,000",,Reserve,D,CB,20,Italy,Borussia Dortmund,True,,germany,2526
+Suleman Sani,,"€ 7,308","€ 380,000","€ 90,000","Jan 13, 2026","Jun 30, 2031",6,"€ 2,280,000",,Reserve,F,LW,19,Nigeria,Leipzig,True,,germany,2526
+Silas Ostrzinski,,"€ 7,308","€ 380,000","€ 90,000","Jun 18, 2025","Jun 30, 2027",2,"€ 760,000",,Reserve,K,GK,22,Germany,Borussia Dortmund,True,,germany,2526
+Lasse Rieß,,"€ 7,308","€ 380,000","€ 90,000","Jul 19, 2024","Jun 30, 2027",2,"€ 760,000",,Reserve,K,GK,24,Germany,Mainz,True,,germany,2526
+Oliver Sorg,,"€ 7,308","€ 380,000","€ 90,000","Jul 1, 2025","Jun 30, 2027",2,"€ 760,000",,Reserve,D,LB,18,Austria,Augsburg,True,,germany,2526
+Alejo Sarco,,"€ 7,308","€ 380,000","€ 90,000","Jan 20, 2026","Jun 30, 2026",1,"€ 380,000",,Reserve,F,CF,20,Argentina,Monchengladbach,True,,germany,2526
+Markus Kolke,,"€ 7,308","€ 380,000","€ 90,000","Jul 1, 2024","Jun 30, 2027",2,"€ 760,000",,Reserve,K,GK,35,Germany,Werder Bremen,True,,germany,2526
+Stefan Drljaca,,"€ 6,923","€ 360,000","€ 90,000","Jul 1, 2024","Jun 30, 2027",2,"€ 720,000",,Reserve,K,GK,26,Germany,Stuttgart,True,,germany,2526
+Jannik Robatsch,,"€ 6,538","€ 340,000","€ 80,000","Jul 1, 2025","Jun 30, 2026",1,"€ 340,000",,Reserve,D,CB,21,Austria,St Pauli,True,,germany,2526
+Montrell Culbreath,,"€ 6,538","€ 340,000","€ 80,000","Jan 29, 2026","Jun 30, 2030",5,"€ 1,700,000",,Reserve,F,RW,18,Germany,Bayer Leverkusen,True,,germany,2526
+Bruno Ogbus,,"€ 6,538","€ 340,000","€ 80,000","Sep 30, 2024","Jun 30, 2026",1,"€ 340,000",,Starter,D,CB,20,Switzerland,Freiburg,True,,germany,2526
+Jakub Zielinski,,"€ 6,538","€ 340,000","€ 80,000","Jul 1, 2025","Jun 30, 2028",3,"€ 1,020,000",,Reserve,K,GK,17,Poland,Wolfsburg,True,,germany,2526
+Kasey Bos,,"€ 6,538","€ 340,000","€ 80,000","Jul 1, 2025","Jun 30, 2029",4,"€ 1,360,000",,Reserve,D,LB,21,Australia,Mainz,True,,germany,2526
+Carl Klaus,,"€ 5,769","€ 300,000","€ 80,000","Jul 28, 2024","Jun 30, 2026",1,"€ 300,000",,Reserve,K,GK,32,Germany,Union Berlin,True,,germany,2526
+Deniz Zeitler,,"€ 5,769","€ 300,000","€ 80,000","Jul 10, 2025","Jun 30, 2026",1,"€ 300,000",,Reserve,F,CF,19,Germany,Hoffenheim,True,,germany,2526
+Cleiton,,"€ 5,385","€ 280,000","€ 71,000","Jan 1, 2026","Jun 30, 2030",5,"€ 1,400,000",,Reserve,D,CB,22,Brazil,Wolfsburg,True,,germany,2526
+Ayodele Thomas,,"€ 5,385","€ 280,000","€ 71,000","Feb 2, 2026","Jun 30, 2031",6,"€ 1,680,000",,Reserve,F,LW,18,Netherlands,Leipzig,True,,germany,2526
+Grant-Leon Ranos,,"€ 5,385","€ 280,000","€ 71,000","Jul 1, 2023","Jun 30, 2027",2,"€ 560,000",,Reserve,F,CF,22,Armenia,Monchengladbach,False,,germany,2526
+Wisdom Mike,,"€ 5,385","€ 280,000","€ 71,000","Aug 8, 2025","Jun 30, 2027",2,"€ 560,000",,Reserve,F,LW,17,Germany,Bayern Munich,True,,germany,2526
+Yannick Eduardo,,"€ 5,385","€ 280,000","€ 71,000","Feb 2, 2026","Jun 30, 2026",1,"€ 280,000",,Reserve,F,CF,20,Czech Republic,Hoffenheim,True,,germany,2526
+Kacper Potulski,,"€ 5,385","€ 280,000","€ 71,000","Jan 1, 2026","Jun 30, 2028",3,"€ 840,000",,Starter,D,CB,18,Poland,Mainz,True,,germany,2526
+Thomas Keller,,"€ 5,385","€ 280,000","€ 71,000","Mar 28, 2025","Jun 30, 2028",3,"€ 840,000",,Reserve,D,CB,26,Germany,Heidenheim,False,,germany,2526
+Abdoulie Ceesay,,"€ 5,000","€ 260,000","€ 66,000","Jan 3, 2025","Jun 30, 2026",1,"€ 260,000",,Reserve,F,CF,22,The Gambia,St Pauli,True,,germany,2526
+Fynn Schenten,,"€ 5,000","€ 260,000","€ 66,000","Jan 29, 2026","Jun 30, 2030",5,"€ 1,300,000",,Reserve,F,CF,18,Germany,Koln,True,,germany,2526
+Matthias Köbbing,,"€ 4,808","€ 250,000","€ 61,000","Jun 16, 2025","Jun 30, 2027",2,"€ 500,000",,Reserve,K,GK,28,Germany,Koln,True,,germany,2526
+Bara Sapoko Ndiaye,,"€ 4,423","€ 230,000","€ 57,000","Jan 3, 2026","Jun 30, 2026",1,"€ 230,000",,Reserve,M,CM,18,Senegal,Bayern Munich,True,,germany,2526
+Youssoupha Niang,,"€ 4,423","€ 230,000","€ 57,000","Jul 1, 2025","Jun 30, 2027",2,"€ 460,000",,Reserve,F,RW,19,Germany,Koln,True,,germany,2526
+Jan Urbich,,"€ 4,423","€ 230,000","€ 57,000","Jul 1, 2025","Jun 30, 2027",2,"€ 460,000",,Reserve,F,CF,21,Germany,Monchengladbach,True,,germany,2526
+Amil Siljevic,,"€ 4,423","€ 230,000","€ 57,000","Jul 10, 2025","Jun 30, 2026",1,"€ 230,000",,Reserve,K,GK,19,Bosnia-Herzegovina,Eintracht Frankfurt,True,,germany,2526
+Hennes Behrens,,"€ 4,423","€ 230,000","€ 57,000","Jan 2, 2026","Jun 30, 2026",1,"€ 230,000",,Starter,D,LB,21,Germany,Heidenheim,True,,germany,2526
+Maxim Dal,,"€ 4,423","€ 230,000","€ 57,000","Jul 1, 2025","Jun 30, 2027",2,"€ 460,000",,Reserve,D,CB,20,Germany,Mainz,True,,germany,2526
+Daniel Gleiber,,"€ 4,423","€ 230,000","€ 57,000","Jul 1, 2025","Jun 30, 2028",3,"€ 690,000",,Reserve,M,CM,21,Germany,Mainz,True,,germany,2526
+Paul Tschernuth,,"€ 4,423","€ 230,000","€ 57,000","Apr 17, 2025","Jun 30, 2027",2,"€ 460,000",,Reserve,K,GK,24,Austria,Heidenheim,True,,germany,2526
+Issa Traoré,,"€ 4,423","€ 230,000","€ 57,000","Jan 1, 2026","Jun 30, 2029",4,"€ 920,000",,Reserve,D,CB,18,Mali,Bayer Leverkusen,True,,germany,2526
+Pharell Hensel,,"€ 4,423","€ 230,000","€ 57,000","Jan 15, 2026","Jun 30, 2029",4,"€ 920,000",,Reserve,M,CM,18,Germany,Wolfsburg,True,,germany,2526
+Viggo Gebel,,"€ 4,423","€ 230,000","€ 57,000","Aug 16, 2024","Jun 30, 2028",3,"€ 690,000",,Reserve,F,AM,18,Germany,Leipzig,True,,germany,2526
+Yannik Wagner,,"€ 4,423","€ 230,000","€ 57,000","Jul 30, 2025","Jun 30, 2029",4,"€ 920,000",,Reserve,F,LW,18,Germany,Heidenheim,True,,germany,2526
+Daniel Klein,,"€ 4,423","€ 230,000","€ 57,000","Apr 29, 2025","Jun 30, 2026",1,"€ 230,000",,Reserve,K,GK,24,Germany,Augsburg,True,,germany,2526
+Felipe Chávez,,"€ 4,423","€ 230,000","€ 57,000","Feb 2, 2026","Jun 30, 2026",1,"€ 230,000",,Reserve,M,CM,18,Peru,Koln,True,,germany,2526
+Joyeux Masanka Bungi,,"€ 4,423","€ 230,000","€ 57,000","Feb 7, 2025","Jun 30, 2027",2,"€ 460,000",,Reserve,M,LM,19,Belgium,Leipzig,True,,germany,2526
+Luka Duric,,"€ 4,423","€ 230,000","€ 57,000","Jul 1, 2025","Jun 30, 2026",1,"€ 230,000",,Reserve,M,CM,22,Bosnia-Herzegovina,Hoffenheim,True,,germany,2526
+Simon Spari,,"€ 4,423","€ 230,000","€ 57,000","Jul 1, 2025","Jun 30, 2026",1,"€ 230,000",,Reserve,K,GK,23,Austria,St Pauli,True,,germany,2526
+Jan Bürger,,"€ 3,654","€ 190,000","€ 47,000","Jul 1, 2024","Jun 30, 2026",1,"€ 190,000",,Reserve,D,RB,18,Germany,Wolfsburg,True,,germany,2526
+Kelven Frees,,"€ 3,654","€ 190,000","€ 47,000","Aug 14, 2025","Jun 30, 2029",4,"€ 760,000",,Reserve,D,CB,21,Germany,Hoffenheim,True,,germany,2526
+Nick Rothweiler,,"€ 3,654","€ 190,000","€ 47,000","Jul 1, 2025","Jun 30, 2027",2,"€ 380,000",,Reserve,M,CM,19,Germany,Heidenheim,True,,germany,2526
+Salim Musah,,"€ 3,654","€ 190,000","€ 47,000","Jul 6, 2025","Jun 30, 2026",1,"€ 190,000",,Reserve,F,CF,19,Germany,Werder Bremen,True,,germany,2526
+Samba Konaté,,"€ 3,654","€ 190,000","€ 47,000","Jul 1, 2025","Jun 30, 2028",3,"€ 570,000",,Reserve,F,CF,16,France,Leipzig,True,,germany,2526
+Niklas Swider,,"€ 3,654","€ 190,000","€ 47,000","Jan 7, 2025","Jun 30, 2027",2,"€ 380,000",,Reserve,M,DM,19,Germany,Monchengladbach,True,,germany,2526
+David Preu,,"€ 3,654","€ 190,000","€ 47,000","Oct 7, 2024","Jun 30, 2026",1,"€ 190,000",,Reserve,F,LW,21,Germany,Union Berlin,True,,germany,2526
+Mirza Catovic,,"€ 3,654","€ 190,000","€ 47,000","Feb 14, 2025","Jun 30, 2028",3,"€ 570,000",,Reserve,M,DM,18,Serbia,Stuttgart,True,,germany,2526
+Jonathan Norbye,,"€ 3,654","€ 190,000","€ 47,000","Jul 1, 2025","Jun 30, 2028",3,"€ 570,000",,Reserve,D,CB,18,Norway,Leipzig,True,,germany,2526
+Hannes Hermann,,"€ 3,654","€ 190,000","€ 47,000","Jul 1, 2024","Jun 30, 2027",2,"€ 380,000",,Reserve,K,GK,20,Germany,Hamburg,True,,germany,2526
+Frank Feller,,"€ 3,654","€ 190,000","€ 47,000","Sep 12, 2024","Jun 30, 2029",4,"€ 760,000",,Reserve,K,GK,22,Germany,Heidenheim,True,,germany,2526
+Malek El Mala,,"€ 3,654","€ 190,000","€ 47,000","Jul 19, 2025","Jun 30, 2030",5,"€ 950,000",,Reserve,F,CF,20,Germany,Koln,True,,germany,2526
+Mahmut Kücüksahin,,"€ 3,654","€ 190,000","€ 47,000","Jul 17, 2024","Jun 30, 2027",2,"€ 380,000",,Reserve,M,DM,21,Turkey,Augsburg,True,,germany,2526
+Stefan Smarkalev,,"€ 3,269","€ 170,000","€ 42,000","Jul 1, 2025","Jun 30, 2027",2,"€ 340,000",,Reserve,K,GK,18,Bulgaria,Werder Bremen,True,,germany,2526
+Wesley Adeh,,"€ 3,269","€ 170,000","€ 42,000","Jan 10, 2025","Jun 30, 2026",1,"€ 170,000",,Reserve,M,DM,19,Germany,Werder Bremen,True,,germany,2526
+Fernando Dickes,,"€ 3,269","€ 170,000","€ 42,000","Jul 1, 2025","Jun 30, 2028",3,"€ 510,000",,Reserve,K,GK,18,Germany,Hamburg,True,,germany,2526
+Shafiq Nandja,,"€ 3,269","€ 170,000","€ 42,000","Jul 1, 2025","Jun 30, 2026",1,"€ 170,000",,Reserve,D,CB,19,Germany,Hamburg,True,,germany,2526
+Florian Hellstern,,"€ 3,269","€ 170,000","€ 42,000","Jan 31, 2024","Jun 30, 2027",2,"€ 340,000",,Reserve,K,GK,18,Germany,Stuttgart,True,,germany,2526
+Marwin Schmitz,,"€ 3,269","€ 170,000","€ 42,000","Jan 16, 2025","Jun 30, 2026",1,"€ 170,000",,Reserve,M,DM,19,Germany,St Pauli,True,,germany,2526
+Andrik Markgraf,,"€ 3,269","€ 170,000","€ 42,000","Jul 1, 2025","Jun 30, 2026",1,"€ 170,000",,Reserve,D,LB,19,Germany,Union Berlin,True,,germany,2526
+Omar Megeed,,"€ 3,269","€ 170,000","€ 42,000","Jun 18, 2025","Jun 30, 2026",1,"€ 170,000",,Reserve,F,AM,20,Egypt,Hamburg,True,,germany,2526
+Mick Schmetgens,,"€ 3,269","€ 170,000","€ 42,000","Dec 10, 2025","Jun 30, 2026",1,"€ 170,000",,Reserve,D,CB,18,Germany,Werder Bremen,True,,germany,2526
+Felix Meiser,,"€ 3,269","€ 170,000","€ 42,000","Jul 1, 2025","Jun 30, 2027",2,"€ 340,000",,Reserve,D,CB,19,Germany,Augsburg,True,,germany,2526
+Fayssal Harchaoui,,"€ 3,269","€ 170,000","€ 42,000","Jul 1, 2024","Jun 30, 2028",3,"€ 510,000",,Reserve,M,DM,20,Germany,Koln,True,,germany,2526
+Lúkas Petersson,,"€ 3,269","€ 170,000","€ 42,000","Jan 12, 2026","Jun 30, 2026",1,"€ 170,000",,Reserve,K,GK,21,Iceland,Hoffenheim,True,,germany,2526
+Emil Gazdov,,"€ 2,885","€ 150,000","€ 38,000","Jan 4, 2026","Jun 30, 2026",1,"€ 150,000",,Reserve,K,GK,22,Canada,St Pauli,True,,germany,2526
+Louis Lemke,,"€ 2,885","€ 150,000","€ 38,000","Oct 16, 2025","Jun 30, 2026",1,"€ 150,000",,Reserve,D,LB,16,Germany,Hamburg,True,,germany,2526
+Dmytro Bogdanov,,"€ 2,885","€ 150,000","€ 38,000","Aug 13, 2025","Jun 30, 2029",4,"€ 600,000",,Reserve,F,CF,18,Ukraine,Union Berlin,True,,germany,2526
+Nick Schmidt,,"€ 2,500","€ 130,000","€ 33,000","Sep 12, 2025","Jun 30, 2026",1,"€ 130,000",,Reserve,M,CM,18,Japan,St Pauli,True,,germany,2526
+Steve Mounié,,,,,"Jul 5, 2024","Jun 30, 2027",2,,,Reserve,F,CF,30,Benin,Augsburg,False,,germany,2526
+Emin Kujovic,,,,,"Jul 4, 2025","Jun 30, 2028",3,,,Reserve,M,CM,21,Bosnia-Herzegovina,Koln,False,,germany,2526
+Tarek Buchmann,,,,,"Aug 5, 2025","Jun 30, 2027",2,,,Reserve,D,CB,20,Germany,Bayern Munich,False,,germany,2526
+Aster Vranckx,,,,,"Sep 1, 2024","Jun 30, 2029",4,,,Reserve,M,CM,22,Belgium,Wolfsburg,False,,germany,2526
+Tomas Cvancara,,,,,"Jul 14, 2023","Jun 30, 2028",3,,,Reserve,F,CF,25,Czech Republic,Monchengladbach,False,,germany,2526
+João Palhinha,,,,,"Jul 11, 2024","Jun 30, 2028",3,,,Reserve,M,DM,29,Portugal,Bayern Munich,False,,germany,2526
+Yusuf Kabadayi,,,,,"Jul 4, 2024","Jun 30, 2028",3,,,Reserve,F,LW,21,Germany,Augsburg,False,,germany,2526
+Bryan Zaragoza,,,,,"Jul 1, 2024","Jun 30, 2029",4,,,Reserve,F,LW,23,Spain,Bayern Munich,False,,germany,2526
+Gift Emmanuel Orban,,,,,"Jan 2, 2025","Jun 30, 2029",4,,,Reserve,F,CF,23,Nigeria,Hoffenheim,False,,germany,2526
