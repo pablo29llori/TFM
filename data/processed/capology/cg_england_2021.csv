@@ -1,0 +1,594 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Gareth Bale,Tottenham,F,31,Wales,england,2021,695083.0,36144307.0
+Kevin De Bruyne,Manchester City,F,29,Belgium,england,2021,463389.0,24096205.0
+David de Gea,Manchester United,K,29,Spain,england,2021,434427.0,22590192.0
+Mesut Özil,Arsenal,F,32,Germany,england,2021,405465.0,21084179.0
+Raheem Sterling,Manchester City,F,25,England,england,2021,347541.0,18072154.0
+N'Golo Kanté,Chelsea,M,29,France,england,2021,335957.0,17469749.0
+Paul Pogba,Manchester United,M,27,France,england,2021,335957.0,17469749.0
+Timo Werner,Chelsea,F,24,Germany,england,2021,312787.0,16264938.0
+Pierre-Emerick Aubameyang,Arsenal,F,31,Gabon,england,2021,289618.0,15060128.0
+Kai Havertz,Chelsea,F,21,Germany,england,2021,289618.0,15060128.0
+Anthony Martial,Manchester United,F,24,France,england,2021,289618.0,15060128.0
+Edinson Cavani,Manchester United,F,33,Uruguay,england,2021,289618.0,15060128.0
+Sergio Agüero,Manchester City,F,32,Argentina,england,2021,266671.0,13866903.0
+Tanguy Ndombélé,Tottenham,M,23,France,england,2021,231694.0,12048102.0
+Mohamed Salah,Liverpool,F,28,Egypt,england,2021,231694.0,12048102.0
+Harry Kane,Tottenham,F,27,England,england,2021,231694.0,12048102.0
+Marcus Rashford,Manchester United,F,22,England,england,2021,231694.0,12048102.0
+Thomas Partey,Arsenal,M,27,Ghana,england,2021,231694.0,12048102.0
+Thiago,Liverpool,M,29,Spain,england,2021,231694.0,12048102.0
+Ben Chilwell,Chelsea,D,23,England,england,2021,220110.0,11445697.0
+Harry Maguire,Manchester United,D,27,England,england,2021,220110.0,11445697.0
+Alexandre Lacazette,Arsenal,F,29,France,england,2021,210975.0,10970724.0
+Roberto Firmino,Liverpool,F,29,Brazil,england,2021,208525.0,10843292.0
+Bruno Fernandes,Manchester United,F,26,Portugal,england,2021,208525.0,10843292.0
+Virgil van Dijk,Liverpool,D,29,Netherlands,england,2021,208525.0,10843292.0
+Callum Hudson-Odoi,Chelsea,F,19,England,england,2021,208525.0,10843292.0
+Juan Mata,Manchester United,F,32,Spain,england,2021,185355.0,9638482.0
+Kyle Walker,Manchester City,D,30,England,england,2021,185355.0,9638482.0
+César Azpilicueta,Chelsea,D,31,Spain,england,2021,173771.0,9036077.0
+Christian Pulisic,Chelsea,F,22,United States,england,2021,173771.0,9036077.0
+Fernandinho,Manchester City,M,35,Brazil,england,2021,173771.0,9036077.0
+Bernardo Silva,Manchester City,F,26,Portugal,england,2021,173771.0,9036077.0
+Kepa,Chelsea,K,26,Spain,england,2021,173771.0,9036077.0
+Luke Shaw,Manchester United,D,25,England,england,2021,173771.0,9036077.0
+Ilkay Gündogan,Manchester City,M,29,Germany,england,2021,162186.0,8433672.0
+James Milner,Liverpool,M,34,England,england,2021,162186.0,8433672.0
+Heung-min Son,Tottenham,F,28,South Korea,england,2021,162186.0,8433672.0
+Jamie Vardy,Leicester,F,33,England,england,2021,162186.0,8433672.0
+Willian,Arsenal,F,32,Brazil,england,2021,160404.0,8340994.0
+Wilfried Zaha,Crystal Palace,F,27,Cote d'Ivoire,england,2021,150601.0,7831267.0
+Kasper Schmeichel,Leicester,K,33,Denmark,england,2021,150601.0,7831267.0
+Max Meyer,Crystal Palace,F,25,Germany,england,2021,144809.0,7530064.0
+Odion Ighalo,Manchester United,F,31,Nigeria,england,2021,144809.0,7530064.0
+Rodri,Manchester City,M,24,Spain,england,2021,140353.0,7298370.0
+Victor Lindelöf,Manchester United,D,26,Sweden,england,2021,139017.0,7228861.0
+Naby Keïta,Liverpool,M,25,Guinea,england,2021,139017.0,7228861.0
+Ruben Loftus-Cheek,Fulham,M,24,England,england,2021,139017.0,7228861.0
+Aymeric Laporte,Manchester City,D,26,France,england,2021,139017.0,7228861.0
+Christian Benteke,Crystal Palace,F,29,Belgium,england,2021,139017.0,7228861.0
+Abdoulaye Doucouré,Everton,M,27,Mali,england,2021,139017.0,7228861.0
+Nemanja Matic,Manchester United,M,32,Serbia,england,2021,139017.0,7228861.0
+Fred,Manchester United,M,27,Brazil,england,2021,139017.0,7228861.0
+Donny van de Beek,Manchester United,M,23,Netherlands,england,2021,139017.0,7228861.0
+Bernard,Everton,F,28,Brazil,england,2021,139017.0,7228861.0
+Dani Ceballos,Arsenal,M,24,Spain,england,2021,139017.0,7228861.0
+Ryan Bertrand,Southampton,D,31,England,england,2021,139017.0,7228861.0
+Yerry Mina,Everton,D,26,Colombia,england,2021,139017.0,7228861.0
+Alex Oxlade-Chamberlain,Liverpool,M,27,England,england,2021,139017.0,7228861.0
+Riyad Mahrez,Manchester City,F,29,Algeria,england,2021,139017.0,7228861.0
+Andrii Yarmolenko,West Ham,F,30,Ukraine,england,2021,133224.0,6927659.0
+André Gomes,Everton,M,27,Portugal,england,2021,130105.0,6765473.0
+Jorginho,Chelsea,M,28,Italy,england,2021,127432.0,6626456.0
+Olivier Giroud,Chelsea,F,34,France,england,2021,127432.0,6626456.0
+Thiago Silva,Chelsea,D,36,Brazil,england,2021,127432.0,6626456.0
+James Maddison,Leicester,F,23,England,england,2021,127432.0,6626456.0
+Kieran Tierney,Arsenal,D,23,Scotland,england,2021,127432.0,6626456.0
+Héctor Bellerín,Arsenal,D,25,Spain,england,2021,127432.0,6626456.0
+Jack Grealish,Aston Villa,F,25,England,england,2021,121640.0,6325254.0
+David Luiz,Arsenal,D,33,Brazil,england,2021,116961.0,6081975.0
+Nicolas Pépé,Arsenal,F,25,Cote d'Ivoire,england,2021,115847.0,6024051.0
+Dominic Calvert-Lewin,Everton,F,23,England,england,2021,115847.0,6024051.0
+Granit Xhaka,Arsenal,M,28,Switzerland,england,2021,115847.0,6024051.0
+Rui Patrício,Wolverhampton,K,32,Portugal,england,2021,115847.0,6024051.0
+Sead Kolasinac,Arsenal,D,27,Bosnia-Herzegovina,england,2021,115847.0,6024051.0
+Dean Henderson,Manchester United,K,23,England,england,2021,115847.0,6024051.0
+Raúl Jiménez,Wolverhampton,F,29,Mexico,england,2021,115847.0,6024051.0
+Bernd Leno,Arsenal,K,28,Germany,england,2021,115847.0,6024051.0
+Dele Alli,Tottenham,F,24,England,england,2021,115847.0,6024051.0
+John Stones,Manchester City,D,26,England,england,2021,115847.0,6024051.0
+João Moutinho,Wolverhampton,M,34,Portugal,england,2021,115847.0,6024051.0
+Sadio Mané,Liverpool,F,28,Senegal,england,2021,115847.0,6024051.0
+Jordan Henderson,Liverpool,M,30,England,england,2021,115847.0,6024051.0
+Joel Matip,Liverpool,D,29,Cameroon,england,2021,115847.0,6024051.0
+Fabinho,Liverpool,M,26,Brazil,england,2021,115847.0,6024051.0
+Jonny Evans,Leicester,D,32,Northern Ireland,england,2021,115847.0,6024051.0
+Hugo Lloris,Tottenham,K,33,France,england,2021,115847.0,6024051.0
+Antonio Rüdiger,Chelsea,D,27,Germany,england,2021,115847.0,6024051.0
+Rodrigo,Leeds,F,29,Spain,england,2021,115847.0,6024051.0
+Danny Drinkwater,Chelsea,M,30,England,england,2021,115847.0,6024051.0
+Hakim Ziyech,Chelsea,F,27,Morocco,england,2021,115847.0,6024051.0
+Marcos Alonso,Chelsea,D,29,Spain,england,2021,115847.0,6024051.0
+Mateo Kovacic,Chelsea,M,26,Croatia,england,2021,115847.0,6024051.0
+Reece James,Chelsea,D,20,England,england,2021,115847.0,6024051.0
+Pierre-Emile Höjbjerg,Tottenham,M,25,Denmark,england,2021,115847.0,6024051.0
+Mamadou Sakho,Crystal Palace,D,30,France,england,2021,115847.0,6024051.0
+Jordan Pickford,Everton,K,26,England,england,2021,115847.0,6024051.0
+Gylfi Sigurdsson,Everton,F,31,Iceland,england,2021,115847.0,6024051.0
+Ross Barkley,Aston Villa,M,26,England,england,2021,111391.0,5792357.0
+Alex Telles,Manchester United,D,27,Brazil,england,2021,107827.0,5607002.0
+Sokratis,Arsenal,D,32,Greece,england,2021,106490.0,5537493.0
+Gabriel Jesus,Manchester City,F,23,Brazil,england,2021,104262.0,5421646.0
+James Rodríguez,Everton,F,29,Colombia,england,2021,104262.0,5421646.0
+Aaron Wan-Bissaka,Manchester United,D,22,England,england,2021,104262.0,5421646.0
+Shkodran Mustafi,Arsenal,D,28,Germany,england,2021,104262.0,5421646.0
+Diogo Jota,Liverpool,F,23,Portugal,england,2021,104262.0,5421646.0
+Lucas Moura,Tottenham,F,28,Brazil,england,2021,104262.0,5421646.0
+Rúben Dias,Manchester City,D,23,Portugal,england,2021,104262.0,5421646.0
+Adam Lallana,Brighton,F,32,England,england,2021,104262.0,5421646.0
+Lucas Digne,Everton,D,27,France,england,2021,104262.0,5421646.0
+Fraser Forster,Southampton,K,32,England,england,2021,104262.0,5421646.0
+Michy Batshuayi,Crystal Palace,F,27,Belgium,england,2021,104262.0,5421646.0
+Benjamin Mendy,Manchester City,D,26,France,england,2021,104262.0,5421646.0
+Alisson,Liverpool,K,28,Brazil,england,2021,104262.0,5421646.0
+Nathan Aké,Manchester City,D,25,Netherlands,england,2021,104262.0,5421646.0
+Richarlison,Everton,F,23,Brazil,england,2021,104262.0,5421646.0
+Abdul Rahman Baba,Chelsea,D,26,Ghana,england,2021,99629.0,5180684.0
+Eric Dier,Tottenham,D,26,England,england,2021,98470.0,5120444.0
+Pablo Marí,Arsenal,D,27,Spain,england,2021,98470.0,5120444.0
+Joelinton,Newcastle,F,24,Brazil,england,2021,98470.0,5120444.0
+Moussa Sissoko,Tottenham,M,31,France,england,2021,92678.0,4819241.0
+Mason Mount,Chelsea,F,21,England,england,2021,92678.0,4819241.0
+Fábio Silva,Wolverhampton,F,18,Portugal,england,2021,92678.0,4819241.0
+Martin Ødegaard,Arsenal,F,22,Norway,england,2021,92678.0,4819241.0
+Xherdan Shaqiri,Liverpool,F,29,Switzerland,england,2021,92678.0,4819241.0
+Michael Keane,Everton,D,27,England,england,2021,92678.0,4819241.0
+Toby Alderweireld,Tottenham,D,31,Belgium,england,2021,92678.0,4819241.0
+Islam Slimani,Leicester,F,32,Algeria,england,2021,92678.0,4819241.0
+João Cancelo,Manchester City,D,26,Portugal,england,2021,92678.0,4819241.0
+Andreas Christensen,Chelsea,D,24,Denmark,england,2021,92678.0,4819241.0
+Nélson Semedo,Wolverhampton,D,26,Portugal,england,2021,92678.0,4819241.0
+Eric Bailly,Manchester United,D,26,Cote d'Ivoire,england,2021,92678.0,4819241.0
+Tyrone Mings,Aston Villa,D,27,England,england,2021,92678.0,4819241.0
+Nathaniel Clyne,Crystal Palace,D,29,England,england,2021,92678.0,4819241.0
+Fabian Delph,Everton,M,30,England,england,2021,92678.0,4819241.0
+Erik Lamela,Tottenham,F,28,Argentina,england,2021,92678.0,4819241.0
+Marcos Rojo,Manchester United,D,30,Argentina,england,2021,92678.0,4819241.0
+Kelechi Iheanacho,Leicester,F,24,Nigeria,england,2021,92678.0,4819241.0
+Bertrand Traoré,Aston Villa,F,25,Burkina Faso,england,2021,90227.0,4691809.0
+Cengiz Ünder,Leicester,F,23,Turkey,england,2021,89782.0,4668640.0
+Yannick Bolasie,Everton,F,31,Democratic Republic of the Congo,england,2021,86885.0,4518038.0
+Sébastien Haller,West Ham,F,26,France,england,2021,86885.0,4518038.0
+Wilfred Ndidi,Leicester,M,23,Nigeria,england,2021,86885.0,4518038.0
+Andy Carroll,Newcastle,F,31,England,england,2021,86885.0,4518038.0
+Ollie Watkins,Aston Villa,F,24,England,england,2021,86885.0,4518038.0
+Dennis Praet,Leicester,M,26,Belgium,england,2021,86885.0,4518038.0
+Jesse Lingard,Manchester United,F,27,England,england,2021,86885.0,4518038.0
+Ben Godfrey,Everton,D,22,England,england,2021,86885.0,4518038.0
+Cédric Soares,Arsenal,D,29,Portugal,england,2021,86885.0,4518038.0
+Emerson,Chelsea,D,26,Italy,england,2021,86885.0,4518038.0
+Jesse Lingard,West Ham,F,28,England,england,2021,86885.0,4518038.0
+Jean-Philippe Gbamin,Everton,M,25,Cote d'Ivoire,england,2021,86885.0,4518038.0
+Mason Greenwood,Manchester United,F,19,England,england,2021,86885.0,4518038.0
+Vicente Guaita,Crystal Palace,K,33,Spain,england,2021,86885.0,4518038.0
+Steven Bergwijn,Tottenham,F,23,Netherlands,england,2021,86885.0,4518038.0
+Phil Jones,Manchester United,D,28,England,england,2021,86885.0,4518038.0
+Takumi Minamino,Southampton,F,26,Japan,england,2021,86885.0,4518038.0
+Theo Walcott,Southampton,F,31,England,england,2021,86885.0,4518038.0
+Lewis Dunk,Brighton,D,28,England,england,2021,86885.0,4518038.0
+Takumi Minamino,Liverpool,F,25,Japan,england,2021,86885.0,4518038.0
+Leander Dendoncker,Wolverhampton,M,25,Belgium,england,2021,86885.0,4518038.0
+Danny Ings,Southampton,F,28,England,england,2021,86885.0,4518038.0
+Luka Milivojevic,Crystal Palace,M,29,Serbia,england,2021,86885.0,4518038.0
+Joe Gomez,Liverpool,D,23,England,england,2021,86885.0,4518038.0
+Georginio Wijnaldum,Liverpool,M,29,Netherlands,england,2021,86885.0,4518038.0
+Gabriel Martinelli,Arsenal,F,19,Brazil,england,2021,81093.0,4216836.0
+Michail Antonio,West Ham,F,30,England,england,2021,81093.0,4216836.0
+Alex Iwobi,Everton,F,24,Nigeria,england,2021,81093.0,4216836.0
+Allan,Everton,M,29,Brazil,england,2021,81093.0,4216836.0
+Ricardo Pereira,Leicester,D,27,Portugal,england,2021,81093.0,4216836.0
+Angelo Ogbonna,West Ham,D,32,Italy,england,2021,81093.0,4216836.0
+Allan Saint-Maximin,Newcastle,F,23,France,england,2021,81093.0,4216836.0
+Jonjo Shelvey,Newcastle,M,28,England,england,2021,81093.0,4216836.0
+Manuel Lanzini,West Ham,F,27,Argentina,england,2021,81093.0,4216836.0
+Charlie Austin,West Bromwich,F,31,England,england,2021,81093.0,4216836.0
+Sergio Romero,Manchester United,K,33,Argentina,england,2021,81093.0,4216836.0
+Serge Aurier,Tottenham,D,27,Cote d'Ivoire,england,2021,81093.0,4216836.0
+Giovani Lo Celso,Tottenham,M,24,Argentina,england,2021,81093.0,4216836.0
+Mason Holgate,Everton,D,23,England,england,2021,81093.0,4216836.0
+Seamus Coleman,Everton,D,32,Ireland,england,2021,81093.0,4216836.0
+Bukayo Saka,Arsenal,M,19,England,england,2021,81093.0,4216836.0
+André Zambo Anguissa,Fulham,M,24,Cameroon,england,2021,77618.0,4036114.0
+Matty Cash,Aston Villa,D,23,England,england,2021,75301.0,3915633.0
+Tomas Soucek,West Ham,M,25,Czech Republic,england,2021,75301.0,3915633.0
+Pablo Fornals,West Ham,M,24,Spain,england,2021,75301.0,3915633.0
+Lukasz Fabianski,West Ham,K,35,Poland,england,2021,75301.0,3915633.0
+Cheikhou Kouyaté,Crystal Palace,M,30,Senegal,england,2021,75301.0,3915633.0
+Gary Cahill,Crystal Palace,D,34,England,england,2021,75301.0,3915633.0
+Jean Michaël Seri,Fulham,M,29,Cote d'Ivoire,england,2021,75301.0,3915633.0
+Matt Doherty,Tottenham,D,28,Ireland,england,2021,75301.0,3915633.0
+Timothy Castagne,Leicester,D,24,Belgium,england,2021,75301.0,3915633.0
+Nathaniel Phillips,Liverpool,D,23,England,england,2021,75301.0,3915633.0
+Ozan Kabak,Liverpool,D,20,Turkey,england,2021,75301.0,3915633.0
+Ederson,Manchester City,K,27,Brazil,england,2021,75301.0,3915633.0
+Davinson Sánchez,Tottenham,D,24,Colombia,england,2021,75301.0,3915633.0
+Brandon Williams,Manchester United,D,20,England,england,2021,75301.0,3915633.0
+Oriol Romeu,Southampton,M,29,Spain,england,2021,75301.0,3915633.0
+Raphinha,Leeds,F,23,Brazil,england,2021,73563.0,3825273.0
+Danny Rose,Tottenham,D,30,England,england,2021,69508.0,3614431.0
+Jan Bednarek,Southampton,D,24,Poland,england,2021,69508.0,3614431.0
+Connor Wickham,Crystal Palace,F,27,England,england,2021,69508.0,3614431.0
+Jannik Vestergaard,Southampton,D,28,Denmark,england,2021,69508.0,3614431.0
+Ben Davies,Tottenham,D,27,Wales,england,2021,69508.0,3614431.0
+Aleksandar Mitrovic,Fulham,F,26,Serbia,england,2021,69508.0,3614431.0
+Jarrod Bowen,West Ham,F,23,England,england,2021,69508.0,3614431.0
+Shane Long,Southampton,F,33,Ireland,england,2021,69508.0,3614431.0
+Ben Davies,Liverpool,D,25,England,england,2021,69508.0,3614431.0
+Andrew Robertson,Liverpool,D,26,Scotland,england,2021,69508.0,3614431.0
+Issa Diop,West Ham,D,23,France,england,2021,69508.0,3614431.0
+Declan Rice,West Ham,M,21,England,england,2021,69508.0,3614431.0
+Cenk Tosun,Everton,F,29,Turkey,england,2021,69508.0,3614431.0
+Phil Foden,Manchester City,M,20,England,england,2021,69508.0,3614431.0
+Scott McTominay,Manchester United,M,23,Scotland,england,2021,69508.0,3614431.0
+Wes Morgan,Leicester,D,36,Jamaica,england,2021,69508.0,3614431.0
+Scott Dann,Crystal Palace,D,33,England,england,2021,69508.0,3614431.0
+Nathan Redmond,Southampton,F,26,England,england,2021,69508.0,3614431.0
+Adrián,Liverpool,K,33,Spain,england,2021,69508.0,3614431.0
+Daniel Podence,Wolverhampton,F,25,Portugal,england,2021,69508.0,3614431.0
+Tammy Abraham,Chelsea,F,23,England,england,2021,66835.0,3475414.0
+Adama Traoré,Wolverhampton,F,24,Spain,england,2021,63716.0,3313228.0
+Björn Engels,Aston Villa,D,26,Belgium,england,2021,63716.0,3313228.0
+Jairo Riedewald,Crystal Palace,D,24,Netherlands,england,2021,63716.0,3313228.0
+Willy Boly,Wolverhampton,D,29,France,england,2021,63716.0,3313228.0
+John McGinn,Aston Villa,M,26,Scotland,england,2021,63716.0,3313228.0
+Ibrahima Diallo,Southampton,M,21,France,england,2021,63716.0,3313228.0
+Kieran Gibbs,West Bromwich,D,31,England,england,2021,63716.0,3313228.0
+Emil Krafth,Newcastle,D,26,Sweden,england,2021,63716.0,3313228.0
+Moussa Djenepo,Southampton,F,22,Mali,england,2021,63716.0,3313228.0
+Ben Mee,Burnley,D,31,England,england,2021,63716.0,3313228.0
+Demarai Gray,Leicester,F,24,England,england,2021,63716.0,3313228.0
+Danny Welbeck,Brighton,F,29,England,england,2021,63716.0,3313228.0
+Saïd Benrahma,West Ham,F,25,Algeria,england,2021,63716.0,3313228.0
+Alphonse Areola,Fulham,K,27,France,england,2021,63716.0,3313228.0
+James McArthur,Crystal Palace,M,33,Scotland,england,2021,63716.0,3313228.0
+Nampalys Mendy,Leicester,M,28,France,england,2021,63716.0,3313228.0
+Conor Coady,Wolverhampton,D,27,England,england,2021,63716.0,3313228.0
+Edouard Mendy,Chelsea,K,28,Senegal,england,2021,63716.0,3313228.0
+Andros Townsend,Crystal Palace,F,29,England,england,2021,63716.0,3313228.0
+Patrick van Aanholt,Crystal Palace,D,30,Netherlands,england,2021,63716.0,3313228.0
+Sergio Reguilón,Tottenham,D,23,Spain,england,2021,61399.0,3192747.0
+Trezeguet,Aston Villa,F,26,Egypt,england,2021,60820.0,3162627.0
+Joachim Andersen,Fulham,D,24,Denmark,england,2021,60241.0,3132507.0
+Gedson Fernandes,Tottenham,M,21,Portugal,england,2021,58815.0,3058364.0
+James Tarkowski,Burnley,D,27,England,england,2021,57924.0,3012026.0
+Gabriel Magalhães,Arsenal,D,22,Brazil,england,2021,57924.0,3012026.0
+Christian Fuchs,Leicester,D,34,Austria,england,2021,57924.0,3012026.0
+Alex McCarthy,Southampton,K,30,England,england,2021,57924.0,3012026.0
+Mohamed Elneny,Arsenal,M,28,Egypt,england,2021,57924.0,3012026.0
+Aaron Cresswell,West Ham,D,30,England,england,2021,57924.0,3012026.0
+Jeffrey Schlupp,Crystal Palace,M,27,Ghana,england,2021,57924.0,3012026.0
+Rúben Neves,Wolverhampton,M,23,Portugal,england,2021,57924.0,3012026.0
+Jean-Philippe Mateta,Crystal Palace,F,23,France,england,2021,57924.0,3012026.0
+James Tomkins,Crystal Palace,D,31,England,england,2021,57924.0,3012026.0
+James McCarthy,Crystal Palace,M,29,Ireland,england,2021,57924.0,3012026.0
+Phil Jagielka,Sheffield United,D,38,England,england,2021,57924.0,3012026.0
+Pedro Neto,Wolverhampton,F,20,Portugal,england,2021,57924.0,3012026.0
+Kenny Tete,Fulham,D,25,Netherlands,england,2021,57924.0,3012026.0
+Alireza Jahanbakhsh,Brighton,F,27,Iran,england,2021,57924.0,3012026.0
+Ben White,Brighton,D,23,England,england,2021,57924.0,3012026.0
+Pascal Groß,Brighton,F,29,Germany,england,2021,57924.0,3012026.0
+Konstantinos Tsimikas,Liverpool,D,24,Greece,england,2021,57924.0,3012026.0
+Chris Wood,Burnley,F,28,New Zealand,england,2021,57924.0,3012026.0
+Calum Chambers,Arsenal,D,25,England,england,2021,57924.0,3012026.0
+Stuart Armstrong,Southampton,F,28,Scotland,england,2021,57924.0,3012026.0
+Harry Winks,Tottenham,M,24,England,england,2021,57924.0,3012026.0
+Mark Noble,West Ham,M,33,England,england,2021,57924.0,3012026.0
+Ademola Lookman,Fulham,F,23,England,england,2021,57344.0,2981905.0
+Erik Pieters,Burnley,D,32,Netherlands,england,2021,55696.0,2896178.0
+Ferran Torres,Manchester City,F,20,Spain,england,2021,53468.0,2780331.0
+Jake Livermore,West Bromwich,M,30,England,england,2021,53290.0,2771064.0
+Zack Steffen,Manchester City,K,25,United States,england,2021,53290.0,2771064.0
+Callum Wilson,Newcastle,F,28,England,england,2021,53290.0,2771064.0
+Keinan Davis,Aston Villa,F,22,England,england,2021,52131.0,2710823.0
+Joshua King,Everton,F,29,Norway,england,2021,52131.0,2710823.0
+Craig Dawson,West Ham,D,30,England,england,2021,52131.0,2710823.0
+Fabri,Fulham,K,32,Spain,england,2021,52131.0,2710823.0
+Matt Ritchie,Newcastle,D,31,Scotland,england,2021,52131.0,2710823.0
+Joe Hart,Tottenham,K,33,England,england,2021,52131.0,2710823.0
+Ayoze Pérez,Leicester,F,27,Spain,england,2021,52131.0,2710823.0
+Caglar Söyüncü,Leicester,D,24,Turkey,england,2021,52131.0,2710823.0
+Eddie Nketiah,Arsenal,F,21,England,england,2021,52131.0,2710823.0
+Jamal Lewis,Newcastle,D,22,Northern Ireland,england,2021,52131.0,2710823.0
+Marc Albrighton,Leicester,M,30,England,england,2021,52131.0,2710823.0
+Divock Origi,Liverpool,F,25,Belgium,england,2021,52131.0,2710823.0
+José Izquierdo,Brighton,F,28,Colombia,england,2021,52131.0,2710823.0
+James Ward-Prowse,Southampton,M,25,England,england,2021,52131.0,2710823.0
+Davy Pröpper,Brighton,M,29,Netherlands,england,2021,52131.0,2710823.0
+Morgan Sanson,Aston Villa,M,26,France,england,2021,52131.0,2710823.0
+Jack Stephens,Southampton,D,26,England,england,2021,52131.0,2710823.0
+Daniel James,Manchester United,F,22,Wales,england,2021,52131.0,2710823.0
+Emiliano Martínez,Aston Villa,K,28,Argentina,england,2021,52131.0,2710823.0
+Willian José,Wolverhampton,F,29,Brazil,england,2021,52131.0,2710823.0
+Federico Fernández,Newcastle,D,31,Argentina,england,2021,49903.0,2594976.0
+Miguel Almirón,Newcastle,F,26,Paraguay,england,2021,48656.0,2530102.0
+Ryan Fraser,Newcastle,F,26,Scotland,england,2021,48656.0,2530102.0
+Ki-Jana Hoever,Wolverhampton,D,18,Netherlands,england,2021,46784.0,2432790.0
+Henri Lansbury,Aston Villa,M,30,England,england,2021,46339.0,2409620.0
+Josh Brownhill,Burnley,M,24,England,england,2021,46339.0,2409620.0
+Dwight Gayle,Newcastle,F,30,England,england,2021,46339.0,2409620.0
+Wayne Hennessey,Crystal Palace,K,33,Wales,england,2021,46339.0,2409620.0
+William Saliba,Arsenal,D,19,France,england,2021,46339.0,2409620.0
+Tom Heaton,Aston Villa,K,34,England,england,2021,46339.0,2409620.0
+Fabián Balbuena,West Ham,D,29,Paraguay,england,2021,46339.0,2409620.0
+Mario Lemina,Fulham,M,27,Gabon,england,2021,46339.0,2409620.0
+Robert Snodgrass,West Bromwich,F,33,Scotland,england,2021,46339.0,2409620.0
+Kiko Casilla,Leeds,K,34,Spain,england,2021,46339.0,2409620.0
+Frédéric Guilbert,Aston Villa,D,25,France,england,2021,46339.0,2409620.0
+Florin Andone,Brighton,F,27,Romania,england,2021,46339.0,2409620.0
+Martin Dubravka,Newcastle,K,31,Slovakia,england,2021,46339.0,2409620.0
+Arthur Masuaku,West Ham,D,26,Democratic Republic of the Congo,england,2021,46339.0,2409620.0
+Robin Koch,Leeds,D,24,Germany,england,2021,46339.0,2409620.0
+Trent Alexander-Arnold,Liverpool,D,22,England,england,2021,46339.0,2409620.0
+Leandro Trossard,Brighton,F,25,Belgium,england,2021,46339.0,2409620.0
+Joël Veltman,Brighton,D,28,Netherlands,england,2021,46339.0,2409620.0
+Jamaal Lascelles,Newcastle,D,26,England,england,2021,46339.0,2409620.0
+Rob Holding,Arsenal,D,25,England,england,2021,46339.0,2409620.0
+Ryan Fredericks,West Ham,D,28,England,england,2021,46339.0,2409620.0
+Ashley Barnes,Burnley,F,31,England,england,2021,46339.0,2409620.0
+Diego Llorente,Leeds,D,27,Spain,england,2021,46339.0,2409620.0
+Robert Snodgrass,West Ham,F,33,Scotland,england,2021,46339.0,2409620.0
+Charly Musonda Jr,Chelsea,F,24,Belgium,england,2021,46339.0,2409620.0
+Fabian Schär,Newcastle,D,28,Switzerland,england,2021,46339.0,2409620.0
+Danny Ward,Leicester,K,27,Wales,england,2021,46339.0,2409620.0
+Tosin Adarabioyo,Fulham,D,23,England,england,2021,46339.0,2409620.0
+Tyrick Mitchell,Crystal Palace,D,21,England,england,2021,46339.0,2409620.0
+Kurt Zouma,Chelsea,D,25,France,england,2021,46339.0,2409620.0
+Branislav Ivanovic,West Bromwich,D,36,Serbia,england,2021,44557.0,2316943.0
+Jack Cork,Burnley,M,31,England,england,2021,44111.0,2293773.0
+Philippe Sandler,Manchester City,D,23,Netherlands,england,2021,44022.0,2289139.0
+Dale Stephens,Burnley,M,31,England,england,2021,43443.0,2259019.0
+Ivan Cavaleiro,Fulham,F,27,Portugal,england,2021,43443.0,2259019.0
+Ashley Westwood,Burnley,M,30,England,england,2021,41705.0,2168658.0
+Ainsley Maitland-Niles,Arsenal,M,23,England,england,2021,40547.0,2108418.0
+Robbie Brady,Burnley,M,28,Ireland,england,2021,40547.0,2108418.0
+Patrick Bamford,Leeds,F,27,England,england,2021,40547.0,2108418.0
+Youri Tielemans,Leicester,M,23,Belgium,england,2021,40547.0,2108418.0
+Willy Caballero,Chelsea,K,39,Argentina,england,2021,40547.0,2108418.0
+Ainsley Maitland-Niles,West Bromwich,M,23,England,england,2021,40547.0,2108418.0
+Henri Saivet,Newcastle,F,29,Senegal,england,2021,40547.0,2108418.0
+Tariq Lamptey,Brighton,D,20,England,england,2021,40547.0,2108418.0
+Vladimir Coufal,West Ham,D,28,Czech Republic,england,2021,40547.0,2108418.0
+Neal Maupay,Brighton,F,24,France,england,2021,40547.0,2108418.0
+Paul Dummett,Newcastle,D,29,Wales,england,2021,40547.0,2108418.0
+Mathew Ryan,Brighton,K,28,Australia,england,2021,40547.0,2108418.0
+Jonny Otto,Wolverhampton,D,26,Spain,england,2021,40547.0,2108418.0
+Jack Butland,Crystal Palace,K,27,England,england,2021,40547.0,2108418.0
+Marçal,Wolverhampton,D,31,Brazil,england,2021,40547.0,2108418.0
+Darren Randolph,West Ham,K,33,Ireland,england,2021,40547.0,2108418.0
+Adam Webster,Brighton,D,25,England,england,2021,40547.0,2108418.0
+Ciaran Clark,Newcastle,D,31,Ireland,england,2021,40547.0,2108418.0
+Wesley,Aston Villa,F,23,Brazil,england,2021,40547.0,2108418.0
+Mathew Ryan,Arsenal,K,28,Australia,england,2021,40547.0,2108418.0
+Joel Ward,Crystal Palace,D,30,England,england,2021,40547.0,2108418.0
+Matt Targett,Aston Villa,D,25,England,england,2021,40547.0,2108418.0
+Jay Rodríguez,Burnley,F,31,England,england,2021,40547.0,2108418.0
+Jordan Ayew,Crystal Palace,F,29,Ghana,england,2021,40547.0,2108418.0
+Bobby Reid,Fulham,F,27,Jamaica,england,2021,40547.0,2108418.0
+Jeff Hendrick,Newcastle,M,28,Ireland,england,2021,40547.0,2108418.0
+Javier Manquillo,Newcastle,D,26,Spain,england,2021,40547.0,2108418.0
+Matej Vydra,Burnley,F,28,Czech Republic,england,2021,40547.0,2108418.0
+Sander Berge,Sheffield United,M,22,Norway,england,2021,37873.0,1969401.0
+Hélder Costa,Leeds,F,26,Portugal,england,2021,37650.0,1957817.0
+Neil Taylor,Aston Villa,D,31,Wales,england,2021,36982.0,1923063.0
+Anwar El Ghazi,Aston Villa,F,25,Netherlands,england,2021,35868.0,1865139.0
+Karl Darlow,Newcastle,K,30,England,england,2021,34754.0,1807215.0
+Solly March,Brighton,M,26,England,england,2021,34754.0,1807215.0
+Harrison Reed,Fulham,M,25,England,england,2021,34754.0,1807215.0
+Muhamed Besic,Everton,M,28,Bosnia-Herzegovina,england,2021,34754.0,1807215.0
+Sam Johnstone,West Bromwich,K,27,England,england,2021,34754.0,1807215.0
+Ezri Konsa,Aston Villa,D,22,England,england,2021,34754.0,1807215.0
+Che Adams,Southampton,F,24,England,england,2021,34754.0,1807215.0
+Tom Cairney,Fulham,M,29,Scotland,england,2021,34754.0,1807215.0
+Douglas Luiz,Aston Villa,M,22,Brazil,england,2021,34754.0,1807215.0
+Conor Hourihane,Aston Villa,M,29,Ireland,england,2021,34754.0,1807215.0
+Marvelous Nakamba,Aston Villa,M,26,Zimbabwe,england,2021,34754.0,1807215.0
+Lee Grant,Manchester United,K,37,England,england,2021,34754.0,1807215.0
+Eberechi Eze,Crystal Palace,F,22,England,england,2021,34754.0,1807215.0
+Nick Pope,Burnley,K,28,England,england,2021,34754.0,1807215.0
+Josh Onomah,Fulham,F,23,England,england,2021,34754.0,1807215.0
+Alexis Mac Allister,Brighton,F,21,Argentina,england,2021,34754.0,1807215.0
+Christian Atsu,Newcastle,F,28,Ghana,england,2021,34754.0,1807215.0
+Kalvin Phillips,Leeds,M,24,England,england,2021,34754.0,1807215.0
+Jóhann Berg Gudmundsson,Burnley,F,29,Iceland,england,2021,34754.0,1807215.0
+DeAndre Yedlin,Newcastle,D,27,United States,england,2021,34754.0,1807215.0
+Joe Bryan,Fulham,D,27,England,england,2021,34754.0,1807215.0
+Axel Tuanzebe,Manchester United,D,22,England,england,2021,34754.0,1807215.0
+Hal Robson-Kanu,West Bromwich,F,31,Wales,england,2021,34754.0,1807215.0
+Okay Yokuslu,West Bromwich,M,26,Turkey,england,2021,34309.0,1784046.0
+Amad Diallo,Manchester United,F,18,Cote d'Ivoire,england,2021,33417.0,1737707.0
+Jonas Lössl,Everton,K,31,Denmark,england,2021,32526.0,1691368.0
+Rhian Brewster,Sheffield United,F,20,England,england,2021,31858.0,1656614.0
+David McGoldrick,Sheffield United,F,32,Ireland,england,2021,31858.0,1656614.0
+Andi Zeqiri,Brighton,F,21,Switzerland,england,2021,30700.0,1596374.0
+Ahmed Hegazy,West Bromwich,D,29,Egypt,england,2021,30700.0,1596374.0
+Bernardo,Brighton,D,25,Brazil,england,2021,28962.0,1506013.0
+Neco Williams,Liverpool,D,19,Wales,england,2021,28962.0,1506013.0
+Lys Mousset,Sheffield United,F,24,France,england,2021,28962.0,1506013.0
+Lys Mousset,Sheffield United,F,24,France,england,2021,28962.0,1506013.0
+Ahmed Elmohamady,Aston Villa,D,33,Egypt,england,2021,28962.0,1506013.0
+Scott Carson,Manchester City,K,35,England,england,2021,28962.0,1506013.0
+Jack Clarke,Tottenham,F,19,England,england,2021,28962.0,1506013.0
+Japhet Tanganga,Tottenham,D,21,England,england,2021,28962.0,1506013.0
+Phil Bardsley,Burnley,D,35,Scotland,england,2021,28962.0,1506013.0
+Mohammed Salisu,Southampton,D,21,Ghana,england,2021,28962.0,1506013.0
+Mateusz Klich,Leeds,M,30,Poland,england,2021,28962.0,1506013.0
+Liam Cooper,Leeds,D,29,Scotland,england,2021,28962.0,1506013.0
+Jack Harrison,Leeds,F,23,England,england,2021,28962.0,1506013.0
+Tim Ream,Fulham,D,33,United States,england,2021,28962.0,1506013.0
+Maxime Le Marchand,Fulham,D,31,France,england,2021,28962.0,1506013.0
+Kamil Grosicki,West Bromwich,F,32,Poland,england,2021,28962.0,1506013.0
+Antonee Robinson,Fulham,D,23,United States,england,2021,28962.0,1506013.0
+Tom Davies,Everton,M,22,England,england,2021,28962.0,1506013.0
+Martin Kelly,Crystal Palace,D,30,England,england,2021,28962.0,1506013.0
+Nathan Ferguson,Crystal Palace,D,20,England,england,2021,28962.0,1506013.0
+Yves Bissouma,Brighton,M,24,Mali,england,2021,28962.0,1506013.0
+Jacob Murphy,Newcastle,F,25,England,england,2021,28962.0,1506013.0
+Charlie Taylor,Burnley,D,27,England,england,2021,28962.0,1506013.0
+Matthew Lowton,Burnley,D,31,England,england,2021,28962.0,1506013.0
+Ola Aina,Fulham,D,24,Nigeria,england,2021,27803.0,1445772.0
+Aaron Connolly,Brighton,F,20,Ireland,england,2021,26734.0,1390166.0
+Kevin Long,Burnley,D,30,Ireland,england,2021,26734.0,1390166.0
+Eldin Jakupovic,Leicester,K,36,Switzerland,england,2021,26734.0,1390166.0
+Mbaye Diagne,West Bromwich,F,29,Senegal,england,2021,26288.0,1366996.0
+Bailey Peacock-Farrell,Burnley,K,23,Northern Ireland,england,2021,26066.0,1355412.0
+Kenneth Zohore,West Bromwich,F,27,Denmark,england,2021,26066.0,1355412.0
+Cédric Kipré,West Bromwich,D,23,France,england,2021,26066.0,1355412.0
+Terence Kongolo,Fulham,D,26,Netherlands,england,2021,25486.0,1325291.0
+Kevin McDonald,Fulham,M,31,Scotland,england,2021,25486.0,1325291.0
+Romain Saïss,Wolverhampton,D,30,Morocco,england,2021,25397.0,1320657.0
+Isaac Hayden,Newcastle,M,25,England,england,2021,25397.0,1320657.0
+Harry Lewis,Southampton,K,22,England,england,2021,24506.0,1274319.0
+Grady Diangana,West Bromwich,F,22,England,england,2021,23575.0,1225894.0
+Oliver McBurnie,Sheffield United,F,24,Scotland,england,2021,23169.0,1204810.0
+Joe Willock,Arsenal,M,21,England,england,2021,23169.0,1204810.0
+Jed Steer,Aston Villa,K,28,England,england,2021,23169.0,1204810.0
+Adam Forshaw,Leeds,M,29,England,england,2021,23169.0,1204810.0
+Luke Ayling,Leeds,D,29,England,england,2021,23169.0,1204810.0
+Pascal Struijk,Leeds,D,21,Netherlands,england,2021,23169.0,1204810.0
+Daniel Amartey,Leicester,M,25,Ghana,england,2021,23169.0,1204810.0
+Oleksandr Zinchenko,Manchester City,D,23,Ukraine,england,2021,23169.0,1204810.0
+Facundo Pellistri,Manchester United,F,18,Uruguay,england,2021,23169.0,1204810.0
+Joe Willock,Newcastle,M,21,England,england,2021,23169.0,1204810.0
+Michael Verrips,Sheffield United,K,23,Netherlands,england,2021,23169.0,1204810.0
+Kyle Walker-Peters,Southampton,D,23,England,england,2021,23169.0,1204810.0
+Paulo Gazzaniga,Tottenham,K,28,Argentina,england,2021,23169.0,1204810.0
+Karlan Grant,West Bromwich,F,23,England,england,2021,23169.0,1204810.0
+Matt Phillips,West Bromwich,F,29,Scotland,england,2021,23169.0,1204810.0
+Ben Johnson,West Ham,D,20,England,england,2021,23169.0,1204810.0
+Wesley Fofana,Leicester,D,19,France,england,2021,22278.0,1158471.0
+Pablo Hernández,Leeds,F,35,Spain,england,2021,22011.0,1144570.0
+Michael Hector,Fulham,D,28,Jamaica,england,2021,21432.0,1114449.0
+Darnell Furlong,West Bromwich,D,24,England,england,2021,21432.0,1114449.0
+Nathan Bishop,Manchester United,K,21,England,england,2021,21164.0,1100548.0
+Sam McQueen,Southampton,D,25,England,england,2021,20942.0,1088963.0
+Jayson Molumby,Brighton,M,21,Ireland,england,2021,20050.0,1042624.0
+Will Smallbone,Southampton,M,20,Ireland,england,2021,20050.0,1042624.0
+Michael Obafemi,Southampton,F,20,Ireland,england,2021,19605.0,1019455.0
+Semi Ajayi,West Bromwich,D,26,Nigeria,england,2021,19115.0,993968.0
+Jayden Bogle,Sheffield United,D,20,England,england,2021,19115.0,993968.0
+Percy Tau,Brighton,F,26,South Africa,england,2021,18491.0,961531.0
+Lovre Kalinic,Aston Villa,K,30,Croatia,england,2021,18202.0,946499.0
+Frederik Alves,West Ham,D,21,Denmark,england,2021,17823.0,926777.0
+Robin Olsen,Everton,K,30,Sweden,england,2021,17667.0,918668.0
+Neeskens Kebano,Fulham,F,28,Democratic Republic of the Congo,england,2021,17377.0,903608.0
+Reiss Nelson,Arsenal,F,20,England,england,2021,17377.0,903608.0
+Moisés Caicedo,Brighton,M,19,Ecuador,england,2021,17377.0,903608.0
+Aaron Ramsdale,Sheffield United,K,22,England,england,2021,17377.0,903608.0
+Jonjoe Kenny,Everton,D,23,England,england,2021,17377.0,903608.0
+Rolando Aarons,Newcastle,F,24,England,england,2021,17377.0,903608.0
+Oliver Norwood,Sheffield United,M,29,Northern Ireland,england,2021,17377.0,903608.0
+Rúnar Alex Rúnarsson,Arsenal,K,25,Iceland,england,2021,17377.0,903608.0
+Achraf Lazaar,Newcastle,D,28,Morocco,england,2021,17377.0,903608.0
+Stuart Dallas,Leeds,D,29,Northern Ireland,england,2021,17377.0,903608.0
+Timothy Fosu-Mensah,Manchester United,D,22,Netherlands,england,2021,17377.0,903608.0
+Ezgjan Alioski,Leeds,M,28,North Macedonia,england,2021,17377.0,903608.0
+Emile Smith Rowe,Arsenal,F,20,England,england,2021,17377.0,903608.0
+Filip Krovinovic,West Bromwich,F,25,Croatia,england,2021,17377.0,903608.0
+Dan Burn,Brighton,D,28,England,england,2021,17377.0,903608.0
+Jason Steele,Brighton,K,30,England,england,2021,17377.0,903608.0
+Marek Rodak,Fulham,K,23,Slovakia,england,2021,17377.0,903608.0
+Steven Alzate,Brighton,M,22,Colombia,england,2021,17377.0,903608.0
+Fikayo Tomori,Chelsea,D,22,England,england,2021,16709.0,868854.0
+Lee Peltier,West Bromwich,D,33,England,england,2021,15639.0,813247.0
+Kyle Bartley,West Bromwich,D,29,England,england,2021,15639.0,813247.0
+Jack Rodwell,Sheffield United,M,29,England,england,2021,15292.0,795175.0
+Josh Maja,Fulham,F,22,Nigeria,england,2021,14926.0,776176.0
+Aboubakar Kamara,Fulham,F,25,France,england,2021,14481.0,753006.0
+Matthew Pennington,Everton,D,26,England,england,2021,14481.0,753006.0
+Gaetano Berardi,Leeds,D,32,Switzerland,england,2021,14481.0,753006.0
+Romaine Sawyers,West Bromwich,M,28,St. Kitts & Nevis,england,2021,14481.0,753006.0
+Roderick Miranda,Wolverhampton,D,29,Portugal,england,2021,14481.0,753006.0
+Nathan Tella,Southampton,F,21,England,england,2021,14481.0,753006.0
+Billy Sharp,Sheffield United,F,34,England,england,2021,13902.0,722886.0
+Eric García,Manchester City,D,19,Spain,england,2021,13813.0,718252.0
+Ben Woodburn,Liverpool,F,21,Wales,england,2021,13813.0,718252.0
+Michal Karbownik,Brighton,D,19,Poland,england,2021,13590.0,706668.0
+Conor Townsend,West Bromwich,D,27,England,england,2021,13322.0,692766.0
+Jack Robinson,Sheffield United,D,27,England,england,2021,12743.0,662646.0
+Carlos Vinícius,Tottenham,F,25,Brazil,england,2021,12030.0,625575.0
+Jakub Moder,Brighton,M,21,Poland,england,2021,11585.0,602405.0
+Jack O'Connell,Sheffield United,D,26,England,england,2021,11585.0,602405.0
+Mark Gillespie,Newcastle,K,28,England,england,2021,11585.0,602405.0
+Tommy Doyle,Manchester City,M,19,England,england,2021,11585.0,602405.0
+Curtis Jones,Liverpool,M,19,England,england,2021,11585.0,602405.0
+Luke Thomas,Leicester,D,19,England,england,2021,11585.0,602405.0
+James Justin,Leicester,D,22,England,england,2021,11585.0,602405.0
+Harvey Barnes,Leicester,M,22,England,england,2021,11585.0,602405.0
+Matt Macey,Arsenal,K,26,England,england,2021,11585.0,602405.0
+Illan Meslier,Leeds,K,20,France,england,2021,11585.0,602405.0
+Andy Lonergan,West Bromwich,K,37,England,england,2021,11585.0,602405.0
+Stefan Johansen,Fulham,M,29,Norway,england,2021,11585.0,602405.0
+Rekeem Harper,West Bromwich,M,20,England,england,2021,11585.0,602405.0
+Anthony Gordon,Everton,F,19,England,england,2021,11585.0,602405.0
+Robert Sánchez,Brighton,K,22,Spain,england,2021,11585.0,602405.0
+Joe Rodon,Tottenham,D,22,Wales,england,2021,11139.0,579236.0
+Chris Basham,Sheffield United,D,32,England,england,2021,10850.0,564176.0
+Denis Odoi,Fulham,D,32,Belgium,england,2021,10310.0,536141.0
+Oliver Burke,Sheffield United,F,23,Scotland,england,2021,10195.0,530117.0
+Ian Poveda,Leeds,F,20,England,england,2021,9557.0,496984.0
+Beni Baningime,Everton,M,22,Democratic Republic of the Congo,england,2021,9357.0,486558.0
+John Fleck,Sheffield United,M,29,Scotland,england,2021,9357.0,486558.0
+Kortney Hause,Aston Villa,D,25,England,england,2021,9357.0,486558.0
+Christian Walton,Brighton,K,24,England,england,2021,9268.0,481924.0
+Sam Field,West Bromwich,M,22,England,england,2021,9268.0,481924.0
+David Martin,West Ham,K,34,England,england,2021,9268.0,481924.0
+Callum Robinson,West Bromwich,F,25,Ireland,england,2021,8911.0,463389.0
+Hamza Choudhury,Leicester,M,23,England,england,2021,8689.0,451804.0
+Matthew Longstaff,Newcastle,M,20,England,england,2021,8689.0,451804.0
+João Virgínia,Everton,K,21,Portugal,england,2021,8689.0,451804.0
+Jacob Ramsey,Aston Villa,F,19,England,england,2021,8689.0,451804.0
+John Egan,Sheffield United,D,28,Ireland,england,2021,8689.0,451804.0
+Ethan Ampadu,Sheffield United,D,20,Wales,england,2021,8689.0,451804.0
+Taylor Harwood-Bellis,Manchester City,D,18,England,england,2021,8689.0,451804.0
+Stephen Henderson,Crystal Palace,K,32,Ireland,england,2021,8020.0,417050.0
+Matheus Pereira,West Bromwich,F,24,Brazil,england,2021,6951.0,361443.0
+Caoimhin Kelleher,Liverpool,K,21,Ireland,england,2021,6906.0,359126.0
+Will Norris,Burnley,K,27,England,england,2021,6683.0,347541.0
+John Ruddy,Wolverhampton,K,33,England,england,2021,6683.0,347541.0
+Dejan Iliev,Arsenal,K,25,North Macedonia,england,2021,6683.0,347541.0
+Jonathan Bond,West Bromwich,K,27,England,england,2021,6372.0,331323.0
+Wes Foderingham,Sheffield United,K,29,England,england,2021,6372.0,331323.0
+Jarrad Branthwaite,Everton,D,18,England,england,2021,6372.0,331323.0
+Dwight McNeil,Burnley,F,20,England,england,2021,5792.0,301203.0
+Conor Gallagher,West Bromwich,M,20,England,england,2021,5792.0,301203.0
+Joe Gelhardt,Leeds,F,18,England,england,2021,5792.0,301203.0
+Sepp van den Berg,Liverpool,D,18,Netherlands,england,2021,5792.0,301203.0
+Billy Gilmour,Chelsea,M,19,Scotland,england,2021,5792.0,301203.0
+Oskar Buur,Wolverhampton,D,22,Denmark,england,2021,5792.0,301203.0
+Simon Moore,Sheffield United,K,30,England,england,2021,5792.0,301203.0
+Karlo Ziger,Chelsea,K,19,Croatia,england,2021,5570.0,289618.0
+Mace Goodridge,Burnley,M,21,England,england,2021,5213.0,271082.0
+Niels Nkounkou,Everton,D,19,France,england,2021,5213.0,271082.0
+Jake Vokins,Southampton,D,20,England,england,2021,5213.0,271082.0
+Rayan Aït Nouri,Wolverhampton,D,19,France,england,2021,5213.0,271082.0
+Max Lowe,Sheffield United,D,23,England,england,2021,5097.0,265058.0
+David Button,West Bromwich,K,31,England,england,2021,5079.0,264131.0
+Enda Stevens,Sheffield United,D,30,Ireland,england,2021,4678.0,243279.0
+Ben Osborn,Sheffield United,M,26,England,england,2021,4678.0,243279.0
+John Lundstram,Sheffield United,M,26,England,england,2021,4678.0,243279.0
+George Baldock,Sheffield United,D,27,England,england,2021,4678.0,243279.0
+Ouasim Bouy,Leeds,M,27,Morocco,england,2021,4634.0,240962.0
+Dara O'Shea,West Bromwich,D,21,Ireland,england,2021,4634.0,240962.0
+Tyler Roberts,Leeds,F,21,Wales,england,2021,4055.0,210842.0
+Kean Bryan,Sheffield United,D,23,England,england,2021,3565.0,185355.0
+Jimmy Dunne,Burnley,D,23,Ireland,england,2021,3475.0,180722.0
+Alfie Whiteman,Tottenham,K,22,England,england,2021,2896.0,150601.0
+Sam Woods,Crystal Palace,D,22,England,england,2021,2896.0,150601.0
+Max Kilman,Wolverhampton,D,23,England,england,2021,2317.0,120481.0
+Yan Valery,Southampton,D,21,France,england,2021,2228.0,115847.0
+Vitinha,Wolverhampton,F,20,Portugal,england,2021,2201.0,114457.0
+Rhys Williams,Liverpool,D,19,England,england,2021,1782.0,92678.0
+Jamie Shackleton,Leeds,M,21,England,england,2021,1738.0,90361.0
+Conor Shaughnessy,Leeds,M,24,Ireland,england,2021,1738.0,90361.0
+Luke Matheson,Wolverhampton,D,18,England,england,2021,1738.0,90361.0
+Kyle Edwards,West Bromwich,F,22,England,england,2021,1738.0,90361.0
+Morgan Gibbs-White,Wolverhampton,M,21,England,england,2021,1738.0,90361.0
+Owen Otasowie,Wolverhampton,M,20,United States,england,2021,1738.0,90361.0
+Sylvester Jasper,Fulham,F,19,England,england,2021,1738.0,90361.0
+Kyron Gordon,Sheffield United,D,18,England,england,2021,1738.0,90361.0
+Dan N'Lundulu,Southampton,F,21,England,england,2021,1559.0,81093.0
+Richard Nartey,Burnley,D,22,England,england,2021,1448.0,75301.0
+Lukas Jensen,Burnley,K,21,Denmark,england,2021,1448.0,75301.0
+Oliver Casey,Leeds,D,20,England,england,2021,1390.0,72289.0
+Sean Longstaff,Newcastle,M,22,England,england,2021,1158.0,60241.0
+Elia Caprile,Leeds,K,19,Italy,england,2021,1158.0,60241.0
+Max Sanders,Brighton,M,21,England,england,2021,956.0,49698.0
+George Wickens,Fulham,K,18,England,england,2021,869.0,45180.0
+Jay Stansfield,Fulham,F,17,England,england,2021,869.0,45180.0
+Bobby Thomas,Burnley,D,19,England,england,2021,869.0,45180.0
+Leif Davis,Leeds,D,20,England,england,2021,668.0,34754.0
+Dan Langley,Newcastle,K,19,England,england,2021,579.0,30120.0
+Zak Brunt,Sheffield United,M,18,England,england,2021,579.0,30120.0
+Brandon Pierrick,Crystal Palace,F,18,England,england,2021,557.0,28962.0
+George Broadbent,Sheffield United,M,20,England,england,2021,521.0,27108.0

@@ -1,0 +1,638 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Ciro Immobile,Besiktas,F,34,Italy,turkey,2425,144231.0,7500000.0
+Victor Osimhen,Galatasaray,F,26,Nigeria,turkey,2425,144231.0,7500000.0
+Rafa Silva,Besiktas,F,31,Portugal,turkey,2425,144231.0,7500000.0
+Mauro Icardi,Galatasaray,F,31,Argentina,turkey,2425,144231.0,7500000.0
+Milan Skriniar,Fenerbahce,D,30,Slovakia,turkey,2425,108269.0,5630000.0
+Edin Dzeko,Fenerbahce,F,38,Bosnia-Herzegovina,turkey,2425,100962.0,5250000.0
+Dusan Tadic,Fenerbahce,F,36,Serbia,turkey,2425,100962.0,5250000.0
+Fred,Fenerbahce,M,31,Brazil,turkey,2425,100962.0,5250000.0
+Lucas Torreira,Galatasaray,M,29,Uruguay,turkey,2425,96154.0,5000000.0
+Talisca,Fenerbahce,F,31,Brazil,turkey,2425,96154.0,5000000.0
+Diego Carlos,Fenerbahce,D,31,Brazil,turkey,2425,96154.0,5000000.0
+Youssef En-Nesyri,Fenerbahce,F,27,Morocco,turkey,2425,96154.0,5000000.0
+Krzysztof Piatek,Basaksehir,F,29,Poland,turkey,2425,84231.0,4380000.0
+Stefan Savic,Trabzonspor,D,34,Montenegro,turkey,2425,76923.0,4000000.0
+Davinson Sánchez,Galatasaray,D,28,Colombia,turkey,2425,76923.0,4000000.0
+Michy Batshuayi,Galatasaray,F,30,Belgium,turkey,2425,72115.0,3750000.0
+Sofyan Amrabat,Fenerbahce,M,28,Morocco,turkey,2425,72115.0,3750000.0
+Álvaro Morata,Galatasaray,F,32,Spain,turkey,2425,72115.0,3750000.0
+Dries Mertens,Galatasaray,F,37,Belgium,turkey,2425,69808.0,3630000.0
+Hakim Ziyech,Galatasaray,F,31,Morocco,turkey,2425,68462.0,3560000.0
+Gabriel Sara,Galatasaray,M,25,Brazil,turkey,2425,66154.0,3440000.0
+Alex Oxlade-Chamberlain,Besiktas,M,31,England,turkey,2425,60192.0,3130000.0
+Cengiz Ünder,Fenerbahce,F,27,Turkey,turkey,2425,60192.0,3130000.0
+Fernando Muslera,Galatasaray,K,38,Uruguay,turkey,2425,60192.0,3130000.0
+Filip Kostić,Fenerbahce,D,32,Serbia,turkey,2425,60192.0,3130000.0
+Roland Sallai,Galatasaray,F,27,Hungary,turkey,2425,60192.0,3130000.0
+Sebastian Szymański,Fenerbahce,F,25,Poland,turkey,2425,60192.0,3130000.0
+Gabriel Paulista,Besiktas,D,34,Brazil,turkey,2425,50962.0,2650000.0
+Ismail Jakobs,Galatasaray,D,25,Senegal,turkey,2425,50577.0,2630000.0
+Arthur Masuaku,Besiktas,D,31,Democratic Republic of the Congo,turkey,2425,49038.0,2550000.0
+Miguel Crespo,Basaksehir,M,28,Portugal,turkey,2425,48077.0,2500000.0
+João Mário,Besiktas,M,32,Portugal,turkey,2425,48077.0,2500000.0
+Çağlar Söyüncü,Fenerbahce,D,28,Turkey,turkey,2425,48077.0,2500000.0
+Milot Rashica,Besiktas,F,28,Kosovo,turkey,2425,48077.0,2500000.0
+Rodrigo Becão,Fenerbahce,D,29,Brazil,turkey,2425,43269.0,2250000.0
+Ernest Muci,Besiktas,F,23,Albania,turkey,2425,43269.0,2250000.0
+Bright Osayi-Samuel,Fenerbahce,D,27,Nigeria,turkey,2425,43269.0,2250000.0
+Umut Bozok,Trabzonspor,F,27,Turkey,turkey,2425,40962.0,2130000.0
+Ryan Kent,Fenerbahce,F,27,England,turkey,2425,40962.0,2130000.0
+Gedson Fernandes,Besiktas,M,26,Portugal,turkey,2425,40962.0,2130000.0
+Felix Uduokhai,Besiktas,D,27,Germany,turkey,2425,40962.0,2130000.0
+Alexander Djiku,Fenerbahce,D,30,Ghana,turkey,2425,40962.0,2130000.0
+Ui-jo Hwang,Alanyaspor,F,32,South Korea,turkey,2425,39615.0,2060000.0
+Mislav Orsic,Trabzonspor,F,31,Croatia,turkey,2425,38462.0,2000000.0
+Dominik Livakovic,Fenerbahce,K,30,Croatia,turkey,2425,38462.0,2000000.0
+Josip Brekalo,Kasimpasa,F,26,Croatia,turkey,2425,38462.0,2000000.0
+Kaan Ayhan,Galatasaray,D,30,Turkey,turkey,2425,36154.0,1880000.0
+Antonín Barák,Kasimpasa,F,30,Czech Republic,turkey,2425,36154.0,1880000.0
+İrfan Can Kahveci,Fenerbahce,F,29,Turkey,turkey,2425,36154.0,1880000.0
+Rachid Ghezzal,Caykur Rizespor,F,32,Algeria,turkey,2425,36154.0,1880000.0
+John Lundstram,Trabzonspor,M,30,England,turkey,2425,36154.0,1880000.0
+Anthony Nwakaeme,Trabzonspor,F,35,Nigeria,turkey,2425,36154.0,1880000.0
+Vincent Aboubakar,Hatayspor,F,33,Cameroon,turkey,2425,36154.0,1880000.0
+Mert Günok,Besiktas,K,35,Turkey,turkey,2425,36154.0,1880000.0
+Edin Visca,Trabzonspor,F,34,Bosnia-Herzegovina,turkey,2425,36154.0,1880000.0
+Batista Mendy,Trabzonspor,M,25,France,turkey,2425,34423.0,1790000.0
+Muhammed Cham,Trabzonspor,F,24,Austria,turkey,2425,33269.0,1730000.0
+Sam Larsson,Antalyaspor,F,31,Sweden,turkey,2425,31346.0,1630000.0
+Enis Bardhi,Trabzonspor,F,29,North Macedonia,turkey,2425,31346.0,1630000.0
+Abdülkadir Ömür,Caykur Rizespor,F,25,Turkey,turkey,2425,31346.0,1630000.0
+Uğurcan Çakır,Trabzonspor,K,28,Turkey,turkey,2425,31346.0,1630000.0
+Emre Mor,Eyupspor,F,27,Turkey,turkey,2425,30000.0,1560000.0
+Al Musrati,Besiktas,M,28,Libya,turkey,2425,30000.0,1560000.0
+Cenk Tosun,Fenerbahce,F,33,Turkey,turkey,2425,30000.0,1560000.0
+Mario Lemina,Galatasaray,M,31,Gabon,turkey,2425,30000.0,1560000.0
+Lucas Lima,Basaksehir,D,33,Brazil,turkey,2425,29423.0,1530000.0
+Moussa Djenepo,Antalyaspor,F,26,Mali,turkey,2425,28846.0,1500000.0
+Mert Müldür,Fenerbahce,D,25,Turkey,turkey,2425,28846.0,1500000.0
+Jonjo Shelvey,Eyupspor,M,32,England,turkey,2425,28846.0,1500000.0
+Baktiyar Zaynutdinov,Besiktas,D,26,Kazakhstan,turkey,2425,28846.0,1500000.0
+Léo Dubois,Eyupspor,D,30,France,turkey,2425,28846.0,1500000.0
+Ozan Tufan,Trabzonspor,M,29,Turkey,turkey,2425,28846.0,1500000.0
+Okay Yokuşlu,Trabzonspor,M,30,Turkey,turkey,2425,28846.0,1500000.0
+David Tijanic,Goztepe,F,27,Slovenia,turkey,2425,28654.0,1490000.0
+Amir Hadziahmetovic,Caykur Rizespor,M,27,Bosnia-Herzegovina,turkey,2425,27885.0,1450000.0
+Amir Hadziahmetovic,Besiktas,M,27,Bosnia-Herzegovina,turkey,2425,27885.0,1450000.0
+Berat Özdemir,Basaksehir,M,26,Turkey,turkey,2425,27692.0,1440000.0
+David Datro Fofana,Goztepe,F,21,Cote d'Ivoire,turkey,2425,26731.0,1390000.0
+Emrecan Uzunhan,Antalyaspor,D,23,Turkey,turkey,2425,26538.0,1380000.0
+Adolfo Gaich,Antalyaspor,F,25,Argentina,turkey,2425,25192.0,1310000.0
+Landry Dimata,Samsunspor,F,27,Belgium,turkey,2425,24615.0,1280000.0
+Enis Bardhi,Bodrum,F,29,North Macedonia,turkey,2425,24038.0,1250000.0
+Sergio Córdova,Alanyaspor,F,27,Venezuela,turkey,2425,24038.0,1250000.0
+Tonny Vilhena,Alanyaspor,M,30,Netherlands,turkey,2425,24038.0,1250000.0
+Kerem Demirbay,Galatasaray,M,31,Germany,turkey,2425,24038.0,1250000.0
+Samet Akaydin,Caykur Rizespor,D,30,Turkey,turkey,2425,24038.0,1250000.0
+George Pușcaș,Bodrum,F,28,Romania,turkey,2425,24038.0,1250000.0
+Jonas Svensson,Besiktas,D,32,Norway,turkey,2425,24038.0,1250000.0
+Deniz Türüç,Basaksehir,F,32,Turkey,turkey,2425,24038.0,1250000.0
+Léo Duarte,Basaksehir,D,28,Brazil,turkey,2425,24038.0,1250000.0
+Halil Dervişoğlu,Gaziantep BB,F,25,Turkey,turkey,2425,23077.0,1200000.0
+Ali Sowe,Caykur Rizespor,F,30,The Gambia,turkey,2425,22308.0,1160000.0
+Alexandru Maxim,Gaziantep BB,F,34,Romania,turkey,2425,22308.0,1160000.0
+Guilherme,Konyaspor,D,34,Brazil,turkey,2425,22115.0,1150000.0
+Dimitrios Pelkas,Basaksehir,F,30,Greece,turkey,2425,21731.0,1130000.0
+Olivier Ntcham,Samsunspor,F,29,Cameroon,turkey,2425,21731.0,1130000.0
+Ousseynou Ba,Basaksehir,D,29,Senegal,turkey,2425,21731.0,1130000.0
+Queensy Menig,Sivasspor,F,29,Netherlands,turkey,2425,21731.0,1130000.0
+Elias Jelert,Galatasaray,D,21,Denmark,turkey,2425,21731.0,1130000.0
+Ivo Grbic,Caykur Rizespor,K,29,Croatia,turkey,2425,21731.0,1130000.0
+Rey Manaj,Sivasspor,F,27,Albania,turkey,2425,21731.0,1130000.0
+Stefano Denswil,Trabzonspor,D,31,Suriname,turkey,2425,21154.0,1100000.0
+Przemyslaw Frankowski,Galatasaray,D,29,Poland,turkey,2425,20385.0,1060000.0
+Yusuf Demir,Galatasaray,F,21,Austria,turkey,2425,20385.0,1060000.0
+Arbnor Muja,Samsunspor,F,26,Albania,turkey,2425,20192.0,1050000.0
+Pedro Malheiro,Trabzonspor,D,24,Portugal,turkey,2425,20000.0,1040000.0
+Salih Uçan,Besiktas,M,31,Turkey,turkey,2425,19808.0,1030000.0
+Oğuz Aydın,Fenerbahce,F,24,Turkey,turkey,2425,19231.0,1000000.0
+Badou Ndiaye,Gaziantep BB,M,34,Senegal,turkey,2425,19231.0,1000000.0
+Flavien Tait,Samsunspor,M,32,France,turkey,2425,19231.0,1000000.0
+Kingsley Schindler,Samsunspor,F,31,Ghana,turkey,2425,19231.0,1000000.0
+Jayden Oosterwolde,Fenerbahce,D,23,Netherlands,turkey,2425,19231.0,1000000.0
+Serdar Aziz,Fenerbahce,D,34,Turkey,turkey,2425,18462.0,960000.0
+Borna Barisic,Trabzonspor,D,32,Croatia,turkey,2425,18077.0,940000.0
+Samet Akaydin,Fenerbahce,D,30,Turkey,turkey,2425,18077.0,940000.0
+Abdülkerim Bardakcı,Galatasaray,D,30,Turkey,turkey,2425,18077.0,940000.0
+Jean Onana,Besiktas,M,25,Cameroon,turkey,2425,18077.0,940000.0
+Oleksandr Zubkov,Trabzonspor,F,28,Ukraine,turkey,2425,17500.0,910000.0
+Florent Hadergjonaj,Alanyaspor,D,30,Kosovo,turkey,2425,17308.0,900000.0
+Berkay Özcan,Basaksehir,M,26,Turkey,turkey,2425,16923.0,880000.0
+Ercan Kara,Samsunspor,F,28,Austria,turkey,2425,16923.0,880000.0
+Umut Bozok,Eyupspor,F,28,Turkey,turkey,2425,16923.0,880000.0
+Andros Townsend,Antalyaspor,F,33,England,turkey,2425,16923.0,880000.0
+Serdar Gürler,Basaksehir,F,33,Turkey,turkey,2425,16923.0,880000.0
+Umut Nayir,Konyaspor,F,31,Turkey,turkey,2425,16923.0,880000.0
+Berkay Özcan,Caykur Rizespor,M,26,Turkey,turkey,2425,16923.0,880000.0
+Keita Baldé,Sivasspor,F,29,Senegal,turkey,2425,16923.0,880000.0
+Ersin Destanoğlu,Besiktas,K,24,Turkey,turkey,2425,16923.0,880000.0
+João Figueiredo,Basaksehir,F,28,Brazil,turkey,2425,15962.0,830000.0
+Kenneth Omeruo,Kasimpasa,D,30,Nigeria,turkey,2425,15962.0,830000.0
+Richard,Alanyaspor,M,30,Brazil,turkey,2425,15962.0,830000.0
+Ertuğrul Taşkıran,Alanyaspor,K,35,Turkey,turkey,2425,15962.0,830000.0
+Giannis Papanikolaou,Caykur Rizespor,M,26,Greece,turkey,2425,15577.0,810000.0
+Yusuf Sarı,Basaksehir,F,26,Turkey,turkey,2425,15577.0,810000.0
+Carlos Cuesta,Galatasaray,D,25,Colombia,turkey,2425,15577.0,810000.0
+Günay Güvenç,Galatasaray,K,33,Turkey,turkey,2425,15385.0,800000.0
+Carlos Strandberg,Hatayspor,F,28,Sweden,turkey,2425,14615.0,760000.0
+Emirhan Topçu,Besiktas,D,24,Turkey,turkey,2425,14423.0,750000.0
+Christopher Operi,Basaksehir,D,27,Cote d'Ivoire,turkey,2425,14423.0,750000.0
+Burak Kapacak,Fenerbahce,F,25,Turkey,turkey,2425,14423.0,750000.0
+Koray Günter,Goztepe,D,30,Germany,turkey,2425,14423.0,750000.0
+Alassane Ndao,Konyaspor,F,28,Senegal,turkey,2425,14423.0,750000.0
+Umut Güneş,Basaksehir,M,24,Turkey,turkey,2425,14423.0,750000.0
+Mame Thiam,Eyupspor,F,32,Senegal,turkey,2425,14423.0,750000.0
+Olivier Kemen,Basaksehir,M,28,Cameroon,turkey,2425,14423.0,750000.0
+David Okereke,Gaziantep BB,F,27,Nigeria,turkey,2425,14423.0,750000.0
+Onur Bulut,Besiktas,D,30,Turkey,turkey,2425,14423.0,750000.0
+Élan Ricardo,Besiktas,M,20,Colombia,turkey,2425,14038.0,730000.0
+Riechedly Bazoer,Konyaspor,D,28,Curacao,turkey,2425,13269.0,690000.0
+Can Keleş,Kasimpasa,F,23,Austria,turkey,2425,13269.0,690000.0
+Victor Nelsson,Galatasaray,D,26,Denmark,turkey,2425,13269.0,690000.0
+Yunus Akgün,Galatasaray,F,24,Turkey,turkey,2425,13269.0,690000.0
+Can Keleş,Besiktas,F,23,Austria,turkey,2425,13269.0,690000.0
+Hasan Ali Kaldırım,Kayserispor,D,35,Turkey,turkey,2425,13269.0,690000.0
+Nabil Alioui,Adana Demirspor,F,25,France,turkey,2425,13077.0,680000.0
+Ahmed Kutucu,Galatasaray,F,24,Turkey,turkey,2425,13077.0,680000.0
+Sinan Bolat,Kasimpasa,K,36,Turkey,turkey,2425,13077.0,680000.0
+Onurcan Piri,Kayserispor,K,30,Turkey,turkey,2425,12500.0,650000.0
+Dimitrios Kolovetsios,Kayserispor,D,33,Greece,turkey,2425,12500.0,650000.0
+Mert Hakan Yandaş,Fenerbahce,F,30,Turkey,turkey,2425,12308.0,640000.0
+Aylton Boa Morte,Kayserispor,F,30,Portugal,turkey,2425,12308.0,640000.0
+Cher Ndour,Besiktas,M,20,Italy,turkey,2425,12308.0,640000.0
+Levent Mercan,Fenerbahce,D,24,Turkey,turkey,2425,12308.0,640000.0
+Stéphane Bahoken,Kayserispor,F,32,Cameroon,turkey,2425,12115.0,630000.0
+Simon Banza,Trabzonspor,F,28,Democratic Republic of the Congo,turkey,2425,12115.0,630000.0
+İsmail Yüksek,Fenerbahce,M,26,Turkey,turkey,2425,12115.0,630000.0
+Necip Uysal,Besiktas,D,34,Turkey,turkey,2425,12115.0,630000.0
+Taras Stepanenko,Eyupspor,M,35,Ukraine,turkey,2425,12115.0,630000.0
+Samuel Moutoussamy,Sivasspor,M,28,Democratic Republic of the Congo,turkey,2425,12115.0,630000.0
+Carlos Mané,Kayserispor,F,30,Guinea-Bissau,turkey,2425,12115.0,630000.0
+Kévin Rodrigues,Kasimpasa,D,31,Portugal,turkey,2425,12115.0,630000.0
+Efkan Bekiroğlu,Sivasspor,F,29,Turkey,turkey,2425,12115.0,630000.0
+Andraz Sporar,Alanyaspor,F,30,Slovenia,turkey,2425,12115.0,630000.0
+Emre Kılınç,Samsunspor,F,30,Turkey,turkey,2425,12115.0,630000.0
+Rony Lopes,Alanyaspor,F,29,Portugal,turkey,2425,12115.0,630000.0
+Danylo Sikan,Trabzonspor,F,23,Ukraine,turkey,2425,12115.0,630000.0
+Denis Drăguș,Trabzonspor,F,25,Romania,turkey,2425,12115.0,630000.0
+Emmanuel Boateng,Gaziantep BB,F,28,Ghana,turkey,2425,12115.0,630000.0
+Braian Samudio,Antalyaspor,F,29,Paraguay,turkey,2425,12115.0,630000.0
+Baris Yilmaz,Galatasaray,F,24,Turkey,turkey,2425,11538.0,600000.0
+Cihan Çanak,Trabzonspor,F,20,Turkey,turkey,2425,11346.0,590000.0
+Jure Balkovec,Alanyaspor,D,30,Slovenia,turkey,2425,11154.0,580000.0
+Hüseyin Türkmen,Trabzonspor,D,27,Turkey,turkey,2425,11154.0,580000.0
+Taylan Antalyalı,Bodrum,M,30,Turkey,turkey,2425,11154.0,580000.0
+Fidan Aliti,Alanyaspor,D,31,Kosovo,turkey,2425,11154.0,580000.0
+Gaius Makouta,Alanyaspor,M,27,Congo,turkey,2425,10769.0,560000.0
+Mehdi Bourabia,Kayserispor,M,33,Morocco,turkey,2425,10769.0,560000.0
+Veljko Simic,Sivasspor,F,29,Serbia,turkey,2425,10769.0,560000.0
+Jonathan Okita,Bodrum,F,28,Democratic Republic of the Congo,turkey,2425,10769.0,560000.0
+Davidson,Basaksehir,F,33,Brazil,turkey,2425,10769.0,560000.0
+Duckens Nazon,Kayserispor,F,30,Haiti,turkey,2425,10769.0,560000.0
+Ramazan Civelek,Kayserispor,F,29,Turkey,turkey,2425,10769.0,560000.0
+Miguel Cardoso,Kayserispor,F,30,Portugal,turkey,2425,10769.0,560000.0
+Emre Akbaba,Eyupspor,F,32,Turkey,turkey,2425,10769.0,560000.0
+Fredrik Midtsjø,Eyupspor,M,31,Norway,turkey,2425,10769.0,560000.0
+Dorukhan Toköz,Eyupspor,M,28,Turkey,turkey,2425,10769.0,560000.0
+Serdar Dursun,Alanyaspor,F,32,Turkey,turkey,2425,10769.0,560000.0
+Noah Sonko Sundberg,Sivasspor,D,28,The Gambia,turkey,2425,10769.0,560000.0
+Sander van de Streek,Antalyaspor,F,31,Netherlands,turkey,2425,10769.0,560000.0
+Kacper Kozlowski,Gaziantep BB,F,21,Poland,turkey,2425,10769.0,560000.0
+Alex Pritchard,Sivasspor,F,31,England,turkey,2425,10769.0,560000.0
+Charilaos Charisis,Sivasspor,M,30,Greece,turkey,2425,10769.0,560000.0
+Garry Rodrigues,Sivasspor,F,34,Cape Verde,turkey,2425,10769.0,560000.0
+Onur Ergün,Basaksehir,M,32,Turkey,turkey,2425,10577.0,550000.0
+Rick van Drongelen,Samsunspor,D,26,Netherlands,turkey,2425,10577.0,550000.0
+Youssef Aït Bennasser,Samsunspor,M,28,Morocco,turkey,2425,10577.0,550000.0
+Deni Milosevic,Antalyaspor,F,29,Bosnia-Herzegovina,turkey,2425,10385.0,540000.0
+Muhammed Şengezer,Basaksehir,K,28,Turkey,turkey,2425,10192.0,530000.0
+Yaw Ackah,Kayserispor,M,25,Ghana,turkey,2425,10192.0,530000.0
+Marc Bola,Samsunspor,D,27,England,turkey,2425,10192.0,530000.0
+Halil Akbunar,Eyupspor,F,31,Turkey,turkey,2425,9808.0,510000.0
+Keny Arroyo,Besiktas,F,18,Ecuador,turkey,2425,9615.0,500000.0
+Andreaw Gravillon,Adana Demirspor,D,27,Guadeloupe,turkey,2425,9615.0,500000.0
+Majid Hosseini,Kayserispor,D,29,Iran,turkey,2425,9615.0,500000.0
+Malcom Bokele,Goztepe,D,25,Cameroon,turkey,2425,9615.0,500000.0
+Güray Vural,Antalyaspor,D,36,Turkey,turkey,2425,9615.0,500000.0
+Adil Demirbağ,Konyaspor,D,27,Turkey,turkey,2425,9615.0,500000.0
+Serdar Saatçı,Trabzonspor,D,21,Turkey,turkey,2425,9615.0,500000.0
+Luccas Claro,Eyupspor,D,33,Brazil,turkey,2425,9423.0,490000.0
+Erce Kardeşler,Hatayspor,K,30,Turkey,turkey,2425,8846.0,460000.0
+Abat Aymbetov,Adana Demirspor,F,29,Kazakhstan,turkey,2425,8846.0,460000.0
+Evren Eren Elmali,Galatasaray,D,24,Turkey,turkey,2425,8846.0,460000.0
+Evren Eren Elmali,Trabzonspor,D,24,Turkey,turkey,2425,8846.0,460000.0
+Erdoğan Yeşilyurt,Antalyaspor,D,31,Turkey,turkey,2425,8654.0,450000.0
+Pedrinho,Konyaspor,F,28,Brazil,turkey,2425,8654.0,450000.0
+Dal Varesanovic,Caykur Rizespor,F,23,Bosnia-Herzegovina,turkey,2425,8654.0,450000.0
+Christopher Lungoyi,Gaziantep BB,F,24,Switzerland,turkey,2425,8654.0,450000.0
+Bilal Boutobba,Hatayspor,F,26,France,turkey,2425,8654.0,450000.0
+Zeki Yavru,Samsunspor,D,33,Turkey,turkey,2425,8654.0,450000.0
+Abdulkadir Parmak,Hatayspor,M,30,Turkey,turkey,2425,8654.0,450000.0
+Jonathan Okoronkwo,Hatayspor,F,21,Nigeria,turkey,2425,8654.0,450000.0
+Ramzi Safuri,Antalyaspor,F,29,Israel,turkey,2425,8654.0,450000.0
+Görkem Sağlam,Hatayspor,M,26,Turkey,turkey,2425,8654.0,450000.0
+Emrah Başsan,Sivasspor,F,32,Turkey,turkey,2425,8654.0,450000.0
+Umut Güneş,Trabzonspor,M,24,Turkey,turkey,2425,8654.0,450000.0
+Marko Jevtovic,Konyaspor,M,31,Serbia,turkey,2425,8462.0,440000.0
+Danijel Aleksic,Konyaspor,F,33,Serbia,turkey,2425,8462.0,440000.0
+Francisco Calvo,Hatayspor,D,32,Costa Rica,turkey,2425,8462.0,440000.0
+Festy Ebosele,Basaksehir,D,22,Ireland,turkey,2425,8462.0,440000.0
+Deian Sorescu,Gaziantep BB,F,27,Romania,turkey,2425,8462.0,440000.0
+Enric Saborit,Gaziantep BB,D,32,Spain,turkey,2425,8462.0,440000.0
+Tim Jabol-Folcarelli,Trabzonspor,M,25,France,turkey,2425,8462.0,440000.0
+Lionel Carole,Kayserispor,D,33,France,turkey,2425,8462.0,440000.0
+Mustafa Eskihellaç,Trabzonspor,D,27,Turkey,turkey,2425,7885.0,410000.0
+David Akintola,Caykur Rizespor,F,29,Nigeria,turkey,2425,7885.0,410000.0
+Joseph Attamah,Kayserispor,D,30,Ghana,turkey,2425,7692.0,400000.0
+Patryk Szysz,Basaksehir,F,26,Poland,turkey,2425,7692.0,400000.0
+Volkan Babacan,Basaksehir,K,36,Turkey,turkey,2425,7692.0,400000.0
+Andreas Gianniotis,Kasimpasa,K,32,Greece,turkey,2425,7500.0,390000.0
+Gaëtan Laura,Samsunspor,F,29,Democratic Republic of the Congo,turkey,2425,7500.0,390000.0
+Soner Aydoğdu,Samsunspor,M,34,Turkey,turkey,2425,7500.0,390000.0
+Jakub Slowik,Konyaspor,K,33,Poland,turkey,2425,7500.0,390000.0
+Semih Kılıçsoy,Besiktas,F,19,Turkey,turkey,2425,7308.0,380000.0
+Ali Yavuz Kol,Adana Demirspor,F,24,Turkey,turkey,2425,7308.0,380000.0
+Bahadır Öztürk,Antalyaspor,D,29,Turkey,turkey,2425,7308.0,380000.0
+Bünyamin Balcı,Antalyaspor,D,24,Turkey,turkey,2425,7308.0,380000.0
+Oleksandr Petrusenko,Antalyaspor,M,26,Ukraine,turkey,2425,7308.0,380000.0
+Ivan Brnic,Basaksehir,F,23,Croatia,turkey,2425,7308.0,380000.0
+Tayyip Sanuc,Besiktas,D,25,Turkey,turkey,2425,7308.0,380000.0
+Gökhan Akkan,Bodrum,K,30,Turkey,turkey,2425,7308.0,380000.0
+Anastasios Chatzigiovanis,Eyupspor,F,27,Greece,turkey,2425,7308.0,380000.0
+Melih Kabasakal,Eyupspor,M,28,Turkey,turkey,2425,7308.0,380000.0
+Samu Saiz,Eyupspor,F,33,Spain,turkey,2425,7308.0,380000.0
+Tayfur Bingöl,Eyupspor,D,32,Turkey,turkey,2425,7308.0,380000.0
+Umut Meraş,Eyupspor,D,29,Turkey,turkey,2425,7308.0,380000.0
+Eyüp Aydın,Galatasaray,M,20,Germany,turkey,2425,7308.0,380000.0
+Metehan Baltacı,Galatasaray,D,22,Turkey,turkey,2425,7308.0,380000.0
+Kenan Kodro,Gaziantep BB,F,31,Bosnia-Herzegovina,turkey,2425,7308.0,380000.0
+Mateusz Lis,Goztepe,K,27,Poland,turkey,2425,7308.0,380000.0
+Rômulo,Goztepe,F,23,Brazil,turkey,2425,7308.0,380000.0
+Victor Hugo,Goztepe,M,20,Brazil,turkey,2425,7308.0,380000.0
+Rigoberto Rivas,Hatayspor,F,26,Honduras,turkey,2425,7308.0,380000.0
+Mamadou Fall,Kasimpasa,F,33,Senegal,turkey,2425,7308.0,380000.0
+Mortadha Ben Ouanes,Kasimpasa,F,30,Tunisia,turkey,2425,7308.0,380000.0
+Nicholas Opoku,Kasimpasa,D,27,Ghana,turkey,2425,7308.0,380000.0
+Kartal Yılmaz,Kayserispor,M,24,Turkey,turkey,2425,7308.0,380000.0
+Filip Damjanovic,Konyaspor,D,26,Serbia,turkey,2425,7308.0,380000.0
+Nikola Boranijasevic,Konyaspor,D,32,Serbia,turkey,2425,7308.0,380000.0
+Ufuk Akyol,Konyaspor,M,27,Turkey,turkey,2425,7308.0,380000.0
+Celil Yüksel,Samsunspor,M,27,Turkey,turkey,2425,7308.0,380000.0
+Okan Kocuk,Samsunspor,K,29,Turkey,turkey,2425,7308.0,380000.0
+Achilleas Poungouras,Sivasspor,M,29,Greece,turkey,2425,7308.0,380000.0
+Uros Radakovic,Sivasspor,D,30,Serbia,turkey,2425,7308.0,380000.0
+Ali Karimi,Kayserispor,M,31,Iran,turkey,2425,6923.0,360000.0
+Rui Pedro,Hatayspor,F,26,Portugal,turkey,2425,6923.0,360000.0
+Azizbek Turgunboev,Sivasspor,M,30,Uzbekistan,turkey,2425,6923.0,360000.0
+Berkan Kutlu,Galatasaray,M,27,Turkey,turkey,2425,6538.0,340000.0
+Cláudio Winck,Kasimpasa,D,31,Brazil,turkey,2425,6538.0,340000.0
+Ahmed Kutucu,Eyupspor,F,24,Turkey,turkey,2425,6538.0,340000.0
+Furkan Bayır,Goztepe,D,25,Turkey,turkey,2425,6538.0,340000.0
+Caner Erkin,Eyupspor,D,36,Turkey,turkey,2425,6538.0,340000.0
+Loret Sadiku,Kasimpasa,M,33,Kosovo,turkey,2425,6538.0,340000.0
+Kuryu Matsuki,Goztepe,F,21,Japan,turkey,2425,6538.0,340000.0
+Robin Yalçın,Eyupspor,D,31,Turkey,turkey,2425,6538.0,340000.0
+Carlo Holse,Samsunspor,F,25,Denmark,turkey,2425,6538.0,340000.0
+Morten Bjørlo,Konyaspor,M,29,Norway,turkey,2425,6538.0,340000.0
+Cafú,Kasimpasa,M,31,Portugal,turkey,2425,6538.0,340000.0
+Halil Ibrahim Pehlivan,Caykur Rizespor,D,31,Turkey,turkey,2425,6538.0,340000.0
+Yusuf Akçiçek,Fenerbahce,D,19,Turkey,turkey,2425,6346.0,330000.0
+Joelson Fernandes,Hatayspor,F,21,Portugal,turkey,2425,6346.0,330000.0
+Mustafa Eskihellaç,Gaziantep BB,F,27,Turkey,turkey,2425,6346.0,330000.0
+Nanu,Samsunspor,D,30,Guinea-Bissau,turkey,2425,6346.0,330000.0
+Marius,Samsunspor,F,27,Chad,turkey,2425,6346.0,330000.0
+Oğuzhan Matur,Hatayspor,D,25,Turkey,turkey,2425,6346.0,330000.0
+Ahmed Ildız,Goztepe,M,28,Turkey,turkey,2425,5962.0,310000.0
+Arseniy Batagov,Trabzonspor,D,22,Ukraine,turkey,2425,5962.0,310000.0
+Arif Boşluk,Trabzonspor,D,21,Turkey,turkey,2425,5962.0,310000.0
+Vaclav Jurecka,Caykur Rizespor,F,30,Czech Republic,turkey,2425,5962.0,310000.0
+Tolga Ciğerci,Sivasspor,M,32,Turkey,turkey,2425,5962.0,310000.0
+Efecan Karaca,Alanyaspor,F,35,Turkey,turkey,2425,5962.0,310000.0
+Nicolas Janvier,Alanyaspor,M,26,France,turkey,2425,5962.0,310000.0
+Veysel Sarı,Antalyaspor,D,36,Turkey,turkey,2425,5962.0,310000.0
+Jerome Opoku,Basaksehir,D,26,Ghana,turkey,2425,5962.0,310000.0
+Efe Akman,Galatasaray,M,18,Turkey,turkey,2425,5962.0,310000.0
+Julian Jeanvier,Kayserispor,D,32,Guinea,turkey,2425,5962.0,310000.0
+Matchoi Djaló,Basaksehir,F,21,Portugal,turkey,2425,5962.0,310000.0
+Ömer Beyaz,Basaksehir,F,21,Turkey,turkey,2425,5962.0,310000.0
+Nuno Da Costa,Kasimpasa,F,34,Cape Verde,turkey,2425,5962.0,310000.0
+Kamil Ahmet Çörekçi,Hatayspor,D,33,Turkey,turkey,2425,5962.0,310000.0
+Ali Aytemur,Bodrum,D,28,Turkey,turkey,2425,5962.0,310000.0
+Christophe Hérelle,Bodrum,D,32,Martinique,turkey,2425,5962.0,310000.0
+Taha Altıkardeş,Goztepe,D,21,Turkey,turkey,2425,5962.0,310000.0
+Ondrej Celustka,Bodrum,D,35,Czech Republic,turkey,2425,5962.0,310000.0
+Ogün Bayrak,Goztepe,D,26,Turkey,turkey,2425,5962.0,310000.0
+Kubilay Kanatsızkuş,Goztepe,F,27,Turkey,turkey,2425,5962.0,310000.0
+Juan,Goztepe,F,22,Brazil,turkey,2425,5962.0,310000.0
+Arda Kızıldağ,Gaziantep BB,D,26,Turkey,turkey,2425,5962.0,310000.0
+Héliton,Goztepe,D,29,Brazil,turkey,2425,5962.0,310000.0
+Emersonn,Goztepe,F,20,Brazil,turkey,2425,5962.0,310000.0
+Djalma Silva,Goztepe,D,30,Brazil,turkey,2425,5962.0,310000.0
+Berke Özer,Eyupspor,K,24,Turkey,turkey,2425,5962.0,310000.0
+Sadık Çiftpınar,Kasimpasa,D,32,Turkey,turkey,2425,5962.0,310000.0
+Emmanuel Boateng,Konyaspor,M,27,Ghana,turkey,2425,5769.0,300000.0
+Yusuf Erdoğan,Konyaspor,F,32,Turkey,turkey,2425,5769.0,300000.0
+Gökhan Sazdağı,Kayserispor,D,30,Turkey,turkey,2425,5769.0,300000.0
+Ertuğrul Ersoy,Gaziantep BB,D,27,Turkey,turkey,2425,5769.0,300000.0
+Muhammed Gümüşkaya,Gaziantep BB,F,24,Turkey,turkey,2425,5769.0,300000.0
+Hamidou Keyta,Konyaspor,F,30,France,turkey,2425,5769.0,300000.0
+Bilal Bayazıt,Kayserispor,K,25,Turkey,turkey,2425,5769.0,300000.0
+Ibrahim Olawoyin,Caykur Rizespor,M,27,Nigeria,turkey,2425,5577.0,290000.0
+Kamil Piatkowski,Kasimpasa,D,24,Poland,turkey,2425,5385.0,280000.0
+Casper Højer,Caykur Rizespor,D,30,Denmark,turkey,2425,5385.0,280000.0
+Yusuf Sarı,Adana Demirspor,F,25,Turkey,turkey,2425,5385.0,280000.0
+Enes Keskin,Alanyaspor,M,23,Turkey,turkey,2425,5000.0,260000.0
+Fatih Aksoy,Alanyaspor,D,27,Turkey,turkey,2425,5000.0,260000.0
+Semih Güler,Gaziantep BB,D,30,Turkey,turkey,2425,4808.0,250000.0
+Martin Minchev,Caykur Rizespor,F,23,Bulgaria,turkey,2425,4808.0,250000.0
+Attila Mocsi,Caykur Rizespor,D,24,Hungary,turkey,2425,4808.0,250000.0
+Taulant Seferi,Bodrum,F,28,Albania,turkey,2425,4808.0,250000.0
+Cyril Mandouki,Gaziantep BB,M,33,Martinique,turkey,2425,4808.0,250000.0
+Godfrey Stephen,Gaziantep BB,D,24,Nigeria,turkey,2425,4808.0,250000.0
+İlker Karakaş,Gaziantep BB,F,25,Turkey,turkey,2425,4808.0,250000.0
+Ogün Özçiçek,Gaziantep BB,M,26,Turkey,turkey,2425,4808.0,250000.0
+Doğan Erdoğan,Goztepe,M,28,Turkey,turkey,2425,4808.0,250000.0
+Cemali Sertel,Hatayspor,D,25,Turkey,turkey,2425,4808.0,250000.0
+Chandrel Massanga,Hatayspor,M,25,Congo,turkey,2425,4808.0,250000.0
+Arlind Ajeti,Bodrum,D,31,Albania,turkey,2425,4808.0,250000.0
+Guy-Marcelin Kilama,Hatayspor,D,25,Cameroon,turkey,2425,4808.0,250000.0
+Mustafa Hekimoğlu,Besiktas,F,17,Turkey,turkey,2425,4808.0,250000.0
+Driess Saddiki,Kasimpasa,M,28,Morocco,turkey,2425,4808.0,250000.0
+Gökhan Gül,Kasimpasa,M,26,Turkey,turkey,2425,4808.0,250000.0
+Jhon Espinoza,Kasimpasa,D,25,Ecuador,turkey,2425,4808.0,250000.0
+Yasin Özcan,Kasimpasa,D,18,Turkey,turkey,2425,4808.0,250000.0
+Ömer Ali Şahiner,Basaksehir,D,33,Turkey,turkey,2425,4808.0,250000.0
+Thalisson,Antalyaspor,D,26,Brazil,turkey,2425,4808.0,250000.0
+Blaz Kramer,Konyaspor,F,28,Slovenia,turkey,2425,4808.0,250000.0
+Deniz Ertaş,Konyaspor,K,19,Turkey,turkey,2425,4808.0,250000.0
+Mert Yılmaz,Antalyaspor,D,25,Turkey,turkey,2425,4808.0,250000.0
+Josip Calusic,Konyaspor,D,31,Croatia,turkey,2425,4808.0,250000.0
+Kenan Piric,Antalyaspor,K,30,Bosnia-Herzegovina,turkey,2425,4808.0,250000.0
+Melih İbrahimoğlu,Konyaspor,F,24,Turkey,turkey,2425,4808.0,250000.0
+Niko Rak,Konyaspor,M,21,Croatia,turkey,2425,4808.0,250000.0
+Yavuz Aygün,Konyaspor,K,28,Turkey,turkey,2425,4808.0,250000.0
+Lubomir Satka,Samsunspor,D,29,Slovakia,turkey,2425,4808.0,250000.0
+Juan Christian,Alanyaspor,F,23,Brazil,turkey,2425,4808.0,250000.0
+Rúben Vezo,Eyupspor,D,30,Portugal,turkey,2425,4808.0,250000.0
+Gianni Bruno,Eyupspor,F,33,Belgium,turkey,2425,4808.0,250000.0
+İrfan Can Eğribayat,Fenerbahce,K,26,Turkey,turkey,2425,4808.0,250000.0
+Erdal Rakip,Antalyaspor,M,28,North Macedonia,turkey,2425,4615.0,240000.0
+Haris Hajradinovic,Kasimpasa,F,30,Bosnia-Herzegovina,turkey,2425,4615.0,240000.0
+Lamine Diack,Hatayspor,M,24,Senegal,turkey,2425,4615.0,240000.0
+Emre Taşdemir,Gaziantep BB,D,29,Turkey,turkey,2425,4423.0,230000.0
+Bruno Viana,Gaziantep BB,D,30,Brazil,turkey,2425,4423.0,230000.0
+Bengali-Fodé Koita,Sivasspor,F,34,Guinea,turkey,2425,4423.0,230000.0
+Anthony Uzodimma,Kayserispor,D,25,Nigeria,turkey,2425,4423.0,230000.0
+Muhammet Taha Tepe,Trabzonspor,K,24,Turkey,turkey,2425,4423.0,230000.0
+Aksel Aktaş,Adana Demirspor,M,25,Turkey,turkey,2425,3654.0,190000.0
+Novatus Miroshi,Goztepe,M,22,Tanzania,turkey,2425,3654.0,190000.0
+Loide Augusto,Alanyaspor,F,24,Angola,turkey,2425,3654.0,190000.0
+Soner Gönül,Samsunspor,D,27,Turkey,turkey,2425,3654.0,190000.0
+Fredy,Bodrum,F,34,Angola,turkey,2425,3654.0,190000.0
+Altin Zeqiri,Caykur Rizespor,F,24,Kosovo,turkey,2425,3654.0,190000.0
+Salem M'Bakata,Gaziantep BB,D,26,France,turkey,2425,3654.0,190000.0
+Yalçın Kayan,Eyupspor,M,26,Turkey,turkey,2425,3654.0,190000.0
+Zdravko Dimitrov,Bodrum,F,26,Bulgaria,turkey,2425,3654.0,190000.0
+Umut Mert Toy,Alanyaspor,D,20,Turkey,turkey,2425,3654.0,190000.0
+Abdurrahim Dursun,Antalyaspor,D,26,Turkey,turkey,2425,3654.0,190000.0
+Louka Prip,Konyaspor,F,27,Denmark,turkey,2425,3654.0,190000.0
+Prince Ampem,Eyupspor,F,26,Ghana,turkey,2425,3654.0,190000.0
+Recep Niyaz,Eyupspor,F,29,Turkey,turkey,2425,3654.0,190000.0
+Funsho Bamgboye,Hatayspor,F,26,Nigeria,turkey,2425,3654.0,190000.0
+Tolga Kalender,Adana Demirspor,D,23,Turkey,turkey,2425,3654.0,190000.0
+Diogo Sousa,Bodrum,K,26,Portugal,turkey,2425,3654.0,190000.0
+Ahmet Aslan,Bodrum,M,23,Turkey,turkey,2425,3654.0,190000.0
+Soner Dikmen,Antalyaspor,M,31,Turkey,turkey,2425,3654.0,190000.0
+Kerim Alıcı,Hatayspor,D,27,Turkey,turkey,2425,3654.0,190000.0
+Gökdeniz Gürpüz,Galatasaray,M,18,Turkey,turkey,2425,3654.0,190000.0
+Visar Bekaj,Hatayspor,K,27,Kosovo,turkey,2425,3654.0,190000.0
+Gökdeniz Bayrakdar,Bodrum,F,23,Turkey,turkey,2425,3654.0,190000.0
+Eren Erdoğan,Gaziantep BB,F,23,Turkey,turkey,2425,3654.0,190000.0
+Bartuğ Elmaz,Fenerbahce,M,21,Turkey,turkey,2425,3654.0,190000.0
+Aytaç Kara,Kasimpasa,M,31,Turkey,turkey,2425,3654.0,190000.0
+Maestro,Adana Demirspor,M,21,Angola,turkey,2425,3654.0,190000.0
+Isaac Solet,Goztepe,M,23,Central African Republic,turkey,2425,3654.0,190000.0
+Ali Yeşilyurt,Galatasaray,D,19,Turkey,turkey,2425,3654.0,190000.0
+Djordje Nikolic,Sivasspor,K,27,Serbia,turkey,2425,3654.0,190000.0
+Quentin Daubin,Gaziantep BB,M,29,France,turkey,2425,3654.0,190000.0
+Ertuğrul Çetin,Fenerbahce,K,21,Turkey,turkey,2425,3654.0,190000.0
+Tayfun Aydoğan,Adana Demirspor,M,28,Turkey,turkey,2425,3654.0,190000.0
+Bünyamin Balat,Adana Demirspor,F,28,Turkey,turkey,2425,3654.0,190000.0
+Tunahan Taşçı,Konyaspor,F,22,Turkey,turkey,2425,3654.0,190000.0
+Nazım Sangaré,Goztepe,D,30,Turkey,turkey,2425,3654.0,190000.0
+Sokratis Dioudis,Gaziantep BB,K,32,Greece,turkey,2425,3654.0,190000.0
+Özkan Yiğiter,Sivasspor,M,24,Turkey,turkey,2425,3654.0,190000.0
+Emrecan Bulut,Caykur Rizespor,F,22,Turkey,turkey,2425,3654.0,190000.0
+Cengiz Demir,Hatayspor,D,23,Turkey,turkey,2425,3654.0,190000.0
+Samba Camara,Sivasspor,D,32,Mali,turkey,2425,3654.0,190000.0
+Burak Yılmaz,Hatayspor,D,29,Turkey,turkey,2425,3462.0,180000.0
+Furkan Soyalp,Gaziantep BB,M,29,Turkey,turkey,2425,3462.0,180000.0
+Murat Paluli,Sivasspor,D,30,Turkey,turkey,2425,3462.0,180000.0
+Ali Emre Yanar,Kasimpasa,K,26,Turkey,turkey,2425,3077.0,160000.0
+Bahadır Gölgeli,Gaziantep BB,M,21,Turkey,turkey,2425,3077.0,160000.0
+Khusniddin Alikulov,Caykur Rizespor,D,25,Uzbekistan,turkey,2425,3077.0,160000.0
+Benhur Keser,Caykur Rizespor,F,27,Turkey,turkey,2425,3077.0,160000.0
+Yusuf Barası,Adana Demirspor,F,21,Turkey,turkey,2425,3077.0,160000.0
+Taha Şahin,Caykur Rizespor,D,24,Turkey,turkey,2425,3077.0,160000.0
+Shaocong Wu,Basaksehir,D,24,China,turkey,2425,3077.0,160000.0
+Jan Bieganski,Sivasspor,M,22,Poland,turkey,2425,2885.0,150000.0
+Jankat Yılmaz,Galatasaray,K,20,Turkey,turkey,2425,2885.0,150000.0
+Uğur Çiftçi,Sivasspor,D,32,Turkey,turkey,2425,2885.0,150000.0
+Hamza Akman,Eyupspor,M,20,Turkey,turkey,2425,2885.0,150000.0
+Arda Ünyay,Galatasaray,D,18,Turkey,turkey,2425,2885.0,150000.0
+Bekir Turaç Böke,Sivasspor,F,25,Turkey,turkey,2425,2885.0,150000.0
+Doğukan Özkan,Antalyaspor,K,25,Turkey,turkey,2425,2885.0,150000.0
+Batuhan Şen,Galatasaray,K,25,Turkey,turkey,2425,2500.0,130000.0
+Onuralp Çevikkan,Trabzonspor,K,19,Turkey,turkey,2425,2500.0,130000.0
+Nuno Lima,Alanyaspor,D,23,Portugal,turkey,2425,2500.0,130000.0
+Mert Bayram,Alanyaspor,K,20,Turkey,turkey,2425,2500.0,130000.0
+Jovan Manev,Adana Demirspor,D,23,North Macedonia,turkey,2425,2500.0,130000.0
+Enis Destan,Trabzonspor,F,22,Turkey,turkey,2425,2500.0,130000.0
+Mirza Cihan,Gaziantep BB,F,23,Turkey,turkey,2425,2500.0,130000.0
+Erdem Çetinkaya,Kasimpasa,F,23,Turkey,turkey,2425,2500.0,130000.0
+Poyraz Yıldırım,Trabzonspor,F,19,Turkey,turkey,2425,2500.0,130000.0
+Sarp Yavrucu,Kasimpasa,F,19,Turkey,turkey,2425,2500.0,130000.0
+İsmail Köybaşı,Goztepe,D,35,Turkey,turkey,2425,2500.0,130000.0
+Ali Şahin Yılmaz,Trabzonspor,D,21,Turkey,turkey,2425,2500.0,130000.0
+Philippe Paulin Keny,Basaksehir,F,25,Senegal,turkey,2425,2500.0,130000.0
+Ayberk Karapo,Caykur Rizespor,D,20,Turkey,turkey,2425,2500.0,130000.0
+Mohamed Hassan Fofana,Basaksehir,M,19,Cote d'Ivoire,turkey,2425,2500.0,130000.0
+Deniz Dilmen,Basaksehir,K,19,Turkey,turkey,2425,2500.0,130000.0
+Burak Sefa Kavraz,Basaksehir,D,19,Turkey,turkey,2425,2500.0,130000.0
+Talha Sarıarslan,Kayserispor,F,21,Turkey,turkey,2425,2500.0,130000.0
+Hüseyin Arslan,Sivasspor,K,24,Turkey,turkey,2425,2500.0,130000.0
+Emrecan Terzi,Besiktas,D,21,Turkey,turkey,2425,2115.0,110000.0
+Yusuf Kurt,Alanyaspor,F,22,Turkey,turkey,2425,2115.0,110000.0
+Fahri Ay,Besiktas,M,20,Turkey,turkey,2425,2115.0,110000.0
+Göktuğ Baytekin,Besiktas,K,20,Turkey,turkey,2425,2115.0,110000.0
+Ahmet Yıldırım,Trabzonspor,K,18,Turkey,turkey,2425,2115.0,110000.0
+Musah Mohammed,Bodrum,M,23,Ghana,turkey,2425,2115.0,110000.0
+Mustafa Burak Bozan,Gaziantep BB,K,24,Turkey,turkey,2425,2115.0,110000.0
+Anel Husic,Gaziantep BB,D,23,Switzerland,turkey,2425,2115.0,110000.0
+Serkan Asan,Trabzonspor,D,25,Turkey,turkey,2425,2115.0,110000.0
+Buluthan Bulut,Alanyaspor,M,22,Turkey,turkey,2425,2115.0,110000.0
+Emre Kaplan,Basaksehir,D,23,Turkey,turkey,2425,2115.0,110000.0
+Abdullah Yiğiter,Antalyaspor,K,24,Turkey,turkey,2425,2115.0,110000.0
+Eray Korkmaz,Caykur Rizespor,D,21,Turkey,turkey,2425,2115.0,110000.0
+Efe Doğan,Caykur Rizespor,K,20,Turkey,turkey,2425,2115.0,110000.0
+Abdurrahman Üresin,Konyaspor,D,21,Turkey,turkey,2425,2115.0,110000.0
+Erdem Çalık,Eyupspor,M,18,Turkey,turkey,2425,2115.0,110000.0
+Anthony Dennis,Goztepe,M,20,Nigeria,turkey,2425,2115.0,110000.0
+Kaan Akyazı,Konyaspor,F,19,Turkey,turkey,2425,2115.0,110000.0
+Semih Güler,Adana Demirspor,D,29,Turkey,turkey,2425,2115.0,110000.0
+İsmail Can Fidan,Eyupspor,M,21,Turkey,turkey,2425,2115.0,110000.0
+Cenk Şen,Bodrum,D,24,Turkey,turkey,2425,2115.0,110000.0
+Rıdvan Dönmez,Konyaspor,D,21,Turkey,turkey,2425,2115.0,110000.0
+Baran Sarka,Hatayspor,F,23,Turkey,turkey,2425,2115.0,110000.0
+Pedro Brazão,Bodrum,F,22,Portugal,turkey,2425,2115.0,110000.0
+Atakan Ordu,Galatasaray,K,19,Turkey,turkey,2425,2115.0,110000.0
+Alaaddin Okumuş,Sivasspor,D,29,Turkey,turkey,2425,2115.0,110000.0
+Mithat Pala,Caykur Rizespor,M,24,Turkey,turkey,2425,2115.0,110000.0
+Arda Kılıç,Besiktas,F,20,Turkey,turkey,2425,2115.0,110000.0
+Salih Malkoçoğlu,Trabzonspor,M,19,Turkey,turkey,2425,2115.0,110000.0
+İzzet Erdal,Gaziantep BB,D,19,Turkey,turkey,2425,2115.0,110000.0
+Taylan Aydın,Kasimpasa,D,19,Turkey,turkey,2425,1923.0,100000.0
+Yusuf Yılmaz,Basaksehir,K,18,Turkey,turkey,2425,1923.0,100000.0
+Demir Sarıcalı,Hatayspor,K,20,Turkey,turkey,2425,1923.0,100000.0
+Yasir Subaşı,Konyaspor,D,29,Turkey,turkey,2425,1923.0,100000.0
+Yunus Emre Çift,Samsunspor,D,21,Turkey,turkey,2425,1923.0,100000.0
+Abdulsamet Burak,Adana Demirspor,D,28,Turkey,turkey,2425,1923.0,100000.0
+Enes Albak,Samsunspor,D,19,Turkey,turkey,2425,1923.0,100000.0
+Motez Nourani,Adana Demirspor,F,22,Tunisia,turkey,2425,1923.0,100000.0
+Tarık Çetin,Caykur Rizespor,K,28,Turkey,turkey,2425,1923.0,100000.0
+Arif Kocaman,Kayserispor,D,21,Turkey,turkey,2425,1923.0,100000.0
+Ali Yıldız,Hatayspor,M,17,Turkey,turkey,2425,1923.0,100000.0
+Jakub Kaluzinski,Antalyaspor,M,22,Poland,turkey,2425,1923.0,100000.0
+Moussa Guel,Samsunspor,F,25,Cote d'Ivoire,turkey,2425,1731.0,90000.0
+Ali Şaşal Vural,Sivasspor,K,34,Turkey,turkey,2425,1731.0,90000.0
+Adem Eren Kabak,Konyaspor,M,23,Turkey,turkey,2425,1731.0,90000.0
+Muammer Yıldırım,Samsunspor,K,34,Turkey,turkey,2425,1731.0,90000.0
+Emirhan Başyiğit,Sivasspor,D,19,Turkey,turkey,2425,1731.0,90000.0
+Emir Yaşar,Besiktas,K,19,Turkey,turkey,2425,1731.0,90000.0
+Emirhan Yiğit,Kasimpasa,F,18,Turkey,turkey,2425,1731.0,90000.0
+Arda Berk Özüarap,Besiktas,D,19,Turkey,turkey,2425,1731.0,90000.0
+Atakan Müjde,Kasimpasa,M,21,Turkey,turkey,2425,1731.0,90000.0
+Mehmet Kuzucu,Gaziantep BB,F,21,Turkey,turkey,2425,1731.0,90000.0
+Batuhan Yavuz,Alanyaspor,D,19,Turkey,turkey,2425,1731.0,90000.0
+Uğurcan Yazğılı,Konyaspor,D,25,Turkey,turkey,2425,1731.0,90000.0
+Yalçın Kayan,Goztepe,M,25,Turkey,turkey,2425,1731.0,90000.0
+Ali Mevran Ablak,Gaziantep BB,F,21,Turkey,turkey,2425,1731.0,90000.0
+Hüseyin Maldar,Eyupspor,F,18,Turkey,turkey,2425,1538.0,80000.0
+Oğulcan Ülgün,Konyaspor,M,26,Turkey,turkey,2425,1538.0,80000.0
+Ege Bilsel,Bodrum,F,21,Turkey,turkey,2425,1538.0,80000.0
+Samet Yalçın,Bodrum,M,30,Turkey,turkey,2425,1538.0,80000.0
+Lasse Nielsen,Goztepe,D,37,Denmark,turkey,2425,1538.0,80000.0
+Üzeyir Ergün,Bodrum,D,32,Turkey,turkey,2425,1538.0,80000.0
+Ziya Erdal,Sivasspor,D,37,Turkey,turkey,2425,1538.0,80000.0
+Mustafa Erdilman,Bodrum,M,21,Turkey,turkey,2425,1538.0,80000.0
+Süleyman Özdamar,Bodrum,D,31,Turkey,turkey,2425,1538.0,80000.0
+Adnan Aktaş,Kasimpasa,D,18,Turkey,turkey,2425,1538.0,80000.0
+Haqi Osman,Bodrum,F,22,Ghana,turkey,2425,1538.0,80000.0
+Ahmet Daş,Konyaspor,K,24,Turkey,turkey,2425,1538.0,80000.0
+Taşkın İlter,Eyupspor,M,30,Azerbaijan,turkey,2425,1538.0,80000.0
+Sinan Gümüş,Eyupspor,F,31,Turkey,turkey,2425,1538.0,80000.0
+Taha Tosun,Samsunspor,K,19,Turkey,turkey,2425,1538.0,80000.0
+Kenan Özer,Bodrum,F,37,Turkey,turkey,2425,1538.0,80000.0
+Eren Altıntaş,Alanyaspor,F,20,Turkey,turkey,2425,1538.0,80000.0
+Halil Yeral,Samsunspor,K,25,Turkey,turkey,2425,1154.0,60000.0
+Kağan Arıcan,Antalyaspor,K,18,Turkey,turkey,2425,1154.0,60000.0
+Celal Dumanlı,Bodrum,F,30,Turkey,turkey,2425,1154.0,60000.0
+Emre Uzun,Antalyaspor,F,19,Turkey,turkey,2425,1154.0,60000.0
+Kadir Karayiğit,Adana Demirspor,D,19,Turkey,turkey,2425,1154.0,60000.0
+Muhammet Özbaskıcı,Samsunspor,M,19,Turkey,turkey,2425,1154.0,60000.0
+Mevlüthan Ekelik,Antalyaspor,M,20,Turkey,turkey,2425,1154.0,60000.0
+Furkan Bayır,Alanyaspor,D,24,Turkey,turkey,2425,1154.0,60000.0
+Vedat Karakuş,Adana Demirspor,K,26,Turkey,turkey,2425,1154.0,60000.0
+Salih Kavrazlı,Adana Demirspor,F,22,Turkey,turkey,2425,1154.0,60000.0
+Breyton Fougeu,Adana Demirspor,F,21,France,turkey,2425,1154.0,60000.0
+Murat Eser,Adana Demirspor,K,19,Turkey,turkey,2425,1154.0,60000.0
+Florent Shehu,Adana Demirspor,F,22,Switzerland,turkey,2425,1154.0,60000.0
+Bedirhan Çetin,Samsunspor,D,18,Turkey,turkey,2425,1154.0,60000.0
+Harun Toprak,Antalyaspor,D,19,Turkey,turkey,2425,1154.0,60000.0
+Emre Gökay,Sivasspor,F,18,Turkey,turkey,2425,1154.0,60000.0
+Elano Yegen,Samsunspor,D,22,Turkey,turkey,2425,962.0,50000.0
+Emircan Seçgin,Goztepe,K,22,Turkey,turkey,2425,962.0,50000.0
+Furkan Malak,Goztepe,M,19,Turkey,turkey,2425,962.0,50000.0
+Tuğbey Akgün,Goztepe,M,21,Turkey,turkey,2425,962.0,50000.0
+Yiğit Yıldız,Goztepe,K,20,Turkey,turkey,2425,962.0,50000.0
+Berkay İrşad Göç,Hatayspor,F,23,Turkey,turkey,2425,962.0,50000.0
+Emir Dadük,Hatayspor,K,16,Turkey,turkey,2425,962.0,50000.0
+Bilal Güven,Bodrum,M,20,Turkey,turkey,2425,962.0,50000.0
+Tunahan Akpınar,Bodrum,M,23,Turkey,turkey,2425,962.0,50000.0
+Yusuf Sertkaya,Bodrum,M,19,Turkey,turkey,2425,962.0,50000.0
+Yunus Atakaya,Kasimpasa,D,20,Turkey,turkey,2425,962.0,50000.0
+Canberk Yurdakul,Caykur Rizespor,K,23,Turkey,turkey,2425,962.0,50000.0
+Doğanay Avcı,Caykur Rizespor,F,19,Turkey,turkey,2425,962.0,50000.0
+Nurettin Korkmaz,Kayserispor,F,22,Turkey,turkey,2425,962.0,50000.0
+Birkan Tetik,Eyupspor,K,29,Turkey,turkey,2425,962.0,50000.0
+Egemen Aydın,Konyaspor,K,17,Turkey,turkey,2425,962.0,50000.0
+Efe Geçim,Caykur Rizespor,M,19,Turkey,turkey,2425,962.0,50000.0
+Melih Bostan,Konyaspor,F,20,Turkey,turkey,2425,962.0,50000.0
+Semih Kocatürk,Konyaspor,M,18,Turkey,turkey,2425,962.0,50000.0
+Berhan Deniz,Samsunspor,F,20,Turkey,turkey,2425,962.0,50000.0
+Efecan Gülerce,Antalyaspor,D,22,Turkey,turkey,2425,962.0,50000.0
+Arda Kurtulan,Adana Demirspor,D,22,Albania,turkey,2425,962.0,50000.0
+Erdem Gökçe,Eyupspor,D,21,Turkey,turkey,2425,962.0,50000.0
+Kaan Sarman,Sivasspor,K,18,Turkey,turkey,2425,962.0,50000.0
+Muhamed Buljubasic,Caykur Rizespor,M,20,Bosnia-Herzegovina,turkey,2425,962.0,50000.0
+Emin Sarıgül,Alanyaspor,F,19,Turkey,turkey,2425,962.0,50000.0
+Sinan Kaya,Sivasspor,F,18,Turkey,turkey,2425,962.0,50000.0
+Talha Şeker,Sivasspor,M,18,Turkey,turkey,2425,962.0,50000.0
+Bera Çeken,Alanyaspor,F,19,Turkey,turkey,2425,962.0,50000.0
+Eren Cakir,Gaziantep BB,M,20,Turkey,turkey,2425,962.0,50000.0
+Gabriel Obekpa,Bodrum,M,20,Nigeria,turkey,2425,962.0,50000.0
+Ömürcan Artan,Gaziantep BB,D,25,Turkey,turkey,2425,962.0,50000.0
+Murat Sipahioğlu,Bodrum,D,22,Turkey,turkey,2425,962.0,50000.0
+Erkan Değişmez,Bodrum,M,38,Turkey,turkey,2425,962.0,50000.0
+Mehmet Albayrak,Sivasspor,D,21,Turkey,turkey,2425,769.0,40000.0
+Habil Özbakır,Caykur Rizespor,D,20,Turkey,turkey,2425,769.0,40000.0
+Yusuf Karagöz,Alanyaspor,K,25,Turkey,turkey,2425,769.0,40000.0
+Ozan Demirbağ,Adana Demirspor,F,17,Turkey,turkey,2425,769.0,40000.0
+Yusuf Özdemir,Alanyaspor,D,24,Turkey,turkey,2425,769.0,40000.0
+Erdem Güleç,Sivasspor,M,17,Turkey,turkey,2425,769.0,40000.0
+Eymen Yurdcu,Sivasspor,M,15,Turkey,turkey,2425,769.0,40000.0
+Mustafa Tan,Samsunspor,D,19,Turkey,turkey,2425,769.0,40000.0
+Amar Gerxhaliu,Antalyaspor,D,22,Kosovo,turkey,2425,769.0,40000.0
+Burak İngenç,Antalyaspor,M,18,Turkey,turkey,2425,769.0,40000.0
+Rüzgar Adıyaman,Bodrum,K,18,Turkey,turkey,2425,769.0,40000.0
+Burak Enes Yıkıcı,Gaziantep BB,F,20,Turkey,turkey,2425,769.0,40000.0
+Oğuzhan Aksoy,Sivasspor,F,18,Turkey,turkey,2425,769.0,40000.0
+Burhan Ersoy,Adana Demirspor,D,21,Turkey,turkey,2425,769.0,40000.0
+Mustafa Eren Damar,Eyupspor,D,20,Turkey,turkey,2425,769.0,40000.0
+Deniz Dönmezer,Adana Demirspor,K,16,Turkey,turkey,2425,769.0,40000.0
+Oğulcan Başol,Bodrum,D,19,Turkey,turkey,2425,769.0,40000.0
+Kerem Ersunar,Bodrum,K,21,Turkey,turkey,2425,769.0,40000.0
+Taha Osman Özmert,Antalyaspor,F,18,Turkey,turkey,2425,769.0,40000.0
+Şamil Öztürk,Kayserispor,K,19,Turkey,turkey,2425,769.0,40000.0
+Emre Karaal,Basaksehir,M,21,Turkey,turkey,2425,769.0,40000.0
+Eren Karaağaç,Basaksehir,D,20,Turkey,turkey,2425,769.0,40000.0
+Hamza Güreler,Basaksehir,D,18,Turkey,turkey,2425,769.0,40000.0
+Eray Özbek,Kayserispor,F,22,Turkey,turkey,2425,769.0,40000.0
+Bilal Ceylan,Kayserispor,D,20,Turkey,turkey,2425,769.0,40000.0
+Emir Enes Araz,Goztepe,F,18,Turkey,turkey,2425,769.0,40000.0
+Abdülkadir Aydın,Eyupspor,D,22,Turkey,turkey,2425,769.0,40000.0
+Batuhan Özgan,Kayserispor,D,18,Turkey,turkey,2425,769.0,40000.0
+Arda Usluoğlu,Alanyaspor,F,18,Turkey,turkey,2425,769.0,40000.0
+Alp Köseer,Eyupspor,K,22,Turkey,turkey,2425,769.0,40000.0
+Baran Gezek,Kayserispor,M,19,Turkey,turkey,2425,769.0,40000.0
+Enes Öğrüce,Bodrum,M,17,Turkey,turkey,2425,769.0,40000.0
+Anıl Yaşar,Caykur Rizespor,D,22,Turkey,turkey,2425,769.0,40000.0
+Sinan Alkaş,Kasimpasa,F,18,Turkey,turkey,2425,769.0,40000.0
+Halil Bağcı,Gaziantep BB,K,21,Turkey,turkey,2425,769.0,40000.0
+Ege Yıldırım,Goztepe,D,17,Turkey,turkey,2425,769.0,40000.0
+Ali Kemal Aslankaya,Caykur Rizespor,M,17,Turkey,turkey,2425,769.0,40000.0
+Ege Albayrak,Kasimpasa,K,17,Turkey,turkey,2425,769.0,40000.0
+Osman Kaynak,Adana Demirspor,F,18,Turkey,turkey,2425,769.0,40000.0
+İzzet Çelik,Adana Demirspor,F,20,Turkey,turkey,2425,769.0,40000.0
+Alper Efe Pazar,Samsunspor,M,20,Turkey,turkey,2425,481.0,25000.0
+Selimcan Temel,Hatayspor,M,24,Turkey,turkey,2425,481.0,25000.0
+Şant Kazancı,Kasimpasa,K,16,Turkey,turkey,2425,481.0,25000.0
+Arda Özçimen,Goztepe,K,23,Turkey,turkey,2425,481.0,25000.0
+Ali Demirel,Kasimpasa,F,21,Turkey,turkey,2425,481.0,25000.0
+Efe Berat Törüz,Samsunspor,K,18,Turkey,turkey,2425,481.0,25000.0
+Yaman Suakar,Kasimpasa,M,15,Turkey,turkey,2425,481.0,25000.0
+Berat Kalkan,Kasimpasa,F,21,North Macedonia,turkey,2425,481.0,25000.0
+Wilfried Zaha,Galatasaray,F,31,Cote d'Ivoire,turkey,2425,0.0,0.0
+Ognjen Mimovic,Fenerbahce,D,20,Serbia,turkey,2425,0.0,0.0
+Allan Saint-Maximin,Fenerbahce,F,27,France,turkey,2425,0.0,0.0

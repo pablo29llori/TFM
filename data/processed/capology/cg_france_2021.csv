@@ -1,0 +1,587 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Neymar,PSG,F,28,Brazil,france,2021,1083846.0,56360000.0
+Kylian Mbappé,PSG,F,21,France,france,2021,617115.0,32090000.0
+Keylor Navas,PSG,K,34,Costa Rica,france,2021,314615.0,16360000.0
+Mauro Icardi,PSG,F,27,Argentina,france,2021,279808.0,14550000.0
+Marco Verratti,PSG,M,27,Italy,france,2021,276923.0,14400000.0
+Ángel Di María,PSG,F,32,Argentina,france,2021,253846.0,13200000.0
+Marquinhos,PSG,D,26,Brazil,france,2021,209808.0,10910000.0
+Leandro Paredes,PSG,M,26,Argentina,france,2021,173077.0,9000000.0
+Juan Bernat,PSG,D,27,Spain,france,2021,168462.0,8760000.0
+Wissam Ben Yedder,Monaco,F,30,France,france,2021,150000.0,7800000.0
+Ander Herrera,PSG,M,31,Spain,france,2021,150000.0,7800000.0
+Presnel Kimpembe,PSG,D,25,France,france,2021,147692.0,7680000.0
+Cesc Fàbregas,Monaco,M,33,Spain,france,2021,138462.0,7200000.0
+Julian Draxler,PSG,F,27,Germany,france,2021,138462.0,7200000.0
+Layvin Kurzawa,PSG,D,28,France,france,2021,115385.0,6000000.0
+Kevin Strootman,Marseille,M,30,Netherlands,france,2021,115385.0,6000000.0
+Dimitri Payet,Marseille,F,33,France,france,2021,115385.0,6000000.0
+Idrissa Gueye,PSG,M,31,Senegal,france,2021,115385.0,6000000.0
+Pablo Sarabia,PSG,F,28,Spain,france,2021,103846.0,5400000.0
+Abdou Diallo,PSG,D,24,France,france,2021,103846.0,5400000.0
+Gelson Martins,Monaco,F,25,Portugal,france,2021,101346.0,5270000.0
+Alessandro Florenzi,PSG,D,29,Italy,france,2021,100962.0,5250000.0
+Florian Thauvin,Marseille,F,27,France,france,2021,97308.0,5060000.0
+Memphis Depay,Lyon,F,26,Netherlands,france,2021,96923.0,5040000.0
+Thilo Kehrer,PSG,D,24,Germany,france,2021,94615.0,4920000.0
+Thiago Mendes,Lyon,M,28,Brazil,france,2021,92308.0,4800000.0
+Steven Nzonzi,Rennes,M,31,France,france,2021,92308.0,4800000.0
+Anthony Lopes,Lyon,K,30,Portugal,france,2021,92308.0,4800000.0
+Arkadiusz Milik,Marseille,F,26,Poland,france,2021,92308.0,4800000.0
+Islam Slimani,Lyon,F,32,Algeria,france,2021,87692.0,4560000.0
+Valère Germain,Marseille,F,30,France,france,2021,76154.0,3960000.0
+Jean Michaël Seri,Bordeaux,M,29,Cote d'Ivoire,france,2021,72308.0,3760000.0
+Steve Mandanda,Marseille,K,35,France,france,2021,69231.0,3600000.0
+Renato Sanches,Lille,M,23,Portugal,france,2021,69231.0,3600000.0
+Houssem Aouar,Lyon,M,22,France,france,2021,69231.0,3600000.0
+Aleksandr Golovin,Monaco,F,24,Russia,france,2021,69231.0,3600000.0
+Kevin Volland,Monaco,F,28,Germany,france,2021,69231.0,3600000.0
+Clément Grenier,Rennes,M,29,France,france,2021,64615.0,3360000.0
+Jemerson,Monaco,D,28,Brazil,france,2021,64615.0,3360000.0
+Lucas Paquetá,Lyon,F,23,Brazil,france,2021,62500.0,3250000.0
+Rafinha,PSG,F,27,Brazil,france,2021,62500.0,3250000.0
+Djibril Sidibé,Monaco,D,28,France,france,2021,61731.0,3210000.0
+Danilo Pereira,PSG,M,29,Portugal,france,2021,61538.0,3200000.0
+Moussa Dembélé,Lyon,F,24,France,france,2021,60000.0,3120000.0
+Jesé,PSG,F,27,Spain,france,2021,59808.0,3110000.0
+Darío Benedetto,Marseille,F,30,Argentina,france,2021,59615.0,3100000.0
+Benjamin Lecomte,Monaco,K,29,France,france,2021,59423.0,3090000.0
+Jordan Amavi,Marseille,D,26,France,france,2021,57692.0,3000000.0
+Krépin Diatta,Monaco,F,21,Senegal,france,2021,57692.0,3000000.0
+Kasper Dolberg,Nice,F,23,Denmark,france,2021,57692.0,3000000.0
+Laurent Koscielny,Bordeaux,D,35,France,france,2021,55385.0,2880000.0
+M'Baye Niang,Rennes,F,25,Senegal,france,2021,50769.0,2640000.0
+Jason Denayer,Lyon,D,25,Belgium,france,2021,50577.0,2630000.0
+Stevan Jovetic,Monaco,F,30,Montenegro,france,2021,47692.0,2480000.0
+Marcelo,Lyon,D,33,Brazil,france,2021,46346.0,2410000.0
+Bruno Guimarães,Lyon,M,22,Brazil,france,2021,46154.0,2400000.0
+William Saliba,Nice,D,19,France,france,2021,44423.0,2310000.0
+Frédéric Guilbert,Strasbourg,D,26,France,france,2021,44423.0,2310000.0
+Ryad Boudebouz,St-Etienne,F,30,Algeria,france,2021,43846.0,2280000.0
+Caio Henrique,Monaco,D,23,Brazil,france,2021,42115.0,2190000.0
+Burak Yilmaz,Lille,F,35,Turkey,france,2021,42115.0,2190000.0
+Stéphane Ruffier,St-Etienne,K,34,France,france,2021,41538.0,2160000.0
+Hamari Traoré,Rennes,D,28,Mali,france,2021,41538.0,2160000.0
+Benoît Costil,Bordeaux,K,33,France,france,2021,41538.0,2160000.0
+Serhou Guirassy,Rennes,F,24,France,france,2021,41538.0,2160000.0
+Maxwel Cornet,Lyon,F,24,Cote d'Ivoire,france,2021,41000.0,2132000.0
+Sergio Rico,PSG,K,27,Spain,france,2021,39423.0,2050000.0
+Léo Dubois,Lyon,D,26,France,france,2021,38077.0,1980000.0
+Mattia De Sciglio,Lyon,D,28,Italy,france,2021,37885.0,1970000.0
+Jonathan David,Lille,F,20,Canada,france,2021,37500.0,1950000.0
+Moise Kean,PSG,F,20,Italy,france,2021,35577.0,1850000.0
+Duje Caleta-Car,Marseille,D,24,Croatia,france,2021,34808.0,1810000.0
+Otávio,Bordeaux,M,26,Brazil,france,2021,34615.0,1800000.0
+Youcef Atal,Nice,D,24,Algeria,france,2021,34615.0,1800000.0
+Sofiane Boufal,Angers,F,27,Morocco,france,2021,34615.0,1800000.0
+Nicolas de Préville,Bordeaux,F,29,France,france,2021,34615.0,1800000.0
+Moses Simon,Nantes,F,25,Nigeria,france,2021,34615.0,1800000.0
+Rony Lopes,Nice,F,24,Portugal,france,2021,34231.0,1780000.0
+Konstantinos Mitroglou,Marseille,F,32,Greece,france,2021,33846.0,1760000.0
+Valentin Rongier,Marseille,M,25,France,france,2021,33077.0,1720000.0
+José Fonte,Lille,D,36,Portugal,france,2021,32308.0,1680000.0
+Adrien Hunou,Rennes,F,26,France,france,2021,32308.0,1680000.0
+Benjamin Bourigeaud,Rennes,M,26,France,france,2021,32308.0,1680000.0
+Morgan Sanson,Marseille,M,26,France,france,2021,31923.0,1660000.0
+Pol Lirola,Marseille,D,23,Spain,france,2021,31346.0,1630000.0
+Adama Soumaoro,Lille,D,28,France,france,2021,30385.0,1580000.0
+Seko Fofana,Lens,M,25,Cote d'Ivoire,france,2021,30000.0,1560000.0
+Benjamin André,Lille,M,30,France,france,2021,30000.0,1560000.0
+Jérémy Doku,Rennes,F,18,Belgium,france,2021,30000.0,1560000.0
+Morgan Schneiderlin,Nice,M,30,France,france,2021,29615.0,1540000.0
+Florent Mollet,Montpellier,F,28,France,france,2021,29423.0,1530000.0
+Karl Toko Ekambi,Lyon,F,28,Cameroon,france,2021,29423.0,1530000.0
+Dante,Nice,D,37,Brazil,france,2021,28846.0,1500000.0
+Pape Gueye,Marseille,M,21,France,france,2021,28846.0,1500000.0
+Kalifa Coulibaly,Nantes,F,29,Mali,france,2021,28846.0,1500000.0
+Mathieu Debuchy,St-Etienne,D,35,France,france,2021,28846.0,1500000.0
+Michaël Cuisance,Marseille,M,21,France,france,2021,28846.0,1500000.0
+Orestis Karnezis,Lille,K,35,Greece,france,2021,28462.0,1480000.0
+Kévin Monnet-Paquet,St-Etienne,F,32,France,france,2021,28077.0,1460000.0
+Timothée Kolodziejczak,St-Etienne,D,29,France,france,2021,27885.0,1450000.0
+Mexer,Bordeaux,D,32,Mozambique,france,2021,27692.0,1440000.0
+Jonathan Bamba,Lille,F,24,France,france,2021,27692.0,1440000.0
+Jordan Ferri,Montpellier,M,28,France,france,2021,27692.0,1440000.0
+Jean Lucas,Brest,M,22,Brazil,france,2021,27692.0,1440000.0
+Pablo,Bordeaux,D,29,Brazil,france,2021,27692.0,1440000.0
+Jonathan Ikoné,Lille,F,22,France,france,2021,27692.0,1440000.0
+Xeka,Lille,M,25,Portugal,france,2021,27692.0,1440000.0
+Boubacar Kamara,Marseille,M,20,France,france,2021,27692.0,1440000.0
+Luiz Araújo,Lille,F,24,Brazil,france,2021,27692.0,1440000.0
+Flavien Tait,Rennes,F,27,France,france,2021,27692.0,1440000.0
+Jonas Martin,Rennes,M,30,France,france,2021,27692.0,1440000.0
+Mike Maignan,Lille,K,25,France,france,2021,27692.0,1440000.0
+Andy Delort,Montpellier,F,29,Algeria,france,2021,27692.0,1440000.0
+Ui-jo Hwang,Bordeaux,F,28,South Korea,france,2021,27692.0,1440000.0
+Jean Lucas,Lyon,M,22,Brazil,france,2021,27692.0,1440000.0
+Damien Le Tallec,Montpellier,M,30,France,france,2021,26923.0,1400000.0
+Guillermo Maripán,Monaco,D,26,Chile,france,2021,26923.0,1400000.0
+Denis Bouanga,St-Etienne,F,25,Gabon,france,2021,25769.0,1340000.0
+Nicolas Pallois,Nantes,D,33,France,france,2021,25385.0,1320000.0
+Florentino,Monaco,M,21,Portugal,france,2021,25385.0,1320000.0
+Loris Benito,Bordeaux,D,28,Switzerland,france,2021,25385.0,1320000.0
+Rémi Oudin,Bordeaux,F,23,France,france,2021,25385.0,1320000.0
+Téji Savanier,Montpellier,M,28,France,france,2021,25385.0,1320000.0
+Gaëtan Laborde,Montpellier,F,26,France,france,2021,25385.0,1320000.0
+Martin Terrier,Rennes,F,23,France,france,2021,24808.0,1290000.0
+Daniele Rugani,Rennes,D,26,Italy,france,2021,24808.0,1290000.0
+Radoslaw Majecki,Monaco,K,20,Poland,france,2021,23654.0,1230000.0
+Ibrahim Amadou,Angers,M,27,France,france,2021,23462.0,1220000.0
+Ruben Aguilar,Monaco,D,27,France,france,2021,23462.0,1220000.0
+Myziane Maolida,Nice,F,21,France,france,2021,23269.0,1210000.0
+Alexis Claude-Maurice,Nice,F,22,France,france,2021,23077.0,1200000.0
+Jeff Reine-Adélaïde,Nice,M,22,France,france,2021,23077.0,1200000.0
+Paul Bernardoni,Angers,K,23,France,france,2021,23077.0,1200000.0
+Jean-Kévin Augustin,Nantes,F,23,France,france,2021,23077.0,1200000.0
+Hatem Ben Arfa,Bordeaux,F,33,France,france,2021,23077.0,1200000.0
+Jonas Omlin,Montpellier,K,26,Switzerland,france,2021,22115.0,1150000.0
+Pietro Pellegri,Monaco,F,19,Italy,france,2021,22115.0,1150000.0
+Bruno Ecuele Manga,Dijon,D,32,Gabon,france,2021,21923.0,1140000.0
+Yassine Benzia,Dijon,F,26,Algeria,france,2021,21923.0,1140000.0
+Fodé Ballo-Touré,Monaco,D,23,France,france,2021,21731.0,1130000.0
+Hiroki Sakai,Marseille,D,30,Japan,france,2021,21154.0,1100000.0
+Stanley Nsoki,Nice,D,21,France,france,2021,20769.0,1080000.0
+Andrei Girotto,Nantes,D,28,Brazil,france,2021,20769.0,1080000.0
+Gabriel Silva,St-Etienne,D,29,Brazil,france,2021,20769.0,1080000.0
+Loïs Diony,Angers,F,27,France,france,2021,20769.0,1080000.0
+Matz Sels,Strasbourg,K,28,Belgium,france,2021,20769.0,1080000.0
+Youssouf Sabaly,Bordeaux,D,27,Senegal,france,2021,20769.0,1080000.0
+Tino Kadewere,Lyon,F,24,Zimbabwe,france,2021,20769.0,1080000.0
+Yusuf Yazici,Lille,F,23,Turkey,france,2021,20192.0,1050000.0
+Gaël Kakuta,Lens,F,29,Democratic Republic of the Congo,france,2021,20000.0,1040000.0
+Walter Benítez,Nice,K,27,Argentina,france,2021,19808.0,1030000.0
+Henry Onyekuru,Monaco,F,23,Nigeria,france,2021,19808.0,1030000.0
+Alban Lafont,Nantes,K,21,France,france,2021,19615.0,1020000.0
+Romain Hamouma,St-Etienne,F,33,France,france,2021,19615.0,1020000.0
+Sven Botman,Lille,D,20,Netherlands,france,2021,19615.0,1020000.0
+Julian Pollersbeck,Lyon,K,26,Germany,france,2021,19423.0,1010000.0
+Colin Dagba,PSG,D,22,France,france,2021,19231.0,1000000.0
+Aurélien Tchouaméni,Monaco,M,20,France,france,2021,19231.0,1000000.0
+Leonardo Balerdi,Marseille,D,21,Argentina,france,2021,19038.0,990000.0
+Didier Ndong,Dijon,M,26,Gabon,france,2021,18462.0,960000.0
+Valon Berisha,Reims,M,27,Kosovo,france,2021,18462.0,960000.0
+Yunis Abdelhamid,Reims,D,33,Morocco,france,2021,18462.0,960000.0
+Ludovic Blas,Nantes,F,22,France,france,2021,18462.0,960000.0
+Stefan Mitrovic,Strasbourg,D,30,Serbia,france,2021,18462.0,960000.0
+Dennis Appiah,Nantes,D,28,France,france,2021,18462.0,960000.0
+Anthony Briancon,Nimes,D,25,France,france,2021,18462.0,960000.0
+Pape Abou Cissé,St-Etienne,D,25,Senegal,france,2021,18269.0,950000.0
+Nemanja Radonjic,Marseille,F,24,Serbia,france,2021,18077.0,940000.0
+Jean-Eudes Aholou,Strasbourg,M,26,Cote d'Ivoire,france,2021,17885.0,930000.0
+Panagiotis Retsos,St-Etienne,D,22,Greece,france,2021,17885.0,930000.0
+Pape Cheikh,Dijon,M,23,Senegal,france,2021,17500.0,910000.0
+Terem Moffi,Lorient,F,21,Nigeria,france,2021,17308.0,900000.0
+Ronaël Pierre-Gabriel,Brest,D,22,France,france,2021,17308.0,900000.0
+Sébastien Corchia,Nantes,D,29,France,france,2021,17308.0,900000.0
+Renaud Emond,Nantes,F,28,Belgium,france,2021,17308.0,900000.0
+Zeki Celik,Lille,D,23,Turkey,france,2021,17308.0,900000.0
+Anthony Limbombe,Nantes,F,26,Belgium,france,2021,17308.0,900000.0
+Luis Henrique,Marseille,F,18,Brazil,france,2021,17115.0,890000.0
+Jérémy Pied,Lille,D,31,France,france,2021,16923.0,880000.0
+Olivier Ntcham,Marseille,M,24,France,france,2021,16731.0,870000.0
+Vito Mannone,Monaco,K,32,Italy,france,2021,16538.0,860000.0
+Djamel Eddine Benlamri,Lyon,D,30,Algeria,france,2021,16538.0,860000.0
+Kévin N'Doram,Metz,M,24,France,france,2021,16154.0,840000.0
+Alexander Djiku,Strasbourg,D,26,Ghana,france,2021,16154.0,840000.0
+Dylan Bronn,Metz,D,25,Tunisia,france,2021,16154.0,840000.0
+Opa Nguette,Metz,F,26,Senegal,france,2021,16154.0,840000.0
+Sanjin Prcic,Strasbourg,M,26,Bosnia-Herzegovina,france,2021,16154.0,840000.0
+Stéphane Bahoken,Angers,F,28,Cameroon,france,2021,16154.0,840000.0
+Kenny Lala,Strasbourg,D,29,France,france,2021,16154.0,840000.0
+Steve Mounié,Brest,F,26,Benin,france,2021,16154.0,840000.0
+Vincent Pajot,Metz,M,30,France,france,2021,16154.0,840000.0
+Lamine Koné,Strasbourg,D,31,Cote d'Ivoire,france,2021,16154.0,840000.0
+Yacine Adli,Bordeaux,F,20,France,france,2021,15962.0,830000.0
+Dalbert,Rennes,D,27,Brazil,france,2021,15577.0,810000.0
+Franco Tongya,Marseille,F,18,Italy,france,2021,15385.0,800000.0
+Eduardo Camavinga,Rennes,M,17,France,france,2021,15385.0,800000.0
+Ludovic Ajorque,Strasbourg,F,26,France,france,2021,15000.0,780000.0
+Jean-Clair Todibo,Nice,D,21,France,france,2021,15000.0,780000.0
+Thomas Mangani,Angers,M,33,France,france,2021,15000.0,780000.0
+Ignatius Ganago,Lens,F,21,Cameroon,france,2021,15000.0,780000.0
+Fábio,Nantes,D,30,Brazil,france,2021,15000.0,780000.0
+Ismaël Traoré,Angers,D,34,Cote d'Ivoire,france,2021,15000.0,780000.0
+Jordan Lotomba,Nice,D,22,Switzerland,france,2021,14615.0,760000.0
+Moussa Konaté,Dijon,F,27,Senegal,france,2021,14231.0,740000.0
+Pedro Chirivella,Nantes,M,23,Spain,france,2021,13846.0,720000.0
+Jonathan Clauss,Lens,D,28,France,france,2021,13846.0,720000.0
+Anastasios Donis,Reims,F,24,Greece,france,2021,13846.0,720000.0
+Thomas Foket,Reims,D,26,Belgium,france,2021,13846.0,720000.0
+Axel Disasi,Monaco,D,22,Democratic Republic of the Congo,france,2021,13846.0,720000.0
+Saïdou Sow,St-Etienne,D,18,Guinea,france,2021,13846.0,720000.0
+Predrag Rajkovic,Reims,K,24,Serbia,france,2021,13846.0,720000.0
+Boubakary Soumaré,Lille,M,21,France,france,2021,13846.0,720000.0
+Melvin Bard,Lyon,D,19,France,france,2021,13654.0,710000.0
+Zaydou Youssouf,St-Etienne,M,21,France,france,2021,13462.0,700000.0
+Strahinja Pavlovic,Monaco,D,19,Serbia,france,2021,13462.0,700000.0
+Timothy Weah,Lille,F,20,United States,france,2021,13462.0,700000.0
+Arbër Zeneli,Reims,F,25,Kosovo,france,2021,13462.0,700000.0
+Farid Boulaya,Metz,F,27,Algeria,france,2021,13462.0,700000.0
+Romain Salin,Rennes,K,36,France,france,2021,13269.0,690000.0
+Souleyman Doumbia,Angers,D,24,Cote d'Ivoire,france,2021,13077.0,680000.0
+Youssef Aït Bennasser,Monaco,M,24,Morocco,france,2021,12885.0,670000.0
+Romain Del Castillo,Rennes,F,24,France,france,2021,12885.0,670000.0
+Robson Bambu,Nice,D,22,Brazil,france,2021,12692.0,660000.0
+Álvaro González,Marseille,D,30,Spain,france,2021,12692.0,660000.0
+Paul Lasne,Brest,M,31,France,france,2021,12692.0,660000.0
+Christophe Hérelle,Brest,D,28,France,france,2021,12692.0,660000.0
+Junior Sambia,Montpellier,M,24,France,france,2021,12500.0,650000.0
+Keagan Dolly,Montpellier,F,27,South Africa,france,2021,12308.0,640000.0
+Jérémy Morel,Lorient,D,36,Madagascar,france,2021,12115.0,630000.0
+Romain Thomas,Angers,D,32,France,france,2021,12115.0,630000.0
+Maxence Caqueret,Lyon,M,20,France,france,2021,12115.0,630000.0
+Roger Assalé,Dijon,F,26,Cote d'Ivoire,france,2021,12115.0,630000.0
+Youssouf Fofana,Monaco,M,21,France,france,2021,12115.0,630000.0
+Racine Coly,Nice,D,24,Senegal,france,2021,11923.0,620000.0
+Romain Philippoteaux,Brest,F,32,France,france,2021,11923.0,620000.0
+Heriberto Tavares,Brest,F,23,Portugal,france,2021,11731.0,610000.0
+Sinaly Diomandé,Lyon,D,19,Cote d'Ivoire,france,2021,11731.0,610000.0
+Dimitri Liénard,Strasbourg,M,32,France,france,2021,11731.0,610000.0
+Habib Diallo,Strasbourg,F,25,Senegal,france,2021,11731.0,610000.0
+Samuel Kalu,Bordeaux,F,23,Nigeria,france,2021,11731.0,610000.0
+Lucas Deaux,Nimes,M,31,France,france,2021,11538.0,600000.0
+Ibrahima Niane,Metz,F,21,Senegal,france,2021,11538.0,600000.0
+Mounir Chouiar,Dijon,F,21,France,france,2021,11538.0,600000.0
+Habib Maïga,Metz,M,24,Cote d'Ivoire,france,2021,11538.0,600000.0
+Aaron Leya Iseka,Metz,F,23,Belgium,france,2021,11538.0,600000.0
+Franck Honorat,Brest,M,24,France,france,2021,11538.0,600000.0
+Willem Geubbels,Monaco,F,19,France,france,2021,11538.0,600000.0
+Angelo Fulgini,Angers,M,24,France,france,2021,11538.0,600000.0
+Imran Louza,Nantes,M,21,France,france,2021,11538.0,600000.0
+Alexandre Letellier,PSG,K,29,France,france,2021,11538.0,600000.0
+Renaud Ripart,Nimes,M,27,France,france,2021,11538.0,600000.0
+Cenk Özkacar,Lyon,D,20,Turkey,france,2021,11346.0,590000.0
+Elhadji Pape Diaw,Angers,D,25,Senegal,france,2021,11346.0,590000.0
+Paul Nardi,Lorient,K,26,France,france,2021,11154.0,580000.0
+Samuel Grandsir,Monaco,F,24,France,france,2021,11154.0,580000.0
+Yohann Pelé,Marseille,K,37,France,france,2021,11154.0,580000.0
+Fabien Lemoine,Lorient,M,33,France,france,2021,11154.0,580000.0
+Benoît Badiashile,Monaco,D,19,France,france,2021,11154.0,580000.0
+Arnaud Nordin,St-Etienne,F,22,France,france,2021,11154.0,580000.0
+Bersant Celina,Dijon,F,24,Kosovo,france,2021,10962.0,570000.0
+Mateo Pavlovic,Angers,D,30,Croatia,france,2021,10962.0,570000.0
+Majeed Waris,Strasbourg,F,29,Ghana,france,2021,10962.0,570000.0
+Mehdi Abeid,Nantes,M,28,Algeria,france,2021,10962.0,570000.0
+Xavier Chavalerin,Reims,M,29,France,france,2021,10769.0,560000.0
+Miguel Trauco,St-Etienne,D,28,Peru,france,2021,10769.0,560000.0
+Sylvain Marveaux,Lorient,F,34,France,france,2021,10769.0,560000.0
+Quentin Boisgard,Lorient,F,23,France,france,2021,10577.0,550000.0
+Pedro Mendes,Montpellier,D,30,Portugal,france,2021,10577.0,550000.0
+Alfred Gomis,Rennes,K,27,Senegal,france,2021,10577.0,550000.0
+Petar Skuletic,Montpellier,F,30,Serbia,france,2021,10577.0,550000.0
+Sofiane Diop,Monaco,F,20,France,france,2021,10577.0,550000.0
+Haris Belkebla,Brest,M,26,Algeria,france,2021,10385.0,540000.0
+Anthony Caci,Strasbourg,D,23,France,france,2021,10385.0,540000.0
+Charles Traoré,Nantes,D,28,Mali,france,2021,10385.0,540000.0
+Abdoulaye Touré,Nantes,M,26,France,france,2021,10385.0,540000.0
+Yvann Maçon,St-Etienne,D,22,France,france,2021,10385.0,540000.0
+Gautier Larsonneur,Brest,K,23,France,france,2021,10385.0,540000.0
+James Léa Siliki,Rennes,M,24,France,france,2021,10385.0,540000.0
+Jean-Charles Castelletto,Nantes,D,25,Cameroon,france,2021,10385.0,540000.0
+Wesley Lautoa,Dijon,D,33,France,france,2021,10192.0,530000.0
+Fouad Chafik,Dijon,D,34,Morocco,france,2021,10192.0,530000.0
+Victorien Angban,Metz,M,24,Cote d'Ivoire,france,2021,10000.0,520000.0
+Adrian Grbic,Lorient,F,24,Austria,france,2021,9808.0,510000.0
+Domagoj Bradaric,Lille,D,20,Croatia,france,2021,9808.0,510000.0
+Stephy Mavididi,Montpellier,F,22,England,france,2021,9615.0,500000.0
+Jonathan Delaplace,Lorient,M,34,France,france,2021,9615.0,500000.0
+Alexandre Oukidja,Metz,K,32,Algeria,france,2021,9615.0,500000.0
+Nicolas Cozza,Montpellier,D,21,France,france,2021,9615.0,500000.0
+Vagner,Metz,F,24,Cape Verde,france,2021,9615.0,500000.0
+Trevoh Chalobah,Lorient,M,21,England,france,2021,9615.0,500000.0
+Harold Moukoudi,St-Etienne,D,22,Cameroon,france,2021,9615.0,500000.0
+Vincent Manceau,Angers,D,31,France,france,2021,9423.0,490000.0
+Pablo Martinez,Nimes,D,31,France,france,2021,9231.0,480000.0
+Zinedine Ferhat,Nimes,M,27,Algeria,france,2021,9231.0,480000.0
+Gaëtan Charbonnier,Brest,F,31,France,france,2021,9231.0,480000.0
+Moussa Koné,Nimes,F,23,Senegal,france,2021,9231.0,480000.0
+Marcus Coco,Nantes,F,24,France,france,2021,9231.0,480000.0
+Wuilker Fariñez,Lens,K,22,Venezuela,france,2021,9038.0,470000.0
+Camilo,Lyon,M,21,Brazil,france,2021,8846.0,460000.0
+Jordan Marié,Dijon,M,29,France,france,2021,8846.0,460000.0
+Baptiste Reynet,Nimes,K,29,France,france,2021,8846.0,460000.0
+Daniel Congré,Montpellier,D,35,France,france,2021,8846.0,460000.0
+Irvin Cardona,Brest,F,23,France,france,2021,8654.0,450000.0
+John Boye,Metz,D,33,Ghana,france,2021,8654.0,450000.0
+Danilo,Nice,M,24,Brazil,france,2021,8654.0,450000.0
+Yannick Cahuzac,Lens,M,35,France,france,2021,8654.0,450000.0
+Ambroise Oyongo,Montpellier,D,29,Cameroon,france,2021,8654.0,450000.0
+Mihailo Ristic,Montpellier,M,24,Serbia,france,2021,8654.0,450000.0
+Julien Laporte,Lorient,D,26,France,france,2021,8462.0,440000.0
+Adrien Thomasson,Strasbourg,F,26,France,france,2021,8462.0,440000.0
+Ludovic Butelle,Angers,K,37,France,france,2021,8462.0,440000.0
+Arnaud Souquet,Montpellier,D,28,France,france,2021,8269.0,430000.0
+Hilton,Montpellier,D,43,Brazil,france,2021,8269.0,430000.0
+Timothée Pembélé,PSG,D,18,France,france,2021,8269.0,430000.0
+Amine Gouiri,Nice,F,20,France,france,2021,8077.0,420000.0
+Wout Faes,Reims,D,22,Belgium,france,2021,8077.0,420000.0
+Mathías Suárez,Montpellier,D,24,Uruguay,france,2021,8077.0,420000.0
+Thomas Monconduit,Lorient,M,29,France,france,2021,8077.0,420000.0
+Aimen Moueffek,St-Etienne,D,19,France,france,2021,8077.0,420000.0
+Jessy Moulin,St-Etienne,K,34,France,france,2021,8077.0,420000.0
+Hassane Kamara,Nice,D,26,France,france,2021,8077.0,420000.0
+Paul Baysse,Bordeaux,D,32,France,france,2021,7885.0,410000.0
+Romain Amalfitano,Dijon,M,31,France,france,2021,7885.0,410000.0
+Dario Maresic,Reims,D,21,Austria,france,2021,7692.0,400000.0
+Mathias Pereira Lage,Angers,M,23,Portugal,france,2021,7692.0,400000.0
+Mathieu Cafaro,Reims,F,23,France,france,2021,7500.0,390000.0
+Lebo Mothiba,Strasbourg,F,24,South Africa,france,2021,7500.0,390000.0
+Moussa Doumbia,Reims,F,26,Mali,france,2021,7500.0,390000.0
+Idriss Saadi,Strasbourg,F,28,Algeria,france,2021,7500.0,390000.0
+Thierry Ambrose,Metz,F,23,France,france,2021,7500.0,390000.0
+Xavi Simons,PSG,M,17,Netherlands,france,2021,7308.0,380000.0
+Kaj Sierhuis,Reims,F,22,Netherlands,france,2021,7308.0,380000.0
+Chrislain Matsima,Monaco,D,18,France,france,2021,7308.0,380000.0
+Yoane Wissa,Lorient,F,24,Democratic Republic of the Congo,france,2021,7308.0,380000.0
+Moreto Cassamá,Reims,M,22,Guinea-Bissau,france,2021,7115.0,370000.0
+Eiji Kawashima,Strasbourg,K,37,Japan,france,2021,7115.0,370000.0
+Mathyas Randriamamy,PSG,K,17,Madagascar,france,2021,7115.0,370000.0
+Nolan Roux,Nimes,F,32,France,france,2021,7115.0,370000.0
+Denis Franchi,PSG,K,18,Italy,france,2021,7115.0,370000.0
+Pierrick Capelle,Angers,M,33,France,france,2021,6923.0,360000.0
+Randal Kolo Muani,Nantes,F,21,France,france,2021,6923.0,360000.0
+Faitout Maouassa,Rennes,D,22,France,france,2021,6923.0,360000.0
+Gerzino Nyamsi,Rennes,D,23,France,france,2021,6923.0,360000.0
+Damien Da Silva,Rennes,D,32,France,france,2021,6731.0,350000.0
+Fraser Hornby,Reims,F,21,Scotland,france,2021,6731.0,350000.0
+Mitchel Bakker,PSG,D,20,Netherlands,france,2021,6731.0,350000.0
+Andrés Cubas,Nimes,M,24,Paraguay,france,2021,6731.0,350000.0
+Jean-Ricner Bellegarde,Strasbourg,M,22,France,france,2021,6538.0,340000.0
+Jean-Louis Leca,Lens,K,35,France,france,2021,6538.0,340000.0
+Sada Thioub,Angers,F,25,Senegal,france,2021,6538.0,340000.0
+Bandiougou Fadiga,Brest,F,20,France,france,2021,6346.0,330000.0
+Loïck Landre,Nimes,D,28,France,france,2021,6346.0,330000.0
+Ibrahima Sissoko,Strasbourg,M,22,Mali,france,2021,6346.0,330000.0
+Abdoulaye Bamba,Angers,D,30,Cote d'Ivoire,france,2021,6346.0,330000.0
+Tiago Djaló,Lille,D,20,Portugal,france,2021,6346.0,330000.0
+Yanis Saidani,PSG,K,19,Algeria,france,2021,6346.0,330000.0
+Anthony Racioppi,Dijon,K,21,Switzerland,france,2021,6346.0,330000.0
+Bandiougou Fadiga,PSG,F,19,France,france,2021,6346.0,330000.0
+Yoan Cardinale,Nice,K,26,France,france,2021,6346.0,330000.0
+Tony Mauricio,Lens,F,26,France,france,2021,6154.0,320000.0
+Adil Aouchiche,St-Etienne,F,18,France,france,2021,6154.0,320000.0
+Corentin Jean,Lens,F,25,France,france,2021,6154.0,320000.0
+Naomichi Ueda,Nimes,D,26,Japan,france,2021,6154.0,320000.0
+Abdoul Kader Bamba,Nantes,F,26,France,france,2021,6154.0,320000.0
+Romain Faivre,Brest,M,22,France,france,2021,5962.0,310000.0
+Niclas Eliasson,Nimes,M,24,Sweden,france,2021,5962.0,310000.0
+Steven Fortes,Lens,D,28,Cape Verde,france,2021,5962.0,310000.0
+Saturnin Allagbé,Dijon,K,26,Benin,france,2021,5769.0,300000.0
+Issiaga Sylla,Lens,D,26,Guinea,france,2021,5769.0,300000.0
+Rayan Cherki,Lyon,F,17,France,france,2021,5769.0,300000.0
+Mama Baldé,Dijon,F,24,Guinea-Bissau,france,2021,5769.0,300000.0
+Hicham Boudaoui,Nice,M,21,Algeria,france,2021,5577.0,290000.0
+Bingourou Kamara,Strasbourg,K,24,Senegal,france,2021,5577.0,290000.0
+Patrick Burner,Nimes,D,24,France,france,2021,5577.0,290000.0
+Farid El Melali,Angers,F,23,Algeria,france,2021,5577.0,290000.0
+Ferris N'Goma,Brest,M,27,France,france,2021,5577.0,290000.0
+Matthieu Saunier,Lorient,D,30,France,france,2021,5577.0,290000.0
+Aníbal Chalá,Dijon,D,24,Ecuador,france,2021,5577.0,290000.0
+Thomas Basila,Nantes,D,21,France,france,2021,5577.0,290000.0
+Pierre Lees Melou,Nice,M,27,France,france,2021,5577.0,290000.0
+Yahya Soumaré,Lyon,F,20,France,france,2021,5385.0,280000.0
+Thomas Delaine,Metz,D,28,France,france,2021,5385.0,280000.0
+Dereck Kutesa,Reims,F,22,Switzerland,france,2021,5385.0,280000.0
+Alpha Sissoko,St-Etienne,D,23,France,france,2021,5192.0,270000.0
+Lamine Fomba,Nimes,M,22,France,france,2021,5192.0,270000.0
+Birger Meling,Nimes,D,25,Norway,france,2021,5192.0,270000.0
+Yuto Nagatomo,Marseille,D,34,Japan,france,2021,5192.0,270000.0
+Jimmy Cabot,Angers,F,26,France,france,2021,5192.0,270000.0
+Thomas Fontaine,Lorient,D,29,Madagascar,france,2021,5000.0,260000.0
+Boubacar Fall,St-Etienne,K,19,Senegal,france,2021,4808.0,250000.0
+Mouhamadou Drammeh,Reims,M,21,France,france,2021,4808.0,250000.0
+Armand Laurienté,Lorient,F,21,France,france,2021,4808.0,250000.0
+El Bilal Touré,Reims,F,19,Mali,france,2021,4808.0,250000.0
+Vincent Le Goff,Lorient,D,31,France,france,2021,4808.0,250000.0
+Bilal Benkhedim,St-Etienne,F,19,France,france,2021,4808.0,250000.0
+Maxence Rivera,St-Etienne,F,18,France,france,2021,4808.0,250000.0
+Florian Sotoca,Lens,F,29,France,france,2021,4615.0,240000.0
+Laurent Abergel,Lorient,M,27,France,france,2021,4615.0,240000.0
+Sidy Sarr,Nimes,M,24,Senegal,france,2021,4615.0,240000.0
+Massadio Haidara,Lens,D,27,Mali,france,2021,4615.0,240000.0
+Kiki Kouyaté,Metz,D,23,Mali,france,2021,4615.0,240000.0
+Maxime Poundjé,Bordeaux,D,28,France,france,2021,4423.0,230000.0
+Romain Perraud,Brest,D,23,France,france,2021,4423.0,230000.0
+Yann Gboho,Rennes,F,19,France,france,2021,4423.0,230000.0
+Ghislain Konan,Reims,D,24,Cote d'Ivoire,france,2021,4423.0,230000.0
+Charles Abi,St-Etienne,F,20,France,france,2021,4231.0,220000.0
+Denis Petric,Nantes,K,32,Serbia,france,2021,4231.0,220000.0
+Abdoulaye Sidibé,St-Etienne,F,18,France,france,2021,4231.0,220000.0
+Matthieu Dreyer,Lorient,K,31,France,france,2021,4231.0,220000.0
+Jean-Kevin Duverne,Brest,D,23,France,france,2021,4231.0,220000.0
+Julien Faussurier,Brest,D,33,France,france,2021,4231.0,220000.0
+Nayef Aguerd,Rennes,D,24,Morocco,france,2021,4231.0,220000.0
+Aleksandar Radovanovic,Lens,D,26,Serbia,france,2021,4231.0,220000.0
+Pierre-Yves Hamel,Lorient,F,26,France,france,2021,4231.0,220000.0
+Florian Miguel,Nimes,D,24,France,france,2021,4231.0,220000.0
+Denys Bain,Brest,D,27,France,france,2021,4231.0,220000.0
+Stéphane Diarra,Lorient,F,21,Cote d'Ivoire,france,2021,4231.0,220000.0
+Toma Basic,Bordeaux,M,23,Croatia,france,2021,4038.0,210000.0
+Enock Kwateng,Bordeaux,D,23,France,france,2021,4038.0,210000.0
+Vukasin Jovanovic,Bordeaux,D,24,Serbia,france,2021,4038.0,210000.0
+Fabien Centonze,Metz,D,24,France,france,2021,4038.0,210000.0
+Cheick Doucouré,Lens,M,20,Mali,france,2021,4038.0,210000.0
+Ludovic Baal,Brest,D,34,French Guiana,france,2021,4038.0,210000.0
+Saîf-Eddine Khaoui,Marseille,F,25,Tunisia,france,2021,4038.0,210000.0
+Mamadou Fofana,Metz,D,22,Mali,france,2021,3846.0,200000.0
+Lamine Gueye,Metz,F,22,Senegal,france,2021,3846.0,200000.0
+Il-lok Yun,Montpellier,F,28,South Korea,france,2021,3846.0,200000.0
+Zakaria Diallo,Lens,D,34,France,france,2021,3846.0,200000.0
+Dan Ndoye,Nice,F,19,Switzerland,france,2021,3846.0,200000.0
+Clément Michelin,Lens,D,23,France,france,2021,3846.0,200000.0
+Mouez Hassen,Brest,K,25,Tunisia,france,2021,3846.0,200000.0
+Cristian Battocchio,Brest,M,28,Italy,france,2021,3846.0,200000.0
+Kévin Zohi,Strasbourg,F,23,Mali,france,2021,3846.0,200000.0
+Yvan Neyou,St-Etienne,M,23,Cameroon,france,2021,3654.0,190000.0
+Adama Traoré,Metz,F,25,Mali,france,2021,3654.0,190000.0
+Reinildo Mandava,Lille,D,26,Mozambique,france,2021,3654.0,190000.0
+Deji Sotona,Nice,F,17,Ireland,france,2021,3654.0,190000.0
+Manuel Cabit,Metz,D,27,Martinique,france,2021,3654.0,190000.0
+Jérôme Hergault,Lorient,D,34,France,france,2021,3654.0,190000.0
+Pape Sarr,Metz,M,18,Senegal,france,2021,3462.0,180000.0
+Marc-Aurèle Caillard,Metz,K,26,France,france,2021,3462.0,180000.0
+Lassana Coulibaly,Angers,M,24,Mali,france,2021,3462.0,180000.0
+Sofiane Alakouch,Nimes,D,22,France,france,2021,3269.0,170000.0
+Antonin Bobichon,Angers,M,25,France,france,2021,3269.0,170000.0
+Jonathan Gradit,Lens,D,27,France,france,2021,3269.0,170000.0
+Boulaye Dia,Reims,F,23,Senegal,france,2021,3269.0,170000.0
+Mohamed Simakan,Strasbourg,D,20,France,france,2021,3269.0,170000.0
+Lucas Chevalier,Lille,K,18,France,france,2021,3269.0,170000.0
+Haris Duljevic,Nimes,M,26,Bosnia-Herzegovina,france,2021,3077.0,160000.0
+Karim Aribi,Nimes,F,26,Algeria,france,2021,3077.0,160000.0
+Isaac Lihadji,Lille,F,18,France,france,2021,2885.0,150000.0
+Frédéric Sammaritano,Dijon,F,34,France,france,2021,2885.0,150000.0
+Warren Tchimbembé,Metz,M,22,France,france,2021,2885.0,150000.0
+Ernest Boahene,Metz,D,20,Ghana,france,2021,2885.0,150000.0
+Thibault De Smet,Reims,D,22,Belgium,france,2021,2885.0,150000.0
+Adrien Truffert,Rennes,D,18,France,france,2021,2885.0,150000.0
+Tom Lacoux,Bordeaux,M,19,France,france,2021,2885.0,150000.0
+Thomas Touré,Angers,F,26,Cote d'Ivoire,france,2021,2692.0,140000.0
+Mehdi Zerkane,Bordeaux,F,21,Algeria,france,2021,2692.0,140000.0
+Alexandru Dobre,Dijon,F,22,Romania,france,2021,2692.0,140000.0
+Andy Pelmard,Nice,D,20,France,france,2021,2500.0,130000.0
+Brandon Soppy,Rennes,D,18,France,france,2021,2500.0,130000.0
+Georginio Rutter,Rennes,F,18,France,france,2021,2500.0,130000.0
+Mahame Siby,Strasbourg,M,24,France,france,2021,2500.0,130000.0
+Gaëtan Paquiez,Nimes,D,26,France,france,2021,2500.0,130000.0
+Paul Delecroix,Metz,K,32,France,france,2021,2500.0,130000.0
+Pépé Bonet,Rennes,K,17,Democratic Republic of the Congo,france,2021,2500.0,130000.0
+Mehdi Chahiri,Strasbourg,F,24,France,france,2021,2500.0,130000.0
+Fadiga Ouattara,Lille,F,18,France,france,2021,2500.0,130000.0
+Logan Delaurier-Chaubet,Bordeaux,F,18,France,france,2021,2500.0,130000.0
+Houboulang Mendes,Lorient,D,22,France,france,2021,2500.0,130000.0
+Ismaël Sow,Bordeaux,D,19,France,france,2021,2308.0,120000.0
+Sacha Boey,Dijon,D,20,France,france,2021,2308.0,120000.0
+Éric Ebimbe,Dijon,F,19,France,france,2021,2308.0,120000.0
+Facundo Medina,Lens,D,21,Argentina,france,2021,2308.0,120000.0
+Simon Banza,Lens,F,24,France,france,2021,2308.0,120000.0
+Youssef Maziz,Metz,M,22,France,france,2021,2308.0,120000.0
+Batista Mendy,Nantes,M,20,France,france,2021,2308.0,120000.0
+Cheikh Niasse,Lille,M,20,France,france,2021,2308.0,120000.0
+Danijel Petkovic,Angers,K,27,Montenegro,france,2021,2308.0,120000.0
+Yassine Benrahou,Nimes,F,21,Morocco,france,2021,2308.0,120000.0
+Jonathan Panzo,Dijon,D,19,England,france,2021,2115.0,110000.0
+Cheick Traoré,Lens,D,25,Mali,france,2021,2115.0,110000.0
+Loïc Bessile,Bordeaux,D,22,Togo,france,2021,2115.0,110000.0
+Arthur Zagre,Dijon,D,19,France,france,2021,2115.0,110000.0
+Clément Depres,Nimes,F,25,France,france,2021,1923.0,100000.0
+Dimitry Bertaud,Montpellier,K,22,France,france,2021,1923.0,100000.0
+Enzo Le Fée,Lorient,M,20,France,france,2021,1923.0,100000.0
+Elye Wahi,Montpellier,F,18,France,france,2021,1923.0,100000.0
+Cyrille Bayala,Lens,F,24,Burkina Faso,france,2021,1923.0,100000.0
+Lilian Brassier,Brest,D,20,France,france,2021,1731.0,90000.0
+Loïc Badé,Lens,D,20,France,france,2021,1731.0,90000.0
+Andreaw Gravillon,Lorient,D,22,Guadeloupe,france,2021,1731.0,90000.0
+Gaëtan Poussin,Bordeaux,K,21,France,france,2021,1731.0,90000.0
+Charles Boli,Lens,M,22,France,france,2021,1731.0,90000.0
+Tiago Ilori,Lorient,D,27,Portugal,france,2021,1538.0,80000.0
+Jérémy Le Douaron,Brest,F,22,France,france,2021,1538.0,80000.0
+Mahdi Camara,St-Etienne,M,22,France,france,2021,1538.0,80000.0
+Matthieu Udol,Metz,D,24,France,france,2021,1346.0,70000.0
+Haithem Loucif,Angers,D,24,Algeria,france,2021,1346.0,70000.0
+Kévin Denkey,Nimes,F,19,Togo,france,2021,1346.0,70000.0
+Lucas Buades,Nimes,M,22,France,france,2021,1154.0,60000.0
+Kelyan Guessoum,Nimes,D,21,France,france,2021,1154.0,60000.0
+Antoine Valerio,Nimes,M,20,France,france,2021,1154.0,60000.0
+Arnaud Kalimuendo,Lens,F,18,France,france,2021,1154.0,60000.0
+Ngonda Muzinga,Dijon,D,25,Democratic Republic of the Congo,france,2021,1154.0,60000.0
+Alexis Trouillet,Nice,M,19,France,france,2021,1154.0,60000.0
+Roli Pereira de Sa,Nantes,F,23,France,france,2021,1154.0,60000.0
+Charly Jan,Nantes,K,21,France,france,2021,1154.0,60000.0
+Bridge Ndilu,Nantes,F,20,France,france,2021,1154.0,60000.0
+Yanis Ammour,Montpellier,F,21,France,france,2021,1154.0,60000.0
+Hianga'a MBock,Brest,M,20,France,france,2021,1154.0,60000.0
+Joris Chotard,Montpellier,M,19,France,france,2021,1154.0,60000.0
+Brendan Chardonnet,Brest,D,25,France,france,2021,1154.0,60000.0
+Zinédine Ould Khaled,Angers,M,20,France,france,2021,1154.0,60000.0
+Stefan Bajic,St-Etienne,K,18,France,france,2021,1154.0,60000.0
+Marco Majouga,Nimes,F,19,France,france,2021,962.0,50000.0
+Mattéo Ahlinvi,Nimes,M,21,Benin,france,2021,962.0,50000.0
+Sébastien Cibois,Brest,K,22,France,france,2021,962.0,50000.0
+Papa Ndiaga Yade,Metz,F,20,Senegal,france,2021,962.0,50000.0
+Christopher Rocchia,Marseille,D,22,France,france,2021,962.0,50000.0
+Florian Chabrolle,Marseille,F,22,France,france,2021,962.0,50000.0
+Lucas Dias,Nimes,K,21,France,france,2021,962.0,50000.0
+Hugo Magnetti,Brest,M,22,France,france,2021,962.0,50000.0
+Eugenio Pizzuto,Lille,M,18,Mexico,france,2021,769.0,40000.0
+Ugo Bertelli,Marseille,M,17,France,france,2021,769.0,40000.0
+Eliot Matazo,Monaco,M,18,Belgium,france,2021,769.0,40000.0
+Aaron Kamardin,Marseille,D,18,France,france,2021,769.0,40000.0
+Marshall Munetsi,Reims,M,24,Zimbabwe,france,2021,769.0,40000.0
+Marley Aké,Marseille,F,19,France,france,2021,769.0,40000.0
+Senou Coulibaly,Dijon,D,26,France,france,2021,769.0,40000.0
+Enzo Millot,Monaco,M,18,France,france,2021,769.0,40000.0
+Samy Benchamma,Montpellier,M,20,France,france,2021,769.0,40000.0
+Enzo Ebosse,Angers,D,21,France,france,2021,769.0,40000.0
+Richecard Richard,Marseille,D,18,France,france,2021,769.0,40000.0
+Nathanaël Mbuku,Reims,F,18,France,france,2021,769.0,40000.0
+Lucas Gourna-Douath,St-Etienne,M,17,France,france,2021,769.0,40000.0
+Lionel Carole,Strasbourg,D,29,France,france,2021,769.0,40000.0
+Flavius Daniliuc,Nice,D,19,Austria,france,2021,769.0,40000.0
+Mohamed-Ali Cho,Angers,F,16,France,france,2021,769.0,40000.0
+Fodé Doucouré,Reims,D,19,Mali,france,2021,577.0,30000.0
+Thomas Callens,Lorient,K,22,France,france,2021,577.0,30000.0
+Idrissa Dioh,Brest,M,21,France,france,2021,577.0,30000.0
+Thibaut Vargas,Montpellier,M,20,France,france,2021,577.0,30000.0
+Yehvann Diouf,Reims,K,20,France,france,2021,577.0,30000.0
+Béni Makouana,Montpellier,F,18,Congo,france,2021,577.0,30000.0
+Rafiki Saïd,Brest,F,20,Comoros,france,2021,577.0,30000.0
+Jorès Rahou,Marseille,F,17,France,france,2021,577.0,30000.0
+Lucas Perrin,Marseille,D,21,France,france,2021,577.0,30000.0
+Franklin Wadja,Lorient,M,25,Cameroon,france,2021,577.0,30000.0
+Etienne Green,St-Etienne,K,20,France,france,2021,577.0,30000.0
+Nassim Ahmed,Marseille,M,20,France,france,2021,577.0,30000.0
+Teddy Bartouche,Lorient,K,23,France,france,2021,577.0,30000.0
+Dialy Ndiaye,Reims,K,21,Senegal,france,2021,577.0,30000.0
+Amadou Traoré,Bordeaux,F,19,France,france,2021,577.0,30000.0
+Sami Ben Amar,Nimes,F,22,Morocco,france,2021,577.0,30000.0
+Ahmad Ngouyamsa,Dijon,D,19,Cameroon,france,2021,577.0,30000.0
+Boubacar Traoré,Metz,M,19,Mali,france,2021,577.0,30000.0
+Maxen Kapo,PSG,M,19,France,france,2021,577.0,30000.0
+Khéphren Thuram,Nice,M,19,France,france,2021,577.0,30000.0
+Wilitty Younoussa,Dijon,M,19,Cameroon,france,2021,577.0,30000.0
+Adam Oudjani,Lens,F,19,France,france,2021,577.0,30000.0
+David Costa,Lens,F,19,Portugal,france,2021,577.0,30000.0
+Simon Ngapandouetnbu,Marseille,K,17,Cameroon,france,2021,385.0,20000.0
+Over Mandanda,Bordeaux,K,21,France,france,2021,385.0,20000.0
+Malamine Doumbouya,Lorient,M,20,France,france,2021,385.0,20000.0
+Lévi Ntumba,Dijon,K,19,France,france,2021,385.0,20000.0
+Kays Ruiz-Atil,PSG,M,18,Morocco,france,2021,385.0,20000.0
+Ismaël Boura,Lens,D,20,France,france,2021,385.0,20000.0
+Cheick Souaré,Marseille,M,18,France,france,2021,385.0,20000.0
+Ibrahim Diarra,Bordeaux,M,22,France,france,2021,385.0,20000.0
+Kévin Boma,Angers,D,17,France,france,2021,385.0,20000.0
+Lenny Lacroix,Metz,D,17,France,france,2021,385.0,20000.0
+Kevin Bemanga,Angers,F,22,France,france,2021,385.0,20000.0
+Teddy Boulhendi,Nice,K,19,France,france,2021,385.0,20000.0
+Alexandre Phliponeau,Marseille,M,20,France,france,2021,385.0,20000.0
+Matis Carvalho,Montpellier,K,21,Portugal,france,2021,385.0,20000.0
+Malcolm Barcola,Lyon,K,21,Togo,france,2021,385.0,20000.0
+Clément Vidal,Montpellier,D,20,France,france,2021,385.0,20000.0
+Waniss Taïbi,Angers,F,18,France,france,2021,385.0,20000.0
+Didier Desprez,Lens,K,21,France,france,2021,385.0,20000.0
+David Kong,Bordeaux,M,25,Macao,france,2021,385.0,20000.0
+Amir Arli,Dijon,F,17,Turkey,france,2021,385.0,20000.0
+Thibault Tamas,Montpellier,D,19,France,france,2021,385.0,20000.0
+Noah Fatar,Angers,F,18,France,france,2021,385.0,20000.0
+Ismaël Aaneba,Strasbourg,D,21,France,france,2021,0.0,0.0

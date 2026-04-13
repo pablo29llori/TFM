@@ -1,0 +1,611 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Kevin De Bruyne,Manchester City,F,32,Belgium,england,2324,463389.0,24096205.0
+Erling Haaland,Manchester City,F,23,Norway,england,2324,434427.0,22590192.0
+Casemiro,Manchester United,M,31,Brazil,england,2324,405465.0,21084179.0
+Mohamed Salah,Liverpool,F,31,Egypt,england,2324,405465.0,21084179.0
+Raphaël Varane,Manchester United,D,30,France,england,2324,393880.0,20481774.0
+Raheem Sterling,Chelsea,F,29,England,england,2324,376503.0,19578166.0
+Marcus Rashford,Manchester United,F,26,England,england,2324,347541.0,18072154.0
+Jack Grealish,Manchester City,F,28,England,england,2324,347541.0,18072154.0
+Bernardo Silva,Manchester City,F,29,Portugal,england,2324,347541.0,18072154.0
+Kai Havertz,Arsenal,F,24,Germany,england,2324,324372.0,16867343.0
+Gabriel Jesus,Arsenal,F,26,Brazil,england,2324,306995.0,15963736.0
+Anthony Martial,Manchester United,F,28,France,england,2324,289618.0,15060128.0
+Reece James,Chelsea,D,24,England,england,2324,289618.0,15060128.0
+John Stones,Manchester City,D,29,England,england,2324,289618.0,15060128.0
+Declan Rice,Arsenal,M,25,England,england,2324,278033.0,14457723.0
+Martin Ødegaard,Arsenal,F,25,Norway,england,2324,278033.0,14457723.0
+Bruno Fernandes,Manchester United,F,29,Portugal,england,2324,278033.0,14457723.0
+Phil Foden,Manchester City,F,23,England,england,2324,260656.0,13554115.0
+Rodri,Manchester City,M,27,Spain,england,2324,254864.0,13252913.0
+Virgil van Dijk,Liverpool,D,32,Netherlands,england,2324,254864.0,13252913.0
+Mason Mount,Manchester United,F,25,England,england,2324,231694.0,12048102.0
+Josko Gvardiol,Manchester City,D,22,Croatia,england,2324,231694.0,12048102.0
+Thiago,Liverpool,M,32,Spain,england,2324,231694.0,12048102.0
+Ben Chilwell,Chelsea,D,27,England,england,2324,231694.0,12048102.0
+Wesley Fofana,Chelsea,D,23,France,england,2324,231694.0,12048102.0
+Thomas Partey,Arsenal,M,30,Ghana,england,2324,231694.0,12048102.0
+Jadon Sancho,Manchester United,F,23,England,england,2324,225902.0,11746900.0
+Bukayo Saka,Arsenal,F,22,England,england,2324,225902.0,11746900.0
+Christopher Nkunku,Chelsea,F,26,France,england,2324,225902.0,11746900.0
+William Saliba,Arsenal,D,22,France,england,2324,220110.0,11445697.0
+Heung-min Son,Tottenham,F,31,South Korea,england,2324,220110.0,11445697.0
+Harry Maguire,Manchester United,D,30,England,england,2324,220110.0,11445697.0
+Enzo Fernández,Chelsea,M,23,Argentina,england,2324,208525.0,10843292.0
+Rúben Dias,Manchester City,D,26,Portugal,england,2324,208525.0,10843292.0
+Gabriel Martinelli,Arsenal,F,22,Brazil,england,2324,208525.0,10843292.0
+Ivan Perisic,Tottenham,M,34,Croatia,england,2324,208525.0,10843292.0
+Trent Alexander-Arnold,Liverpool,D,25,England,england,2324,208525.0,10843292.0
+Manuel Akanji,Manchester City,D,28,Switzerland,england,2324,208525.0,10843292.0
+Kyle Walker,Manchester City,D,33,England,england,2324,202733.0,10542090.0
+Marc Cucurella,Chelsea,D,25,Spain,england,2324,202733.0,10542090.0
+James Maddison,Tottenham,F,27,England,england,2324,196940.0,10240887.0
+Cristian Romero,Tottenham,D,25,Argentina,england,2324,191148.0,9939685.0
+Timo Werner,Tottenham,F,27,Germany,england,2324,191148.0,9939685.0
+Ansu Fati,Brighton,F,21,Spain,england,2324,185355.0,9638482.0
+Bruno Guimarães,Newcastle,M,26,Brazil,england,2324,185355.0,9638482.0
+Andrew Robertson,Liverpool,D,29,Scotland,england,2324,185355.0,9638482.0
+Nathan Aké,Manchester City,D,28,Netherlands,england,2324,185355.0,9638482.0
+Alisson,Liverpool,K,31,Brazil,england,2324,173771.0,9036077.0
+Ben White,Arsenal,D,26,England,england,2324,173771.0,9036077.0
+Christian Eriksen,Manchester United,M,31,Denmark,england,2324,173771.0,9036077.0
+Moisés Caicedo,Chelsea,M,22,Ecuador,england,2324,173771.0,9036077.0
+Alexis Mac Allister,Liverpool,M,25,Argentina,england,2324,173771.0,9036077.0
+Ryan Gravenberch,Liverpool,M,21,Netherlands,england,2324,173771.0,9036077.0
+Lucas Paquetá,West Ham,F,26,Brazil,england,2324,173771.0,9036077.0
+Mateo Kovacic,Manchester City,M,29,Croatia,england,2324,173771.0,9036077.0
+Kalvin Phillips,West Ham,M,28,England,england,2324,173771.0,9036077.0
+Jarrod Bowen,West Ham,F,27,England,england,2324,173771.0,9036077.0
+Luke Shaw,Manchester United,D,28,England,england,2324,173771.0,9036077.0
+Joelinton,Newcastle,M,27,Brazil,england,2324,173771.0,9036077.0
+Oleksandr Zinchenko,Arsenal,D,27,Ukraine,england,2324,173771.0,9036077.0
+Youri Tielemans,Aston Villa,M,26,Belgium,england,2324,173771.0,9036077.0
+Clément Lenglet,Aston Villa,D,28,France,england,2324,173771.0,9036077.0
+Darwin Núñez,Liverpool,F,24,Uruguay,england,2324,162186.0,8433672.0
+Diogo Jota,Liverpool,F,27,Portugal,england,2324,162186.0,8433672.0
+Moussa Diaby,Aston Villa,F,24,France,england,2324,150601.0,7831267.0
+Ollie Watkins,Aston Villa,F,28,England,england,2324,150601.0,7831267.0
+Bernd Leno,Fulham,K,31,Germany,england,2324,150601.0,7831267.0
+Matheus Nunes,Manchester City,M,25,Portugal,england,2324,150601.0,7831267.0
+Abdoulaye Doucouré,Everton,M,31,Mali,england,2324,150601.0,7831267.0
+Kurt Zouma,West Ham,D,29,France,england,2324,144809.0,7530064.0
+Jordan Pickford,Everton,K,29,England,england,2324,144809.0,7530064.0
+Danny Ings,West Ham,F,31,England,england,2324,144809.0,7530064.0
+Lucas Digne,Aston Villa,D,30,France,england,2324,139017.0,7228861.0
+Leon Bailey,Aston Villa,F,26,Jamaica,england,2324,139017.0,7228861.0
+John McGinn,Aston Villa,M,29,Scotland,england,2324,139017.0,7228861.0
+Emiliano Martínez,Aston Villa,K,31,Argentina,england,2324,139017.0,7228861.0
+Dominik Szoboszlai,Liverpool,M,23,Hungary,england,2324,139017.0,7228861.0
+Boubacar Kamara,Aston Villa,M,24,France,england,2324,139017.0,7228861.0
+Malang Sarr,Chelsea,D,25,France,england,2324,139017.0,7228861.0
+Alphonse Areola,West Ham,K,30,France,england,2324,139017.0,7228861.0
+Idrissa Gueye,Everton,M,34,Senegal,england,2324,139017.0,7228861.0
+Aaron Ramsdale,Arsenal,K,25,England,england,2324,139017.0,7228861.0
+André Onana,Manchester United,K,27,Cameroon,england,2324,139017.0,7228861.0
+Cody Gakpo,Liverpool,F,24,Netherlands,england,2324,139017.0,7228861.0
+Divock Origi,Nottingham Forest,F,28,Belgium,england,2324,139017.0,7228861.0
+Kieran Trippier,Newcastle,D,33,England,england,2324,139017.0,7228861.0
+Lisandro Martínez,Manchester United,D,26,Argentina,england,2324,139017.0,7228861.0
+Alexander Isak,Newcastle,F,24,Sweden,england,2324,139017.0,7228861.0
+Victor Lindelöf,Manchester United,D,29,Sweden,england,2324,139017.0,7228861.0
+James Ward-Prowse,West Ham,M,29,England,england,2324,133224.0,6927659.0
+André Gomes,Everton,M,30,Portugal,england,2324,130105.0,6765473.0
+Dejan Kulusevski,Tottenham,F,23,Sweden,england,2324,127432.0,6626456.0
+Thiago Silva,Chelsea,D,39,Brazil,england,2324,127432.0,6626456.0
+Jorginho,Arsenal,M,32,Italy,england,2324,127432.0,6626456.0
+Antony,Manchester United,F,23,Brazil,england,2324,121640.0,6325254.0
+Michael Olise,Crystal Palace,F,22,France,england,2324,115847.0,6024051.0
+Amadou Onana,Everton,M,22,Belgium,england,2324,115847.0,6024051.0
+James Tarkowski,Everton,D,31,England,england,2324,115847.0,6024051.0
+Dele Alli,Everton,F,27,England,england,2324,115847.0,6024051.0
+Dominic Calvert-Lewin,Everton,F,26,England,england,2324,115847.0,6024051.0
+Reiss Nelson,Arsenal,F,24,England,england,2324,115847.0,6024051.0
+Takehiro Tomiyasu,Arsenal,D,25,Japan,england,2324,115847.0,6024051.0
+Diego Carlos,Aston Villa,D,30,Brazil,england,2324,115847.0,6024051.0
+Pau Torres,Aston Villa,D,27,Spain,england,2324,115847.0,6024051.0
+Tyrone Mings,Aston Villa,D,30,England,england,2324,115847.0,6024051.0
+Edson Álvarez,West Ham,M,26,Mexico,england,2324,115847.0,6024051.0
+Pierre-Emile Højbjerg,Tottenham,M,28,Denmark,england,2324,115847.0,6024051.0
+Hugo Lloris,Tottenham,K,36,France,england,2324,115847.0,6024051.0
+Eddie Nketiah,Arsenal,F,24,England,england,2324,115847.0,6024051.0
+Matt Targett,Newcastle,D,28,England,england,2324,115847.0,6024051.0
+Gabriel Magalhães,Arsenal,D,26,Brazil,england,2324,115847.0,6024051.0
+Julián Álvarez,Manchester City,F,24,Argentina,england,2324,115847.0,6024051.0
+Ederson,Manchester City,K,30,Brazil,england,2324,115847.0,6024051.0
+Carney Chukwuemeka,Chelsea,M,20,England,england,2324,115847.0,6024051.0
+Joel Matip,Liverpool,D,32,Cameroon,england,2324,115847.0,6024051.0
+Levi Colwill,Chelsea,D,20,England,england,2324,115847.0,6024051.0
+Mykhailo Mudryk,Chelsea,F,23,Ukraine,england,2324,115847.0,6024051.0
+Dean Henderson,Crystal Palace,K,26,England,england,2324,115847.0,6024051.0
+Eberechi Eze,Crystal Palace,F,25,England,england,2324,115847.0,6024051.0
+Raúl Jiménez,Fulham,F,32,Mexico,england,2324,115847.0,6024051.0
+Emerson,West Ham,D,29,Italy,england,2324,110055.0,5722849.0
+Sven Botman,Newcastle,D,24,Netherlands,england,2324,104262.0,5421646.0
+Odsonne Edouard,Crystal Palace,F,26,France,england,2324,104262.0,5421646.0
+Stefan Ortega Moreno,Manchester City,K,31,Germany,england,2324,104262.0,5421646.0
+Willian,Fulham,F,35,Brazil,england,2324,104262.0,5421646.0
+Aaron Wan-Bissaka,Manchester United,D,26,England,england,2324,104262.0,5421646.0
+Richarlison,Tottenham,F,26,Brazil,england,2324,104262.0,5421646.0
+Tomas Soucek,West Ham,M,28,Czech Republic,england,2324,104262.0,5421646.0
+Donny van de Beek,Manchester United,M,26,Netherlands,england,2324,104262.0,5421646.0
+Benoît Badiashile,Chelsea,D,22,France,england,2324,104262.0,5421646.0
+Jack Harrison,Everton,F,27,England,england,2324,104262.0,5421646.0
+Leandro Trossard,Arsenal,F,29,Belgium,england,2324,104262.0,5421646.0
+Pablo Sarabia,Wolverhampton,F,31,Spain,england,2324,104262.0,5421646.0
+Adam Lallana,Brighton,F,35,England,england,2324,104262.0,5421646.0
+Jurrien Timber,Arsenal,D,22,Netherlands,england,2324,104262.0,5421646.0
+Mohammed Kudus,West Ham,F,23,Ghana,england,2324,104262.0,5421646.0
+David Raya,Arsenal,K,28,Spain,england,2324,98470.0,5120444.0
+Michail Antonio,West Ham,F,33,Jamaica,england,2324,98470.0,5120444.0
+Eric Dier,Tottenham,D,29,England,england,2324,98470.0,5120444.0
+Rasmus Højlund,Manchester United,F,20,Denmark,england,2324,98470.0,5120444.0
+Joe Gomez,Liverpool,D,26,England,england,2324,98470.0,5120444.0
+Diogo Dalot,Manchester United,D,24,Portugal,england,2324,98470.0,5120444.0
+Pedro Porro,Tottenham,D,24,Spain,england,2324,98470.0,5120444.0
+Radu Drăgușin,Tottenham,D,21,Romania,england,2324,98470.0,5120444.0
+Michael Keane,Everton,D,31,England,england,2324,92678.0,4819241.0
+Morgan Gibbs-White,Nottingham Forest,F,24,England,england,2324,92678.0,4819241.0
+Nélson Semedo,Wolverhampton,D,30,Portugal,england,2324,92678.0,4819241.0
+João Palhinha,Fulham,M,28,Portugal,england,2324,92678.0,4819241.0
+Chris Wood,Nottingham Forest,F,32,New Zealand,england,2324,92678.0,4819241.0
+Ben Davies,Tottenham,D,30,Wales,england,2324,92678.0,4819241.0
+Harvey Barnes,Newcastle,F,26,England,england,2324,92678.0,4819241.0
+Cole Palmer,Chelsea,F,21,England,england,2324,92678.0,4819241.0
+Fábio Silva,Wolverhampton,F,21,Portugal,england,2324,92678.0,4819241.0
+Joachim Andersen,Crystal Palace,D,27,Denmark,england,2324,92678.0,4819241.0
+Brennan Johnson,Tottenham,F,22,Wales,england,2324,92678.0,4819241.0
+Axel Disasi,Chelsea,D,25,France,england,2324,92678.0,4819241.0
+Matty Cash,Aston Villa,D,26,Poland,england,2324,92678.0,4819241.0
+Felipe,Nottingham Forest,D,34,Brazil,england,2324,92678.0,4819241.0
+Thilo Kehrer,West Ham,D,26,Germany,england,2324,92678.0,4819241.0
+Toti Gomes,Wolverhampton,D,25,Portugal,england,2324,92678.0,4819241.0
+Callum Hudson-Odoi,Nottingham Forest,F,23,England,england,2324,92678.0,4819241.0
+Justin Kluivert,Bournemouth,F,24,Netherlands,england,2324,92678.0,4819241.0
+Kaoru Mitoma,Brighton,F,26,Japan,england,2324,92678.0,4819241.0
+Lewis Dunk,Brighton,D,32,England,england,2324,92678.0,4819241.0
+Alex Iwobi,Fulham,F,27,Nigeria,england,2324,92678.0,4819241.0
+Joe Willock,Newcastle,M,24,England,england,2324,92678.0,4819241.0
+Bertrand Traoré,Aston Villa,F,27,Burkina Faso,england,2324,90227.0,4691809.0
+Ben Godfrey,Everton,D,26,England,england,2324,86885.0,4518038.0
+Destiny Udogie,Tottenham,D,21,Italy,england,2324,86885.0,4518038.0
+Fraser Forster,Tottenham,K,35,England,england,2324,86885.0,4518038.0
+Tyrell Malacia,Manchester United,D,24,Netherlands,england,2324,86885.0,4518038.0
+Guglielmo Vicario,Tottenham,K,27,Italy,england,2324,86885.0,4518038.0
+Rodrigo Bentancur,Tottenham,M,26,Uruguay,england,2324,86885.0,4518038.0
+Cédric Soares,Arsenal,D,32,Portugal,england,2324,86885.0,4518038.0
+Konstantinos Tsimikas,Liverpool,D,27,Greece,england,2324,86885.0,4518038.0
+Ezri Konsa,Aston Villa,D,26,England,england,2324,86885.0,4518038.0
+Emiliano Buendía,Aston Villa,F,27,Argentina,england,2324,86885.0,4518038.0
+Douglas Luiz,Aston Villa,M,25,Brazil,england,2324,86885.0,4518038.0
+Jean-Ricner Bellegarde,Wolverhampton,M,25,France,england,2324,86885.0,4518038.0
+Ibrahim Sangaré,Nottingham Forest,M,26,Cote d'Ivoire,england,2324,86885.0,4518038.0
+Micky van de Ven,Tottenham,D,22,Netherlands,england,2324,81093.0,4216836.0
+Jacob Ramsey,Aston Villa,M,22,England,england,2324,81093.0,4216836.0
+Pape Sarr,Tottenham,M,21,Senegal,england,2324,81093.0,4216836.0
+Giovani Lo Celso,Tottenham,F,27,Argentina,england,2324,81093.0,4216836.0
+Dominic Solanke,Bournemouth,F,26,England,england,2324,81093.0,4216836.0
+Mason Holgate,Sheffield United,D,27,England,england,2324,81093.0,4216836.0
+Jefferson Lerma,Crystal Palace,M,29,Colombia,england,2324,81093.0,4216836.0
+Ibrahima Konaté,Liverpool,D,24,France,england,2324,81093.0,4216836.0
+Cheick Doucouré,Crystal Palace,M,24,Mali,england,2324,81093.0,4216836.0
+Issa Diop,Fulham,D,27,France,england,2324,81093.0,4216836.0
+Angelo Ogbonna,West Ham,D,35,Italy,england,2324,81093.0,4216836.0
+Aaron Hickey,Brentford,D,21,Scotland,england,2324,81093.0,4216836.0
+Ryan Christie,Bournemouth,F,28,Scotland,england,2324,81093.0,4216836.0
+Hee-chan Hwang,Wolverhampton,F,28,South Korea,england,2324,81093.0,4216836.0
+Pablo Fornals,West Ham,F,27,Spain,england,2324,75301.0,3915633.0
+Luis Sinisterra,Bournemouth,F,24,Colombia,england,2324,75301.0,3915633.0
+Maxwel Cornet,West Ham,F,27,Cote d'Ivoire,england,2324,75301.0,3915633.0
+Lukasz Fabianski,West Ham,K,38,Poland,england,2324,75301.0,3915633.0
+Jonny Evans,Manchester United,D,36,Northern Ireland,england,2324,75301.0,3915633.0
+Pascal Groß,Brighton,M,32,Germany,england,2324,75301.0,3915633.0
+Adama Traoré,Fulham,F,28,Spain,england,2324,75301.0,3915633.0
+Timothy Castagne,Fulham,D,28,Belgium,england,2324,75301.0,3915633.0
+Sofyan Amrabat,Manchester United,M,27,Morocco,england,2324,75301.0,3915633.0
+Nicolas Jackson,Chelsea,F,22,Senegal,england,2324,75301.0,3915633.0
+Sasa Lukic,Fulham,M,27,Serbia,england,2324,72984.0,3795152.0
+Scott McTominay,Manchester United,M,27,Scotland,england,2324,69508.0,3614431.0
+Matheus Cunha,Wolverhampton,F,24,Brazil,england,2324,69508.0,3614431.0
+Miguel Almirón,Newcastle,F,29,Paraguay,england,2324,69508.0,3614431.0
+Nick Pope,Newcastle,K,31,England,england,2324,69508.0,3614431.0
+Manor Solomon,Tottenham,F,24,Israel,england,2324,69508.0,3614431.0
+Danny Welbeck,Brighton,F,33,England,england,2324,69508.0,3614431.0
+Robert Sánchez,Chelsea,K,26,Spain,england,2324,69508.0,3614431.0
+José Sá,Wolverhampton,K,31,Portugal,england,2324,69508.0,3614431.0
+Daniel Podence,Wolverhampton,F,27,Portugal,england,2324,69508.0,3614431.0
+Adrián,Liverpool,K,37,Spain,england,2324,69508.0,3614431.0
+Tyler Adams,Bournemouth,M,24,United States,england,2324,69508.0,3614431.0
+James Milner,Brighton,M,38,England,england,2324,69508.0,3614431.0
+Anthony Gordon,Newcastle,F,22,England,england,2324,69508.0,3614431.0
+Nicolò Zaniolo,Aston Villa,F,24,Italy,england,2324,69508.0,3614431.0
+Jeffrey Schlupp,Crystal Palace,M,31,Ghana,england,2324,69508.0,3614431.0
+Jakub Kiwior,Arsenal,D,23,Poland,england,2324,67191.0,3493950.0
+Vitaliy Mykolenko,Everton,D,24,Ukraine,england,2324,67191.0,3493950.0
+Boubacar Traoré,Wolverhampton,M,22,Mali,england,2324,63716.0,3313228.0
+Chris Richards,Crystal Palace,D,23,United States,england,2324,63716.0,3313228.0
+Evan Ferguson,Brighton,F,19,Ireland,england,2324,63716.0,3313228.0
+Saïd Benrahma,West Ham,F,28,Algeria,england,2324,63716.0,3313228.0
+Ryan Sessegnon,Tottenham,M,23,England,england,2324,63716.0,3313228.0
+Mohamed Elneny,Arsenal,M,31,Egypt,england,2324,63716.0,3313228.0
+Jairo Riedewald,Crystal Palace,M,27,Netherlands,england,2324,63716.0,3313228.0
+Yves Bissouma,Tottenham,M,27,Mali,england,2324,63716.0,3313228.0
+Adam Webster,Brighton,D,29,England,england,2324,63716.0,3313228.0
+Ben Mee,Brentford,D,34,England,england,2324,63716.0,3313228.0
+Mahmoud Dahoud,Brighton,M,27,Germany,england,2324,63716.0,3313228.0
+Emil Krafth,Newcastle,D,29,Sweden,england,2324,63716.0,3313228.0
+Seamus Coleman,Everton,D,35,Ireland,england,2324,63716.0,3313228.0
+Luis Díaz,Liverpool,F,27,Colombia,england,2324,63716.0,3313228.0
+Dan Burn,Newcastle,D,31,England,england,2324,63716.0,3313228.0
+Sergio Reguilón,Brentford,D,27,Spain,england,2324,61399.0,3192747.0
+Sergio Reguilón,Manchester United,D,26,Spain,england,2324,61399.0,3192747.0
+Arnaut Danjuma,Everton,F,27,Netherlands,england,2324,60820.0,3162627.0
+Sergio Gómez,Manchester City,D,23,Spain,england,2324,57924.0,3012026.0
+Calum Chambers,Aston Villa,D,29,England,england,2324,57924.0,3012026.0
+Robin Olsen,Aston Villa,K,34,Sweden,england,2324,57924.0,3012026.0
+David Brooks,Bournemouth,F,26,Wales,england,2324,57924.0,3012026.0
+Marcos Senesi,Bournemouth,D,26,Argentina,england,2324,57924.0,3012026.0
+Neto,Bournemouth,K,34,Brazil,england,2324,57924.0,3012026.0
+Mathias Jensen,Brentford,M,28,Denmark,england,2324,57924.0,3012026.0
+Neal Maupay,Brentford,F,27,France,england,2324,57924.0,3012026.0
+Jan Paul van Hecke,Brighton,D,23,Netherlands,england,2324,57924.0,3012026.0
+João Pedro,Brighton,F,22,Brazil,england,2324,57924.0,3012026.0
+Joël Veltman,Brighton,D,32,Netherlands,england,2324,57924.0,3012026.0
+Pervis Estupiñán,Brighton,D,26,Ecuador,england,2324,57924.0,3012026.0
+Solly March,Brighton,F,29,England,england,2324,57924.0,3012026.0
+Conor Gallagher,Chelsea,M,23,England,england,2324,57924.0,3012026.0
+Noni Madueke,Chelsea,F,21,England,england,2324,57924.0,3012026.0
+Trevoh Chalobah,Chelsea,D,24,England,england,2324,57924.0,3012026.0
+James Tomkins,Crystal Palace,D,34,England,england,2324,57924.0,3012026.0
+Jean-Philippe Mateta,Crystal Palace,F,26,France,england,2324,57924.0,3012026.0
+Marc Guéhi,Crystal Palace,D,23,England,england,2324,57924.0,3012026.0
+Nathaniel Clyne,Crystal Palace,D,32,England,england,2324,57924.0,3012026.0
+Will Hughes,Crystal Palace,M,29,England,england,2324,57924.0,3012026.0
+Beto,Everton,F,26,Portugal,england,2324,57924.0,3012026.0
+Andreas Pereira,Fulham,F,28,Brazil,england,2324,57924.0,3012026.0
+Antonee Robinson,Fulham,D,26,United States,england,2324,57924.0,3012026.0
+Harrison Reed,Fulham,M,29,England,england,2324,57924.0,3012026.0
+Kenny Tete,Fulham,D,28,Netherlands,england,2324,57924.0,3012026.0
+Wataru Endo,Liverpool,M,30,Japan,england,2324,57924.0,3012026.0
+Albert Sambi Lokonga,Luton Town,M,24,Belgium,england,2324,57924.0,3012026.0
+Jérémy Doku,Manchester City,F,21,Belgium,england,2324,57924.0,3012026.0
+Oscar Bobb,Manchester City,F,20,Norway,england,2324,57924.0,3012026.0
+Alejandro Garnacho,Manchester United,F,19,Argentina,england,2324,57924.0,3012026.0
+Mason Greenwood,Manchester United,F,21,England,england,2324,57924.0,3012026.0
+Sean Longstaff,Newcastle,M,26,England,england,2324,57924.0,3012026.0
+Tino Livramento,Newcastle,D,21,England,england,2324,57924.0,3012026.0
+Neco Williams,Nottingham Forest,D,22,Wales,england,2324,57924.0,3012026.0
+Serge Aurier,Nottingham Forest,D,30,Cote d'Ivoire,england,2324,57924.0,3012026.0
+Taiwo Awoniyi,Nottingham Forest,F,26,Nigeria,england,2324,57924.0,3012026.0
+Aaron Cresswell,West Ham,D,34,England,england,2324,57924.0,3012026.0
+Konstantinos Mavropanos,West Ham,D,26,Greece,england,2324,57924.0,3012026.0
+Nayef Aguerd,West Ham,D,27,Morocco,england,2324,57924.0,3012026.0
+Matt Doherty,Wolverhampton,D,32,Ireland,england,2324,57924.0,3012026.0
+Max Kilman,Wolverhampton,D,26,England,england,2324,57924.0,3012026.0
+Pedro Neto,Wolverhampton,F,23,Portugal,england,2324,57924.0,3012026.0
+Callum Wilson,Newcastle,F,31,England,england,2324,53290.0,2771064.0
+Zack Steffen,Manchester City,K,28,United States,england,2324,53290.0,2771064.0
+Lesley Ugochukwu,Chelsea,M,19,France,england,2324,52131.0,2710823.0
+Mario Lemina,Wolverhampton,M,30,Gabon,england,2324,52131.0,2710823.0
+Rob Holding,Crystal Palace,D,28,England,england,2324,52131.0,2710823.0
+Igor,Brighton,D,25,Brazil,england,2324,52131.0,2710823.0
+Bryan Mbeumo,Brentford,F,24,Cameroon,england,2324,52131.0,2710823.0
+Tom Heaton,Manchester United,K,37,England,england,2324,52131.0,2710823.0
+Odysseas Vlachodimos,Nottingham Forest,K,29,Greece,england,2324,52131.0,2710823.0
+Cheikhou Kouyaté,Nottingham Forest,M,34,Senegal,england,2324,52131.0,2710823.0
+Calvin Bassey,Fulham,D,24,Nigeria,england,2324,52131.0,2710823.0
+Josh Brownhill,Burnley,M,28,England,england,2324,52131.0,2710823.0
+Roméo Lavia,Chelsea,M,20,Belgium,england,2324,52131.0,2710823.0
+Moussa Niakhaté,Nottingham Forest,D,27,Senegal,england,2324,52131.0,2710823.0
+Fábio Vieira,Arsenal,F,23,Portugal,england,2324,52131.0,2710823.0
+Jack Cork,Burnley,M,34,England,england,2324,52131.0,2710823.0
+Matt Ritchie,Newcastle,M,34,Scotland,england,2324,52131.0,2710823.0
+Daniel Muñoz,Crystal Palace,D,27,Colombia,england,2324,52131.0,2710823.0
+Craig Dawson,Wolverhampton,D,33,England,england,2324,52131.0,2710823.0
+Malo Gusto,Chelsea,D,20,France,england,2324,52131.0,2710823.0
+Philip Billing,Bournemouth,M,27,Denmark,england,2324,52131.0,2710823.0
+Fabian Schär,Newcastle,D,32,Switzerland,england,2324,52131.0,2710823.0
+Armando Broja,Chelsea,F,21,Albania,england,2324,46339.0,2409620.0
+Stefan Bajcetic,Liverpool,M,19,Spain,england,2324,46339.0,2409620.0
+Lewis Cook,Bournemouth,M,26,England,england,2324,46339.0,2409620.0
+Armando Broja,Fulham,F,22,Albania,england,2324,46339.0,2409620.0
+Tosin Adarabioyo,Fulham,D,26,England,england,2324,46339.0,2409620.0
+Sam Johnstone,Crystal Palace,K,30,England,england,2324,46339.0,2409620.0
+Jay Rodríguez,Burnley,F,34,England,england,2324,46339.0,2409620.0
+Giovanni Reyna,Nottingham Forest,F,21,United States,england,2324,46339.0,2409620.0
+Oliver Skipp,Tottenham,M,23,England,england,2324,46339.0,2409620.0
+Martin Dubravka,Newcastle,K,35,Slovakia,england,2324,46339.0,2409620.0
+Frank Onyeka,Brentford,M,26,Nigeria,england,2324,46339.0,2409620.0
+Ola Aina,Nottingham Forest,D,27,Nigeria,england,2324,46339.0,2409620.0
+Emerson,Tottenham,D,25,Brazil,england,2324,46339.0,2409620.0
+Kristoffer Ajer,Brentford,D,25,Norway,england,2324,46339.0,2409620.0
+Bryan Gil,Tottenham,F,22,Spain,england,2324,46339.0,2409620.0
+Josh Cullen,Burnley,M,27,Ireland,england,2324,46339.0,2409620.0
+Emile Smith Rowe,Arsenal,F,23,England,england,2324,46339.0,2409620.0
+Willy Boly,Nottingham Forest,D,33,Cote d'Ivoire,england,2324,46339.0,2409620.0
+Tyrick Mitchell,Crystal Palace,D,24,England,england,2324,46339.0,2409620.0
+Sander Berge,Burnley,M,25,Norway,england,2324,46339.0,2409620.0
+Jamaal Lascelles,Newcastle,D,30,England,england,2324,46339.0,2409620.0
+Matheus França,Crystal Palace,F,19,Brazil,england,2324,46339.0,2409620.0
+Ashley Young,Everton,D,38,England,england,2324,46339.0,2409620.0
+Matt Turner,Nottingham Forest,K,29,United States,england,2324,46339.0,2409620.0
+Harvey Elliott,Liverpool,F,20,England,england,2324,46339.0,2409620.0
+Alex Scott,Bournemouth,M,20,England,england,2324,46339.0,2409620.0
+Deivid Washington,Chelsea,F,18,Brazil,england,2324,46339.0,2409620.0
+Santiago Bueno,Wolverhampton,D,25,Uruguay,england,2324,46339.0,2409620.0
+Paul Dummett,Newcastle,D,32,Wales,england,2324,40547.0,2108418.0
+Tariq Lamptey,Brighton,D,23,Ghana,england,2324,40547.0,2108418.0
+Bart Verbruggen,Brighton,K,21,Netherlands,england,2324,40547.0,2108418.0
+Javier Manquillo,Newcastle,D,29,Spain,england,2324,40547.0,2108418.0
+Jacob Murphy,Newcastle,F,28,England,england,2324,40547.0,2108418.0
+Joel Ward,Crystal Palace,D,34,England,england,2324,40547.0,2108418.0
+Adam Wharton,Crystal Palace,M,19,England,england,2324,40547.0,2108418.0
+Jarrad Branthwaite,Everton,D,21,England,england,2324,40547.0,2108418.0
+Marcus Bettinelli,Chelsea,K,31,England,england,2324,40547.0,2108418.0
+Vladimir Coufal,West Ham,D,31,Czech Republic,england,2324,40547.0,2108418.0
+Adam Smith,Bournemouth,D,32,England,england,2324,40547.0,2108418.0
+Sasa Kalajdzic,Wolverhampton,F,26,Austria,england,2324,40547.0,2108418.0
+Álex Moreno,Aston Villa,D,30,Spain,england,2324,40547.0,2108418.0
+Chris Mepham,Bournemouth,D,26,Wales,england,2324,40547.0,2108418.0
+Dango Ouattara,Bournemouth,F,21,Burkina Faso,england,2324,40547.0,2108418.0
+Jonny Otto,Wolverhampton,D,29,Spain,england,2324,40547.0,2108418.0
+Marcus Tavernier,Bournemouth,F,24,England,england,2324,40547.0,2108418.0
+Max Aarons,Bournemouth,D,24,England,england,2324,40547.0,2108418.0
+Romain Faivre,Bournemouth,M,25,France,england,2324,40547.0,2108418.0
+Ryan Fredericks,Bournemouth,D,31,England,england,2324,40547.0,2108418.0
+Christian Nørgaard,Brentford,M,29,Denmark,england,2324,40547.0,2108418.0
+Keane Lewis-Potter,Brentford,F,22,England,england,2324,40547.0,2108418.0
+Ryan Giles,Luton Town,D,23,England,england,2324,40547.0,2108418.0
+Harry Wilson,Fulham,F,26,Wales,england,2324,40547.0,2108418.0
+Rhian Brewster,Sheffield United,F,23,England,england,2324,40547.0,2108418.0
+Nathan Redmond,Burnley,F,29,England,england,2324,40547.0,2108418.0
+Ben Brereton,Sheffield United,F,24,Chile,england,2324,40547.0,2108418.0
+Jóhann Berg Gudmundsson,Burnley,F,33,Iceland,england,2324,40547.0,2108418.0
+Bobby Reid,Fulham,F,31,Jamaica,england,2324,40547.0,2108418.0
+Jacob Bruun Larsen,Burnley,F,25,Denmark,england,2324,40547.0,2108418.0
+Nicolás Domínguez,Nottingham Forest,M,25,Argentina,england,2324,40547.0,2108418.0
+Altay Bayındır,Manchester United,K,25,Turkey,england,2324,40547.0,2108418.0
+Matz Sels,Nottingham Forest,K,31,Belgium,england,2324,40547.0,2108418.0
+Rico Henry,Brentford,D,26,England,england,2324,40547.0,2108418.0
+Harry Toffolo,Nottingham Forest,D,28,England,england,2324,40547.0,2108418.0
+Andrew Omobamidele,Nottingham Forest,D,21,Ireland,england,2324,40547.0,2108418.0
+Lyle Foster,Burnley,F,23,South Africa,england,2324,37650.0,1957817.0
+Fodé Ballo-Touré,Fulham,D,27,Senegal,england,2324,37650.0,1957817.0
+Marvelous Nakamba,Luton Town,M,30,Zimbabwe,england,2324,34754.0,1807215.0
+Mark Flekken,Brentford,K,30,Netherlands,england,2324,34754.0,1807215.0
+Jacob Brown,Luton Town,F,25,Scotland,england,2324,34754.0,1807215.0
+Joshua Da Silva,Brentford,M,25,England,england,2324,34754.0,1807215.0
+Ethan Pinnock,Brentford,D,30,Jamaica,england,2324,34754.0,1807215.0
+Charlie Taylor,Burnley,D,30,England,england,2324,34754.0,1807215.0
+João Gomes,Wolverhampton,M,22,Brazil,england,2324,34754.0,1807215.0
+Milos Kerkez,Bournemouth,D,20,Hungary,england,2324,34754.0,1807215.0
+Tom Cairney,Fulham,M,33,Scotland,england,2324,34754.0,1807215.0
+Scott Carson,Manchester City,K,38,England,england,2324,34754.0,1807215.0
+Lloyd Kelly,Bournemouth,D,25,England,england,2324,34754.0,1807215.0
+Zeki Amdouni,Burnley,F,23,Switzerland,england,2324,34754.0,1807215.0
+Nuno Tavares,Nottingham Forest,D,24,Portugal,england,2324,34754.0,1807215.0
+Jhon Durán,Aston Villa,F,20,Colombia,england,2324,34754.0,1807215.0
+Tim Ream,Fulham,D,36,United States,england,2324,34754.0,1807215.0
+Murillo,Nottingham Forest,D,21,Brazil,england,2324,34754.0,1807215.0
+Ionut Radu,Bournemouth,K,26,Romania,england,2324,34754.0,1807215.0
+Nathan Collins,Brentford,D,22,Ireland,england,2324,34754.0,1807215.0
+Elliot Anderson,Newcastle,F,21,Scotland,england,2324,34754.0,1807215.0
+David Datro Fofana,Burnley,F,21,Cote d'Ivoire,england,2324,34754.0,1807215.0
+James Garner,Everton,M,22,England,england,2324,34754.0,1807215.0
+Vitaly Janelt,Brentford,M,25,Germany,england,2324,34754.0,1807215.0
+Connor Roberts,Burnley,D,27,Wales,england,2324,34754.0,1807215.0
+Youssef Chermiti,Everton,F,19,Portugal,england,2324,34754.0,1807215.0
+Tom Davies,Sheffield United,M,25,England,england,2324,34754.0,1807215.0
+Tahith Chong,Luton Town,F,24,Netherlands,england,2324,34754.0,1807215.0
+Vinicius Souza,Sheffield United,M,24,Brazil,england,2324,34754.0,1807215.0
+Orel Mangala,Nottingham Forest,M,25,Belgium,england,2324,34754.0,1807215.0
+Ross Barkley,Luton Town,M,30,England,england,2324,34754.0,1807215.0
+Mikkel Damsgaard,Brentford,F,23,Denmark,england,2324,34754.0,1807215.0
+Gustavo Hamer,Sheffield United,M,26,Netherlands,england,2324,34754.0,1807215.0
+Marquinhos,Arsenal,F,20,Brazil,england,2324,34754.0,1807215.0
+Cameron Archer,Sheffield United,F,22,England,england,2324,34754.0,1807215.0
+Danilo,Nottingham Forest,M,22,Brazil,england,2324,34754.0,1807215.0
+Anel Ahmedhodzic,Sheffield United,D,24,Bosnia-Herzegovina,england,2324,34754.0,1807215.0
+Amad Diallo,Manchester United,F,21,Cote d'Ivoire,england,2324,33417.0,1737707.0
+Nathan Patterson,Everton,D,22,Scotland,england,2324,32437.0,1686734.0
+Aaron Ramsey,Burnley,F,21,England,england,2324,28962.0,1506013.0
+Jordan Ayew,Crystal Palace,F,32,Ghana,england,2324,28962.0,1506013.0
+Djordje Petrovic,Chelsea,K,24,Serbia,england,2324,28962.0,1506013.0
+Thomas Kaminski,Luton Town,K,31,Belgium,england,2324,28962.0,1506013.0
+Tim Krul,Luton Town,K,35,Netherlands,england,2324,28962.0,1506013.0
+Vitinho,Burnley,D,24,Brazil,england,2324,28962.0,1506013.0
+Rico Lewis,Manchester City,D,19,England,england,2324,28962.0,1506013.0
+James Trafford,Burnley,K,21,England,england,2324,28962.0,1506013.0
+Benson Manuel,Burnley,F,26,Belgium,england,2324,28962.0,1506013.0
+Kobbie Mainoo,Manchester United,M,19,England,england,2324,28962.0,1506013.0
+Arijanet Muric,Burnley,K,25,Kosovo,england,2324,28962.0,1506013.0
+Carlos Vinícius,Fulham,F,28,Brazil,england,2324,28962.0,1506013.0
+Valentín Barco,Brighton,D,19,Argentina,england,2324,28962.0,1506013.0
+Zanka,Brentford,D,33,Denmark,england,2324,28962.0,1506013.0
+Yoane Wissa,Brentford,F,27,Democratic Republic of the Congo,england,2324,28962.0,1506013.0
+Anthony Elanga,Nottingham Forest,F,21,Sweden,england,2324,28962.0,1506013.0
+Thomas Strakosha,Brentford,K,28,Albania,england,2324,28962.0,1506013.0
+Gonzalo Montiel,Nottingham Forest,D,27,Argentina,england,2324,28962.0,1506013.0
+Ryan Yates,Nottingham Forest,M,26,England,england,2324,28962.0,1506013.0
+Adam Davies,Sheffield United,K,31,Wales,england,2324,28962.0,1506013.0
+Auston Trusty,Sheffield United,D,25,United States,england,2324,28962.0,1506013.0
+Ivo Grbic,Sheffield United,K,28,Croatia,england,2324,28962.0,1506013.0
+Jack Robinson,Sheffield United,D,30,England,england,2324,28962.0,1506013.0
+John Fleck,Sheffield United,M,32,Scotland,england,2324,28962.0,1506013.0
+Oliver McBurnie,Sheffield United,F,27,Scotland,england,2324,28962.0,1506013.0
+Alejo Véliz,Tottenham,F,19,Argentina,england,2324,28962.0,1506013.0
+Ilya Zabarnyi,Bournemouth,D,21,Ukraine,england,2324,28962.0,1506013.0
+Darren Randolph,Bournemouth,K,36,Ireland,england,2324,28962.0,1506013.0
+Dwight McNeil,Everton,F,24,England,england,2324,28962.0,1506013.0
+Nathan Ferguson,Crystal Palace,D,23,England,england,2324,28962.0,1506013.0
+Hugo Bueno,Wolverhampton,D,21,Spain,england,2324,28962.0,1506013.0
+Isaac Hayden,Newcastle,M,28,England,england,2324,25486.0,1325291.0
+Jayden Bogle,Sheffield United,D,23,England,england,2324,23169.0,1204810.0
+Ben Osborn,Sheffield United,M,29,England,england,2324,23169.0,1204810.0
+Scott McKenna,Nottingham Forest,D,26,Scotland,england,2324,23169.0,1204810.0
+Hjalmar Ekdal,Burnley,D,25,Sweden,england,2324,23169.0,1204810.0
+Enso González,Wolverhampton,F,19,Paraguay,england,2324,23169.0,1204810.0
+Morgan Rogers,Aston Villa,F,21,England,england,2324,23169.0,1204810.0
+Antoine Semenyo,Bournemouth,F,24,Ghana,england,2324,23169.0,1204810.0
+Ben Johnson,West Ham,D,24,England,england,2324,23169.0,1204810.0
+Billy Gilmour,Brighton,M,22,Scotland,england,2324,23169.0,1204810.0
+Mark Travers,Bournemouth,K,24,Ireland,england,2324,23169.0,1204810.0
+Andros Townsend,Luton Town,F,32,England,england,2324,23169.0,1204810.0
+Cauley Woodrow,Luton Town,F,29,England,england,2324,23169.0,1204810.0
+Ivan Toney,Brentford,F,27,England,england,2324,23169.0,1204810.0
+Jason Steele,Brighton,K,33,England,england,2324,23169.0,1204810.0
+Issa Kabore,Luton Town,D,22,Burkina Faso,england,2324,23169.0,1204810.0
+Naouirou Ahamada,Crystal Palace,M,21,France,england,2324,23169.0,1204810.0
+Djed Spence,Tottenham,D,23,England,england,2324,23169.0,1204810.0
+Facundo Pellistri,Manchester United,F,21,Uruguay,england,2324,23169.0,1204810.0
+Dara O'Shea,Burnley,D,24,Ireland,england,2324,23169.0,1204810.0
+Mads Roerslev Rasmussen,Brentford,D,24,Denmark,england,2324,23169.0,1204810.0
+Tom Lockyer,Luton Town,D,29,Wales,england,2324,23169.0,1204810.0
+Giulian Biancone,Nottingham Forest,D,23,France,england,2324,23169.0,1204810.0
+Oliver Norwood,Sheffield United,M,32,Northern Ireland,england,2324,23169.0,1204810.0
+Harry Arter,Nottingham Forest,M,34,Ireland,england,2324,23169.0,1204810.0
+Ethan Horvath,Nottingham Forest,K,28,United States,england,2324,19828.0,1031040.0
+Yunus Emre Konak,Brentford,M,18,Turkey,england,2324,17377.0,903608.0
+Ameen Al-Dakhil,Burnley,D,21,Belgium,england,2324,17377.0,903608.0
+Anass Zaroury,Burnley,F,22,Morocco,england,2324,17377.0,903608.0
+Shandon Baptiste,Brentford,M,25,Grenada,england,2324,17377.0,903608.0
+Saman Ghoddos,Brentford,F,30,Iran,england,2324,17377.0,903608.0
+Hannes Delcroix,Burnley,D,24,Belgium,england,2324,17377.0,903608.0
+Han-Noah Massengo,Burnley,M,22,France,england,2324,17377.0,903608.0
+Wayne Hennessey,Nottingham Forest,K,37,Wales,england,2324,17377.0,903608.0
+Andre Brooks,Sheffield United,M,20,England,england,2324,17377.0,903608.0
+Michael Obafemi,Burnley,F,23,Ireland,england,2324,17377.0,903608.0
+Chris Basham,Sheffield United,D,35,England,england,2324,17377.0,903608.0
+James McAtee,Sheffield United,M,21,England,england,2324,17377.0,903608.0
+Luke Thomas,Sheffield United,D,22,England,england,2324,17377.0,903608.0
+Ashley Phillips,Tottenham,D,18,England,england,2324,17377.0,903608.0
+Brandon Austin,Tottenham,K,25,England,england,2324,17377.0,903608.0
+Mads Juel Andersen,Luton Town,D,26,Denmark,england,2324,17377.0,903608.0
+Daiki Hashioka,Luton Town,D,24,Japan,england,2324,17377.0,903608.0
+Chiedozie Ogbene,Luton Town,F,26,Ireland,england,2324,17377.0,903608.0
+Kieffer Moore,Bournemouth,F,31,Wales,england,2324,17377.0,903608.0
+Enes Ünal,Bournemouth,F,26,Turkey,england,2324,17377.0,903608.0
+Emiliano Marcondes,Bournemouth,F,28,Denmark,england,2324,17377.0,903608.0
+Marek Rodak,Fulham,K,27,Slovakia,england,2324,17377.0,903608.0
+Jarell Quansah,Liverpool,D,21,England,england,2324,17377.0,903608.0
+Bruno Jordão,Wolverhampton,M,24,Portugal,england,2324,17377.0,903608.0
+Curtis Jones,Liverpool,M,23,England,england,2324,17377.0,903608.0
+Facundo Buonanotte,Brighton,F,19,Argentina,england,2324,17377.0,903608.0
+Ben Gannon-Doak,Liverpool,F,18,Scotland,england,2324,17377.0,903608.0
+Steven Alzate,Brighton,M,24,Colombia,england,2324,17377.0,903608.0
+Wes Foderingham,Sheffield United,K,33,England,england,2324,14481.0,753006.0
+William Osula,Sheffield United,F,20,Denmark,england,2324,14481.0,753006.0
+John Egan,Sheffield United,D,31,Ireland,england,2324,14481.0,753006.0
+Anis Ben Slimane,Sheffield United,M,22,Tunisia,england,2324,14481.0,753006.0
+Luke Harris,Fulham,F,18,Wales,england,2324,14481.0,753006.0
+Elijah Adebayo,Luton Town,F,26,England,england,2324,14481.0,753006.0
+Reece Burke,Luton Town,D,27,England,england,2324,14481.0,753006.0
+Simon Adingra,Brighton,F,22,Cote d'Ivoire,england,2324,14481.0,753006.0
+Carlos Baleba,Brighton,M,20,Cameroon,england,2324,14481.0,753006.0
+Joe Whitworth,Crystal Palace,K,19,England,england,2324,11585.0,602405.0
+Jakub Moder,Brighton,M,24,Poland,england,2324,11585.0,602405.0
+Luca Koleosho,Burnley,F,19,Italy,england,2324,11585.0,602405.0
+Caoimhín Kelleher,Liverpool,K,25,Ireland,england,2324,11585.0,602405.0
+Lorenz Assignon,Burnley,D,23,France,england,2324,11585.0,602405.0
+Darko Churlinov,Burnley,F,23,North Macedonia,england,2324,11585.0,602405.0
+Mark Gillespie,Newcastle,K,32,England,england,2324,11585.0,602405.0
+Joe Gauci,Aston Villa,K,23,Australia,england,2324,11585.0,602405.0
+Max Lowe,Sheffield United,D,26,England,england,2324,11585.0,602405.0
+Tommy Doyle,Wolverhampton,M,22,England,england,2324,11585.0,602405.0
+Kortney Hause,Aston Villa,D,28,England,england,2324,11585.0,602405.0
+Daniel Bentley,Wolverhampton,K,30,England,england,2324,11585.0,602405.0
+Teden Mengi,Luton Town,D,21,England,england,2324,11585.0,602405.0
+Yasser Larouci,Sheffield United,D,23,Algeria,england,2324,11585.0,602405.0
+Jack Hinshelwood,Brighton,M,18,England,england,2324,11585.0,602405.0
+Tom McGill,Brighton,K,23,Canada,england,2324,11585.0,602405.0
+Pelly Ruddock Mpanzu,Luton Town,M,29,Democratic Republic of the Congo,england,2324,11585.0,602405.0
+Loris Karius,Newcastle,K,30,Germany,england,2324,11585.0,602405.0
+Luke Berry,Luton Town,M,31,England,england,2324,11585.0,602405.0
+Tom King,Wolverhampton,K,28,Wales,england,2324,11585.0,602405.0
+Karl Hein,Arsenal,K,22,Estonia,england,2324,11585.0,602405.0
+Kevin Schade,Brentford,F,22,Germany,england,2324,11585.0,602405.0
+Diego Moreira,Chelsea,F,19,Portugal,england,2324,11585.0,602405.0
+Conor Bradley,Liverpool,D,20,Northern Ireland,england,2324,11585.0,602405.0
+Gabriel Osho,Luton Town,D,25,England,england,2324,11585.0,602405.0
+Carlton Morris,Luton Town,F,28,England,england,2324,11585.0,602405.0
+Amari'i Bell,Luton Town,D,29,Jamaica,england,2324,11585.0,602405.0
+Andrey Santos,Nottingham Forest,M,19,Brazil,england,2324,11585.0,602405.0
+Bénie Traoré,Sheffield United,F,20,Cote d'Ivoire,england,2324,11585.0,602405.0
+Rayan Aït-Nouri,Wolverhampton,D,22,Algeria,england,2324,11585.0,602405.0
+Wilson Odobert,Burnley,F,19,France,england,2324,11585.0,602405.0
+Mike Trésor,Burnley,F,24,Belgium,england,2324,11585.0,602405.0
+Ismaila Coulibaly,Sheffield United,M,23,Mali,england,2324,11585.0,602405.0
+Steven Benda,Fulham,K,25,Germany,england,2324,11585.0,602405.0
+Julio Enciso,Brighton,F,20,Paraguay,england,2324,11585.0,602405.0
+Brandon Aguilera,Nottingham Forest,F,20,Costa Rica,england,2324,11585.0,602405.0
+George Baldock,Sheffield United,D,30,Greece,england,2324,11585.0,602405.0
+Hákon Rafn Valdimarsson,Brentford,K,22,Iceland,england,2324,11585.0,602405.0
+Rhys Williams,Liverpool,D,22,England,england,2324,11585.0,602405.0
+Malcolm Ebiowei,Crystal Palace,F,19,England,england,2324,11585.0,602405.0
+Ellery Balcombe,Brentford,K,24,England,england,2324,11585.0,602405.0
+Dan Potts,Luton Town,D,29,England,england,2324,11585.0,602405.0
+Femi Seriki,Sheffield United,D,21,England,england,2324,11585.0,602405.0
+Lewis Dobbin,Everton,F,21,England,england,2324,9268.0,481924.0
+Joe Rothwell,Bournemouth,M,28,England,england,2324,9268.0,481924.0
+Charlie Goode,Brentford,D,28,England,england,2324,9268.0,481924.0
+Alfie Doughty,Luton Town,M,24,England,england,2324,8689.0,451804.0
+Remi Matthews,Crystal Palace,K,29,England,england,2324,8689.0,451804.0
+Rodrigo Muniz,Fulham,F,22,Brazil,england,2324,8689.0,451804.0
+Alfie Whiteman,Tottenham,K,25,England,england,2324,8689.0,451804.0
+James Shea,Luton Town,K,32,England,england,2324,8689.0,451804.0
+Willy Kambwala,Manchester United,D,19,France,england,2324,8689.0,451804.0
+Andy Lonergan,Everton,K,40,England,england,2324,8689.0,451804.0
+João Virgínia,Everton,K,24,Portugal,england,2324,8689.0,451804.0
+Cesare Casadei,Chelsea,M,21,Italy,england,2324,8689.0,451804.0
+Rodrigo Ribeiro,Nottingham Forest,F,18,Portugal,england,2324,8689.0,451804.0
+Jesurun Rak-Sakyi,Crystal Palace,F,21,England,england,2324,8689.0,451804.0
+Tyrese Francois,Fulham,M,23,Australia,england,2324,8109.0,421684.0
+Lewis Hall,Newcastle,D,19,England,england,2324,8109.0,421684.0
+Lawrence Vigouroux,Burnley,K,30,Chile,england,2324,8109.0,421684.0
+Fred Onyedinma,Luton Town,F,27,Nigeria,england,2324,6951.0,361443.0
+CJ Egan-Riley,Burnley,D,20,England,england,2324,6951.0,361443.0
+Yegor Yarmolyuk,Brentford,F,19,Ukraine,england,2324,5792.0,301203.0
+Conor Coventry,West Ham,M,23,Ireland,england,2324,5792.0,301203.0
+Joe Hodge,Wolverhampton,M,20,Ireland,england,2324,5792.0,301203.0
+Tyler Onyango,Everton,M,20,England,england,2324,5792.0,301203.0
+Maxime Estève,Burnley,D,21,France,england,2324,5792.0,301203.0
+Noha Lemina,Wolverhampton,F,18,France,england,2324,5792.0,301203.0
+Myles Peart-Harris,Brentford,F,20,England,england,2324,5792.0,301203.0
+Jordan Clark,Luton Town,M,30,England,england,2324,5792.0,301203.0
+Tim Iroegbunam,Aston Villa,M,20,England,england,2324,5792.0,301203.0
+Lewis Miley,Newcastle,M,17,England,england,2324,5792.0,301203.0
+Shola Shoretire,Manchester United,F,20,England,england,2324,5792.0,301203.0
+Joseph Anang,West Ham,K,23,England,england,2324,4634.0,240962.0
+Daniel Jebbison,Sheffield United,F,20,Canada,england,2324,4634.0,240962.0
+Rhys Norrington-Davies,Sheffield United,D,24,Wales,england,2324,4634.0,240962.0
+Enock Agyei,Burnley,F,19,Belgium,england,2324,4634.0,240962.0
+Divin Mubama,West Ham,F,19,England,england,2324,4634.0,240962.0
+Alex Mighten,Nottingham Forest,F,21,England,england,2324,4010.0,208525.0
+Denis Franchi,Burnley,K,20,Italy,england,2324,3475.0,180722.0
+Jordan Beyer,Burnley,D,23,Germany,england,2324,3475.0,180722.0
+James Hill,Bournemouth,D,22,England,england,2324,3475.0,180722.0
+Ryan Trevitt,Brentford,M,20,England,england,2324,2896.0,150601.0
+Elliot Thorpe,Luton Town,M,23,Wales,england,2324,2896.0,150601.0
+Gavin Kilkenny,Bournemouth,M,23,Ireland,england,2324,1738.0,90361.0
+Louie Marsh,Sheffield United,F,20,England,england,2324,1158.0,60241.0
+Jordan Amissah,Sheffield United,K,22,Ghana,england,2324,1158.0,60241.0
+João Cancelo,Manchester City,D,29,Portugal,england,2324,0.0,0.0
+Kieran Tierney,Arsenal,D,26,Scotland,england,2324,0.0,0.0
+Máximo Perrone,Manchester City,M,20,Argentina,england,2324,0.0,0.0
+Hamed Junior Traorè,Bournemouth,F,23,Cote d'Ivoire,england,2324,0.0,0.0
+Jonjo Shelvey,Nottingham Forest,M,31,England,england,2324,0.0,0.0
+Joe Worrall,Nottingham Forest,D,27,England,england,2324,0.0,0.0
+Ui-jo Hwang,Nottingham Forest,F,31,South Korea,england,2324,0.0,0.0
+Sandro Tonali,Newcastle,M,23,Italy,england,2324,0.0,0.0
+Kalvin Phillips,Manchester City,M,28,England,england,2324,0.0,0.0
+Andrey Santos,Chelsea,M,19,Brazil,england,2324,0.0,0.0
+Tanguy Ndombélé,Tottenham,M,26,France,england,2324,0.0,0.0
+Kacper Kozlowski,Brighton,M,19,Poland,england,2324,0.0,0.0
+Lucas Bergström,Chelsea,K,21,Finland,england,2324,0.0,0.0
+Sergio Reguilón,Tottenham,D,27,Spain,england,2324,0.0,0.0
+Leander Dendoncker,Aston Villa,M,28,Belgium,england,2324,0.0,0.0
+Philippe Coutinho,Aston Villa,F,31,Brazil,england,2324,0.0,0.0
+Ian Maatsen,Chelsea,D,21,Netherlands,england,2324,0.0,0.0
+Hannibal,Manchester United,F,20,Tunisia,england,2324,0.0,0.0
+Hakim Ziyech,Chelsea,F,30,Morocco,england,2324,0.0,0.0
+Romelu Lukaku,Chelsea,F,30,Belgium,england,2324,0.0,0.0
+Emmanuel Dennis,Nottingham Forest,F,25,Nigeria,england,2324,0.0,0.0

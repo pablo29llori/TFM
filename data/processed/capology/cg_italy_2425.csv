@@ -1,0 +1,701 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Dušan Vlahović,Juventus,F,25,Serbia,italy,2425,373846.0,19440000.0
+Lautaro Martínez,Inter Milan,F,27,Argentina,italy,2425,320577.0,16670000.0
+Paulo Dybala,Roma,F,31,Argentina,italy,2425,249231.0,12960000.0
+Nicolò Barella,Inter Milan,M,27,Italy,italy,2425,231538.0,12040000.0
+Hakan Çalhanoğlu,Inter Milan,M,30,Turkey,italy,2425,213654.0,11110000.0
+Alessandro Bastoni,Inter Milan,D,25,Italy,italy,2425,195962.0,10190000.0
+Bremer,Juventus,D,27,Brazil,italy,2425,178077.0,9260000.0
+Douglas Luiz,Juventus,M,26,Brazil,italy,2425,160192.0,8330000.0
+Álvaro Morata,AC Milan,F,31,Spain,italy,2425,160192.0,8330000.0
+Piotr Zieliński,Inter Milan,M,30,Poland,italy,2425,160192.0,8330000.0
+Romelu Lukaku,Napoli,F,31,Belgium,italy,2425,147885.0,7690000.0
+Marcus Thuram,Inter Milan,F,27,France,italy,2425,147885.0,7690000.0
+Federico Dimarco,Inter Milan,D,27,Italy,italy,2425,142500.0,7410000.0
+Stefan de Vrij,Inter Milan,D,33,Netherlands,italy,2425,135385.0,7040000.0
+Maxence Caqueret,Como,M,24,France,italy,2425,128269.0,6670000.0
+Gianluca Mancini,Roma,D,28,Italy,italy,2425,124615.0,6480000.0
+Joaquín Correa,Inter Milan,F,30,Argentina,italy,2425,124615.0,6480000.0
+Lorenzo Pellegrini,Roma,F,28,Italy,italy,2425,124615.0,6480000.0
+Benjamin Pavard,Inter Milan,D,28,France,italy,2425,123269.0,6410000.0
+Rafael Leão,AC Milan,F,25,Portugal,italy,2425,123269.0,6410000.0
+Manuel Locatelli,Juventus,M,27,Italy,italy,2425,117500.0,6110000.0
+Gianluca Scamacca,Atalanta,F,26,Italy,italy,2425,114038.0,5930000.0
+Matteo Politano,Napoli,F,31,Italy,italy,2425,114038.0,5930000.0
+Teun Koopmeiners,Juventus,F,26,Netherlands,italy,2425,110962.0,5770000.0
+Tammy Abraham,AC Milan,F,27,England,italy,2425,110962.0,5770000.0
+Alessandro Florenzi,AC Milan,D,33,Italy,italy,2425,106923.0,5560000.0
+Dele Alli,Como,F,28,England,italy,2425,106923.0,5560000.0
+Giovanni Di Lorenzo,Napoli,D,31,Italy,italy,2425,106923.0,5560000.0
+David Neres,Napoli,F,27,Brazil,italy,2425,106923.0,5560000.0
+Mattia Zaccagni,Lazio,F,29,Italy,italy,2425,106923.0,5560000.0
+Scott McTominay,Napoli,M,28,Scotland,italy,2425,106923.0,5560000.0
+Raphaël Varane,Como,D,31,France,italy,2425,106923.0,5560000.0
+Youssouf Fofana,AC Milan,M,26,France,italy,2425,106923.0,5560000.0
+Alessio Romagnoli,Lazio,D,30,Italy,italy,2425,106923.0,5560000.0
+Artem Dovbyk,Roma,F,27,Ukraine,italy,2425,106923.0,5560000.0
+Mehdi Taremi,Inter Milan,F,32,Iran,italy,2425,106923.0,5560000.0
+Davide Frattesi,Inter Milan,M,25,Italy,italy,2425,99808.0,5190000.0
+Elseid Hysaj,Lazio,D,31,Albania,italy,2425,99808.0,5190000.0
+Kouadio Koné,Roma,M,23,France,italy,2425,99808.0,5190000.0
+Bryan Cristante,Roma,M,29,Italy,italy,2425,99808.0,5190000.0
+Christian Pulisic,AC Milan,F,26,United States,italy,2425,98654.0,5130000.0
+Ruben Loftus-Cheek,AC Milan,M,29,England,italy,2425,98654.0,5130000.0
+Samuel Chukwueze,AC Milan,F,25,Nigeria,italy,2425,98654.0,5130000.0
+Theo Hernández,AC Milan,D,27,France,italy,2425,98654.0,5130000.0
+Victor Osimhen,Napoli,F,25,Nigeria,italy,2425,98654.0,5130000.0
+Denzel Dumfries,Inter Milan,D,28,Netherlands,italy,2425,98654.0,5130000.0
+Evan N'Dicka,Roma,D,25,Cote d'Ivoire,italy,2425,98654.0,5130000.0
+Danilo,Juventus,D,33,Brazil,italy,2425,98654.0,5130000.0
+Duván Zapata,Torino,F,33,Colombia,italy,2425,96154.0,5000000.0
+Henrikh Mkhitaryan,Inter Milan,M,36,Armenia,italy,2425,93654.0,4870000.0
+Randal Kolo Muani,Juventus,F,26,France,italy,2425,89038.0,4630000.0
+Santiago Gimenez,AC Milan,F,23,Mexico,italy,2425,89038.0,4630000.0
+Alessandro Buongiorno,Napoli,D,25,Italy,italy,2425,89038.0,4630000.0
+Nicolò Zaniolo,Atalanta,F,25,Italy,italy,2425,89038.0,4630000.0
+Kyle Walker,AC Milan,D,34,England,italy,2425,89038.0,4630000.0
+Stephan El Shaarawy,Roma,F,32,Italy,italy,2425,89038.0,4630000.0
+Giacomo Raspadori,Napoli,F,24,Italy,italy,2425,89038.0,4630000.0
+Francisco Conceição,Juventus,F,22,Portugal,italy,2425,89038.0,4630000.0
+Ben Godfrey,Atalanta,D,26,England,italy,2425,89038.0,4630000.0
+Emerson,AC Milan,D,26,Brazil,italy,2425,89038.0,4630000.0
+Nicolás González,Juventus,F,26,Argentina,italy,2425,88846.0,4620000.0
+Fikayo Tomori,AC Milan,D,27,England,italy,2425,86346.0,4490000.0
+Marko Arnautovic,Inter Milan,F,35,Austria,italy,2425,86346.0,4490000.0
+Andrea Pinamonti,Genoa,F,25,Italy,italy,2425,85385.0,4440000.0
+Andrea Cambiaso,Juventus,D,24,Italy,italy,2425,85385.0,4440000.0
+João Félix,AC Milan,F,25,Portugal,italy,2425,80192.0,4170000.0
+David de Gea,Fiorentina,K,34,Spain,italy,2425,78269.0,4070000.0
+Samuel Gigot,Lazio,D,31,France,italy,2425,78269.0,4070000.0
+Tijjani Reijnders,AC Milan,M,26,Netherlands,italy,2425,74038.0,3850000.0
+Alex Meret,Napoli,K,28,Italy,italy,2425,71154.0,3700000.0
+Junior Messias,Genoa,F,33,Brazil,italy,2425,71154.0,3700000.0
+Michele Di Gregorio,Juventus,K,27,Italy,italy,2425,71154.0,3700000.0
+Matías Soulé,Roma,F,21,Argentina,italy,2425,71154.0,3700000.0
+Mats Hummels,Roma,D,36,Germany,italy,2425,71154.0,3700000.0
+Riccardo Orsolini,Bologna,F,28,Italy,italy,2425,71154.0,3700000.0
+Khéphren Thuram,Juventus,M,23,France,italy,2425,71154.0,3700000.0
+Nuno Tavares,Lazio,D,25,Portugal,italy,2425,71154.0,3700000.0
+Robin Gosens,Fiorentina,D,30,Germany,italy,2425,71154.0,3700000.0
+Angeliño,Roma,D,28,Spain,italy,2425,71154.0,3700000.0
+Ivan Provedel,Lazio,K,30,Italy,italy,2425,71154.0,3700000.0
+Nicolò Rovella,Lazio,M,23,Italy,italy,2425,71154.0,3700000.0
+Mike Maignan,AC Milan,K,29,France,italy,2425,69038.0,3590000.0
+Stanislav Lobotka,Napoli,M,30,Slovakia,italy,2425,69038.0,3590000.0
+André Zambo Anguissa,Napoli,M,29,Cameroon,italy,2425,66538.0,3460000.0
+Matteo Gabbia,AC Milan,D,25,Italy,italy,2425,64038.0,3330000.0
+Billy Gilmour,Napoli,M,23,Scotland,italy,2425,64038.0,3330000.0
+Matías Vecino,Lazio,M,33,Uruguay,italy,2425,64038.0,3330000.0
+Leonardo Spinazzola,Napoli,D,31,Italy,italy,2425,64038.0,3330000.0
+Adam Marusic,Lazio,D,32,Montenegro,italy,2425,64038.0,3330000.0
+Samuele Ricci,Torino,M,23,Italy,italy,2425,64038.0,3330000.0
+Ché Adams,Torino,F,28,Scotland,italy,2425,64038.0,3330000.0
+Giovanni Simeone,Napoli,F,29,Argentina,italy,2425,64038.0,3330000.0
+Mário Rui,Napoli,D,33,Portugal,italy,2425,64038.0,3330000.0
+Raoul Bellanova,Atalanta,M,24,Italy,italy,2425,64038.0,3330000.0
+Vitinha,Genoa,F,24,Portugal,italy,2425,64038.0,3330000.0
+Mario Hermoso,Roma,D,29,Spain,italy,2425,62308.0,3240000.0
+Luka Jović,AC Milan,F,27,Serbia,italy,2425,61731.0,3210000.0
+Charles De Ketelaere,Atalanta,F,23,Belgium,italy,2425,61731.0,3210000.0
+Weston McKennie,Juventus,M,26,United States,italy,2425,61731.0,3210000.0
+Amir Rrahmani,Napoli,D,30,Kosovo,italy,2425,61731.0,3210000.0
+Leandro Paredes,Roma,M,30,Argentina,italy,2425,61731.0,3210000.0
+Yann Sommer,Inter Milan,K,36,Switzerland,italy,2425,61731.0,3210000.0
+Arthur,Juventus,M,28,Brazil,italy,2425,61731.0,3210000.0
+Matteo Darmian,Inter Milan,D,35,Italy,italy,2425,61731.0,3210000.0
+Guillermo Maripán,Torino,D,30,Chile,italy,2425,60577.0,3150000.0
+Cristiano Biraghi,Fiorentina,D,32,Italy,italy,2425,60577.0,3150000.0
+Cristiano Biraghi,Torino,D,32,Italy,italy,2425,60577.0,3150000.0
+Christian Kouamé,Empoli,F,27,Cote d'Ivoire,italy,2425,60577.0,3150000.0
+Manuel Lazzari,Lazio,M,31,Italy,italy,2425,60577.0,3150000.0
+Strahinja Pavlović,AC Milan,D,23,Serbia,italy,2425,60577.0,3150000.0
+Christian Kouamé,Fiorentina,F,26,Cote d'Ivoire,italy,2425,60577.0,3150000.0
+Armando Izzo,Monza,D,32,Italy,italy,2425,60577.0,3150000.0
+Rolando Mandragora,Fiorentina,M,27,Italy,italy,2425,56923.0,2960000.0
+Antonio Sanabria,Torino,F,28,Paraguay,italy,2425,56923.0,2960000.0
+Thijs Dallinga,Bologna,F,24,Netherlands,italy,2425,56923.0,2960000.0
+Kenan Yıldız,Juventus,F,19,Turkey,italy,2425,56923.0,2960000.0
+Pedro,Lazio,F,37,Spain,italy,2425,54231.0,2820000.0
+Mateo Retegui,Atalanta,F,25,Italy,italy,2425,54231.0,2820000.0
+Albert Gudmundsson,Fiorentina,F,27,Iceland,italy,2425,54231.0,2820000.0
+Carlos Augusto,Inter Milan,D,26,Brazil,italy,2425,54231.0,2820000.0
+Moise Kean,Fiorentina,F,24,Italy,italy,2425,54231.0,2820000.0
+Juan Cuadrado,Atalanta,M,36,Colombia,italy,2425,53462.0,2780000.0
+Cesare Casadei,Torino,M,22,Italy,italy,2425,53462.0,2780000.0
+Andrea Petagna,Monza,F,29,Italy,italy,2425,53462.0,2780000.0
+Roberto Gagliardini,Monza,M,30,Italy,italy,2425,53462.0,2780000.0
+Eljif Elmas,Torino,F,25,North Macedonia,italy,2425,53462.0,2780000.0
+Giorgio Scalvini,Atalanta,D,21,Italy,italy,2425,53462.0,2780000.0
+Fabiano Parisi,Fiorentina,D,24,Italy,italy,2425,53462.0,2780000.0
+Alexis Sánchez,Udinese,F,36,Chile,italy,2425,53462.0,2780000.0
+Mattia Perin,Juventus,K,32,Italy,italy,2425,53462.0,2780000.0
+Francesco Acerbi,Inter Milan,D,36,Italy,italy,2425,53462.0,2780000.0
+Kristjan Asllani,Inter Milan,M,22,Albania,italy,2425,53462.0,2780000.0
+Hernani,Parma,M,30,Brazil,italy,2425,53462.0,2780000.0
+Danilo Cataldi,Fiorentina,M,30,Italy,italy,2425,53462.0,2780000.0
+Josep Martínez,Inter Milan,K,26,Spain,italy,2425,53462.0,2780000.0
+Andrea Belotti,Como,F,30,Italy,italy,2425,53462.0,2780000.0
+Marin Pongračić,Fiorentina,D,27,Croatia,italy,2425,51731.0,2690000.0
+Karol Linetty,Torino,M,30,Poland,italy,2425,49808.0,2590000.0
+Luca Mazzitelli,Como,M,28,Italy,italy,2425,49808.0,2590000.0
+Federico Gatti,Juventus,D,26,Italy,italy,2425,49808.0,2590000.0
+Timothy Weah,Juventus,F,24,United States,italy,2425,49231.0,2560000.0
+Yunus Musah,AC Milan,M,22,United States,italy,2425,49231.0,2560000.0
+Boulaye Dia,Lazio,F,28,Senegal,italy,2425,49231.0,2560000.0
+Gianluca Busio,Venezia,M,22,United States,italy,2425,49231.0,2560000.0
+Nikola Vlašić,Torino,F,27,Croatia,italy,2425,49231.0,2560000.0
+Mathías Olivera,Napoli,D,27,Uruguay,italy,2425,49231.0,2560000.0
+Zeki Çelik,Roma,D,27,Turkey,italy,2425,49231.0,2560000.0
+Sead Kolasinac,Atalanta,D,31,Bosnia-Herzegovina,italy,2425,49231.0,2560000.0
+Pierre Kalulu,Juventus,D,24,France,italy,2425,49231.0,2560000.0
+Éderson,Atalanta,M,25,Brazil,italy,2425,49231.0,2560000.0
+Fisayo Dele-Bashiru,Lazio,F,23,Nigeria,italy,2425,46346.0,2410000.0
+Tijjani Noslin,Lazio,F,25,Netherlands,italy,2425,46346.0,2410000.0
+Luca Pellegrini,Lazio,D,25,Italy,italy,2425,46346.0,2410000.0
+Florian Thauvin,Udinese,F,32,France,italy,2425,44423.0,2310000.0
+Ademola Lookman,Atalanta,F,27,Nigeria,italy,2425,44423.0,2310000.0
+Valentín Castellanos,Lazio,F,26,Argentina,italy,2425,44423.0,2310000.0
+Lucas Beltrán,Fiorentina,F,23,Argentina,italy,2425,44423.0,2310000.0
+Arkadiusz Milik,Juventus,F,31,Poland,italy,2425,43077.0,2240000.0
+Andrea Colpani,Fiorentina,F,25,Italy,italy,2425,42692.0,2220000.0
+Amir Richardson,Fiorentina,M,23,Morocco,italy,2425,42692.0,2220000.0
+Devyne Rensch,Roma,D,22,Netherlands,italy,2425,42692.0,2220000.0
+Michael Folorunsho,Fiorentina,M,26,Italy,italy,2425,42692.0,2220000.0
+Alfred Duncan,Venezia,M,31,Ghana,italy,2425,42692.0,2220000.0
+Juan Cabal,Juventus,D,24,Colombia,italy,2425,42692.0,2220000.0
+Sergi Roberto,Como,M,32,Spain,italy,2425,42692.0,2220000.0
+Patric,Lazio,D,31,Spain,italy,2425,42692.0,2220000.0
+Rafa Marín,Napoli,D,22,Spain,italy,2425,42692.0,2220000.0
+Michael Folorunsho,Napoli,M,26,Italy,italy,2425,42692.0,2220000.0
+Luca Ranieri,Fiorentina,D,25,Italy,italy,2425,42692.0,2220000.0
+Juan Miranda,Bologna,D,25,Spain,italy,2425,42692.0,2220000.0
+Lloyd Kelly,Juventus,D,26,England,italy,2425,42692.0,2220000.0
+Khvicha Kvaratskhelia,Napoli,F,23,Georgia,italy,2425,39423.0,2050000.0
+Pablo Marí,Fiorentina,D,31,Spain,italy,2425,39423.0,2050000.0
+Suat Serdar,Hellas Verona,M,27,Germany,italy,2425,39423.0,2050000.0
+Toma Bašić,Lazio,M,28,Croatia,italy,2425,39423.0,2050000.0
+Pablo Marí,Monza,D,31,Spain,italy,2425,39423.0,2050000.0
+Daniel Maldini,Atalanta,F,23,Italy,italy,2425,39231.0,2040000.0
+Gianluca Lapadula,Cagliari,F,34,Peru,italy,2425,39231.0,2040000.0
+Tommaso Baldanzi,Roma,F,21,Italy,italy,2425,38462.0,2000000.0
+Florinel Coman,Cagliari,F,26,Romania,italy,2425,38462.0,2000000.0
+Gustav Isaksen,Lazio,F,23,Denmark,italy,2425,36923.0,1920000.0
+Valentino Lazaro,Torino,M,28,Austria,italy,2425,36923.0,1920000.0
+Yann Aurel Bisseck,Inter Milan,D,24,Germany,italy,2425,36923.0,1920000.0
+Eldor Shomurodov,Roma,F,29,Uzbekistan,italy,2425,36923.0,1920000.0
+Rui Patrício,Atalanta,K,36,Portugal,italy,2425,36923.0,1920000.0
+Gerard Deulofeu,Udinese,F,30,Spain,italy,2425,36923.0,1920000.0
+Dodô,Fiorentina,D,26,Brazil,italy,2425,36923.0,1920000.0
+Yerry Mina,Cagliari,D,30,Colombia,italy,2425,36923.0,1920000.0
+Lazar Samardžić,Atalanta,M,22,Serbia,italy,2425,36923.0,1920000.0
+Junior Sambia,Empoli,D,28,France,italy,2425,36923.0,1920000.0
+Warren Bondo,AC Milan,M,21,France,italy,2425,36923.0,1920000.0
+Dennis Man,Parma,F,26,Romania,italy,2425,36923.0,1920000.0
+Lucas Martínez Quarta,Fiorentina,D,28,Argentina,italy,2425,36923.0,1920000.0
+Jakub Jankto,Cagliari,M,29,Czech Republic,italy,2425,35577.0,1850000.0
+Davide Calabria,AC Milan,D,28,Italy,italy,2425,35577.0,1850000.0
+Sebastiano Luperto,Cagliari,D,28,Italy,italy,2425,35577.0,1850000.0
+Samuel Dahl,Roma,D,21,Sweden,italy,2425,35577.0,1850000.0
+Saud Abdulhamid,Roma,D,25,Saudi Arabia,italy,2425,35577.0,1850000.0
+Alberto Dossena,Como,D,26,Italy,italy,2425,35577.0,1850000.0
+Tommaso Pobega,Bologna,M,25,Italy,italy,2425,35577.0,1850000.0
+Borna Sosa,Torino,M,27,Croatia,italy,2425,35577.0,1850000.0
+Remo Freuler,Bologna,M,32,Switzerland,italy,2425,35577.0,1850000.0
+Nicolò Casale,Bologna,D,26,Italy,italy,2425,35577.0,1850000.0
+Philip Billing,Napoli,M,28,Denmark,italy,2425,35577.0,1850000.0
+Pasquale Mazzocchi,Napoli,D,29,Italy,italy,2425,35577.0,1850000.0
+Davide Calabria,Bologna,D,28,Italy,italy,2425,35577.0,1850000.0
+Máximo Perrone,Como,M,22,Argentina,italy,2425,35577.0,1850000.0
+Yann Karamoh,Torino,F,26,France,italy,2425,35577.0,1850000.0
+Juan Jesus,Napoli,D,33,Brazil,italy,2425,35577.0,1850000.0
+Nicolás Valentini,Hellas Verona,D,23,Argentina,italy,2425,35577.0,1850000.0
+Rafael Tolói,Atalanta,D,34,Italy,italy,2425,35577.0,1850000.0
+Odilon Kossounou,Atalanta,D,24,Cote d'Ivoire,italy,2425,35577.0,1850000.0
+Marten de Roon,Atalanta,M,33,Netherlands,italy,2425,35577.0,1850000.0
+Mario Pasalic,Atalanta,M,29,Croatia,italy,2425,35577.0,1850000.0
+Marco Brescianini,Atalanta,M,25,Italy,italy,2425,35577.0,1850000.0
+Stefano Sensi,Monza,M,29,Italy,italy,2425,35577.0,1850000.0
+Ionut Radu,Inter Milan,K,27,Romania,italy,2425,35577.0,1850000.0
+Gaetano Castrovilli,Monza,M,27,Italy,italy,2425,35577.0,1850000.0
+Danilo D'Ambrosio,Monza,D,36,Italy,italy,2425,35577.0,1850000.0
+Alessio Cragno,Monza,K,30,Italy,italy,2425,35577.0,1850000.0
+Kevin Bonifazi,Lecce,D,28,Italy,italy,2425,35577.0,1850000.0
+Ante Rebić,Lecce,F,31,Croatia,italy,2425,35577.0,1850000.0
+Ionut Radu,Venezia,K,27,Romania,italy,2425,35577.0,1850000.0
+Edoardo Bove,Fiorentina,M,22,Italy,italy,2425,35577.0,1850000.0
+Loum Tchaouna,Lazio,F,21,France,italy,2425,35577.0,1850000.0
+Michael Kayode,Fiorentina,D,20,Italy,italy,2425,35577.0,1850000.0
+Gaetano Castrovilli,Lazio,M,27,Italy,italy,2425,35577.0,1850000.0
+Nicolò Zaniolo,Fiorentina,F,25,Italy,italy,2425,35577.0,1850000.0
+Pietro Comuzzo,Fiorentina,D,20,Italy,italy,2425,35577.0,1850000.0
+Fabio Miretti,Genoa,M,21,Italy,italy,2425,35577.0,1850000.0
+Nicolas Viola,Cagliari,F,35,Italy,italy,2425,35577.0,1850000.0
+Milan Badelj,Genoa,M,35,Croatia,italy,2425,34423.0,1790000.0
+Perr Schuurs,Torino,D,25,Netherlands,italy,2425,34423.0,1790000.0
+Gianluca Caprari,Monza,F,31,Italy,italy,2425,32115.0,1670000.0
+Davide Zappacosta,Atalanta,M,32,Italy,italy,2425,32115.0,1670000.0
+Isak Hien,Atalanta,D,26,Sweden,italy,2425,32115.0,1670000.0
+Christian Kabasele,Udinese,D,33,Belgium,italy,2425,32115.0,1670000.0
+Saúl Coco,Torino,D,25,Equatorial Guinea,italy,2425,32115.0,1670000.0
+Lukasz Skorupski,Bologna,K,33,Poland,italy,2425,32115.0,1670000.0
+Enrico Del Prato,Parma,D,25,Italy,italy,2425,32115.0,1670000.0
+Emil Audero,Como,K,27,Italy,italy,2425,32115.0,1670000.0
+Jean-Daniel Akpa Akpro,Monza,M,32,Cote d'Ivoire,italy,2425,32115.0,1670000.0
+Nicolas Haas,Empoli,M,29,Switzerland,italy,2425,32115.0,1670000.0
+Pietro Terracciano,Fiorentina,K,34,Italy,italy,2425,32115.0,1670000.0
+Mattéo Guendouzi,Lazio,M,25,France,italy,2425,32115.0,1670000.0
+Jean-Daniel Akpa Akpro,Lazio,M,31,Cote d'Ivoire,italy,2425,32115.0,1670000.0
+Ivan Ilić,Torino,M,23,Serbia,italy,2425,29615.0,1540000.0
+Cyril Ngonge,Napoli,F,24,Belgium,italy,2425,29615.0,1540000.0
+Amin Sarr,Hellas Verona,F,23,Sweden,italy,2425,28846.0,1500000.0
+Pierluigi Gollini,Genoa,K,29,Italy,italy,2425,28462.0,1480000.0
+Matteo Pessina,Monza,M,27,Italy,italy,2425,28462.0,1480000.0
+Reda Belahyane,Lazio,M,20,Morocco,italy,2425,28462.0,1480000.0
+Abdelhamid Sabiri,Fiorentina,F,27,Morocco,italy,2425,28462.0,1480000.0
+Matteo Cancellieri,Parma,F,22,Italy,italy,2425,28462.0,1480000.0
+Marco Carnesecchi,Atalanta,K,24,Italy,italy,2425,28462.0,1480000.0
+Patrick Ciurria,Monza,M,29,Italy,italy,2425,28462.0,1480000.0
+Tiago Djaló,Juventus,D,24,Portugal,italy,2425,28462.0,1480000.0
+Liam Henderson,Empoli,M,28,Scotland,italy,2425,28462.0,1480000.0
+Renato Veiga,Juventus,D,21,Portugal,italy,2425,28462.0,1480000.0
+Silvere Ganvoula,Monza,F,28,Congo,italy,2425,28462.0,1480000.0
+Anastasios Douvikas,Como,F,25,Greece,italy,2425,28462.0,1480000.0
+Pierluigi Gollini,Roma,K,29,Italy,italy,2425,28462.0,1480000.0
+Filippo Terracciano,AC Milan,D,21,Italy,italy,2425,28462.0,1480000.0
+Ismaël Bennacer,AC Milan,M,26,Algeria,italy,2425,28462.0,1480000.0
+Berat Djimsiti,Atalanta,D,31,Albania,italy,2425,28462.0,1480000.0
+Simone Verdi,Como,F,32,Italy,italy,2425,28462.0,1480000.0
+Mandela Keita,Parma,M,22,Belgium,italy,2425,26731.0,1390000.0
+Tajon Buchanan,Inter Milan,M,25,Canada,italy,2425,26731.0,1390000.0
+Lautaro Giannetti,Udinese,D,31,Argentina,italy,2425,26731.0,1390000.0
+Maxwel Cornet,Genoa,F,28,Cote d'Ivoire,italy,2425,26731.0,1390000.0
+Nicolò Fagioli,Juventus,M,23,Italy,italy,2425,26731.0,1390000.0
+Nicolò Fagioli,Fiorentina,M,23,Italy,italy,2425,26731.0,1390000.0
+Mërgim Vojvoda,Como,D,30,Kosovo,italy,2425,26731.0,1390000.0
+Jesse Joronen,Venezia,K,31,Finland,italy,2425,26731.0,1390000.0
+Jean Onana,Genoa,M,25,Cameroon,italy,2425,26731.0,1390000.0
+Daniele Baselli,Como,M,32,Italy,italy,2425,25000.0,1300000.0
+Marco Silvestri,Empoli,K,33,Italy,italy,2425,25000.0,1300000.0
+Mattia Bani,Genoa,D,31,Italy,italy,2425,25000.0,1300000.0
+Jurgen Ekkelenkamp,Udinese,F,24,Netherlands,italy,2425,25000.0,1300000.0
+Oumar Solet,Udinese,D,24,France,italy,2425,25000.0,1300000.0
+Vanja Milinković-Savić,Torino,K,27,Serbia,italy,2425,25000.0,1300000.0
+Alberto Moreno,Como,D,32,Spain,italy,2425,25000.0,1300000.0
+Frédéric Guilbert,Lecce,D,30,France,italy,2425,25000.0,1300000.0
+Leonardo Pavoletti,Cagliari,F,36,Italy,italy,2425,25000.0,1300000.0
+Marcus Holmgren Pedersen,Torino,M,24,Norway,italy,2425,25000.0,1300000.0
+Alberto Grassi,Empoli,M,29,Italy,italy,2425,25000.0,1300000.0
+Kike Pérez,Venezia,M,27,Spain,italy,2425,25000.0,1300000.0
+Joel Pohjanpalo,Venezia,F,29,Finland,italy,2425,24615.0,1280000.0
+Aarón Martín,Genoa,D,27,Spain,italy,2425,24615.0,1280000.0
+Pietro Pellegri,Empoli,F,23,Italy,italy,2425,24615.0,1280000.0
+Ruslan Malinovskyi,Genoa,F,31,Ukraine,italy,2425,24615.0,1280000.0
+Noah Okafor,Napoli,F,24,Switzerland,italy,2425,24615.0,1280000.0
+Alexis Saelemaekers,Roma,F,25,Belgium,italy,2425,24615.0,1280000.0
+Răzvan Marin,Cagliari,M,28,Romania,italy,2425,24615.0,1280000.0
+Mile Svilar,Roma,K,25,Serbia,italy,2425,24615.0,1280000.0
+Adam Masina,Torino,D,31,Morocco,italy,2425,24615.0,1280000.0
+Adrien Tamèze,Torino,M,31,France,italy,2425,24615.0,1280000.0
+Lewis Ferguson,Bologna,F,25,Scotland,italy,2425,24615.0,1280000.0
+Domagoj Bradarić,Hellas Verona,D,25,Croatia,italy,2425,24615.0,1280000.0
+Christian Gytkjaer,Venezia,F,34,Denmark,italy,2425,24615.0,1280000.0
+Noah Okafor,AC Milan,F,24,Switzerland,italy,2425,24615.0,1280000.0
+Mario Gila,Lazio,D,24,Spain,italy,2425,24615.0,1280000.0
+Luca Caldirola,Monza,D,34,Italy,italy,2425,24231.0,1260000.0
+Nikola Moro,Bologna,M,26,Croatia,italy,2425,23846.0,1240000.0
+Hassane Kamara,Udinese,D,30,Cote d'Ivoire,italy,2425,22115.0,1150000.0
+Gvidas Gineitis,Torino,M,20,Lithuania,italy,2425,21346.0,1110000.0
+Álex Jiménez,AC Milan,D,19,Spain,italy,2425,21346.0,1110000.0
+Jens Odgaard,Bologna,F,25,Denmark,italy,2425,21346.0,1110000.0
+Nicolò Cambiaghi,Bologna,F,24,Italy,italy,2425,21346.0,1110000.0
+Gabriele Zappa,Cagliari,D,25,Italy,italy,2425,21346.0,1110000.0
+José Luis Palomino,Cagliari,D,35,Argentina,italy,2425,21346.0,1110000.0
+Zito Luvumbo,Cagliari,F,22,Angola,italy,2425,21346.0,1110000.0
+Marc Oliver Kempf,Como,D,30,Germany,italy,2425,21346.0,1110000.0
+Emmanuel Gyasi,Empoli,F,31,Ghana,italy,2425,21346.0,1110000.0
+Youssef Maleh,Empoli,M,26,Morocco,italy,2425,21346.0,1110000.0
+Cher Ndour,Fiorentina,M,20,Italy,italy,2425,21346.0,1110000.0
+Giangiacomo Magnani,Hellas Verona,D,28,Italy,italy,2425,21346.0,1110000.0
+Tomás Palacios,Inter Milan,D,21,Argentina,italy,2425,21346.0,1110000.0
+Federico Baschirotto,Lecce,D,28,Italy,italy,2425,21346.0,1110000.0
+Wladimiro Falcone,Lecce,K,29,Italy,italy,2425,21346.0,1110000.0
+Daniel Maldini,Monza,F,22,Italy,italy,2425,21346.0,1110000.0
+Dany Mota,Monza,F,26,Portugal,italy,2425,21346.0,1110000.0
+Tomás Palacios,Monza,D,21,Argentina,italy,2425,21346.0,1110000.0
+Nahuel Estévez,Parma,M,29,Argentina,italy,2425,21346.0,1110000.0
+Pontus Almqvist,Parma,F,25,Sweden,italy,2425,21346.0,1110000.0
+Sebastian Walukiewicz,Torino,D,24,Poland,italy,2425,21346.0,1110000.0
+Jesper Karlström,Udinese,M,29,Sweden,italy,2425,21346.0,1110000.0
+Antonio Candela,Venezia,D,24,Italy,italy,2425,21346.0,1110000.0
+Cheick Condé,Venezia,M,24,Guinea,italy,2425,21346.0,1110000.0
+John Yeboah,Venezia,F,24,Ecuador,italy,2425,21346.0,1110000.0
+Mikael Egill Ellertsson,Venezia,M,22,Iceland,italy,2425,21346.0,1110000.0
+Ondrej Duda,Hellas Verona,M,30,Slovakia,italy,2425,21154.0,1100000.0
+Jonathan Ikoné,Fiorentina,F,26,France,italy,2425,20962.0,1090000.0
+Jonathan Ikoné,Como,F,26,France,italy,2425,20962.0,1090000.0
+Morten Thorsby,Genoa,M,28,Norway,italy,2425,20000.0,1040000.0
+Johan Vásquez,Genoa,D,26,Mexico,italy,2425,19808.0,1030000.0
+Yacine Adli,Fiorentina,M,24,France,italy,2425,19808.0,1030000.0
+Adrián Bernabé,Parma,M,23,Spain,italy,2425,19808.0,1030000.0
+Michel Aebischer,Bologna,M,28,Switzerland,italy,2425,19808.0,1030000.0
+Nemanja Radonjić,Torino,F,28,Serbia,italy,2425,19808.0,1030000.0
+Jesper Karlsson,Lecce,F,26,Sweden,italy,2425,19808.0,1030000.0
+Jesper Karlsson,Bologna,F,26,Sweden,italy,2425,19808.0,1030000.0
+Jaka Bijol,Udinese,D,26,Slovenia,italy,2425,19808.0,1030000.0
+Milan Djuric,Parma,F,34,Bosnia-Herzegovina,italy,2425,19808.0,1030000.0
+Morten Frendrup,Genoa,M,23,Denmark,italy,2425,19808.0,1030000.0
+Malick Thiaw,AC Milan,D,23,Germany,italy,2425,19808.0,1030000.0
+Christos Mandas,Lazio,K,23,Greece,italy,2425,19808.0,1030000.0
+Emil Holm,Bologna,D,24,Sweden,italy,2425,19808.0,1030000.0
+Dan Ndoye,Bologna,F,24,Switzerland,italy,2425,19808.0,1030000.0
+Victor Nelsson,Roma,D,26,Denmark,italy,2425,19615.0,1020000.0
+Alberto Cerri,Como,F,28,Italy,italy,2425,19615.0,1020000.0
+Emil Bohinen,Genoa,M,25,Norway,italy,2425,19231.0,1000000.0
+Stefan Posch,Atalanta,D,27,Austria,italy,2425,19231.0,1000000.0
+Stefan Posch,Bologna,D,27,Austria,italy,2425,19231.0,1000000.0
+Nicola Sansone,Lecce,F,33,Italy,italy,2425,19231.0,1000000.0
+Jhon Lucumí,Bologna,D,26,Colombia,italy,2425,18462.0,960000.0
+Antonino Gallo,Lecce,D,25,Italy,italy,2425,18462.0,960000.0
+Brenner,Udinese,F,25,Brazil,italy,2425,18462.0,960000.0
+Antoine Makoumbou,Cagliari,M,26,Congo,italy,2425,18077.0,940000.0
+Tommaso Martinelli,Fiorentina,K,19,Italy,italy,2425,17885.0,930000.0
+Zion Suzuki,Parma,K,22,Japan,italy,2425,17885.0,930000.0
+Santiago Castro,Bologna,F,20,Argentina,italy,2425,17885.0,930000.0
+Martin Erlić,Bologna,D,27,Croatia,italy,2425,17885.0,930000.0
+Mattia De Sciglio,Empoli,D,32,Italy,italy,2425,17885.0,930000.0
+Matteo Ruggeri,Atalanta,M,22,Italy,italy,2425,17885.0,930000.0
+Yannik Engelhardt,Como,M,23,Germany,italy,2425,17885.0,930000.0
+Oliver Provstgaard,Lazio,D,21,Denmark,italy,2425,17885.0,930000.0
+Andrea Carboni,Monza,D,24,Italy,italy,2425,17885.0,930000.0
+Nicolò Savona,Juventus,D,22,Italy,italy,2425,17885.0,930000.0
+Nicola Zalewski,Inter Milan,M,23,Poland,italy,2425,17885.0,930000.0
+Assane Diao,Como,F,19,Spain,italy,2425,17885.0,930000.0
+Pepe Reina,Como,K,42,Spain,italy,2425,17885.0,930000.0
+Charalampos Lykogiannis,Bologna,D,31,Greece,italy,2425,17885.0,930000.0
+Nico Paz,Como,F,20,Argentina,italy,2425,17885.0,930000.0
+Alessandro Vogliacco,Genoa,D,25,Italy,italy,2425,17885.0,930000.0
+Jacob Ondrejka,Parma,F,22,Sweden,italy,2425,17885.0,930000.0
+Jean Butez,Como,K,29,France,italy,2425,17885.0,930000.0
+Marco Sportiello,AC Milan,K,32,Italy,italy,2425,17885.0,930000.0
+André Anderson,Lazio,F,25,Italy,italy,2425,17885.0,930000.0
+Emanuele Valeri,Parma,D,26,Italy,italy,2425,17885.0,930000.0
+Lorenzo Colombo,Empoli,F,22,Italy,italy,2425,17885.0,930000.0
+Gianluca Gaetano,Cagliari,F,24,Italy,italy,2425,17885.0,930000.0
+Davide Faraoni,Hellas Verona,D,33,Italy,italy,2425,17885.0,930000.0
+Ibrahim Sulemana,Atalanta,M,21,Ghana,italy,2425,17885.0,930000.0
+Alberto Costa,Juventus,D,21,Portugal,italy,2425,17885.0,930000.0
+Adam Obert,Cagliari,D,22,Slovakia,italy,2425,17885.0,930000.0
+Marko Pajac,Genoa,D,31,Croatia,italy,2425,17885.0,930000.0
+Mathew Ryan,Roma,K,32,Australia,italy,2425,17885.0,930000.0
+Nadir Zortea,Cagliari,M,25,Italy,italy,2425,17885.0,930000.0
+Paulo Azzi,Cagliari,D,30,Brazil,italy,2425,17885.0,930000.0
+Alessandro Vogliacco,Parma,D,26,Italy,italy,2425,17885.0,930000.0
+Tommaso Augello,Cagliari,D,30,Italy,italy,2425,17885.0,930000.0
+Alessandro Circati,Parma,D,21,Australia,italy,2425,17885.0,930000.0
+Giuseppe Pezzella,Empoli,D,27,Italy,italy,2425,17885.0,930000.0
+Brooke Norton-Cuffy,Genoa,D,21,England,italy,2425,17885.0,930000.0
+Anass Salah-Eddine,Roma,D,23,Netherlands,italy,2425,17885.0,930000.0
+Ola Solbakken,Empoli,F,26,Norway,italy,2425,17308.0,900000.0
+Sandi Lovrić,Udinese,M,26,Slovenia,italy,2425,17308.0,900000.0
+Sam Beukema,Bologna,D,26,Netherlands,italy,2425,17308.0,900000.0
+Szymon Żurkowski,Empoli,M,27,Poland,italy,2425,17308.0,900000.0
+Mërgim Vojvoda,Torino,M,29,Kosovo,italy,2425,17308.0,900000.0
+Wylan Cyprien,Parma,M,29,France,italy,2425,17308.0,900000.0
+Ardian Ismajli,Empoli,D,28,Albania,italy,2425,17308.0,900000.0
+Keinan Davis,Udinese,F,26,England,italy,2425,17308.0,900000.0
+Kingsley Ehizibue,Udinese,D,29,Netherlands,italy,2425,17308.0,900000.0
+Maduka Okoye,Udinese,K,25,Nigeria,italy,2425,17308.0,900000.0
+Martín Payero,Udinese,M,26,Argentina,italy,2425,17308.0,900000.0
+Milan Djuric,Monza,F,34,Bosnia-Herzegovina,italy,2425,17308.0,900000.0
+Stefano Turati,Monza,K,23,Italy,italy,2425,16346.0,850000.0
+Daniel Fila,Venezia,F,22,Czech Republic,italy,2425,15962.0,830000.0
+Samuele Birindelli,Monza,D,25,Italy,italy,2425,15962.0,830000.0
+Alieu Fadera,Como,F,23,The Gambia,italy,2425,15962.0,830000.0
+Darko Lazović,Hellas Verona,M,34,Serbia,italy,2425,15962.0,830000.0
+Arijon Ibrahimovic,Lazio,F,19,Germany,italy,2425,15962.0,830000.0
+Alessandro Gabrielloni,Como,F,30,Italy,italy,2425,15000.0,780000.0
+Adrian Benedyczak,Parma,F,24,Poland,italy,2425,14808.0,770000.0
+Lucas Da Cunha,Como,M,23,France,italy,2425,14808.0,770000.0
+Lautaro Valenti,Parma,D,26,Argentina,italy,2425,14808.0,770000.0
+Abdou Harroui,Hellas Verona,M,27,Morocco,italy,2425,14808.0,770000.0
+Yordan Osorio,Parma,D,30,Venezuela,italy,2425,14808.0,770000.0
+Brandon Soppy,Atalanta,D,22,France,italy,2425,14808.0,770000.0
+Lassana Coulibaly,Lecce,M,28,Mali,italy,2425,14808.0,770000.0
+Ridgeciano Haps,Venezia,D,31,Suriname,italy,2425,14808.0,770000.0
+Caleb Ekuban,Genoa,F,30,Ghana,italy,2425,14808.0,770000.0
+Giovanni Fabbian,Bologna,F,22,Italy,italy,2425,14231.0,740000.0
+Alessandro Zanoli,Genoa,D,24,Italy,italy,2425,14231.0,740000.0
+Tete Morente,Lecce,F,28,Spain,italy,2425,14231.0,740000.0
+Benjamin Siegrist,Genoa,K,33,Switzerland,italy,2425,14231.0,740000.0
+Vasilije Adžić,Juventus,F,18,Montenegro,italy,2425,14231.0,740000.0
+Edoardo Goldaniga,Como,D,31,Italy,italy,2425,14231.0,740000.0
+Federico Barba,Como,D,31,Italy,italy,2425,14231.0,740000.0
+Cheikh Niasse,Hellas Verona,M,25,Senegal,italy,2425,14231.0,740000.0
+Gaetano Oristanio,Venezia,F,22,Italy,italy,2425,14231.0,740000.0
+Gabriel Strefezza,Como,F,27,Brazil,italy,2425,14231.0,740000.0
+Rui Modesto,Udinese,M,25,Angola,italy,2425,14231.0,740000.0
+Alessandro Deiola,Cagliari,M,29,Italy,italy,2425,14231.0,740000.0
+Sebastiano Esposito,Empoli,F,22,Italy,italy,2425,14231.0,740000.0
+Matías Moreno,Fiorentina,D,21,Argentina,italy,2425,14231.0,740000.0
+Benjamín Domínguez,Bologna,F,21,Argentina,italy,2425,14231.0,740000.0
+Koni De Winter,Genoa,D,22,Belgium,italy,2425,14231.0,740000.0
+Damián Pizarro,Udinese,F,19,Chile,italy,2425,14231.0,740000.0
+Botond Balogh,Parma,D,22,Hungary,italy,2425,14231.0,740000.0
+Leandro Chichizola,Parma,K,34,Argentina,italy,2425,14231.0,740000.0
+Mathias Fjørtoft Løvik,Parma,D,21,Norway,italy,2425,14231.0,740000.0
+Antonio Raimondo,Venezia,F,20,Italy,italy,2425,14231.0,740000.0
+Federico Ravaglia,Bologna,K,25,Italy,italy,2425,14231.0,740000.0
+Stefano Sabelli,Genoa,D,32,Italy,italy,2425,12500.0,650000.0
+Mihajlo Ilić,Bologna,D,21,Serbia,italy,2425,12500.0,650000.0
+Daniel Silva,Hellas Verona,M,24,Portugal,italy,2425,12500.0,650000.0
+David Ankeye,Genoa,F,22,Nigeria,italy,2425,12500.0,650000.0
+Alessandro Marcandalli,Genoa,D,21,Italy,italy,2425,12500.0,650000.0
+Filip Marchwinski,Lecce,F,23,Poland,italy,2425,12500.0,650000.0
+Gaby Jean,Lecce,D,24,France,italy,2425,12500.0,650000.0
+Patrick Dorgu,Lecce,D,19,Denmark,italy,2425,12500.0,650000.0
+Alessandro Marcandalli,Venezia,D,22,Italy,italy,2425,12500.0,650000.0
+Souleymane Isaak Touré,Udinese,D,21,France,italy,2425,12500.0,650000.0
+Răzvan Sava,Udinese,K,22,Romania,italy,2425,12500.0,650000.0
+Mattia Viti,Empoli,D,23,Italy,italy,2425,12500.0,650000.0
+Mattia Valoti,Monza,M,30,Italy,italy,2425,12500.0,650000.0
+Michel Ndary Adopo,Cagliari,M,24,France,italy,2425,12500.0,650000.0
+Flavius Daniliuc,Hellas Verona,D,23,Austria,italy,2425,12308.0,640000.0
+Elia Caprile,Cagliari,K,23,Italy,italy,2425,12308.0,640000.0
+Saba Sazonov,Empoli,D,23,Georgia,italy,2425,12308.0,640000.0
+Domen Crnigoj,Venezia,M,29,Slovenia,italy,2425,12308.0,640000.0
+Lameck Banda,Lecce,F,24,Zambia,italy,2425,12308.0,640000.0
+Mateusz Wieteska,Cagliari,D,27,Poland,italy,2425,12308.0,640000.0
+Joan González,Lecce,M,23,Spain,italy,2425,12308.0,640000.0
+Patrick Cutrone,Como,F,27,Italy,italy,2425,12308.0,640000.0
+Samuel Iling-Junior,Bologna,F,20,England,italy,2425,12308.0,640000.0
+Elia Caprile,Napoli,K,23,Italy,italy,2425,12308.0,640000.0
+Simon Sohm,Parma,M,23,Switzerland,italy,2425,12308.0,640000.0
+Tyronne Ebuehi,Empoli,D,29,Nigeria,italy,2425,12308.0,640000.0
+Rémi Oudin,Lecce,F,27,France,italy,2425,12308.0,640000.0
+Oliver Christensen,Fiorentina,K,25,Denmark,italy,2425,12308.0,640000.0
+Antoine Bernede,Hellas Verona,M,25,France,italy,2425,11731.0,610000.0
+Kialonda Gaspar,Lecce,D,27,Angola,italy,2425,11346.0,590000.0
+Gabriel Charpentier,Parma,F,25,Congo,italy,2425,11346.0,590000.0
+Ylber Ramadani,Lecce,M,28,Albania,italy,2425,11154.0,580000.0
+Oussama El Azzouzi,Bologna,M,23,Morocco,italy,2425,11154.0,580000.0
+Valentin Mihăilă,Parma,F,25,Romania,italy,2425,11154.0,580000.0
+Marin Šverko,Venezia,D,27,Croatia,italy,2425,11154.0,580000.0
+Richie Sagrado,Venezia,D,21,Belgium,italy,2425,10769.0,560000.0
+Rareș Burnete,Lecce,F,21,Romania,italy,2425,10769.0,560000.0
+Filip Stankovic,Venezia,K,22,Serbia,italy,2425,10769.0,560000.0
+Riccardo Sottil,AC Milan,F,25,Italy,italy,2425,10769.0,560000.0
+Riccardo Sottil,Fiorentina,F,25,Italy,italy,2425,10769.0,560000.0
+Kacper Urbanski,Bologna,M,20,Poland,italy,2425,10769.0,560000.0
+Kacper Urbanski,Monza,M,20,Poland,italy,2425,10769.0,560000.0
+Keita Baldé,Monza,F,30,Senegal,italy,2425,10769.0,560000.0
+Nicola Zalewski,Roma,M,22,Poland,italy,2425,10769.0,560000.0
+Daniel Mosquera,Hellas Verona,F,25,Colombia,italy,2425,10769.0,560000.0
+Santiago Pierotti,Lecce,F,23,Argentina,italy,2425,10769.0,560000.0
+Carlo Pinsoglio,Juventus,K,34,Italy,italy,2425,10769.0,560000.0
+Omari Forson,Monza,F,20,England,italy,2425,10769.0,560000.0
+Roberto Piccoli,Cagliari,F,24,Italy,italy,2425,10769.0,560000.0
+Álex Valle,Como,D,20,Spain,italy,2425,10769.0,560000.0
+Konan N’Dri,Lecce,F,24,Cote d'Ivoire,italy,2425,10769.0,560000.0
+Antonio Donnarumma,Torino,K,34,Italy,italy,2425,10769.0,560000.0
+Tino Anjorin,Empoli,F,23,England,italy,2425,10769.0,560000.0
+Alberto Paleari,Torino,K,32,Italy,italy,2425,10769.0,560000.0
+Joël Schingtienne,Venezia,D,22,Belgium,italy,2425,10769.0,560000.0
+Mateo Pellegrino,Parma,F,23,Argentina,italy,2425,10769.0,560000.0
+Christian Früchtl,Lecce,K,25,Germany,italy,2425,10769.0,560000.0
+Samuel Mbangula,Juventus,F,21,Belgium,italy,2425,10769.0,560000.0
+Luis Hasa,Napoli,M,21,Italy,italy,2425,10769.0,560000.0
+Giovanni Leoni,Parma,D,18,Italy,italy,2425,10769.0,560000.0
+Nikita Contini,Napoli,K,28,Italy,italy,2425,10769.0,560000.0
+Ivan Smolcic,Como,D,24,Croatia,italy,2425,10769.0,560000.0
+Casper Tengstedt,Hellas Verona,F,24,Denmark,italy,2425,10385.0,540000.0
+Ange-Yoan Bonny,Parma,F,21,France,italy,2425,10385.0,540000.0
+Mirko Maric,Monza,F,29,Croatia,italy,2425,10192.0,530000.0
+Mirko Marić,Venezia,F,29,Croatia,italy,2425,10192.0,530000.0
+Martin Frese,Hellas Verona,D,27,Denmark,italy,2425,10000.0,520000.0
+Tomas Suslov,Hellas Verona,F,22,Slovakia,italy,2425,9808.0,510000.0
+Alan Matturro,Genoa,D,20,Uruguay,italy,2425,9808.0,510000.0
+Georgios Kyriakopoulos,Monza,M,29,Greece,italy,2425,9808.0,510000.0
+Jordan Zemura,Udinese,D,25,Zimbabwe,italy,2425,9808.0,510000.0
+Enzo Ebosse,Udinese,D,25,Cameroon,italy,2425,9808.0,510000.0
+Lorenzo Montipò,Hellas Verona,K,28,Italy,italy,2425,9615.0,500000.0
+Faride Alidou,Hellas Verona,F,23,Germany,italy,2425,9231.0,480000.0
+Daniele Ghilardi,Hellas Verona,D,22,Italy,italy,2425,8846.0,460000.0
+Tommaso Corazza,Bologna,D,20,Italy,italy,2425,8846.0,460000.0
+Lorenzo Lucca,Udinese,F,24,Italy,italy,2425,8846.0,460000.0
+Danilo Veiga,Lecce,D,22,Portugal,italy,2425,8846.0,460000.0
+David Pejičić,Udinese,F,17,Slovenia,italy,2425,8846.0,460000.0
+Moutir Chajia,Como,F,26,Belgium,italy,2425,8846.0,460000.0
+Matthias Braunöder,Como,M,22,Austria,italy,2425,8846.0,460000.0
+Andy Pelmard,Lecce,D,24,France,italy,2425,8846.0,460000.0
+Iván Azón,Como,F,22,Spain,italy,2425,8846.0,460000.0
+Ignace Van der Brempt,Como,D,22,Belgium,italy,2425,8846.0,460000.0
+Mario Balotelli,Genoa,F,34,Italy,italy,2425,8846.0,460000.0
+Estanis Pedrola,Bologna,F,21,Spain,italy,2425,8846.0,460000.0
+Nicola Leali,Genoa,K,31,Italy,italy,2425,8846.0,460000.0
+Alessandro Berardi,Hellas Verona,K,34,Italy,italy,2425,8846.0,460000.0
+Ayanda Sishuba,Hellas Verona,F,19,Belgium,italy,2425,8846.0,460000.0
+Diego Coppola,Hellas Verona,D,21,Italy,italy,2425,8846.0,460000.0
+Simone Perilli,Hellas Verona,K,30,Italy,italy,2425,8846.0,460000.0
+Dailon Livramento,Hellas Verona,F,23,Cape Verde,italy,2425,8846.0,460000.0
+Mattia Felici,Cagliari,F,23,Italy,italy,2425,8846.0,460000.0
+Simone Pafundi,Udinese,F,18,Italy,italy,2425,8846.0,460000.0
+Oier Zarraga,Udinese,M,26,Spain,italy,2425,8654.0,450000.0
+Nikola Krstović,Lecce,F,24,Montenegro,italy,2425,8654.0,450000.0
+Michael Svoboda,Venezia,D,26,Austria,italy,2425,8654.0,450000.0
+Jackson Tchatchoua,Hellas Verona,D,23,Cameroon,italy,2425,8654.0,450000.0
+Jay Idzes,Venezia,D,24,Indonesia,italy,2425,8654.0,450000.0
+Gino Infantino,Fiorentina,M,21,Argentina,italy,2425,8654.0,450000.0
+Matteo Prati,Cagliari,M,21,Italy,italy,2425,8462.0,440000.0
+Kevin Zeroli,Monza,M,20,Italy,italy,2425,7885.0,410000.0
+Amine Salama,Torino,F,24,France,italy,2425,7885.0,410000.0
+Hamza Rafia,Lecce,M,25,Tunisia,italy,2425,7885.0,410000.0
+Francesco Zampano,Venezia,D,31,Italy,italy,2425,7885.0,410000.0
+Kevin Zeroli,AC Milan,M,19,Italy,italy,2425,7885.0,410000.0
+Paweł Dawidowicz,Hellas Verona,D,29,Poland,italy,2425,7308.0,380000.0
+Simone Scuffet,Cagliari,K,28,Italy,italy,2425,7308.0,380000.0
+Pedro Pereira,Monza,D,27,Portugal,italy,2425,7308.0,380000.0
+Bjarki Steinn Bjarkason,Venezia,M,24,Iceland,italy,2425,7308.0,380000.0
+Simone Scuffet,Napoli,K,28,Italy,italy,2425,7308.0,380000.0
+Warren Bondo,Monza,M,20,France,italy,2425,7308.0,380000.0
+Tobias Slotsager,Hellas Verona,D,19,Denmark,italy,2425,7115.0,370000.0
+Gianluca Di Chiara,Parma,D,30,Italy,italy,2425,7115.0,370000.0
+Juan Manuel Cruz,Hellas Verona,F,25,Argentina,italy,2425,7115.0,370000.0
+Balthazar Pierret,Lecce,M,24,France,italy,2425,7115.0,370000.0
+Daniele Padelli,Udinese,K,39,Italy,italy,2425,7115.0,370000.0
+Lorenzo De Silvestri,Bologna,D,37,Italy,italy,2425,7115.0,370000.0
+Luca Fiordilino,Venezia,M,28,Italy,italy,2425,7115.0,370000.0
+Jacopo Fazzini,Empoli,M,21,Italy,italy,2425,7115.0,370000.0
+Jonas Rouhi,Juventus,D,21,Sweden,italy,2425,7115.0,370000.0
+Medon Berisha,Lecce,M,21,Albania,italy,2425,7115.0,370000.0
+Eddie Salcedo,Inter Milan,F,22,Italy,italy,2425,7115.0,370000.0
+Lorenzo Torriani,AC Milan,K,20,Italy,italy,2425,7115.0,370000.0
+Luca Marianucci,Empoli,D,20,Italy,italy,2425,7115.0,370000.0
+Gastón Pereiro,Genoa,F,29,Uruguay,italy,2425,7115.0,370000.0
+Giorgio Altare,Venezia,D,26,Italy,italy,2425,7115.0,370000.0
+Hans Nicolussi Caviglia,Venezia,M,24,Italy,italy,2425,7115.0,370000.0
+Issa Doumbia,Venezia,M,21,Italy,italy,2425,7115.0,370000.0
+Emirhan İlkhan,Torino,M,20,Turkey,italy,2425,6731.0,350000.0
+Tiago Gabriel,Lecce,D,20,Portugal,italy,2425,6346.0,330000.0
+Andri Fannar Baldursson,Bologna,M,23,Iceland,italy,2425,6346.0,330000.0
+Mathis Lambourde,Hellas Verona,F,19,France,italy,2425,6346.0,330000.0
+Alessio Zerbin,Venezia,F,25,Italy,italy,2425,6346.0,330000.0
+Alessio Zerbin,Napoli,F,25,Italy,italy,2425,6346.0,330000.0
+Patrizio Masini,Genoa,M,24,Italy,italy,2425,6346.0,330000.0
+Filippo Melegoni,Genoa,M,25,Italy,italy,2425,6346.0,330000.0
+Arvid Brorsson,Monza,D,25,Sweden,italy,2425,6346.0,330000.0
+Samuele Perisan,Empoli,K,27,Italy,italy,2425,6346.0,330000.0
+Lucas Gourna-Douath,Roma,M,21,France,italy,2425,6154.0,320000.0
+Mohamed Kaba,Lecce,M,23,France,italy,2425,6154.0,320000.0
+Liberato Cacace,Empoli,D,24,New Zealand,italy,2425,6154.0,320000.0
+Thomas Kristensen,Udinese,D,23,Denmark,italy,2425,6154.0,320000.0
+Bruno Bertinato,Venezia,K,26,Brazil,italy,2425,6154.0,320000.0
+Devis Vásquez,Empoli,K,26,Colombia,italy,2425,5962.0,310000.0
+Jeff Ekhator,Genoa,F,18,Italy,italy,2425,5962.0,310000.0
+Christian Corradi,Hellas Verona,D,19,Italy,italy,2425,5769.0,300000.0
+Franz Stolz,Genoa,K,23,Austria,italy,2425,5769.0,300000.0
+Alieu Njie,Torino,F,19,Sweden,italy,2425,5769.0,300000.0
+Niklas Pyyhtiä,Bologna,M,20,Finland,italy,2425,5385.0,280000.0
+Raffaele Di Gennaro,Inter Milan,K,31,Italy,italy,2425,5385.0,280000.0
+Sebastian Otoa,Genoa,D,20,Denmark,italy,2425,5385.0,280000.0
+Elijah Scott,Lecce,D,19,Germany,italy,2425,5385.0,280000.0
+Luis Hasa,Lecce,M,20,Italy,italy,2425,5385.0,280000.0
+Marco Sala,Lecce,D,25,Italy,italy,2425,5385.0,280000.0
+Marco Sala,Como,D,25,Italy,italy,2425,5385.0,280000.0
+Edoardo Corvi,Parma,K,23,Italy,italy,2425,5385.0,280000.0
+Ben Lhassine Kone,Como,M,24,Cote d'Ivoire,italy,2425,5385.0,280000.0
+Matteo Grandi,Venezia,K,32,Italy,italy,2425,5385.0,280000.0
+Buba Sangaré,Roma,D,17,Spain,italy,2425,5385.0,280000.0
+Ali Dembélé,Torino,M,21,France,italy,2425,5385.0,280000.0
+Nicola Bagnolini,Bologna,K,20,Italy,italy,2425,5385.0,280000.0
+Zanos Savva,Torino,F,19,Cyprus,italy,2425,5385.0,280000.0
+Arthur Atta,Udinese,M,22,France,italy,2425,5385.0,280000.0
+Iker Bravo,Udinese,F,20,Spain,italy,2425,5385.0,280000.0
+Fali Candé,Venezia,D,27,Guinea-Bissau,italy,2425,5385.0,280000.0
+Franco Carboni,Venezia,D,21,Argentina,italy,2425,5385.0,280000.0
+Yllan Okou,Hellas Verona,D,22,France,italy,2425,5385.0,280000.0
+Reda Belahyane,Hellas Verona,M,20,France,italy,2425,5385.0,280000.0
+Mattia Chiesa,Hellas Verona,K,24,Italy,italy,2425,5385.0,280000.0
+Luca Monticelli,Hellas Verona,F,19,Belgium,italy,2425,5385.0,280000.0
+Woyo Coulibaly,Parma,D,25,France,italy,2425,5192.0,270000.0
+Daniele Sommariva,Genoa,K,27,Italy,italy,2425,5000.0,260000.0
+Daniel Oyegoke,Hellas Verona,D,22,England,italy,2425,5000.0,260000.0
+Antoine Hainaut,Parma,D,22,France,italy,2425,5000.0,260000.0
+Kingstone Mutandwa,Cagliari,F,22,Zambia,italy,2425,4615.0,240000.0
+Davide Diaw,Monza,F,32,Italy,italy,2425,4231.0,220000.0
+Semuel Pizzignacco,Monza,K,23,Italy,italy,2425,4231.0,220000.0
+Stefan Leković,Monza,D,21,Serbia,italy,2425,4231.0,220000.0
+Marco Palestra,Atalanta,M,19,Italy,italy,2425,4231.0,220000.0
+Magnus Kofod Andersen,Venezia,M,25,Denmark,italy,2425,4231.0,220000.0
+Alen Sherri,Cagliari,K,27,Albania,italy,2425,4231.0,220000.0
+Federico Magro,Hellas Verona,K,19,Italy,italy,2425,4231.0,220000.0
+Cristo Muñoz,Lazio,F,20,Spain,italy,2425,4231.0,220000.0
+Anas Haj Mohamed,Parma,F,19,Tunisia,italy,2425,4231.0,220000.0
+Honest Ahanor,Genoa,D,16,Italy,italy,2425,3654.0,190000.0
+Ali Jasim,Como,F,20,Iraq,italy,2425,3654.0,190000.0
+Pierre Bolchini,Como,K,25,Italy,italy,2425,3654.0,190000.0
+Junior Ajayi,Hellas Verona,F,20,Cote d'Ivoire,italy,2425,3654.0,190000.0
+Emmanuel Ekong,Empoli,F,22,Sweden,italy,2425,3654.0,190000.0
+Grigoris Kastanos,Hellas Verona,F,27,Cyprus,italy,2425,3654.0,190000.0
+Federico Brancolini,Empoli,K,23,Italy,italy,2425,3654.0,190000.0
+Lior Kassa,Genoa,M,19,Israel,italy,2425,3654.0,190000.0
+Francesco Rossi,Atalanta,K,33,Italy,italy,2425,3654.0,190000.0
+Luca Belardinelli,Empoli,M,23,Italy,italy,2425,3654.0,190000.0
+Matteo Palma,Udinese,D,16,Germany,italy,2425,3654.0,190000.0
+Alessandro Bianco,Monza,M,22,Italy,italy,2425,3654.0,190000.0
+Joel Voelkerling Persson,Lecce,F,22,Sweden,italy,2425,3654.0,190000.0
+Naj Razi,Como,F,18,Ireland,italy,2425,3269.0,170000.0
+Federico Accornero,Genoa,F,20,Italy,italy,2425,3269.0,170000.0
+Filipe Bordon,Lazio,D,19,Brazil,italy,2425,3269.0,170000.0
+Karlson Nwanege,Hellas Verona,D,19,Sweden,italy,2425,3269.0,170000.0
+Niccolò Pisilli,Roma,M,20,Italy,italy,2425,3269.0,170000.0
+Giuseppe Mazzaglia,Como,M,18,Italy,italy,2425,3269.0,170000.0
+Mauro Vigorito,Como,K,34,Italy,italy,2425,3269.0,170000.0
+Andrea Mazza,Monza,K,20,Italy,italy,2425,3269.0,170000.0
+Drissa Camara,Parma,M,22,Cote d'Ivoire,italy,2425,3269.0,170000.0
+Filippo Neri,Venezia,K,21,Italy,italy,2425,3269.0,170000.0
+Joselito,Hellas Verona,M,20,Spain,italy,2425,3269.0,170000.0
+Samuele Vignato,Monza,F,20,Italy,italy,2425,3269.0,170000.0
+Saad El Haddad,Venezia,F,19,Morocco,italy,2425,2885.0,150000.0
+Axel Guessand,Udinese,D,19,France,italy,2425,2885.0,150000.0
+Davide Renzetti,Lazio,K,18,Italy,italy,2425,2885.0,150000.0
+Fellipe Jack,Como,D,19,Brazil,italy,2425,2885.0,150000.0
+Richard Marcone,Parma,K,32,Italy,italy,2425,2885.0,150000.0
+Alessio Iovine,Como,M,34,Italy,italy,2425,2885.0,150000.0
+Saba Goglichidze,Empoli,D,20,Georgia,italy,2425,2885.0,150000.0
+Ange Caumenan N'Guessan,Torino,D,21,France,italy,2425,2885.0,150000.0
+Côme Bianay Balcot,Torino,D,19,France,italy,2425,2885.0,150000.0
+Claudio Turi,Napoli,K,19,Italy,italy,2425,2885.0,150000.0
+Alexandru Borbei,Lecce,K,21,Romania,italy,2425,2885.0,150000.0
+Sekou Diawara,Udinese,F,20,Belgium,italy,2425,2500.0,130000.0
+Kevin Martins,Monza,F,20,Italy,italy,2425,2500.0,130000.0
+Vernon Addo,Lecce,D,19,Netherlands,italy,2425,2500.0,130000.0
+Ed McJannet,Lecce,M,20,Ireland,italy,2425,2500.0,130000.0
+Diego González,Lazio,F,21,Paraguay,italy,2425,2500.0,130000.0
+Renato Marin,Roma,K,18,Italy,italy,2425,2500.0,130000.0
+James Abankwah,Udinese,D,20,Ireland,italy,2425,2308.0,120000.0
+Jeppe Corfitzen,Lecce,F,20,Denmark,italy,2425,2308.0,120000.0
+Jasper Samooja,Lecce,K,21,Finland,italy,2425,2308.0,120000.0
+Alphadjo Cissè,Hellas Verona,F,18,Italy,italy,2425,2115.0,110000.0
+Jacopo Seghetti,Empoli,K,19,Italy,italy,2425,2115.0,110000.0
+Hugo Cuenca,Genoa,F,20,Paraguay,italy,2425,2115.0,110000.0
+Alessio Furlanetto,Lazio,K,22,Italy,italy,2425,2115.0,110000.0
+Mateusz Kowalski,Parma,F,19,Poland,italy,2425,2115.0,110000.0
+Sebastian Esposito,Lecce,D,19,Australia,italy,2425,2115.0,110000.0
+Dario Daka,Lecce,F,20,Albania,italy,2425,1731.0,90000.0
+Giuseppe Ciocci,Cagliari,K,23,Italy,italy,2425,1346.0,70000.0
+Edoardo Piana,Udinese,K,21,Italy,italy,2425,1346.0,70000.0
+Thórir Jóhann Helgason,Lecce,M,24,Iceland,italy,2425,1154.0,60000.0
+Paul Pogba,Juventus,M,31,France,italy,2425,808.0,42000.0
+Fabio Miretti,Juventus,M,20,Italy,italy,2425,0.0,0.0
+Valentín Carboni,Inter Milan,F,19,Argentina,italy,2425,0.0,0.0
+Peter Kovacik,Como,M,22,Slovakia,italy,2425,0.0,0.0
+Brian Bayeye,Torino,M,24,Democratic Republic of the Congo,italy,2425,0.0,0.0
+Jens Cajuste,Napoli,M,25,Sweden,italy,2425,0.0,0.0
+Jesper Lindstrøm,Napoli,F,24,Denmark,italy,2425,0.0,0.0
+Daniele Rugani,Juventus,D,30,Italy,italy,2425,0.0,0.0
+Josip Brekalo,Fiorentina,F,26,Croatia,italy,2425,0.0,0.0
+El Bilal Touré,Atalanta,F,22,Mali,italy,2425,0.0,0.0
+Antonín Barák,Fiorentina,F,29,Czech Republic,italy,2425,0.0,0.0
+Enzo Le Fée,Roma,M,24,France,italy,2425,0.0,0.0
+Manolo Portanova,Genoa,M,24,Italy,italy,2425,0.0,0.0
+Pierre Kalulu,AC Milan,D,24,France,italy,2425,0.0,0.0

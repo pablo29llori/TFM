@@ -1,0 +1,738 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Danny Drinkwater,Kasimpasa,M,30,England,turkey,2021,118077.0,6140000.0
+Falcao,Galatasaray,F,34,Colombia,turkey,2021,96154.0,5000000.0
+Domagoj Vida,Besiktas,D,31,Croatia,turkey,2021,84231.0,4380000.0
+Younès Belhanda,Galatasaray,F,30,Morocco,turkey,2021,80577.0,4190000.0
+Mesut Özil,Fenerbahce,F,32,Germany,turkey,2021,79808.0,4150000.0
+Sofiane Feghouli,Galatasaray,F,30,Algeria,turkey,2021,76923.0,4000000.0
+Diego Perotti,Fenerbahce,F,32,Argentina,turkey,2021,72115.0,3750000.0
+Ryan Babel,Galatasaray,F,33,Netherlands,turkey,2021,71731.0,3730000.0
+Cenk Tosun,Besiktas,F,29,Turkey,turkey,2021,70962.0,3690000.0
+Mbwana Samatta,Fenerbahce,F,27,Tanzania,turkey,2021,66154.0,3440000.0
+Luiz Gustavo,Fenerbahce,M,33,Brazil,turkey,2021,66154.0,3440000.0
+Rachid Ghezzal,Besiktas,F,28,Algeria,turkey,2021,60192.0,3130000.0
+Fernando Muslera,Galatasaray,K,34,Uruguay,turkey,2021,60192.0,3130000.0
+Adem Ljajic,Besiktas,F,29,Serbia,turkey,2021,54038.0,2810000.0
+Jeremain Lens,Besiktas,F,32,Netherlands,turkey,2021,52885.0,2750000.0
+Jeremain Lens,Karagumrukspor,F,33,Netherlands,turkey,2021,52885.0,2750000.0
+Ryan Donk,Galatasaray,D,34,Netherlands,turkey,2021,51154.0,2660000.0
+Vitor Hugo,Trabzonspor,D,29,Brazil,turkey,2021,49808.0,2590000.0
+Marcelo Saracchi,Galatasaray,D,22,Uruguay,turkey,2021,48269.0,2510000.0
+Oguzhan Özyakup,Besiktas,M,28,Turkey,turkey,2021,48077.0,2500000.0
+Bright Osayi-Samuel,Fenerbahce,F,23,Nigeria,turkey,2021,43269.0,2250000.0
+Emre Akbaba,Galatasaray,F,28,Turkey,turkey,2021,42115.0,2190000.0
+Godfred Donsah,Caykur Rizespor,M,24,Ghana,turkey,2021,40962.0,2130000.0
+Yassine Meriah,Caykur Rizespor,D,27,Tunisia,turkey,2021,40385.0,2100000.0
+Neven Subotic,Denizlispor,D,31,Germany,turkey,2021,39038.0,2030000.0
+Martin Linnes,Galatasaray,D,29,Norway,turkey,2021,38654.0,2010000.0
+Cyle Larin,Besiktas,F,25,Canada,turkey,2021,38462.0,2000000.0
+Georges-Kevin N'Koudou,Besiktas,F,25,France,turkey,2021,38462.0,2000000.0
+Nuri Sahin,Antalyaspor,M,32,Turkey,turkey,2021,38462.0,2000000.0
+Lucas Biglia,Karagumrukspor,M,34,Argentina,turkey,2021,38077.0,1980000.0
+José Sosa,Fenerbahce,M,35,Argentina,turkey,2021,36154.0,1880000.0
+Enner Valencia,Fenerbahce,F,30,Ecuador,turkey,2021,36154.0,1880000.0
+Vincent Aboubakar,Besiktas,F,28,Cameroon,turkey,2021,36154.0,1880000.0
+Sener Özbayrakli,Galatasaray,D,30,Turkey,turkey,2021,36154.0,1880000.0
+Titi,Goztepe,D,32,Brazil,turkey,2021,34808.0,1810000.0
+Hasan Ali Kaldirim,Basaksehir,D,30,Turkey,turkey,2021,34231.0,1780000.0
+Costel Pantilimon,Denizlispor,K,33,Romania,turkey,2021,33846.0,1760000.0
+Valentin Rosier,Besiktas,D,24,France,turkey,2021,33654.0,1750000.0
+Omar Elabdellaoui,Galatasaray,D,28,Norway,turkey,2021,33654.0,1750000.0
+Marcel Tisserand,Fenerbahce,D,27,Democratic Republic of the Congo,turkey,2021,33269.0,1730000.0
+Alin Tosca,Gaziantep BB,D,28,Romania,turkey,2021,33269.0,1730000.0
+Papy Djilobodji,Gaziantep BB,D,31,Senegal,turkey,2021,32885.0,1710000.0
+Martin Skrtel,Basaksehir,D,35,Slovakia,turkey,2021,32885.0,1710000.0
+Pablo Santos,Hatayspor,D,28,Brazil,turkey,2021,32500.0,1690000.0
+Marcão,Galatasaray,D,24,Brazil,turkey,2021,31346.0,1630000.0
+Josef,Besiktas,M,31,Brazil,turkey,2021,31346.0,1630000.0
+Mehmet Topal,Basaksehir,M,34,Turkey,turkey,2021,30962.0,1610000.0
+Juanfran,Alanyaspor,D,32,Spain,turkey,2021,30962.0,1610000.0
+Nicolas Isimat-Mirin,Besiktas,D,28,France,turkey,2021,30769.0,1600000.0
+Adama Traoré,Hatayspor,M,25,Mali,turkey,2021,30769.0,1600000.0
+Rafael,Basaksehir,D,30,Brazil,turkey,2021,30000.0,1560000.0
+Tyler Boyd,Besiktas,F,25,United States,turkey,2021,28846.0,1500000.0
+Tyler Boyd,Sivasspor,F,26,United States,turkey,2021,28846.0,1500000.0
+Lewis Baker,Trabzonspor,M,25,England,turkey,2021,28846.0,1500000.0
+Peter Zulj,Goztepe,M,27,Austria,turkey,2021,28846.0,1500000.0
+Oghenekaro Etebo,Galatasaray,M,24,Nigeria,turkey,2021,28846.0,1500000.0
+Bernard Mensah,Besiktas,F,26,Ghana,turkey,2021,28846.0,1500000.0
+Filip Novak,Fenerbahce,D,30,Czech Republic,turkey,2021,28654.0,1490000.0
+João Pereira,Trabzonspor,D,36,Portugal,turkey,2021,28077.0,1460000.0
+François Moubandje,Alanyaspor,D,30,Switzerland,turkey,2021,27885.0,1450000.0
+Mbaye Diagne,Galatasaray,F,28,Senegal,turkey,2021,27885.0,1450000.0
+Jean-Armel Kana-Biyik,Gaziantep BB,D,31,Cameroon,turkey,2021,27692.0,1440000.0
+DeAndre Yedlin,Galatasaray,D,27,United States,turkey,2021,27692.0,1440000.0
+Loïc Rémy,Caykur Rizespor,F,33,France,turkey,2021,27115.0,1410000.0
+Mame Diouf,Hatayspor,F,32,Senegal,turkey,2021,26731.0,1390000.0
+Guido Herrera,Yeni Malatyaspor,K,28,Argentina,turkey,2021,26731.0,1390000.0
+Mame Thiam,Fenerbahce,F,28,Senegal,turkey,2021,26731.0,1390000.0
+Naldo,Antalyaspor,D,32,Brazil,turkey,2021,26731.0,1390000.0
+Fabien Farnolle,Erzurumspor,K,35,Benin,turkey,2021,26538.0,1380000.0
+Anders Trondsen,Trabzonspor,M,25,Norway,turkey,2021,26538.0,1380000.0
+Wallace,Yeni Malatyaspor,D,26,Brazil,turkey,2021,25577.0,1330000.0
+Michal Pazdan,Ankaragucu,D,33,Poland,turkey,2021,25577.0,1330000.0
+Güray Vural,Gaziantep BB,M,32,Turkey,turkey,2021,25000.0,1300000.0
+Afriyie Acquah,Yeni Malatyaspor,M,28,Ghana,turkey,2021,25000.0,1300000.0
+Dimitrios Pelkas,Fenerbahce,F,26,Greece,turkey,2021,24615.0,1280000.0
+Ozan Tufan,Fenerbahce,M,25,Turkey,turkey,2021,24615.0,1280000.0
+Flávio,Trabzonspor,M,24,Brazil,turkey,2021,24231.0,1260000.0
+Soner Aydogdu,Goztepe,M,29,Turkey,turkey,2021,24231.0,1260000.0
+Abdul-Aziz Tetteh,Gaziantep BB,M,30,Ghana,turkey,2021,24038.0,1250000.0
+Léo Duarte,Basaksehir,D,24,Brazil,turkey,2021,24038.0,1250000.0
+Ceyhun Gülselam,Alanyaspor,M,32,Turkey,turkey,2021,23846.0,1240000.0
+Mostafa Mohamed,Galatasaray,F,23,Egypt,turkey,2021,23654.0,1230000.0
+Isaac Sackey,Hatayspor,M,26,Ghana,turkey,2021,23269.0,1210000.0
+Youssouf Koné,Hatayspor,D,25,Mali,turkey,2021,22692.0,1180000.0
+Artem Kravets,Konyaspor,F,31,Ukraine,turkey,2021,22692.0,1180000.0
+Balázs Megyeri,Goztepe,K,30,Hungary,turkey,2021,22308.0,1160000.0
+Júnior Morais,Gaziantep BB,D,34,Brazil,turkey,2021,22308.0,1160000.0
+Alexandru Maxim,Gaziantep BB,F,30,Romania,turkey,2021,22308.0,1160000.0
+Arturo Mina,Erzurumspor,D,30,Ecuador,turkey,2021,22308.0,1160000.0
+Fayçal Fajr,Sivasspor,M,32,Morocco,turkey,2021,22115.0,1150000.0
+Hugo Rodallega,Denizlispor,F,35,Colombia,turkey,2021,21923.0,1140000.0
+Zvonimir Kozulj,Gaziantep BB,M,26,Bosnia-Herzegovina,turkey,2021,21923.0,1140000.0
+Oussama Haddadi,Kasimpasa,D,28,Tunisia,turkey,2021,21923.0,1140000.0
+Welinton,Besiktas,D,31,Brazil,turkey,2021,21731.0,1130000.0
+Florent Hadergjonaj,Kasimpasa,D,26,Kosovo,turkey,2021,21346.0,1110000.0
+Georgios Tzavellas,Alanyaspor,D,32,Greece,turkey,2021,21154.0,1100000.0
+Henry Onyekuru,Galatasaray,F,23,Nigeria,turkey,2021,21154.0,1100000.0
+Edgar Ié,Trabzonspor,D,26,Portugal,turkey,2021,20769.0,1080000.0
+Benik Afobe,Trabzonspor,F,27,Democratic Republic of the Congo,turkey,2021,20769.0,1080000.0
+Giuliano,Basaksehir,F,30,Brazil,turkey,2021,20385.0,1060000.0
+Gökhan Gönül,Fenerbahce,D,35,Turkey,turkey,2021,20385.0,1060000.0
+Fabrice N'Sakala,Besiktas,D,30,Democratic Republic of the Congo,turkey,2021,20385.0,1060000.0
+Caner Erkin,Fenerbahce,D,32,Turkey,turkey,2021,20385.0,1060000.0
+Djaniny,Trabzonspor,F,29,Cape Verde,turkey,2021,20385.0,1060000.0
+Kristijan Bistrovic,Kasimpasa,M,22,Croatia,turkey,2021,20385.0,1060000.0
+Munir,Hatayspor,K,31,Morocco,turkey,2021,20385.0,1060000.0
+Junior Fernandes,Basaksehir,F,32,Chile,turkey,2021,20385.0,1060000.0
+Isaac Cofie,Sivasspor,M,29,Ghana,turkey,2021,20000.0,1040000.0
+Diego Ângelo,Genclerbirligi SK,D,34,Brazil,turkey,2021,19423.0,1010000.0
+Júnior Caiçara,Basaksehir,D,31,Brazil,turkey,2021,19423.0,1010000.0
+Miguel Lopes,Kayserispor,D,33,Portugal,turkey,2021,19423.0,1010000.0
+Berat Özdemir,Trabzonspor,M,22,Turkey,turkey,2021,19423.0,1010000.0
+Fabio Borini,Karagumrukspor,F,29,Italy,turkey,2021,19423.0,1010000.0
+Douglas,Besiktas,D,30,Brazil,turkey,2021,19231.0,1000000.0
+Attila Szalai,Fenerbahce,D,23,Hungary,turkey,2021,19231.0,1000000.0
+Enzo Roco,Karagumrukspor,D,28,Chile,turkey,2021,19231.0,1000000.0
+Mykola Morozyuk,Caykur Rizespor,D,32,Ukraine,turkey,2021,19038.0,990000.0
+Manolis Siopis,Alanyaspor,M,26,Greece,turkey,2021,18846.0,980000.0
+Guilherme,Konyaspor,D,30,Brazil,turkey,2021,18462.0,960000.0
+Caleb Ekuban,Trabzonspor,F,26,Ghana,turkey,2021,18462.0,960000.0
+Irfan Can Kahveci,Fenerbahce,M,25,Turkey,turkey,2021,18462.0,960000.0
+Deniz Türüc,Basaksehir,M,27,Turkey,turkey,2021,18462.0,960000.0
+Serdar Aziz,Fenerbahce,D,29,Turkey,turkey,2021,18462.0,960000.0
+Zargo Touré,Genclerbirligi SK,D,30,Senegal,turkey,2021,18462.0,960000.0
+Alper Potuk,Ankaragucu,F,29,Turkey,turkey,2021,18462.0,960000.0
+Irfan Can Kahveci,Basaksehir,M,25,Turkey,turkey,2021,18462.0,960000.0
+Salih Ucan,Alanyaspor,M,26,Turkey,turkey,2021,18269.0,950000.0
+Francisco Montero,Besiktas,D,21,Spain,turkey,2021,18077.0,940000.0
+Emir Dilaver,Caykur Rizespor,D,29,Austria,turkey,2021,18077.0,940000.0
+Christian Luyindama,Galatasaray,D,26,Democratic Republic of the Congo,turkey,2021,18077.0,940000.0
+Badou Ndiaye,Karagumrukspor,M,29,Senegal,turkey,2021,17885.0,930000.0
+Mauricio Lemos,Fenerbahce,D,24,Uruguay,turkey,2021,17308.0,900000.0
+Harun Tekin,Fenerbahce,K,31,Turkey,turkey,2021,17308.0,900000.0
+Fedor Kudryashov,Antalyaspor,D,33,Russia,turkey,2021,17115.0,890000.0
+Semih Kaya,Yeni Malatyaspor,D,29,Turkey,turkey,2021,17115.0,890000.0
+Mitchell Donald,Erzurumspor,M,31,Netherlands,turkey,2021,16923.0,880000.0
+Mustafa Pektemek,Alanyaspor,F,32,Turkey,turkey,2021,16923.0,880000.0
+Ahmed Yasin,Denizlispor,F,29,Iraq,turkey,2021,16346.0,850000.0
+Pawel Olkowski,Gaziantep BB,D,30,Poland,turkey,2021,16346.0,850000.0
+Ervin Zukanovic,Karagumrukspor,D,33,Bosnia-Herzegovina,turkey,2021,16346.0,850000.0
+Fabiano,Denizlispor,D,28,Brazil,turkey,2021,16346.0,850000.0
+Anderson Esiti,Goztepe,M,26,Nigeria,turkey,2021,16346.0,850000.0
+Serhiy Rybalka,Sivasspor,M,30,Ukraine,turkey,2021,15962.0,830000.0
+Fernando Zuqui,Yeni Malatyaspor,M,28,Argentina,turkey,2021,15577.0,810000.0
+Petrus Boumal,Erzurumspor,M,27,Cameroon,turkey,2021,15577.0,810000.0
+Ahmet Calik,Konyaspor,D,26,Turkey,turkey,2021,15385.0,800000.0
+Sinan Gümüs,Fenerbahce,F,26,Germany,turkey,2021,15385.0,800000.0
+Aytac Kara,Kasimpasa,M,27,Turkey,turkey,2021,15385.0,800000.0
+Kevin Mirallas,Gaziantep BB,F,33,Belgium,turkey,2021,15385.0,800000.0
+Strahil Popov,Hatayspor,D,30,Bulgaria,turkey,2021,15192.0,790000.0
+Gustavo Campanharo,Kayserispor,M,28,Brazil,turkey,2021,15192.0,790000.0
+Olarenwaju Kayode,Sivasspor,F,27,Nigeria,turkey,2021,14615.0,760000.0
+Alexandru Epureanu,Basaksehir,D,34,Moldova,turkey,2021,14615.0,760000.0
+Ibrahim Sehic,Konyaspor,K,32,Bosnia-Herzegovina,turkey,2021,14423.0,750000.0
+Fousseni Diabaté,Goztepe,F,25,Mali,turkey,2021,14423.0,750000.0
+Aziz Behich,Kayserispor,D,29,Australia,turkey,2021,14423.0,750000.0
+Bogdan Stancu,Genclerbirligi SK,F,33,Romania,turkey,2021,14423.0,750000.0
+Edin Visca,Basaksehir,F,30,Bosnia-Herzegovina,turkey,2021,14423.0,750000.0
+Fousseni Diabaté,Trabzonspor,F,25,Mali,turkey,2021,14423.0,750000.0
+Ruud Boffin,Antalyaspor,K,32,Belgium,turkey,2021,14423.0,750000.0
+Marcelo Goiano,Sivasspor,D,33,Brazil,turkey,2021,14231.0,740000.0
+Julian Jeanvier,Kasimpasa,D,28,Guinea,turkey,2021,14231.0,740000.0
+Adolphe Teikeu,Erzurumspor,D,30,Cameroon,turkey,2021,14231.0,740000.0
+André Poko,Goztepe,M,27,Gabon,turkey,2021,14038.0,730000.0
+Jean-Claude Billong,Hatayspor,D,26,France,turkey,2021,14038.0,730000.0
+Ricardo Gomes,Erzurumspor,F,28,Cape Verde,turkey,2021,13654.0,710000.0
+Mustapha Yatabaré,Sivasspor,F,34,Mali,turkey,2021,13269.0,690000.0
+Benjamin Tetteh,Yeni Malatyaspor,F,23,Ghana,turkey,2021,13269.0,690000.0
+Andrea Bertolacci,Karagumrukspor,M,30,Italy,turkey,2021,13269.0,690000.0
+Muhammet Demir,Gaziantep BB,F,28,Turkey,turkey,2021,13269.0,690000.0
+Cristian Sapunaru,Kayserispor,D,36,Romania,turkey,2021,13269.0,690000.0
+Roderick Miranda,Gaziantep BB,D,29,Portugal,turkey,2021,13269.0,690000.0
+Majid Hosseini,Trabzonspor,D,24,Iran,turkey,2021,13269.0,690000.0
+Nacer Chadli,Basaksehir,F,31,Belgium,turkey,2021,13077.0,680000.0
+Mustafa Yumlu,Denizlispor,D,33,Turkey,turkey,2021,13077.0,680000.0
+Lamine Gassama,Goztepe,D,31,Senegal,turkey,2021,13077.0,680000.0
+Demba Ba,Basaksehir,F,35,Senegal,turkey,2021,13077.0,680000.0
+Tiago Pinto,Ankaragucu,D,32,Portugal,turkey,2021,12692.0,660000.0
+Eric Lichaj,Karagumrukspor,D,31,United States,turkey,2021,12692.0,660000.0
+Claudemir,Sivasspor,M,32,Brazil,turkey,2021,12692.0,660000.0
+Stelios Kitsiou,Ankaragucu,D,27,Greece,turkey,2021,12692.0,660000.0
+Khouma Babacar,Alanyaspor,F,27,Senegal,turkey,2021,12692.0,660000.0
+Arouna Koné,Sivasspor,F,36,Cote d'Ivoire,turkey,2021,12500.0,650000.0
+André,Gaziantep BB,F,30,Brazil,turkey,2021,12500.0,650000.0
+Serkan Kirintili,Konyaspor,K,35,Turkey,turkey,2021,12500.0,650000.0
+Serkan Kirintili,Alanyaspor,K,35,Turkey,turkey,2021,12500.0,650000.0
+Tiago Lopes,Denizlispor,D,31,Portugal,turkey,2021,12308.0,640000.0
+Nabil Dirar,Fenerbahce,F,34,Morocco,turkey,2021,12308.0,640000.0
+Emiliano Viviano,Karagumrukspor,K,34,Italy,turkey,2021,12308.0,640000.0
+Paolo Hurtado,Konyaspor,F,30,Peru,turkey,2021,12308.0,640000.0
+Altay Bayindir,Fenerbahce,K,22,Turkey,turkey,2021,12115.0,630000.0
+Ismaël Diomandé,Konyaspor,M,28,Cote d'Ivoire,turkey,2021,12115.0,630000.0
+Ismaël Diomandé,Caykur Rizespor,M,28,Cote d'Ivoire,turkey,2021,12115.0,630000.0
+Davidson,Alanyaspor,F,29,Brazil,turkey,2021,12115.0,630000.0
+Necip Uysal,Besiktas,M,29,Turkey,turkey,2021,12115.0,630000.0
+Atiba Hutchinson,Besiktas,M,37,Canada,turkey,2021,12115.0,630000.0
+Pierre-Yves Polomat,Genclerbirligi SK,D,26,Martinique,turkey,2021,11731.0,610000.0
+Ayman Ben Mohamed,Denizlispor,D,26,Tunisia,turkey,2021,11731.0,610000.0
+Milan Skoda,Caykur Rizespor,F,34,Czech Republic,turkey,2021,11731.0,610000.0
+Mahmut Tekdemir,Basaksehir,M,32,Turkey,turkey,2021,11538.0,600000.0
+Aatif Chahechouhe,Erzurumspor,F,34,Morocco,turkey,2021,11538.0,600000.0
+Jure Balkovec,Karagumrukspor,D,26,Slovenia,turkey,2021,11538.0,600000.0
+Aatif Chahechouhe,Karagumrukspor,F,34,Morocco,turkey,2021,11538.0,600000.0
+Atila Turan,Ankaragucu,D,28,Turkey,turkey,2021,11538.0,600000.0
+Yaw Ackah,Erzurumspor,M,21,Ghana,turkey,2021,11538.0,600000.0
+Abdülkadir Ömür,Trabzonspor,M,21,Turkey,turkey,2021,11538.0,600000.0
+Yaw Ackah,Kayserispor,M,21,Ghana,turkey,2021,11538.0,600000.0
+Jefferson,Gaziantep BB,M,26,Brazil,turkey,2021,11538.0,600000.0
+Gedson Fernandes,Galatasaray,M,22,Portugal,turkey,2021,11346.0,590000.0
+Anthony Nwakaeme,Trabzonspor,F,31,Nigeria,turkey,2021,11346.0,590000.0
+Cenk Ahmet Alkilic,Erzurumspor,D,32,Turkey,turkey,2021,11346.0,590000.0
+Loret Sadiku,Kasimpasa,M,29,Albania,turkey,2021,11346.0,590000.0
+Lukas Podolski,Antalyaspor,F,35,Germany,turkey,2021,11154.0,580000.0
+Derrick Luckassen,Kasimpasa,D,25,Netherlands,turkey,2021,11154.0,580000.0
+Ramazan Köse,Kasimpasa,K,32,Turkey,turkey,2021,11154.0,580000.0
+Yunus Malli,Trabzonspor,F,28,Turkey,turkey,2021,11154.0,580000.0
+Dominik Furman,Genclerbirligi SK,M,28,Poland,turkey,2021,11154.0,580000.0
+Emre Kilinc,Galatasaray,F,26,Turkey,turkey,2021,11154.0,580000.0
+Dusan Jovancic,Caykur Rizespor,M,30,Serbia,turkey,2021,10769.0,560000.0
+Piris da Motta,Genclerbirligi SK,M,26,Paraguay,turkey,2021,10769.0,560000.0
+Gökhan Töre,Besiktas,F,28,Turkey,turkey,2021,10769.0,560000.0
+Nehuén Paz,Kayserispor,D,27,Argentina,turkey,2021,10769.0,560000.0
+Arda Turan,Galatasaray,F,33,Turkey,turkey,2021,10577.0,550000.0
+Umut Bulut,Yeni Malatyaspor,F,37,Turkey,turkey,2021,10577.0,550000.0
+Steven Caulker,Alanyaspor,D,28,England,turkey,2021,10577.0,550000.0
+Fatih Öztürk,Galatasaray,K,33,Turkey,turkey,2021,10577.0,550000.0
+Alparslan Erdem,Karagumrukspor,D,31,Turkey,turkey,2021,10577.0,550000.0
+Mattias Johansson,Genclerbirligi SK,D,28,Sweden,turkey,2021,10577.0,550000.0
+Gastón Campi,Trabzonspor,D,29,Argentina,turkey,2021,10385.0,540000.0
+Emre Colak,Karagumrukspor,F,29,Turkey,turkey,2021,10385.0,540000.0
+Gastón Campi,Karagumrukspor,D,29,Argentina,turkey,2021,10385.0,540000.0
+Brown Ideye,Goztepe,F,32,Nigeria,turkey,2021,10385.0,540000.0
+Ismail Köybasi,Caykur Rizespor,D,31,Turkey,turkey,2021,10385.0,540000.0
+Mustafa Akbas,Genclerbirligi SK,D,30,Turkey,turkey,2021,10385.0,540000.0
+Giovanni Sio,Genclerbirligi SK,F,31,Cote d'Ivoire,turkey,2021,10385.0,540000.0
+Mustafa Akbas,Yeni Malatyaspor,D,30,Turkey,turkey,2021,10385.0,540000.0
+Mix Diskerud,Denizlispor,M,30,United States,turkey,2021,10385.0,540000.0
+Taylan Antalyali,Galatasaray,M,25,Turkey,turkey,2021,10385.0,540000.0
+Nejc Skubic,Konyaspor,D,31,Slovenia,turkey,2021,10385.0,540000.0
+Max Gradel,Sivasspor,F,32,Cote d'Ivoire,turkey,2021,10385.0,540000.0
+Mostapha El Kabir,Erzurumspor,F,32,Morocco,turkey,2021,10385.0,540000.0
+Ante Kulusic,Ankaragucu,D,34,Croatia,turkey,2021,10385.0,540000.0
+Ibrahim Akdag,Erzurumspor,M,29,Turkey,turkey,2021,10192.0,530000.0
+Papiss Demba Cissé,Fenerbahce,F,35,Senegal,turkey,2021,10192.0,530000.0
+Musa Cagiran,Konyaspor,M,27,Turkey,turkey,2021,10192.0,530000.0
+Ibrahim Akdag,Ankaragucu,M,29,Turkey,turkey,2021,10192.0,530000.0
+Farouk Miya,Konyaspor,F,22,Uganda,turkey,2021,9808.0,510000.0
+Sakib Aytac,Denizlispor,D,28,Turkey,turkey,2021,9808.0,510000.0
+Ugurcan Cakir,Trabzonspor,K,24,Turkey,turkey,2021,9808.0,510000.0
+Dimitrios Chatziisaias,Caykur Rizespor,D,28,Greece,turkey,2021,9808.0,510000.0
+Manuel da Costa,Erzurumspor,D,34,Morocco,turkey,2021,9615.0,500000.0
+Danijel Aleksic,Basaksehir,F,29,Serbia,turkey,2021,9615.0,500000.0
+Ugur Demirok,Konyaspor,D,32,Turkey,turkey,2021,9615.0,500000.0
+Fede Varela,Denizlispor,F,23,Argentina,turkey,2021,9615.0,500000.0
+Robin Yalcin,Sivasspor,M,26,Germany,turkey,2021,9615.0,500000.0
+Murat Saglam,Caykur Rizespor,D,22,Turkey,turkey,2021,9615.0,500000.0
+Halil Dervisoglu,Galatasaray,F,21,Turkey,turkey,2021,9615.0,500000.0
+Márcio Mossoró,Goztepe,F,37,Brazil,turkey,2021,9615.0,500000.0
+Léo Schwechlen,Erzurumspor,D,31,France,turkey,2021,9615.0,500000.0
+Ugur Demirok,Kayserispor,D,32,Turkey,turkey,2021,9615.0,500000.0
+Yasin Öztekin,Sivasspor,F,33,Turkey,turkey,2021,9423.0,490000.0
+Yannis Salibur,Karagumrukspor,F,29,France,turkey,2021,9423.0,490000.0
+Ömer Bayram,Galatasaray,M,29,Turkey,turkey,2021,9423.0,490000.0
+Kaan Kanak,Erzurumspor,D,30,Turkey,turkey,2021,9423.0,490000.0
+Murat Ucar,Erzurumspor,D,29,Turkey,turkey,2021,9231.0,480000.0
+Damjan Djokovic,Caykur Rizespor,M,30,Croatia,turkey,2021,9231.0,480000.0
+Marin Anicic,Konyaspor,D,31,Bosnia-Herzegovina,turkey,2021,9231.0,480000.0
+Hasan Hatipoglu,Erzurumspor,D,31,Turkey,turkey,2021,9231.0,480000.0
+Tarkan Serbest,Kasimpasa,M,26,Turkey,turkey,2021,8846.0,460000.0
+Sadik Ciftpinar,Fenerbahce,D,27,Turkey,turkey,2021,8846.0,460000.0
+Casimir Ninga,Sivasspor,F,27,Chad,turkey,2021,8846.0,460000.0
+Joseph Attamah,Kayserispor,M,26,Ghana,turkey,2021,8846.0,460000.0
+Osman Celik,Erzurumspor,M,28,Turkey,turkey,2021,8846.0,460000.0
+Mickaël Tirpan,Kasimpasa,M,26,Belgium,turkey,2021,8846.0,460000.0
+Jimmy Durmaz,Karagumrukspor,F,31,Sweden,turkey,2021,8846.0,460000.0
+Efkan Bekiroglu,Alanyaspor,M,25,Germany,turkey,2021,8846.0,460000.0
+Yusuf Abdioglu,Hatayspor,D,31,Turkey,turkey,2021,8846.0,460000.0
+Mert Hakan Yandas,Fenerbahce,F,26,Turkey,turkey,2021,8654.0,450000.0
+Mücahid Albayrak,Erzurumspor,D,29,Turkey,turkey,2021,8654.0,450000.0
+Dimitrios Kolovetsios,Kayserispor,D,29,Greece,turkey,2021,8654.0,450000.0
+Adem Büyük,Yeni Malatyaspor,F,33,Turkey,turkey,2021,8462.0,440000.0
+Dorukhan Toköz,Besiktas,M,24,Turkey,turkey,2021,8462.0,440000.0
+Kubilay Aktas,Denizlispor,M,26,Turkey,turkey,2021,8462.0,440000.0
+Kubilay Aktas,Gaziantep BB,M,25,Turkey,turkey,2021,8462.0,440000.0
+Ferdi Kadioglu,Fenerbahce,F,21,Netherlands,turkey,2021,8462.0,440000.0
+Boli Bolingoli,Basaksehir,D,25,Belgium,turkey,2021,8462.0,440000.0
+Manuel Fernandes,Kayserispor,F,34,Portugal,turkey,2021,8462.0,440000.0
+Damian Kadzior,Alanyaspor,F,28,Poland,turkey,2021,8462.0,440000.0
+Kristoffer Nordfeldt,Genclerbirligi SK,K,31,Sweden,turkey,2021,8269.0,430000.0
+Kamil Ahmet Cörekci,Trabzonspor,D,29,Turkey,turkey,2021,8269.0,430000.0
+Ponck,Basaksehir,D,25,Cape Verde,turkey,2021,8269.0,430000.0
+Marvin Bakalorz,Denizlispor,M,31,Germany,turkey,2021,8269.0,430000.0
+Idriz Voca,Ankaragucu,M,23,Kosovo,turkey,2021,8269.0,430000.0
+Anton Maglica,Kayserispor,F,29,Croatia,turkey,2021,8269.0,430000.0
+Guilherme,Goztepe,F,29,Brazil,turkey,2021,7885.0,410000.0
+Tunay Torun,Caykur Rizespor,F,30,Turkey,turkey,2021,7885.0,410000.0
+Adis Jahovic,Antalyaspor,F,33,North Macedonia,turkey,2021,7885.0,410000.0
+Issam Chebake,Yeni Malatyaspor,D,31,Morocco,turkey,2021,7885.0,410000.0
+Adis Jahovic,Goztepe,F,33,North Macedonia,turkey,2021,7885.0,410000.0
+Silviu Lung Jr,Kayserispor,K,31,Romania,turkey,2021,7885.0,410000.0
+Abdülkerim Bardakci,Konyaspor,D,26,Turkey,turkey,2021,7885.0,410000.0
+Günay Güvenc,Gaziantep BB,K,29,Turkey,turkey,2021,7692.0,400000.0
+Yusuf Erdogan,Kasimpasa,F,28,Turkey,turkey,2021,7692.0,400000.0
+Cenk Sahin,Gaziantep BB,F,26,Turkey,turkey,2021,7692.0,400000.0
+Volkan Babacan,Basaksehir,K,32,Turkey,turkey,2021,7692.0,400000.0
+Adam Bareiro,Alanyaspor,F,24,Paraguay,turkey,2021,7500.0,390000.0
+Erdi Dikmen,Ankaragucu,D,23,Turkey,turkey,2021,7500.0,390000.0
+Kerim Frei,Basaksehir,F,26,Turkey,turkey,2021,7500.0,390000.0
+Tolga Cigerci,Basaksehir,M,28,Turkey,turkey,2021,7500.0,390000.0
+Mathieu Dossevi,Denizlispor,F,32,Togo,turkey,2021,7500.0,390000.0
+Tolga Cigerci,Fenerbahce,M,28,Turkey,turkey,2021,7500.0,390000.0
+Bilal Basacikoglu,Gaziantep BB,F,25,Turkey,turkey,2021,7500.0,390000.0
+Fatih Kurucuk,Karagumrukspor,D,22,Turkey,turkey,2021,7500.0,390000.0
+Koray Altinay,Karagumrukspor,D,29,Turkey,turkey,2021,7500.0,390000.0
+Ertugrul Taskiran,Kasimpasa,K,30,Turkey,turkey,2021,7500.0,390000.0
+Bilal Basacikoglu,Trabzonspor,F,25,Turkey,turkey,2021,7500.0,390000.0
+Zeki Yavru,Yeni Malatyaspor,D,29,Turkey,turkey,2021,7500.0,390000.0
+Okechukwu Azubuike,Basaksehir,M,23,Nigeria,turkey,2021,7308.0,380000.0
+Bohdan Butko,Erzurumspor,D,30,Ukraine,turkey,2021,7308.0,380000.0
+Lucas Castro,Karagumrukspor,F,31,Argentina,turkey,2021,7308.0,380000.0
+Hélder Barbosa,Hatayspor,F,33,Portugal,turkey,2021,7308.0,380000.0
+Berkay Özcan,Basaksehir,F,22,Turkey,turkey,2021,7308.0,380000.0
+Alexander Söderlund,Caykur Rizespor,F,33,Norway,turkey,2021,7308.0,380000.0
+Mesut Caytemel,Hatayspor,D,36,Turkey,turkey,2021,7308.0,380000.0
+Daniel Candeias,Genclerbirligi SK,F,32,Portugal,turkey,2021,7308.0,380000.0
+Lucas Mugni,Genclerbirligi SK,F,29,Argentina,turkey,2021,7308.0,380000.0
+Elbasan Rashani,Erzurumspor,F,27,Kosovo,turkey,2021,7308.0,380000.0
+David Akintola,Hatayspor,F,25,Nigeria,turkey,2021,7308.0,380000.0
+Jorge Félix,Sivasspor,F,29,Spain,turkey,2021,7308.0,380000.0
+Gerard Gohou,Kasimpasa,F,31,Cote d'Ivoire,turkey,2021,7308.0,380000.0
+Zymer Bytyqi,Konyaspor,F,24,Kosovo,turkey,2021,7308.0,380000.0
+Gökhan Akkan,Caykur Rizespor,K,25,Turkey,turkey,2021,6923.0,360000.0
+Marko Jevtovic,Konyaspor,M,27,Serbia,turkey,2021,6923.0,360000.0
+Hakan Özmert,Antalyaspor,M,35,Turkey,turkey,2021,6923.0,360000.0
+Rúben Ribeiro,Hatayspor,F,33,Portugal,turkey,2021,6923.0,360000.0
+Stefano Napoleoni,Goztepe,F,34,Italy,turkey,2021,6923.0,360000.0
+Aaron Lennon,Kayserispor,F,33,England,turkey,2021,6923.0,360000.0
+Radoslaw Murawski,Denizlispor,M,26,Poland,turkey,2021,6923.0,360000.0
+Ogulcan Caglayan,Galatasaray,F,24,Turkey,turkey,2021,6731.0,350000.0
+Atinc Nukan,Goztepe,D,27,Turkey,turkey,2021,6731.0,350000.0
+Obinna Nwobodo,Goztepe,M,23,Nigeria,turkey,2021,6731.0,350000.0
+Dogan Erdogan,Caykur Rizespor,M,24,Turkey,turkey,2021,6731.0,350000.0
+Dario Melnjak,Caykur Rizespor,D,27,Croatia,turkey,2021,6731.0,350000.0
+Emre Tasdemir,Galatasaray,D,25,Turkey,turkey,2021,6731.0,350000.0
+Gabriel Obertan,Erzurumspor,F,31,France,turkey,2021,6731.0,350000.0
+Eren Albayrak,Antalyaspor,D,29,Turkey,turkey,2021,6731.0,350000.0
+Artur Sobiech,Karagumrukspor,F,30,Poland,turkey,2021,6731.0,350000.0
+Ugur Ucar,Basaksehir,D,33,Turkey,turkey,2021,6731.0,350000.0
+Mevlüt Erdinc,Karagumrukspor,F,33,Turkey,turkey,2021,6731.0,350000.0
+Mehmet Enes Sari,Kasimpasa,K,20,Turkey,turkey,2021,6731.0,350000.0
+Amedej Vetrih,Gaziantep BB,M,30,Slovenia,turkey,2021,6731.0,350000.0
+Jakub Szumski,Erzurumspor,K,28,Poland,turkey,2021,6538.0,340000.0
+Sefa Yilmaz,Genclerbirligi SK,F,30,Turkey,turkey,2021,6538.0,340000.0
+Armando Sadiku,Erzurumspor,F,29,Albania,turkey,2021,6538.0,340000.0
+Cemali Sertel,Basaksehir,D,20,Turkey,turkey,2021,6538.0,340000.0
+Mert Günok,Basaksehir,K,31,Turkey,turkey,2021,6538.0,340000.0
+Ángelo Sagal,Denizlispor,F,27,Chile,turkey,2021,6538.0,340000.0
+Aminu Umar,Caykur Rizespor,F,25,Nigeria,turkey,2021,6538.0,340000.0
+Yasin Pehlivan,Caykur Rizespor,M,31,Austria,turkey,2021,6538.0,340000.0
+Hasan Hüseyin Acar,Alanyaspor,M,26,Turkey,turkey,2021,6346.0,330000.0
+Ismail Aissati,Denizlispor,F,32,Morocco,turkey,2021,6346.0,330000.0
+Hasan Hüseyin Acar,Kayserispor,M,25,Turkey,turkey,2021,6346.0,330000.0
+Saba Lobjanidze,Ankaragucu,F,25,Georgia,turkey,2021,6346.0,330000.0
+Fernando Andrade,Caykur Rizespor,F,27,Brazil,turkey,2021,6346.0,330000.0
+Nouha Dicko,Gaziantep BB,F,28,Mali,turkey,2021,6346.0,330000.0
+Fredrik Gulbrandsen,Basaksehir,F,28,Norway,turkey,2021,6346.0,330000.0
+Fernando Boldrin,Caykur Rizespor,F,31,Brazil,turkey,2021,6346.0,330000.0
+Joseph Paintsil,Ankaragucu,F,22,Ghana,turkey,2021,6346.0,330000.0
+Geraldo,Ankaragucu,F,29,Angola,turkey,2021,6346.0,330000.0
+Kemal Ademi,Karagumrukspor,F,25,Switzerland,turkey,2021,6346.0,330000.0
+Abdulkadir Parmak,Trabzonspor,M,25,Turkey,turkey,2021,6346.0,330000.0
+Teenage Hadebe,Yeni Malatyaspor,D,25,Zimbabwe,turkey,2021,6346.0,330000.0
+Erce Kardesler,Trabzonspor,K,26,Turkey,turkey,2021,6346.0,330000.0
+Güven Yalcin,Besiktas,F,21,Turkey,turkey,2021,6346.0,330000.0
+Emrah Bassan,Erzurumspor,F,28,Turkey,turkey,2021,6346.0,330000.0
+Rayane Aabid,Hatayspor,M,28,France,turkey,2021,6346.0,330000.0
+Salih Dursun,Genclerbirligi SK,D,29,Turkey,turkey,2021,6346.0,330000.0
+Olcay Sahan,Yeni Malatyaspor,F,33,Turkey,turkey,2021,6346.0,330000.0
+Tayfur Bingöl,Alanyaspor,D,27,Turkey,turkey,2021,6346.0,330000.0
+Srdjan Spiridonovic,Genclerbirligi SK,F,27,Austria,turkey,2021,6346.0,330000.0
+Kemal Ademi,Fenerbahce,F,24,Switzerland,turkey,2021,6346.0,330000.0
+Selim Ay,Caykur Rizespor,D,29,Turkey,turkey,2021,6346.0,330000.0
+Kubilay Sönmez,Goztepe,M,26,Turkey,turkey,2021,6346.0,330000.0
+Amar Rahmanovic,Konyaspor,F,26,Bosnia-Herzegovina,turkey,2021,6346.0,330000.0
+Ajdin Hasic,Besiktas,F,19,Bosnia-Herzegovina,turkey,2021,5962.0,310000.0
+Fredy,Antalyaspor,F,30,Angola,turkey,2021,5962.0,310000.0
+Enzo Crivelli,Basaksehir,F,25,France,turkey,2021,5962.0,310000.0
+Jesse Sekidika,Galatasaray,F,24,Nigeria,turkey,2021,5962.0,310000.0
+Burak Camoglu,Hatayspor,D,24,Turkey,turkey,2021,5962.0,310000.0
+Özgür Cek,Denizlispor,D,29,Turkey,turkey,2021,5962.0,310000.0
+Hakan Arslan,Sivasspor,M,32,Turkey,turkey,2021,5962.0,310000.0
+Johanna Omolo,Erzurumspor,M,31,Kenya,turkey,2021,5769.0,300000.0
+Onur Bulut,Caykur Rizespor,M,26,Germany,turkey,2021,5769.0,300000.0
+Aliou Badji,Ankaragucu,F,23,Senegal,turkey,2021,5769.0,300000.0
+Ertugrul Ersoy,Gaziantep BB,D,23,Turkey,turkey,2021,5769.0,300000.0
+Hadi Sacko,Denizlispor,F,26,Mali,turkey,2021,5769.0,300000.0
+Marlon,Trabzonspor,D,23,Brazil,turkey,2021,5769.0,300000.0
+Marko Mihojevic,Goztepe,D,24,Bosnia-Herzegovina,turkey,2021,5769.0,300000.0
+Aaron Appindangoyé,Sivasspor,D,28,Gabon,turkey,2021,5769.0,300000.0
+Anastasios Bakasetas,Alanyaspor,F,27,Greece,turkey,2021,5577.0,290000.0
+Zakarya Bergdich,Erzurumspor,D,32,Morocco,turkey,2021,5577.0,290000.0
+Zakarya Bergdich,Denizlispor,D,31,Morocco,turkey,2021,5577.0,290000.0
+Amir Hadziahmetovic,Konyaspor,M,23,Bosnia-Herzegovina,turkey,2021,5577.0,290000.0
+Anastasios Bakasetas,Trabzonspor,F,27,Greece,turkey,2021,5577.0,290000.0
+Christian Cueva,Yeni Malatyaspor,F,28,Peru,turkey,2021,5577.0,290000.0
+Armin Djerlek,Sivasspor,F,20,Serbia,turkey,2021,5577.0,290000.0
+Hüseyin Türkmen,Trabzonspor,D,22,Turkey,turkey,2021,5385.0,280000.0
+Jugurtha Hamroun,Erzurumspor,F,31,Algeria,turkey,2021,5385.0,280000.0
+Floyd Ayité,Genclerbirligi SK,F,31,Togo,turkey,2021,5385.0,280000.0
+Alpaslan Öztürk,Goztepe,D,27,Turkey,turkey,2021,5385.0,280000.0
+Veysel Sari,Antalyaspor,D,32,Turkey,turkey,2021,5385.0,280000.0
+Ersan Gülüm,Antalyaspor,D,33,Turkey,turkey,2021,5385.0,280000.0
+Samuel Eduok,Konyaspor,F,26,Nigeria,turkey,2021,5385.0,280000.0
+Torgeir Börven,Ankaragucu,F,28,Norway,turkey,2021,5385.0,280000.0
+Volkan Findikli,Konyaspor,M,30,Turkey,turkey,2021,5385.0,280000.0
+Cebrail Karayel,Ankaragucu,D,26,Turkey,turkey,2021,5385.0,280000.0
+Assane Dioussé,Ankaragucu,M,23,Senegal,turkey,2021,5385.0,280000.0
+Murat Akca,Yeni Malatyaspor,D,30,Turkey,turkey,2021,5385.0,280000.0
+Fatih Aksoy,Alanyaspor,D,22,Turkey,turkey,2021,5000.0,260000.0
+Sandro Lima,Genclerbirligi SK,F,30,Brazil,turkey,2021,5000.0,260000.0
+Besard Sabovic,Kayserispor,M,23,Sweden,turkey,2021,5000.0,260000.0
+Isaac Kiese Thelin,Kasimpasa,F,28,Sweden,turkey,2021,5000.0,260000.0
+Levan Shengelia,Konyaspor,F,24,Georgia,turkey,2021,5000.0,260000.0
+Stevie Mallan,Yeni Malatyaspor,M,24,Scotland,turkey,2021,5000.0,260000.0
+Ertac Özbir,Yeni Malatyaspor,K,30,Turkey,turkey,2021,5000.0,260000.0
+Bilal Ceylan,Besiktas,D,17,Turkey,turkey,2021,5000.0,260000.0
+Muhammed Mert,Hatayspor,M,25,Turkey,turkey,2021,5000.0,260000.0
+Brahim Darri,Erzurumspor,F,26,Netherlands,turkey,2021,5000.0,260000.0
+Jody Lukoki,Yeni Malatyaspor,F,27,Democratic Republic of the Congo,turkey,2021,5000.0,260000.0
+Okan Kocuk,Galatasaray,K,25,Turkey,turkey,2021,5000.0,260000.0
+Orkan Cinar,Ankaragucu,F,24,Turkey,turkey,2021,5000.0,260000.0
+Erdogan Yesilyurt,Sivasspor,F,26,Turkey,turkey,2021,5000.0,260000.0
+Dzenan Burekovic,Goztepe,D,25,Bosnia-Herzegovina,turkey,2021,5000.0,260000.0
+Recep Niyaz,Denizlispor,F,25,Turkey,turkey,2021,4808.0,250000.0
+Baris Yardimci,Sivasspor,D,28,Turkey,turkey,2021,4808.0,250000.0
+Ricardo Friedrich,Ankaragucu,K,27,Brazil,turkey,2021,4808.0,250000.0
+Luka Adzic,Ankaragucu,F,22,Serbia,turkey,2021,4808.0,250000.0
+Kerem Atakan Kesgin,Sivasspor,M,19,Turkey,turkey,2021,4808.0,250000.0
+Abdullah Durak,Caykur Rizespor,M,33,Turkey,turkey,2021,4808.0,250000.0
+Alberk Koc,Caykur Rizespor,D,23,Turkey,turkey,2021,4808.0,250000.0
+Oguz Ceylan,Gaziantep BB,D,29,Turkey,turkey,2021,4808.0,250000.0
+Bengali-Fodé Koita,Kasimpasa,F,30,Guinea,turkey,2021,4808.0,250000.0
+Baris Yardimci,Konyaspor,D,28,Turkey,turkey,2021,4808.0,250000.0
+Bahadir Öztürk,Antalyaspor,D,25,Turkey,turkey,2021,4808.0,250000.0
+Irfan Can Egribayat,Goztepe,K,22,Turkey,turkey,2021,4808.0,250000.0
+Caglar Akbaba,Gaziantep BB,K,25,Turkey,turkey,2021,4808.0,250000.0
+Montassar Talbi,Caykur Rizespor,D,22,Tunisia,turkey,2021,4808.0,250000.0
+Ömer Ali Sahiner,Basaksehir,F,29,Turkey,turkey,2021,4808.0,250000.0
+Murat Yildirim,Genclerbirligi SK,M,33,Turkey,turkey,2021,4808.0,250000.0
+Ravil Tagir,Basaksehir,D,17,Turkey,turkey,2021,4808.0,250000.0
+Ömer Ali Sahiner,Konyaspor,F,28,Turkey,turkey,2021,4808.0,250000.0
+André Sousa,Gaziantep BB,M,30,Portugal,turkey,2021,4808.0,250000.0
+Serdar Gürler,Antalyaspor,F,29,Turkey,turkey,2021,4615.0,240000.0
+Sidney Sam,Antalyaspor,F,32,Germany,turkey,2021,4615.0,240000.0
+Tomas Brecka,Kasimpasa,D,26,Czech Republic,turkey,2021,4615.0,240000.0
+Mehmet Erdem Ugurlu,Gaziantep BB,D,32,Turkey,turkey,2021,4615.0,240000.0
+Haris Hajradinovic,Kasimpasa,F,26,Bosnia-Herzegovina,turkey,2021,4615.0,240000.0
+Murat Paluli,Goztepe,D,26,Turkey,turkey,2021,4615.0,240000.0
+Jonathan Bolingi,Ankaragucu,F,26,Democratic Republic of the Congo,turkey,2021,4615.0,240000.0
+Eren Sahin,Sivasspor,F,19,Turkey,turkey,2021,4615.0,240000.0
+Cenk Gönen,Denizlispor,K,32,Turkey,turkey,2021,4615.0,240000.0
+Eray Birnican,Konyaspor,K,32,Turkey,turkey,2021,4615.0,240000.0
+Zoran Kvrzic,Kayserispor,F,32,Bosnia-Herzegovina,turkey,2021,4615.0,240000.0
+Ahmet Oguz,Sivasspor,D,28,Turkey,turkey,2021,4423.0,230000.0
+Arvydas Novikovas,Erzurumspor,F,29,Lithuania,turkey,2021,4423.0,230000.0
+Zlatko Tripic,Goztepe,F,27,Norway,turkey,2021,4423.0,230000.0
+Ahmet Oguz,Kasimpasa,D,27,Turkey,turkey,2021,4423.0,230000.0
+Valentine Ozornwafor,Galatasaray,D,21,Nigeria,turkey,2021,4038.0,210000.0
+Karim Hafez,Yeni Malatyaspor,D,24,Egypt,turkey,2021,4038.0,210000.0
+Bugra Cagiran,Erzurumspor,M,26,Turkey,turkey,2021,4038.0,210000.0
+Emre Güral,Ankaragucu,F,31,Turkey,turkey,2021,4038.0,210000.0
+Alper Uludag,Konyaspor,D,29,Turkey,turkey,2021,4038.0,210000.0
+Vegar Eggen Hedenstad,Karagumrukspor,D,29,Norway,turkey,2021,4038.0,210000.0
+Caner Osmanpasa,Sivasspor,D,32,Turkey,turkey,2021,4038.0,210000.0
+Konrad Michalak,Caykur Rizespor,F,23,Poland,turkey,2021,3846.0,200000.0
+Moryké Fofana,Yeni Malatyaspor,F,28,Cote d'Ivoire,turkey,2021,3846.0,200000.0
+Kartal Yilmaz,Besiktas,M,19,Turkey,turkey,2021,3846.0,200000.0
+Ömer Sismanoglu,Erzurumspor,F,31,Turkey,turkey,2021,3846.0,200000.0
+Gilbert Koomson,Kasimpasa,F,26,Ghana,turkey,2021,3846.0,200000.0
+Ersin Destanoglu,Besiktas,K,19,Turkey,turkey,2021,3846.0,200000.0
+Erdogan Kaya,Besiktas,D,19,Turkey,turkey,2021,3846.0,200000.0
+Utku Yuvakuran,Besiktas,K,22,Turkey,turkey,2021,3846.0,200000.0
+Efecan Karaca,Alanyaspor,F,30,Turkey,turkey,2021,3846.0,200000.0
+Endri Cekici,Ankaragucu,F,23,Albania,turkey,2021,3846.0,200000.0
+Akin Alkan,Hatayspor,K,31,Turkey,turkey,2021,3846.0,200000.0
+Ridvan Yilmaz,Besiktas,D,19,Turkey,turkey,2021,3846.0,200000.0
+Oguz Yilmaz,Denizlispor,D,27,Turkey,turkey,2021,3654.0,190000.0
+Samba Camara,Sivasspor,D,27,France,turkey,2021,3654.0,190000.0
+Ahmed Ildiz,Yeni Malatyaspor,M,23,Turkey,turkey,2021,3654.0,190000.0
+Mert Yilmaz,Antalyaspor,D,21,Turkey,turkey,2021,3654.0,190000.0
+Fabrício Baiano,Caykur Rizespor,M,28,Brazil,turkey,2021,3654.0,190000.0
+Atakan Üner,Besiktas,F,21,Turkey,turkey,2021,3654.0,190000.0
+Denis Alibec,Kayserispor,F,29,Romania,turkey,2021,3654.0,190000.0
+Mohammed Kamara,Hatayspor,F,23,Liberia,turkey,2021,3654.0,190000.0
+Furkan Soyalp,Gaziantep BB,F,25,Turkey,turkey,2021,3462.0,180000.0
+Alexandros Katranis,Hatayspor,D,22,Greece,turkey,2021,3462.0,180000.0
+Mamadou Samassa,Sivasspor,K,30,Mali,turkey,2021,3462.0,180000.0
+Selim Ilgaz,Hatayspor,F,25,France,turkey,2021,3462.0,180000.0
+Rashad Muhammed,Erzurumspor,F,27,France,turkey,2021,3462.0,180000.0
+Braian Samudio,Caykur Rizespor,F,24,Paraguay,turkey,2021,3462.0,180000.0
+Ibrahim Sissoko,Erzurumspor,F,28,Cote d'Ivoire,turkey,2021,3462.0,180000.0
+Erik Sabo,Karagumrukspor,M,28,Slovakia,turkey,2021,3462.0,180000.0
+Yusuf Sari,Trabzonspor,F,21,Turkey,turkey,2021,3462.0,180000.0
+Sokol Cikalleshi,Konyaspor,F,30,Albania,turkey,2021,3462.0,180000.0
+Kayacan Erdogan,Erzurumspor,K,32,Turkey,turkey,2021,3462.0,180000.0
+Bülent Cevahir,Yeni Malatyaspor,D,28,Turkey,turkey,2021,3462.0,180000.0
+Ulas Zengin,Gaziantep BB,D,23,Turkey,turkey,2021,3462.0,180000.0
+Erkan Kas,Yeni Malatyaspor,D,29,Turkey,turkey,2021,3462.0,180000.0
+Erik Sabo,Caykur Rizespor,M,29,Slovakia,turkey,2021,3462.0,180000.0
+Özer Özdemir,Denizlispor,D,22,Turkey,turkey,2021,3462.0,180000.0
+Adil Demirbag,Konyaspor,D,22,Turkey,turkey,2021,3462.0,180000.0
+Zeki Yildirim,Karagumrukspor,M,29,Turkey,turkey,2021,3462.0,180000.0
+Dame Diop,Hatayspor,F,27,Senegal,turkey,2021,3462.0,180000.0
+Berkan Emir,Goztepe,D,32,Turkey,turkey,2021,3077.0,160000.0
+Mücahit Can Akcay,Ankaragucu,F,22,Turkey,turkey,2021,3077.0,160000.0
+Marafona,Alanyaspor,K,33,Portugal,turkey,2021,3077.0,160000.0
+Murat Sipahioglu,Ankaragucu,D,18,Turkey,turkey,2021,3077.0,160000.0
+Zvonimir Sarlija,Ankaragucu,D,24,Croatia,turkey,2021,3077.0,160000.0
+Aykut Özer,Karagumrukspor,K,27,Turkey,turkey,2021,3077.0,160000.0
+Muris Mesanovic,Denizlispor,F,30,Bosnia-Herzegovina,turkey,2021,3077.0,160000.0
+Karlo Muhar,Kayserispor,M,25,Croatia,turkey,2021,3077.0,160000.0
+Gökhan Kardes,Erzurumspor,D,23,Turkey,turkey,2021,2885.0,150000.0
+Daniel Lukasik,Ankaragucu,M,29,Poland,turkey,2021,2885.0,150000.0
+Ugur Ciftci,Sivasspor,D,28,Turkey,turkey,2021,2885.0,150000.0
+Mete Kaan Demir,Basaksehir,F,22,Turkey,turkey,2021,2885.0,150000.0
+Gökhan Karadeniz,Hatayspor,F,30,Turkey,turkey,2021,2885.0,150000.0
+Ziya Erdal,Sivasspor,D,32,Turkey,turkey,2021,2885.0,150000.0
+Soner Örnek,Hatayspor,D,31,Turkey,turkey,2021,2885.0,150000.0
+Oguzhan Capar,Kayserispor,D,24,Turkey,turkey,2021,2885.0,150000.0
+Oguz Kagan Güctekin,Konyaspor,M,21,Turkey,turkey,2021,2885.0,150000.0
+Deni Milosevic,Konyaspor,F,25,Bosnia-Herzegovina,turkey,2021,2885.0,150000.0
+Pedro Henrique,Kayserispor,F,30,Brazil,turkey,2021,2692.0,140000.0
+Kenan Özer,Gaziantep BB,F,33,Turkey,turkey,2021,2692.0,140000.0
+Kevin Luckassen,Kayserispor,F,27,Netherlands,turkey,2021,2692.0,140000.0
+Ahmet Canbaz,Trabzonspor,F,22,Turkey,turkey,2021,2692.0,140000.0
+Kemal Rüzgar,Caykur Rizespor,F,25,Turkey,turkey,2021,2500.0,130000.0
+Ömürcan Artan,Genclerbirligi SK,D,21,Turkey,turkey,2021,2500.0,130000.0
+Mustafa Cecenoglu,Genclerbirligi SK,F,26,Turkey,turkey,2021,2500.0,130000.0
+Halil Ibrahim Pehlivan,Genclerbirligi SK,D,27,Turkey,turkey,2021,2500.0,130000.0
+Idir Ouali,Hatayspor,F,32,Algeria,turkey,2021,2500.0,130000.0
+Abdulkadir Sünger,Denizlispor,K,20,Turkey,turkey,2021,2500.0,130000.0
+Alassane Ndao,Karagumrukspor,F,23,Senegal,turkey,2021,2500.0,130000.0
+Muhammed Emin Sarikaya,Basaksehir,D,18,Turkey,turkey,2021,2500.0,130000.0
+Hasan Ayaroglu,Denizlispor,F,25,Turkey,turkey,2021,2500.0,130000.0
+Hüseyin Altintas,Denizlispor,K,26,Turkey,turkey,2021,2500.0,130000.0
+Muhammet Özkal,Denizlispor,D,20,Turkey,turkey,2021,2500.0,130000.0
+Berke Gürbüz,Ankaragucu,F,17,Turkey,turkey,2021,2500.0,130000.0
+Atakan Cankaya,Ankaragucu,M,22,Turkey,turkey,2021,2500.0,130000.0
+Hasan Ayaroglu,Alanyaspor,F,25,Turkey,turkey,2021,2500.0,130000.0
+Nazim Sangaré,Fenerbahce,D,26,Turkey,turkey,2021,2115.0,110000.0
+Kevin Varga,Kasimpasa,F,24,Hungary,turkey,2021,2115.0,110000.0
+Umut Günes,Alanyaspor,M,20,Turkey,turkey,2021,2115.0,110000.0
+Kadir Enes Kira,Genclerbirligi SK,D,21,Turkey,turkey,2021,2115.0,110000.0
+Jesse Sekidika,Konyaspor,F,24,Nigeria,turkey,2021,2115.0,110000.0
+Emirhan Topcu,Caykur Rizespor,D,20,Turkey,turkey,2021,2115.0,110000.0
+Mugdat Celik,Kayserispor,F,30,Turkey,turkey,2021,2115.0,110000.0
+Erten Ersu,Konyaspor,K,26,Turkey,turkey,2021,2115.0,110000.0
+Baran Basyigit,Genclerbirligi SK,F,17,Turkey,turkey,2021,2115.0,110000.0
+Dever Orgill,Antalyaspor,F,30,Jamaica,turkey,2021,2115.0,110000.0
+Beykan Simsek,Goztepe,F,26,Turkey,turkey,2021,2115.0,110000.0
+Emre Demir,Kayserispor,F,16,Turkey,turkey,2021,2115.0,110000.0
+Kerem Aktürkoglu,Galatasaray,F,22,Turkey,turkey,2021,2115.0,110000.0
+Ahmet Gülay,Alanyaspor,D,17,Turkey,turkey,2021,2115.0,110000.0
+Göktug Bakirbas,Erzurumspor,K,24,Turkey,turkey,2021,2115.0,110000.0
+Serkan Asan,Trabzonspor,D,21,Turkey,turkey,2021,2115.0,110000.0
+Mustafa Burak Bozan,Gaziantep BB,K,20,Turkey,turkey,2021,2115.0,110000.0
+Mirkan Aydin,Hatayspor,F,33,Germany,turkey,2021,2115.0,110000.0
+Alihan Kalkan,Denizlispor,F,21,Turkey,turkey,2021,2115.0,110000.0
+Ali Sasal Vural,Sivasspor,K,30,Turkey,turkey,2021,2115.0,110000.0
+Ramazan Civelek,Kayserispor,D,25,Turkey,turkey,2021,2115.0,110000.0
+Alpay Celebi,Alanyaspor,D,21,Turkey,turkey,2021,2115.0,110000.0
+Burak Süleyman,Goztepe,F,26,Turkey,turkey,2021,2115.0,110000.0
+Gökhan Altiparmak,Genclerbirligi SK,F,19,Turkey,turkey,2021,2115.0,110000.0
+Osama Rashid,Gaziantep BB,M,29,Iraq,turkey,2021,2115.0,110000.0
+Ilker Karakas,Genclerbirligi SK,F,21,Turkey,turkey,2021,2115.0,110000.0
+Mithat Pala,Caykur Rizespor,M,20,Turkey,turkey,2021,2115.0,110000.0
+Berkan Kutlu,Alanyaspor,M,22,Turkey,turkey,2021,2115.0,110000.0
+Ramazan Civelek,Karagumrukspor,F,24,Turkey,turkey,2021,2115.0,110000.0
+Kerim Alici,Goztepe,D,23,Turkey,turkey,2021,2115.0,110000.0
+Oltan Karakullukcu,Erzurumspor,F,29,Turkey,turkey,2021,2115.0,110000.0
+Safa Kinali,Trabzonspor,F,21,Turkey,turkey,2021,1923.0,100000.0
+Salih Kavrazli,Trabzonspor,F,18,Turkey,turkey,2021,1923.0,100000.0
+Anil Koc,Kasimpasa,F,25,Turkey,turkey,2021,1923.0,100000.0
+Kubilay Kanatsizkus,Yeni Malatyaspor,F,23,Turkey,turkey,2021,1923.0,100000.0
+Dogucan Haspolat,Kasimpasa,M,20,Turkey,turkey,2021,1923.0,100000.0
+Ali Ates,Gaziantep BB,F,21,Turkey,turkey,2021,1923.0,100000.0
+Tarik Cetin,Caykur Rizespor,K,23,Turkey,turkey,2021,1923.0,100000.0
+Yasir Subasi,Kayserispor,D,24,Turkey,turkey,2021,1923.0,100000.0
+Eray Iscan,Yeni Malatyaspor,K,29,Turkey,turkey,2021,1923.0,100000.0
+Wilfried Kanga,Kayserispor,F,22,France,turkey,2021,1923.0,100000.0
+Armin Hodzic,Kasimpasa,F,25,Bosnia-Herzegovina,turkey,2021,1731.0,90000.0
+Alan,Kasimpasa,F,23,Brazil,turkey,2021,1731.0,90000.0
+Yasin Dülger,Kasimpasa,F,24,Turkey,turkey,2021,1731.0,90000.0
+Embiya Ayyildiz,Ankaragucu,F,20,Turkey,turkey,2021,1731.0,90000.0
+Yalcin Kayan,Goztepe,M,21,Turkey,turkey,2021,1731.0,90000.0
+Ufuk Akyol,Antalyaspor,M,23,Turkey,turkey,2021,1731.0,90000.0
+Dusko Tosic,Kasimpasa,D,36,Serbia,turkey,2021,1731.0,90000.0
+Alperen Babacan,Ankaragucu,D,23,Turkey,turkey,2021,1731.0,90000.0
+Ismail Güven,Konyaspor,M,26,Turkey,turkey,2021,1731.0,90000.0
+Berk Yildiz,Yeni Malatyaspor,F,24,Turkey,turkey,2021,1731.0,90000.0
+Görkem Can,Denizlispor,D,20,Turkey,turkey,2021,1731.0,90000.0
+Melih Okutan,Kayserispor,F,24,Turkey,turkey,2021,1538.0,80000.0
+Mustafa Eskihellac,Yeni Malatyaspor,F,23,Turkey,turkey,2021,1538.0,80000.0
+Amilton,Antalyaspor,F,31,Brazil,turkey,2021,1538.0,80000.0
+Muammer Yildirim,Sivasspor,K,30,Turkey,turkey,2021,1538.0,80000.0
+Harrison Manzala,Kayserispor,F,26,Democratic Republic of the Congo,turkey,2021,1538.0,80000.0
+Aly Malle,Yeni Malatyaspor,F,22,Mali,turkey,2021,1538.0,80000.0
+Aaron Boupendza,Hatayspor,F,24,Gabon,turkey,2021,1538.0,80000.0
+Muhammed Sengezer,Basaksehir,K,23,Turkey,turkey,2021,1538.0,80000.0
+Muhayer Oktay,Besiktas,M,21,Turkey,turkey,2021,1538.0,80000.0
+Sahverdi Cetin,Ankaragucu,M,20,Germany,turkey,2021,1154.0,60000.0
+Ozan Can Oruc,Konyaspor,K,20,Turkey,turkey,2021,1154.0,60000.0
+Jetmir Topalli,Yeni Malatyaspor,F,22,Kosovo,turkey,2021,1154.0,60000.0
+Vato Arveladze,Karagumrukspor,F,22,Georgia,turkey,2021,1154.0,60000.0
+Erdon Daci,Konyaspor,F,22,North Macedonia,turkey,2021,1154.0,60000.0
+Murat Aksit,Yeni Malatyaspor,K,18,Turkey,turkey,2021,1154.0,60000.0
+Ilhan Parlak,Kayserispor,F,33,Turkey,turkey,2021,1154.0,60000.0
+Ferhat Kaplan,Antalyaspor,K,31,Turkey,turkey,2021,1154.0,60000.0
+Halil Akbunar,Goztepe,F,26,Turkey,turkey,2021,1154.0,60000.0
+Hakan Yesil,Trabzonspor,M,19,Turkey,turkey,2021,962.0,50000.0
+Abdulsamed Damlu,Yeni Malatyaspor,K,21,Turkey,turkey,2021,962.0,50000.0
+Daniel Avramovski,Kayserispor,F,25,North Macedonia,turkey,2021,962.0,50000.0
+Jean-Armel Drolé,Antalyaspor,F,23,Cote d'Ivoire,turkey,2021,962.0,50000.0
+Dogan Gölpek,Konyaspor,F,26,Netherlands,turkey,2021,962.0,50000.0
+Ilhan Depe,Kayserispor,F,28,Turkey,turkey,2021,962.0,50000.0
+Sener Kaya,Konyaspor,F,17,Turkey,turkey,2021,962.0,50000.0
+Arda Kizildag,Genclerbirligi SK,D,22,Turkey,turkey,2021,962.0,50000.0
+Ufuk Ceylan,Alanyaspor,K,34,Turkey,turkey,2021,962.0,50000.0
+Ömer Uzun,Kayserispor,F,20,Turkey,turkey,2021,769.0,40000.0
+Metehan Mert,Genclerbirligi SK,D,21,Turkey,turkey,2021,769.0,40000.0
+Abdurrahman Canli,Hatayspor,M,23,Turkey,turkey,2021,769.0,40000.0
+Ömer Beyaz,Fenerbahce,F,17,Turkey,turkey,2021,769.0,40000.0
+Aksel Aktas,Karagumrukspor,F,21,Turkey,turkey,2021,769.0,40000.0
+Batuhan Ünsal,Erzurumspor,K,23,Turkey,turkey,2021,769.0,40000.0
+Eric Ndizeye,Yeni Malatyaspor,D,21,Burundi,turkey,2021,769.0,40000.0
+Alaaddin Okumus,Sivasspor,D,25,Turkey,turkey,2021,769.0,40000.0
+Joseph Akomadi,Hatayspor,M,21,Ghana,turkey,2021,769.0,40000.0
+Ali Karakaya,Konyaspor,M,18,Turkey,turkey,2021,769.0,40000.0
+Oytun Özdogan,Fenerbahce,K,22,Turkey,turkey,2021,769.0,40000.0
+Dogukan Emeksiz,Yeni Malatyaspor,M,20,Turkey,turkey,2021,769.0,40000.0
+Soner Dikmen,Genclerbirligi SK,M,27,Turkey,turkey,2021,769.0,40000.0
+Philip Gameli Awuku,Yeni Malatyaspor,D,20,Ghana,turkey,2021,769.0,40000.0
+Ekrem Kilicarslan,Hatayspor,K,23,Turkey,turkey,2021,769.0,40000.0
+Cherif Ndiaye,Goztepe,F,24,Senegal,turkey,2021,769.0,40000.0
+Enes Sancar Sahin,Antalyaspor,K,20,Turkey,turkey,2021,769.0,40000.0
+Mirza Cihan,Gaziantep BB,F,20,Turkey,turkey,2021,481.0,25000.0
+Yasin Davus,Genclerbirligi SK,K,25,Turkey,turkey,2021,481.0,25000.0
+Ahmet Kivanc,Basaksehir,K,22,Turkey,turkey,2021,481.0,25000.0
+Evren Eren Elmali,Kasimpasa,D,20,Turkey,turkey,2021,481.0,25000.0
+Ahmet Cagri Güney,Alanyaspor,K,17,Turkey,turkey,2021,481.0,25000.0
+Abdulkadir Tasdan,Kayserispor,K,17,Turkey,turkey,2021,481.0,25000.0
+Adem Dogan,Kayserispor,D,19,Turkey,turkey,2021,481.0,25000.0
+Serdar Poyraz,Antalyaspor,F,16,Turkey,turkey,2021,481.0,25000.0
+Erdem Canpolat,Kasimpasa,K,19,Germany,turkey,2021,481.0,25000.0
+Omar Imeri,Antalyaspor,F,20,Albania,turkey,2021,481.0,25000.0
+Dogan Alemdar,Kayserispor,K,17,Turkey,turkey,2021,481.0,25000.0
+Ismail Cipe,Kayserispor,K,25,Turkey,turkey,2021,481.0,25000.0
+Cagtay Kurukalip,Kasimpasa,D,18,Turkey,turkey,2021,481.0,25000.0
+Berk Cetin,Kasimpasa,D,21,Turkey,turkey,2021,481.0,25000.0
+Arda Özcimen,Goztepe,K,18,Turkey,turkey,2021,481.0,25000.0
+Gökdeniz Bayrakdar,Antalyaspor,F,18,Turkey,turkey,2021,481.0,25000.0
+Azad Toptik,Kasimpasa,F,21,Turkey,turkey,2021,481.0,25000.0
+Nurettin Korkmaz,Kayserispor,F,18,Turkey,turkey,2021,481.0,25000.0
+Yavuz Ulas Genc,Karagumrukspor,K,19,Turkey,turkey,2021,481.0,25000.0
+Dogukan Sinik,Antalyaspor,F,21,Turkey,turkey,2021,481.0,25000.0
+Ahmet Karademir,Konyaspor,F,16,Turkey,turkey,2021,481.0,25000.0
+Yavuz Aygün,Karagumrukspor,K,24,Turkey,turkey,2021,481.0,25000.0
+Serhat Ahmetoglu,Karagumrukspor,F,18,Turkey,turkey,2021,481.0,25000.0
+Dogukan Özkan,Antalyaspor,K,20,Turkey,turkey,2021,481.0,25000.0
+Muzaffer Cem Kablan,Karagumrukspor,K,20,Turkey,turkey,2021,481.0,25000.0
+Emre Pehlivan,Konyaspor,F,18,Turkey,turkey,2021,481.0,25000.0
+Murat Sarigül,Karagumrukspor,D,19,Turkey,turkey,2021,481.0,25000.0
+Bünyamin Balci,Antalyaspor,D,20,Turkey,turkey,2021,481.0,25000.0
+Eren Kiryolcu,Denizlispor,M,17,Turkey,turkey,2021,481.0,25000.0
+Izzet Karaboga,Konyaspor,M,18,Turkey,turkey,2021,481.0,25000.0
+Ali Eren Iyican,Antalyaspor,D,21,Turkey,turkey,2021,481.0,25000.0
+Asim Aksungur,Denizlispor,F,20,Turkey,turkey,2021,481.0,25000.0
+Adem Metin Türk,Antalyaspor,F,16,Turkey,turkey,2021,481.0,25000.0
+Furkan Kara,Karagumrukspor,D,19,Turkey,turkey,2021,481.0,25000.0
+Abdullah Sahindere,Genclerbirligi SK,D,17,Turkey,turkey,2021,481.0,25000.0
+Yusuf Eren Göktas,Ankaragucu,D,16,Turkey,turkey,2021,481.0,25000.0
+Ali Yavuz Kol,Galatasaray,F,19,Turkey,turkey,2021,481.0,25000.0
+Youssouf Ndayishimiye,Basaksehir,M,22,Burundi,turkey,2021,481.0,25000.0
+Atalay Gökce,Genclerbirligi SK,K,17,Turkey,turkey,2021,481.0,25000.0
+Emre Bilgin,Besiktas,K,16,Turkey,turkey,2021,481.0,25000.0
+Egemen Pehlivan,Karagumrukspor,F,20,Turkey,turkey,2021,481.0,25000.0
+Efe Tatli,Karagumrukspor,M,18,Turkey,turkey,2021,481.0,25000.0
+Batuhan Ucan,Genclerbirligi SK,D,18,Turkey,turkey,2021,481.0,25000.0
+Veton Tusha,Denizlispor,F,18,Kosovo,turkey,2021,481.0,25000.0
+Yavuz Bugra Boyar,Hatayspor,K,22,Turkey,turkey,2021,481.0,25000.0
+Serdar Saatci,Besiktas,D,17,Turkey,turkey,2021,481.0,25000.0
+Berat Özdemir,Genclerbirligi SK,M,22,Turkey,turkey,2021,481.0,25000.0
+Mert Topuz,Ankaragucu,K,19,Turkey,turkey,2021,481.0,25000.0
+Ali Yavuz Kol,Denizlispor,F,20,Turkey,turkey,2021,481.0,25000.0
+Korcan Celikay,Ankaragucu,K,32,Turkey,turkey,2021,481.0,25000.0
+Zafer Görgen,Caykur Rizespor,K,20,Turkey,turkey,2021,481.0,25000.0
+Furkan Beklevic,Ankaragucu,K,21,Turkey,turkey,2021,481.0,25000.0
+Bogachan Kazmaz,Caykur Rizespor,K,19,Turkey,turkey,2021,481.0,25000.0
+Ahmetcan Kaplan,Trabzonspor,D,18,Turkey,turkey,2021,481.0,25000.0
+Ender Aygören,Ankaragucu,M,20,Turkey,turkey,2021,481.0,25000.0
+Arda Akbulut,Trabzonspor,K,19,Turkey,turkey,2021,481.0,25000.0
+Atakan Gündüz,Trabzonspor,D,19,Turkey,turkey,2021,481.0,25000.0
+Yilmaz Basravi,Goztepe,F,20,Turkey,turkey,2021,481.0,25000.0
+Youssouf Ndayishimiye,Yeni Malatyaspor,F,21,Burundi,turkey,2021,481.0,25000.0
+Özgür Sert,Erzurumspor,F,20,Turkey,turkey,2021,481.0,25000.0
+Alper Askin,Goztepe,D,19,Turkey,turkey,2021,481.0,25000.0
+Faruk Can Genc,Trabzonspor,D,20,Turkey,turkey,2021,481.0,25000.0
+Tolga Topaloglu,Goztepe,M,19,Turkey,turkey,2021,481.0,25000.0
+Anil Dikmen,Ankaragucu,D,18,Turkey,turkey,2021,481.0,25000.0
+Tibet Öniz,Goztepe,F,19,Turkey,turkey,2021,481.0,25000.0
+Ali Kaan Güneren,Ankaragucu,M,20,Turkey,turkey,2021,481.0,25000.0
+Abdullah Celik,Ankaragucu,D,23,Austria,turkey,2021,481.0,25000.0
+Muhammet Taha Tepe,Trabzonspor,K,19,Turkey,turkey,2021,481.0,25000.0
+Süleyman Cebeci,Trabzonspor,F,18,Turkey,turkey,2021,481.0,25000.0
+Mert Kabasakal,Genclerbirligi SK,M,16,Turkey,turkey,2021,481.0,25000.0
+Rahmetullah Berisbek,Genclerbirligi SK,M,21,Turkey,turkey,2021,481.0,25000.0
+Metin Yildirim,Goztepe,M,20,Turkey,turkey,2021,481.0,25000.0
+Emir Dede,Caykur Rizespor,F,19,Turkey,turkey,2021,481.0,25000.0
+El Mami Tetah,Alanyaspor,F,19,Mauritania,turkey,2021,481.0,25000.0
+Efe Binici,Goztepe,M,19,Turkey,turkey,2021,481.0,25000.0
+Haqi Osman,Yeni Malatyaspor,F,18,Ghana,turkey,2021,481.0,25000.0
+Jospin Nshimirimana,Yeni Malatyaspor,M,19,Burundi,turkey,2021,481.0,25000.0
+Emin Bayram,Galatasaray,D,17,Turkey,turkey,2021,481.0,25000.0
+Batuhan Kirdaroglu,Goztepe,F,20,Turkey,turkey,2021,481.0,25000.0
+Übeyd Adiyaman,Genclerbirligi SK,K,23,Turkey,turkey,2021,481.0,25000.0
+Furkan Külekci,Kasimpasa,F,19,Turkey,turkey,2021,481.0,25000.0
+Emre Kaplan,Basaksehir,D,19,Azerbaijan,turkey,2021,481.0,25000.0
+Emir Senocak,Basaksehir,F,19,Turkey,turkey,2021,481.0,25000.0
+Enes Karakus,Basaksehir,F,19,Turkey,turkey,2021,481.0,25000.0
+Mustafa Seyhan,Genclerbirligi SK,M,24,Turkey,turkey,2021,481.0,25000.0
+Stiven Plaza,Trabzonspor,F,21,Ecuador,turkey,2021,0.0,0.0
+Mevlüthan Ekelik,Antalyaspor,M,15,Turkey,turkey,2021,0.0,0.0
+Feyzi Yildirim,Kasimpasa,D,24,Turkey,turkey,2021,0.0,0.0
+Milos Stanojevic,Ankaragucu,M,27,Serbia,turkey,2021,0.0,0.0
+Bojan Saranov,Karagumrukspor,K,33,Serbia,turkey,2021,0.0,0.0
+Brahim Darri,Karagumrukspor,F,26,Netherlands,turkey,2021,0.0,0.0
+Cristobal Jorquera,Karagumrukspor,M,32,Chile,turkey,2021,0.0,0.0

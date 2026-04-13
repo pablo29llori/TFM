@@ -1,0 +1,553 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Robert Lewandowski,Bayern Munich,F,32,Poland,germany,2021,442308.0,23000000.0
+Thomas Müller,Bayern Munich,F,31,Germany,germany,2021,384615.0,20000000.0
+Manuel Neuer,Bayern Munich,K,34,Germany,germany,2021,384615.0,20000000.0
+Lucas Hernández,Bayern Munich,D,24,France,germany,2021,288462.0,15000000.0
+Leroy Sané,Bayern Munich,F,24,Germany,germany,2021,288462.0,15000000.0
+Jérôme Boateng,Bayern Munich,D,32,Germany,germany,2021,230769.0,12000000.0
+Marco Reus,Borussia Dortmund,F,31,Germany,germany,2021,230769.0,12000000.0
+Alphonso Davies,Bayern Munich,D,19,Canada,germany,2021,216346.0,11250000.0
+Douglas Costa,Bayern Munich,F,30,Brazil,germany,2021,201923.0,10500000.0
+David Alaba,Bayern Munich,D,28,Austria,germany,2021,192308.0,10000000.0
+Mats Hummels,Borussia Dortmund,D,31,Germany,germany,2021,192308.0,10000000.0
+Leon Goretzka,Bayern Munich,M,25,Germany,germany,2021,192308.0,10000000.0
+Emre Can,Borussia Dortmund,M,26,Germany,germany,2021,163462.0,8500000.0
+Serge Gnabry,Bayern Munich,F,25,Germany,germany,2021,153846.0,8000000.0
+Kingsley Coman,Bayern Munich,F,24,France,germany,2021,153846.0,8000000.0
+Axel Witsel,Borussia Dortmund,M,31,Belgium,germany,2021,153846.0,8000000.0
+Erling Haaland,Borussia Dortmund,F,20,Norway,germany,2021,151923.0,7900000.0
+Joshua Kimmich,Bayern Munich,M,25,Germany,germany,2021,151923.0,7900000.0
+Thomas Meunier,Borussia Dortmund,D,29,Belgium,germany,2021,144231.0,7500000.0
+Julian Brandt,Borussia Dortmund,M,24,Germany,germany,2021,134615.0,7000000.0
+Corentin Tolisso,Bayern Munich,M,26,France,germany,2021,134615.0,7000000.0
+Niklas Süle,Bayern Munich,D,25,Germany,germany,2021,134615.0,7000000.0
+Emil Forsberg,Leipzig,F,28,Sweden,germany,2021,126923.0,6600000.0
+Javi Martínez,Bayern Munich,M,32,Spain,germany,2021,115385.0,6000000.0
+Sead Kolasinac,Schalke 04,D,27,Bosnia-Herzegovina,germany,2021,111154.0,5780000.0
+Krzysztof Piatek,Hertha Berlin,F,25,Poland,germany,2021,108846.0,5660000.0
+Péter Gulácsi,Leipzig,K,30,Hungary,germany,2021,107692.0,5600000.0
+Nabil Bentaleb,Schalke 04,M,25,Algeria,germany,2021,107692.0,5600000.0
+Maximilian Arnold,Wolfsburg,M,26,Germany,germany,2021,105769.0,5500000.0
+Raphaël Guerreiro,Borussia Dortmund,M,26,Portugal,germany,2021,105769.0,5500000.0
+Omar Mascarell,Schalke 04,M,27,Spain,germany,2021,100000.0,5200000.0
+Lukas Klostermann,Leipzig,D,24,Germany,germany,2021,100000.0,5200000.0
+Jamal Musiala,Bayern Munich,F,17,England,germany,2021,96154.0,5000000.0
+Alexander Nübel,Bayern Munich,K,24,Germany,germany,2021,96154.0,5000000.0
+Thorgan Hazard,Borussia Dortmund,F,27,Belgium,germany,2021,96154.0,5000000.0
+Benjamin Pavard,Bayern Munich,D,24,France,germany,2021,96154.0,5000000.0
+Thomas Delaney,Borussia Dortmund,M,29,Denmark,germany,2021,96154.0,5000000.0
+Nico Schulz,Borussia Dortmund,D,27,Germany,germany,2021,96154.0,5000000.0
+Karim Bellarabi,Bayer Leverkusen,F,30,Germany,germany,2021,94231.0,4900000.0
+Marcel Sabitzer,Leipzig,F,26,Austria,germany,2021,86538.0,4500000.0
+Dominik Szoboszlai,Leipzig,M,20,Hungary,germany,2021,80769.0,4200000.0
+Willi Orban,Leipzig,D,27,Hungary,germany,2021,80769.0,4200000.0
+Breel Embolo,Monchengladbach,F,23,Switzerland,germany,2021,80769.0,4200000.0
+Dani Olmo,Leipzig,F,22,Spain,germany,2021,80769.0,4200000.0
+Maximilian Philipp,Wolfsburg,F,26,Germany,germany,2021,76923.0,4000000.0
+Yussuf Poulsen,Leipzig,F,26,Denmark,germany,2021,76923.0,4000000.0
+Mahmoud Dahoud,Borussia Dortmund,M,24,Germany,germany,2021,76923.0,4000000.0
+Matija Nastasic,Schalke 04,D,27,Serbia,germany,2021,76923.0,4000000.0
+Mark Uth,Schalke 04,F,29,Germany,germany,2021,76923.0,4000000.0
+Yann Sommer,Monchengladbach,K,31,Switzerland,germany,2021,76923.0,4000000.0
+Koen Casteels,Wolfsburg,K,28,Belgium,germany,2021,76923.0,4000000.0
+John Anthony Brooks,Wolfsburg,D,27,United States,germany,2021,75962.0,3950000.0
+Diadié Samassékou,Hoffenheim,M,24,Mali,germany,2021,75000.0,3900000.0
+Sebastian Rudy,Hoffenheim,M,30,Germany,germany,2021,73846.0,3840000.0
+Benjamin Henrichs,Leipzig,D,23,Germany,germany,2021,73077.0,3800000.0
+Klaas-Jan Huntelaar,Schalke 04,F,37,Netherlands,germany,2021,73077.0,3800000.0
+Charles Aránguiz,Bayer Leverkusen,M,31,Chile,germany,2021,72692.0,3780000.0
+Sami Khedira,Hertha Berlin,M,33,Germany,germany,2021,72692.0,3780000.0
+Luka Jovic,Eintracht Frankfurt,F,23,Serbia,germany,2021,72500.0,3770000.0
+André Silva,Eintracht Frankfurt,F,24,Portugal,germany,2021,71154.0,3700000.0
+Yannick Gerhardt,Wolfsburg,M,26,Germany,germany,2021,69231.0,3600000.0
+Lukasz Piszczek,Borussia Dortmund,D,35,Poland,germany,2021,69231.0,3600000.0
+Aleksandar Dragovic,Bayer Leverkusen,D,29,Austria,germany,2021,69231.0,3600000.0
+Marcel Schmelzer,Borussia Dortmund,D,32,Germany,germany,2021,69231.0,3600000.0
+Kevin Trapp,Eintracht Frankfurt,K,30,Germany,germany,2021,67308.0,3500000.0
+Munas Dabbur,Hoffenheim,F,28,Israel,germany,2021,67308.0,3500000.0
+Timo Horn,Koln,K,27,Germany,germany,2021,67308.0,3500000.0
+Ömer Toprak,Werder Bremen,D,31,Turkey,germany,2021,67308.0,3500000.0
+Amadou Haidara,Leipzig,M,22,Mali,germany,2021,67308.0,3500000.0
+Kevin Kampl,Leipzig,M,30,Slovenia,germany,2021,67308.0,3500000.0
+Jonas Hector,Koln,M,30,Germany,germany,2021,67308.0,3500000.0
+Eric Maxim Choupo-Moting,Bayern Munich,F,32,Cameroon,germany,2021,67308.0,3500000.0
+Angeliño,Leipzig,D,23,Spain,germany,2021,67308.0,3500000.0
+Salif Sané,Schalke 04,D,30,Senegal,germany,2021,65769.0,3420000.0
+Gonzalo Castro,Stuttgart,M,33,Germany,germany,2021,65385.0,3400000.0
+Patrik Schick,Bayer Leverkusen,F,24,Czech Republic,germany,2021,65385.0,3400000.0
+Yunus Malli,Wolfsburg,F,28,Turkey,germany,2021,65385.0,3400000.0
+Marius Wolf,Koln,F,25,Germany,germany,2021,63462.0,3300000.0
+Josuha Guilavogui,Wolfsburg,M,30,France,germany,2021,63462.0,3300000.0
+Jude Bellingham,Borussia Dortmund,M,17,England,germany,2021,62308.0,3240000.0
+Jadon Sancho,Borussia Dortmund,F,20,England,germany,2021,61538.0,3200000.0
+Daniel Ginczek,Wolfsburg,F,29,Germany,germany,2021,61538.0,3200000.0
+Marcus Thuram,Monchengladbach,F,23,France,germany,2021,61538.0,3200000.0
+Kerem Demirbay,Bayer Leverkusen,M,27,Germany,germany,2021,61538.0,3200000.0
+Alexander Sörloth,Leipzig,F,24,Norway,germany,2021,60385.0,3140000.0
+Matthias Ginter,Monchengladbach,D,26,Germany,germany,2021,59615.0,3100000.0
+Amine Harit,Schalke 04,F,23,Morocco,germany,2021,59615.0,3100000.0
+Kevin Mbabu,Wolfsburg,D,25,Switzerland,germany,2021,59615.0,3100000.0
+Alassane Plea,Monchengladbach,F,27,France,germany,2021,59615.0,3100000.0
+Xaver Schlager,Wolfsburg,M,23,Austria,germany,2021,57692.0,3000000.0
+Wout Weghorst,Wolfsburg,F,28,Netherlands,germany,2021,57692.0,3000000.0
+Jérôme Roussillon,Wolfsburg,D,27,France,germany,2021,57692.0,3000000.0
+Christoph Kramer,Monchengladbach,M,29,Germany,germany,2021,57692.0,3000000.0
+Roman Bürki,Borussia Dortmund,K,29,Switzerland,germany,2021,57692.0,3000000.0
+Marcel Halstenberg,Leipzig,D,29,Germany,germany,2021,57692.0,3000000.0
+Filip Kostic,Eintracht Frankfurt,M,27,Serbia,germany,2021,57692.0,3000000.0
+Konrad Laimer,Leipzig,M,23,Austria,germany,2021,57692.0,3000000.0
+Justin Kluivert,Leipzig,F,21,Netherlands,germany,2021,57692.0,3000000.0
+Oliver Baumann,Hoffenheim,K,30,Germany,germany,2021,57692.0,3000000.0
+Lucas Alario,Bayer Leverkusen,F,28,Argentina,germany,2021,56923.0,2960000.0
+Nadiem Amiri,Bayer Leverkusen,F,23,Germany,germany,2021,54423.0,2830000.0
+Ralf Fährmann,Schalke 04,K,32,Germany,germany,2021,53846.0,2800000.0
+Lars Stindl,Monchengladbach,F,32,Germany,germany,2021,53846.0,2800000.0
+Marc Roca,Bayern Munich,M,23,Spain,germany,2021,53846.0,2800000.0
+Mattéo Guendouzi,Hertha Berlin,M,21,France,germany,2021,53846.0,2800000.0
+Admir Mehmedi,Wolfsburg,F,29,Switzerland,germany,2021,53846.0,2800000.0
+Ryan Sessegnon,Hoffenheim,D,20,England,germany,2021,53846.0,2800000.0
+Bas Dost,Eintracht Frankfurt,F,31,Netherlands,germany,2021,52692.0,2740000.0
+Martin Hinteregger,Eintracht Frankfurt,D,28,Austria,germany,2021,50577.0,2630000.0
+Lucas Tousart,Hertha Berlin,M,23,France,germany,2021,50000.0,2600000.0
+Shkodran Mustafi,Schalke 04,D,28,Germany,germany,2021,50000.0,2600000.0
+Sven Bender,Bayer Leverkusen,D,31,Germany,germany,2021,50000.0,2600000.0
+Nordi Mukiele,Leipzig,D,22,France,germany,2021,50000.0,2600000.0
+Florian Grillitsch,Hoffenheim,M,25,Austria,germany,2021,50000.0,2600000.0
+Leonardo Bittencourt,Werder Bremen,F,26,Germany,germany,2021,48077.0,2500000.0
+Ibrahima Traoré,Monchengladbach,F,32,Guinea,germany,2021,48077.0,2500000.0
+Florian Neuhaus,Monchengladbach,M,23,Germany,germany,2021,48077.0,2500000.0
+Jonas Hofmann,Monchengladbach,M,28,Germany,germany,2021,48077.0,2500000.0
+Demarai Gray,Bayer Leverkusen,F,24,England,germany,2021,48077.0,2500000.0
+Dodi Lukebakio,Hertha Berlin,F,23,Belgium,germany,2021,48077.0,2500000.0
+Giovanni Reyna,Borussia Dortmund,F,17,United States,germany,2021,48077.0,2500000.0
+Nico Elvedi,Monchengladbach,D,24,Switzerland,germany,2021,48077.0,2500000.0
+Manuel Akanji,Borussia Dortmund,D,25,Switzerland,germany,2021,48077.0,2500000.0
+Ellyes Skhiri,Koln,M,25,Tunisia,germany,2021,48077.0,2500000.0
+Marin Pongracic,Wolfsburg,D,23,Croatia,germany,2021,48077.0,2500000.0
+Sebastian Andersson,Koln,F,29,Sweden,germany,2021,48077.0,2500000.0
+Jeffrey Bruma,Wolfsburg,D,28,Netherlands,germany,2021,48077.0,2500000.0
+Sebastian Rode,Eintracht Frankfurt,M,30,Germany,germany,2021,48077.0,2500000.0
+Dayot Upamecano,Leipzig,D,21,France,germany,2021,48077.0,2500000.0
+Niclas Füllkrug,Werder Bremen,F,27,Germany,germany,2021,48077.0,2500000.0
+Jiri Pavlenka,Werder Bremen,K,28,Czech Republic,germany,2021,48077.0,2500000.0
+Benito Raman,Schalke 04,F,25,Belgium,germany,2021,47115.0,2450000.0
+Dedryck Boyata,Hertha Berlin,D,29,Belgium,germany,2021,46154.0,2400000.0
+Lukas Hradecky,Bayer Leverkusen,K,30,Finland,germany,2021,46154.0,2400000.0
+Amin Younes,Eintracht Frankfurt,F,27,Germany,germany,2021,46154.0,2400000.0
+Valentino Lazaro,Monchengladbach,M,24,Austria,germany,2021,46154.0,2400000.0
+Vladimir Darida,Hertha Berlin,M,30,Czech Republic,germany,2021,46154.0,2400000.0
+Stefan Lainer,Monchengladbach,D,28,Austria,germany,2021,44231.0,2300000.0
+Julian Baumgartlinger,Bayer Leverkusen,M,32,Austria,germany,2021,44231.0,2300000.0
+Bastian Oczipka,Schalke 04,D,31,Germany,germany,2021,44231.0,2300000.0
+Moussa Diaby,Bayer Leverkusen,F,21,France,germany,2021,43462.0,2260000.0
+Edmond Tapsoba,Bayer Leverkusen,D,21,Burkina Faso,germany,2021,43462.0,2260000.0
+Marwin Hitz,Borussia Dortmund,K,33,Switzerland,germany,2021,42308.0,2200000.0
+Leon Bailey,Bayer Leverkusen,F,23,Jamaica,germany,2021,40385.0,2100000.0
+Denis Zakaria,Monchengladbach,M,23,Switzerland,germany,2021,40385.0,2100000.0
+Lars Bender,Bayer Leverkusen,D,31,Germany,germany,2021,40385.0,2100000.0
+Daniel Didavi,Stuttgart,F,30,Germany,germany,2021,40385.0,2100000.0
+Daniel Caligiuri,Augsburg,M,32,Italy,germany,2021,40385.0,2100000.0
+Alessandro Schöpf,Schalke 04,M,26,Austria,germany,2021,40385.0,2100000.0
+Rune Jarstein,Hertha Berlin,K,36,Norway,germany,2021,40000.0,2080000.0
+Djibril Sow,Eintracht Frankfurt,M,23,Switzerland,germany,2021,39808.0,2070000.0
+Ludwig Augustinsson,Werder Bremen,D,26,Sweden,germany,2021,39808.0,2070000.0
+Ramy Bensebaini,Monchengladbach,D,25,Algeria,germany,2021,38462.0,2000000.0
+Milot Rashica,Werder Bremen,F,24,Kosovo,germany,2021,38462.0,2000000.0
+Tanguy Nianzou,Bayern Munich,D,18,France,germany,2021,38462.0,2000000.0
+Daichi Kamada,Eintracht Frankfurt,F,24,Japan,germany,2021,38462.0,2000000.0
+Ihlas Bebou,Hoffenheim,F,26,Togo,germany,2021,38462.0,2000000.0
+Andrej Kramaric,Hoffenheim,F,29,Croatia,germany,2021,38462.0,2000000.0
+Patrick Herrmann,Monchengladbach,F,29,Germany,germany,2021,38462.0,2000000.0
+Aarón Martín,Mainz,D,23,Spain,germany,2021,38462.0,2000000.0
+Niklas Moisander,Werder Bremen,D,35,Finland,germany,2021,38462.0,2000000.0
+Ozan Kabak,Schalke 04,D,20,Turkey,germany,2021,38462.0,2000000.0
+Jean-Philippe Mateta,Mainz,F,23,France,germany,2021,36538.0,1900000.0
+Benjamin Stambouli,Schalke 04,D,30,France,germany,2021,36538.0,1900000.0
+Vedad Ibisevic,Schalke 04,F,36,Bosnia-Herzegovina,germany,2021,36538.0,1900000.0
+William,Schalke 04,D,25,Brazil,germany,2021,36538.0,1900000.0
+William,Wolfsburg,D,25,Brazil,germany,2021,36538.0,1900000.0
+Tin Jedvaj,Bayer Leverkusen,D,24,Croatia,germany,2021,36538.0,1900000.0
+Bouna Sarr,Bayern Munich,D,28,France,germany,2021,36538.0,1900000.0
+Santiago Arias,Bayer Leverkusen,D,28,Colombia,germany,2021,36538.0,1900000.0
+Josip Brekalo,Wolfsburg,F,22,Croatia,germany,2021,36346.0,1890000.0
+Robert Skov,Hoffenheim,F,24,Denmark,germany,2021,34615.0,1800000.0
+Ridle Baku,Wolfsburg,D,22,Germany,germany,2021,34615.0,1800000.0
+Stefan Bell,Mainz,D,29,Germany,germany,2021,34615.0,1800000.0
+Almamy Touré,Eintracht Frankfurt,D,24,France,germany,2021,34615.0,1800000.0
+Dominik Kohr,Mainz,M,27,Germany,germany,2021,34615.0,1800000.0
+Yuya Osako,Werder Bremen,F,30,Japan,germany,2021,34615.0,1800000.0
+Jetro Willems,Eintracht Frankfurt,D,26,Netherlands,germany,2021,34615.0,1800000.0
+Exequiel Palacios,Bayer Leverkusen,M,22,Argentina,germany,2021,32692.0,1700000.0
+Havard Nordtveit,Hoffenheim,D,30,Norway,germany,2021,32692.0,1700000.0
+Michael Lang,Monchengladbach,D,29,Switzerland,germany,2021,32692.0,1700000.0
+Edimilson Fernandes,Mainz,M,24,Switzerland,germany,2021,32692.0,1700000.0
+Pavel Kaderabek,Hoffenheim,D,28,Czech Republic,germany,2021,32692.0,1700000.0
+Suat Serdar,Schalke 04,M,23,Germany,germany,2021,32692.0,1700000.0
+Leandro Barreiro Martins,Mainz,M,20,Luxembourg,germany,2021,32308.0,1680000.0
+Dominik Kohr,Eintracht Frankfurt,M,26,Germany,germany,2021,30769.0,1600000.0
+André Hahn,Augsburg,F,30,Germany,germany,2021,30769.0,1600000.0
+Carlos Gruezo,Augsburg,M,25,Ecuador,germany,2021,30769.0,1600000.0
+Santiago Ascacíbar,Hertha Berlin,M,23,Argentina,germany,2021,30769.0,1600000.0
+Christian Clemens,Koln,M,29,Germany,germany,2021,28846.0,1500000.0
+Jonathan Burkardt,Mainz,F,20,Germany,germany,2021,28846.0,1500000.0
+Jeffrey Gouweleeuw,Augsburg,D,29,Netherlands,germany,2021,28846.0,1500000.0
+Mitchell Weiser,Bayer Leverkusen,D,26,Germany,germany,2021,28846.0,1500000.0
+Davie Selke,Werder Bremen,F,25,Germany,germany,2021,28846.0,1500000.0
+Matheus Cunha,Hertha Berlin,F,21,Brazil,germany,2021,28846.0,1500000.0
+Robin Knoche,Union Berlin,D,28,Germany,germany,2021,28846.0,1500000.0
+Florian Niederlechner,Augsburg,F,29,Germany,germany,2021,28846.0,1500000.0
+Marvin Plattenhardt,Hertha Berlin,D,28,Germany,germany,2021,28846.0,1500000.0
+Felix Klaus,Wolfsburg,F,28,Germany,germany,2021,28846.0,1500000.0
+Theodor Gebre Selassie,Werder Bremen,D,33,Czech Republic,germany,2021,28846.0,1500000.0
+Ermin Bicakcic,Hoffenheim,D,30,Bosnia-Herzegovina,germany,2021,28846.0,1500000.0
+Tony Jantschke,Monchengladbach,D,30,Germany,germany,2021,28846.0,1500000.0
+Christoph Baumgartner,Hoffenheim,F,21,Austria,germany,2021,28846.0,1500000.0
+Christopher Trimmel,Union Berlin,D,33,Austria,germany,2021,28846.0,1500000.0
+Jonathan Tah,Bayer Leverkusen,D,24,Germany,germany,2021,28846.0,1500000.0
+Florian Wirtz,Bayer Leverkusen,F,17,Germany,germany,2021,28846.0,1500000.0
+Frederik Sörensen,Koln,D,28,Denmark,germany,2021,26923.0,1400000.0
+Stefan Ilsanker,Eintracht Frankfurt,M,31,Austria,germany,2021,26923.0,1400000.0
+Erik Durm,Eintracht Frankfurt,D,28,Germany,germany,2021,26923.0,1400000.0
+Jeremie Frimpong,Bayer Leverkusen,D,20,Netherlands,germany,2021,25385.0,1320000.0
+Loris Karius,Union Berlin,K,27,Germany,germany,2021,25000.0,1300000.0
+Paulinho,Bayer Leverkusen,F,20,Brazil,germany,2021,25000.0,1300000.0
+Timothy Fosu-Mensah,Bayer Leverkusen,D,23,Netherlands,germany,2021,25000.0,1300000.0
+David Abraham,Eintracht Frankfurt,D,34,Argentina,germany,2021,25000.0,1300000.0
+Eduard Löwen,Hertha Berlin,M,23,Germany,germany,2021,25000.0,1300000.0
+Ishak Belfodil,Hoffenheim,F,28,Algeria,germany,2021,25000.0,1300000.0
+Marco Höger,Koln,M,31,Germany,germany,2021,25000.0,1300000.0
+Danny Latza,Mainz,M,30,Germany,germany,2021,25000.0,1300000.0
+Oscar Wendt,Monchengladbach,D,34,Sweden,germany,2021,25000.0,1300000.0
+Daley Sinkgraven,Bayer Leverkusen,D,25,Netherlands,germany,2021,23462.0,1220000.0
+Kevin Vogt,Hoffenheim,D,29,Germany,germany,2021,23077.0,1200000.0
+Evan N'Dicka,Eintracht Frankfurt,D,21,France,germany,2021,23077.0,1200000.0
+Renato Steffen,Wolfsburg,F,28,Switzerland,germany,2021,23077.0,1200000.0
+Makoto Hasebe,Eintracht Frankfurt,M,36,Japan,germany,2021,23077.0,1200000.0
+Jhon Córdoba,Hertha Berlin,F,27,Colombia,germany,2021,23077.0,1200000.0
+Timothy Chandler,Eintracht Frankfurt,D,30,United States,germany,2021,23077.0,1200000.0
+Niklas Stark,Hertha Berlin,D,25,Germany,germany,2021,23077.0,1200000.0
+Omar Marmoush,Wolfsburg,F,21,Egypt,germany,2021,23077.0,1200000.0
+Omar Alderete,Hertha Berlin,D,23,Paraguay,germany,2021,23077.0,1200000.0
+Frederik Rönnow,Schalke 04,K,28,Denmark,germany,2021,23077.0,1200000.0
+Gonçalo Paciência,Schalke 04,F,26,Portugal,germany,2021,23077.0,1200000.0
+Jorge Meré,Koln,D,23,Spain,germany,2021,23077.0,1200000.0
+João Victor,Wolfsburg,F,26,Brazil,germany,2021,23077.0,1200000.0
+Ádám Szalai,Mainz,F,32,Hungary,germany,2021,23077.0,1200000.0
+Florian Kainz,Koln,F,27,Austria,germany,2021,23077.0,1200000.0
+Benno Schmitz,Koln,D,25,Germany,germany,2021,23077.0,1200000.0
+Paulo Otávio,Wolfsburg,D,25,Brazil,germany,2021,22115.0,1150000.0
+Max Kruse,Union Berlin,F,32,Germany,germany,2021,21154.0,1100000.0
+Lászlo Bénes,Augsburg,M,23,Slovakia,germany,2021,21154.0,1100000.0
+Baptiste Santamaria,Freiburg,M,25,France,germany,2021,21154.0,1100000.0
+Lászlo Bénes,Monchengladbach,M,23,Slovakia,germany,2021,21154.0,1100000.0
+Alfred Finnbogason,Augsburg,F,31,Iceland,germany,2021,21154.0,1100000.0
+Ondrej Duda,Koln,F,25,Slovakia,germany,2021,21154.0,1100000.0
+Erik Thommy,Stuttgart,M,26,Germany,germany,2021,21154.0,1100000.0
+Guus Til,Freiburg,F,22,Netherlands,germany,2021,21154.0,1100000.0
+Christian Günter,Freiburg,D,27,Germany,germany,2021,19615.0,1020000.0
+Marc Oliver Kempf,Stuttgart,D,25,Germany,germany,2021,19423.0,1010000.0
+Tyler Adams,Leipzig,M,21,United States,germany,2021,19231.0,1000000.0
+Michel Vlap,Arminia Bielefeld,F,23,Netherlands,germany,2021,19231.0,1000000.0
+Kevin Möhwald,Werder Bremen,M,27,Germany,germany,2021,19231.0,1000000.0
+Stefan Posch,Hoffenheim,D,23,Austria,germany,2021,19231.0,1000000.0
+Dominick Drexler,Koln,F,30,Germany,germany,2021,19231.0,1000000.0
+Arne Maier,Arminia Bielefeld,M,21,Germany,germany,2021,19231.0,1000000.0
+Iago,Augsburg,D,23,Brazil,germany,2021,19231.0,1000000.0
+Michael Gregoritsch,Augsburg,F,26,Austria,germany,2021,19231.0,1000000.0
+Tobias Strobl,Augsburg,M,30,Germany,germany,2021,19231.0,1000000.0
+Christopher Nkunku,Leipzig,F,22,France,germany,2021,19231.0,1000000.0
+Tomas Koubek,Augsburg,K,28,Czech Republic,germany,2021,19231.0,1000000.0
+Wendell,Bayer Leverkusen,D,27,Brazil,germany,2021,19231.0,1000000.0
+Hee-chan Hwang,Leipzig,F,24,South Korea,germany,2021,19231.0,1000000.0
+Ibrahima Konaté,Leipzig,D,21,France,germany,2021,19231.0,1000000.0
+Maximilian Mittelstädt,Hertha Berlin,D,23,Germany,germany,2021,19038.0,990000.0
+Kasim Adams,Hoffenheim,D,25,Ghana,germany,2021,18846.0,980000.0
+Mateu Morey Bauzà,Borussia Dortmund,D,20,Spain,germany,2021,18846.0,980000.0
+Jannes Horn,Koln,D,23,Germany,germany,2021,18654.0,970000.0
+Joshua Brenet,Hoffenheim,D,26,Netherlands,germany,2021,18654.0,970000.0
+Jeremiah St. Juste,Mainz,D,24,Netherlands,germany,2021,18462.0,960000.0
+Kingsley Ehizibue,Koln,D,25,Nigeria,germany,2021,18462.0,960000.0
+Dominique Heintz,Freiburg,D,27,Germany,germany,2021,18462.0,960000.0
+Vincenzo Grifo,Freiburg,F,27,Italy,germany,2021,18269.0,950000.0
+Nemanja Radonjic,Hertha Berlin,F,24,Serbia,germany,2021,18077.0,940000.0
+Joel Pohjanpalo,Union Berlin,F,26,Finland,germany,2021,18077.0,940000.0
+Orel Mangala,Stuttgart,M,22,Belgium,germany,2021,18077.0,940000.0
+Steven Zuber,Eintracht Frankfurt,M,29,Switzerland,germany,2021,17885.0,930000.0
+Rabbi Matondo,Schalke 04,F,20,Wales,germany,2021,17692.0,920000.0
+Milos Veljkovic,Werder Bremen,D,25,Serbia,germany,2021,17692.0,920000.0
+Tahith Chong,Werder Bremen,F,20,Netherlands,germany,2021,17500.0,910000.0
+Nicolás González,Stuttgart,F,22,Argentina,germany,2021,17308.0,900000.0
+Nicolas Höfler,Freiburg,M,30,Germany,germany,2021,17308.0,900000.0
+Felix Passlack,Borussia Dortmund,D,22,Germany,germany,2021,17115.0,890000.0
+Alexander Schwolow,Hertha Berlin,K,28,Germany,germany,2021,16923.0,880000.0
+Benjamin Hübner,Hoffenheim,D,31,Germany,germany,2021,16923.0,880000.0
+Kevin Akpoguma,Hoffenheim,D,25,Nigeria,germany,2021,16731.0,870000.0
+Florian Hübner,Union Berlin,D,29,Germany,germany,2021,16538.0,860000.0
+Marek Suchy,Augsburg,D,32,Czech Republic,germany,2021,16538.0,860000.0
+Amir Abrashi,Freiburg,M,30,Albania,germany,2021,16346.0,850000.0
+Sebastiaan Bornauw,Koln,D,21,Belgium,germany,2021,16154.0,840000.0
+Dong-won Ji,Mainz,F,29,South Korea,germany,2021,15962.0,830000.0
+Mijat Gacinovic,Hoffenheim,F,25,Serbia,germany,2021,15769.0,820000.0
+Marcus Ingvartsen,Union Berlin,F,24,Denmark,germany,2021,15769.0,820000.0
+Jonathan Schmid,Freiburg,D,30,France,germany,2021,15577.0,810000.0
+Felix Uduokhai,Augsburg,D,23,Germany,germany,2021,15385.0,800000.0
+Elvis Rexhbecaj,Koln,M,22,Germany,germany,2021,15385.0,800000.0
+Dennis Geiger,Hoffenheim,M,22,Germany,germany,2021,15385.0,800000.0
+Danny da Costa,Eintracht Frankfurt,D,27,Germany,germany,2021,15000.0,780000.0
+Sasa Kalajdzic,Stuttgart,F,23,Austria,germany,2021,15000.0,780000.0
+Maximilian Eggestein,Werder Bremen,M,23,Germany,germany,2021,15000.0,780000.0
+Christian Groß,Werder Bremen,D,31,Germany,germany,2021,15000.0,780000.0
+Danny da Costa,Mainz,M,27,Germany,germany,2021,15000.0,780000.0
+Pavao Pervan,Wolfsburg,K,32,Austria,germany,2021,15000.0,780000.0
+Levin Öztunali,Mainz,M,24,Germany,germany,2021,15000.0,780000.0
+Josh Sargent,Werder Bremen,F,20,United States,germany,2021,14808.0,770000.0
+Daniel Brosinski,Mainz,D,32,Germany,germany,2021,14808.0,770000.0
+Philipp Förster,Stuttgart,F,25,Germany,germany,2021,14808.0,770000.0
+Jordan Torunarigha,Hertha Berlin,D,23,Germany,germany,2021,14808.0,770000.0
+Moussa Niakhaté,Mainz,D,24,France,germany,2021,14615.0,760000.0
+Konstantinos Mavropanos,Stuttgart,D,22,Greece,germany,2021,14615.0,760000.0
+Waldemar Anton,Stuttgart,D,24,Germany,germany,2021,14423.0,750000.0
+Nils Petersen,Freiburg,F,31,Germany,germany,2021,14423.0,750000.0
+Gregor Kobel,Stuttgart,K,22,Switzerland,germany,2021,14231.0,740000.0
+Mike van der Hoorn,Arminia Bielefeld,D,28,Netherlands,germany,2021,14231.0,740000.0
+Janik Haberer,Freiburg,M,26,Germany,germany,2021,14231.0,740000.0
+Ron-Robert Zieler,Koln,K,31,Germany,germany,2021,14231.0,740000.0
+Peter Pekarik,Hertha Berlin,D,33,Slovakia,germany,2021,14231.0,740000.0
+Salih Özcan,Koln,M,22,Germany,germany,2021,14038.0,730000.0
+Lukas Klünter,Hertha Berlin,D,24,Germany,germany,2021,14038.0,730000.0
+Rafael Czichos,Koln,D,30,Germany,germany,2021,14038.0,730000.0
+Akaki Gogia,Union Berlin,F,28,Germany,germany,2021,14038.0,730000.0
+Grischa Prömel,Union Berlin,M,25,Germany,germany,2021,13846.0,720000.0
+Roland Sallai,Freiburg,F,23,Hungary,germany,2021,13846.0,720000.0
+Jan Thielmann,Koln,F,18,Germany,germany,2021,13846.0,720000.0
+Pascal Stenzel,Stuttgart,D,24,Germany,germany,2021,13654.0,710000.0
+Reece Oxford,Augsburg,M,21,England,germany,2021,13462.0,700000.0
+Mathew Leckie,Hertha Berlin,F,29,Australia,germany,2021,13269.0,690000.0
+Robert Glatzel,Mainz,F,27,Germany,germany,2021,13269.0,690000.0
+Robin Quaison,Mainz,F,27,Sweden,germany,2021,13077.0,680000.0
+Hamza Mendyl,Schalke 04,D,23,Morocco,germany,2021,13077.0,680000.0
+Philipp Lienhart,Freiburg,D,24,Austria,germany,2021,13077.0,680000.0
+Christian Gentner,Union Berlin,M,35,Germany,germany,2021,13077.0,680000.0
+Jean-Paul Boëtius,Mainz,F,26,Netherlands,germany,2021,12885.0,670000.0
+Sargis Adamyan,Hoffenheim,F,27,Armenia,germany,2021,12885.0,670000.0
+Wataru Endo,Stuttgart,M,27,Japan,germany,2021,12692.0,660000.0
+Konstantinos Stafylidis,Hoffenheim,D,26,Greece,germany,2021,12692.0,660000.0
+Kevin Stöger,Mainz,F,27,Austria,germany,2021,12692.0,660000.0
+Philipp Klement,Stuttgart,F,28,Germany,germany,2021,12500.0,650000.0
+Borna Sosa,Stuttgart,D,22,Croatia,germany,2021,12308.0,640000.0
+Anthony Ujah,Union Berlin,F,30,Nigeria,germany,2021,11923.0,620000.0
+Chang-hoon Kwon,Freiburg,F,26,South Korea,germany,2021,11923.0,620000.0
+Pierre Kunde Malong,Mainz,M,25,Cameroon,germany,2021,11538.0,600000.0
+Felix Agu,Werder Bremen,D,21,Germany,germany,2021,11538.0,600000.0
+Tobias Sippel,Monchengladbach,K,32,Germany,germany,2021,11538.0,600000.0
+Georginio Rutter,Hoffenheim,F,18,France,germany,2021,11538.0,600000.0
+Alexander Hack,Mainz,D,27,Germany,germany,2021,11538.0,600000.0
+Deyovaisio Zeefuik,Hertha Berlin,D,22,Netherlands,germany,2021,11538.0,600000.0
+Reinier,Borussia Dortmund,F,18,Brazil,germany,2021,11538.0,600000.0
+Niko Gießelmann,Union Berlin,D,29,Germany,germany,2021,11538.0,600000.0
+Dimitrios Limnios,Koln,F,22,Greece,germany,2021,11538.0,600000.0
+Matthew Hoppe,Schalke 04,F,20,United States,germany,2021,11538.0,600000.0
+Benjamin Uphoff,Freiburg,K,27,Germany,germany,2021,11538.0,600000.0
+Hannes Wolf,Monchengladbach,F,21,Austria,germany,2021,11538.0,600000.0
+Karim Onisiwo,Mainz,F,28,Austria,germany,2021,11346.0,590000.0
+Julian Schieber,Augsburg,F,31,Germany,germany,2021,11154.0,580000.0
+Marco Friedl,Werder Bremen,D,22,Austria,germany,2021,11154.0,580000.0
+Marvin Friedrich,Union Berlin,D,24,Germany,germany,2021,10962.0,570000.0
+Marius Bülter,Union Berlin,F,27,Germany,germany,2021,10962.0,570000.0
+Raphael Framberger,Augsburg,D,25,Germany,germany,2021,10962.0,570000.0
+Silas Katompa Mvumpa,Stuttgart,F,21,Democratic Republic of the Congo,germany,2021,10769.0,560000.0
+Stefanos Kapino,Werder Bremen,K,26,Greece,germany,2021,10769.0,560000.0
+Phillipp Mwene,Mainz,D,26,Austria,germany,2021,10577.0,550000.0
+Petar Musa,Union Berlin,F,22,Croatia,germany,2021,10577.0,550000.0
+Marcin Kaminski,Stuttgart,D,28,Poland,germany,2021,10577.0,550000.0
+Ruben Vargas,Augsburg,F,22,Switzerland,germany,2021,10577.0,550000.0
+Rafal Gikiewicz,Augsburg,K,32,Poland,germany,2021,10385.0,540000.0
+Steven Skrzybski,Schalke 04,F,27,Germany,germany,2021,10385.0,540000.0
+Julian Ryerson,Union Berlin,D,22,Norway,germany,2021,10385.0,540000.0
+Sergio Córdova,Arminia Bielefeld,F,23,Venezuela,germany,2021,10385.0,540000.0
+Mamadou Doucouré,Monchengladbach,D,22,France,germany,2021,10385.0,540000.0
+Keven Schlotterbeck,Freiburg,D,23,Germany,germany,2021,10385.0,540000.0
+Philipp Tschauner,Leipzig,K,34,Germany,germany,2021,10192.0,530000.0
+Jan Morávek,Augsburg,M,30,Czech Republic,germany,2021,10192.0,530000.0
+Noah Sarenren Bazee,Augsburg,F,24,Nigeria,germany,2021,10000.0,520000.0
+Javairô Dilrosun,Hertha Berlin,F,22,Netherlands,germany,2021,10000.0,520000.0
+Lucas Höler,Freiburg,F,26,Germany,germany,2021,10000.0,520000.0
+Sheraldo Becker,Union Berlin,F,25,Netherlands,germany,2021,10000.0,520000.0
+Rani Khedira,Augsburg,M,26,Germany,germany,2021,10000.0,520000.0
+Robin Zentner,Mainz,K,25,Germany,germany,2021,10000.0,520000.0
+Nassim Boujellab,Schalke 04,M,21,Morocco,germany,2021,10000.0,520000.0
+Cedric Teuchert,Union Berlin,F,23,Germany,germany,2021,9808.0,510000.0
+Luca Schuler,Schalke 04,F,21,Germany,germany,2021,9615.0,500000.0
+Daishawn Redan,Hertha Berlin,F,20,Netherlands,germany,2021,9615.0,500000.0
+Taiwo Awoniyi,Union Berlin,F,23,Nigeria,germany,2021,9423.0,490000.0
+Fabian Bredlow,Stuttgart,K,25,Germany,germany,2021,9423.0,490000.0
+Finn Dahmen,Mainz,K,22,Germany,germany,2021,9231.0,480000.0
+Max Meyer,Koln,F,25,Germany,germany,2021,9231.0,480000.0
+Manuel Gulde,Freiburg,D,29,Germany,germany,2021,9231.0,480000.0
+Lennart Grill,Bayer Leverkusen,K,21,Germany,germany,2021,9038.0,470000.0
+Atakan Karazor,Stuttgart,M,24,Germany,germany,2021,9038.0,470000.0
+Joakim Nilsson,Arminia Bielefeld,D,26,Sweden,germany,2021,8846.0,460000.0
+Michael Langer,Schalke 04,K,35,Austria,germany,2021,8846.0,460000.0
+Mads Pedersen,Augsburg,D,24,Denmark,germany,2021,8846.0,460000.0
+Jacob Bruun Larsen,Hoffenheim,F,22,Denmark,germany,2021,8654.0,450000.0
+Luca Itter,Freiburg,D,21,Germany,germany,2021,8654.0,450000.0
+Ahmed Kutucu,Schalke 04,F,20,Turkey,germany,2021,8654.0,450000.0
+Robert Andrich,Union Berlin,M,26,Germany,germany,2021,8654.0,450000.0
+Marco Richter,Augsburg,F,22,Germany,germany,2021,8462.0,440000.0
+Marcel Hartel,Arminia Bielefeld,F,24,Germany,germany,2021,8269.0,430000.0
+Jakob Busk,Union Berlin,K,27,Denmark,germany,2021,8077.0,420000.0
+Fredrik Jensen,Augsburg,F,23,Finland,germany,2021,7885.0,410000.0
+Patrick Erras,Werder Bremen,M,25,Germany,germany,2021,7885.0,410000.0
+Emmanuel Dennis,Koln,F,23,Nigeria,germany,2021,7885.0,410000.0
+Markus Schubert,Eintracht Frankfurt,K,22,Germany,germany,2021,7692.0,400000.0
+Ermedin Demirovic,Freiburg,F,22,Bosnia-Herzegovina,germany,2021,7692.0,400000.0
+Woo-yeong Jeong,Freiburg,F,21,South Korea,germany,2021,7500.0,390000.0
+Lukas Kübler,Freiburg,D,28,Germany,germany,2021,7500.0,390000.0
+Reinhold Yabo,Arminia Bielefeld,M,28,Germany,germany,2021,7500.0,390000.0
+Cédric Brunner,Arminia Bielefeld,D,26,Switzerland,germany,2021,7500.0,390000.0
+Andreas Luthe,Union Berlin,K,33,Germany,germany,2021,7308.0,380000.0
+Ritsu Doan,Arminia Bielefeld,F,22,Japan,germany,2021,7308.0,380000.0
+Christopher Lenz,Union Berlin,D,26,Germany,germany,2021,7308.0,380000.0
+Fabian Klos,Arminia Bielefeld,F,32,Germany,germany,2021,7115.0,370000.0
+Jan Olschowsky,Monchengladbach,K,18,Germany,germany,2021,6923.0,360000.0
+Issah Abass,Mainz,F,22,Ghana,germany,2021,6923.0,360000.0
+Marijan Cavar,Eintracht Frankfurt,M,22,Bosnia-Herzegovina,germany,2021,6731.0,350000.0
+Mark Flekken,Freiburg,K,27,Netherlands,germany,2021,6731.0,350000.0
+Ragnar Ache,Eintracht Frankfurt,F,22,Germany,germany,2021,6731.0,350000.0
+Jóan Símun Edmundsson,Arminia Bielefeld,F,29,Faroe Islands,germany,2021,6346.0,330000.0
+Dimitri Lavalée,Mainz,D,23,Belgium,germany,2021,6346.0,330000.0
+Sven Schipplock,Arminia Bielefeld,F,31,Germany,germany,2021,5962.0,310000.0
+Florian Müller,Freiburg,K,22,Germany,germany,2021,5962.0,310000.0
+Josep Martínez,Leipzig,K,22,Spain,germany,2021,5962.0,310000.0
+Manuel Prietl,Arminia Bielefeld,M,29,Austria,germany,2021,5769.0,300000.0
+Clinton Mola,Stuttgart,D,19,England,germany,2021,5769.0,300000.0
+Oscar Linnér,Arminia Bielefeld,K,23,Sweden,germany,2021,5769.0,300000.0
+Stefan Ortega Moreno,Arminia Bielefeld,K,27,Germany,germany,2021,5769.0,300000.0
+Sebastian Griesbeck,Union Berlin,M,30,Germany,germany,2021,5385.0,280000.0
+Jacob Barrett Laursen,Arminia Bielefeld,D,25,Denmark,germany,2021,5385.0,280000.0
+Niklas Lomb,Bayer Leverkusen,K,27,Germany,germany,2021,5192.0,270000.0
+Nico Schlotterbeck,Union Berlin,D,20,Germany,germany,2021,5000.0,260000.0
+Christian Gebauer,Arminia Bielefeld,F,26,Austria,germany,2021,4808.0,250000.0
+Robert Gumny,Augsburg,D,22,Poland,germany,2021,4808.0,250000.0
+Jens Grahl,Stuttgart,K,32,Germany,germany,2021,4615.0,240000.0
+Cebio Soukou,Arminia Bielefeld,F,28,Benin,germany,2021,4615.0,240000.0
+Nils Seufert,Arminia Bielefeld,M,23,Germany,germany,2021,4615.0,240000.0
+Tim Lemperle,Koln,F,18,Germany,germany,2021,4615.0,240000.0
+Youssoufa Moukoko,Borussia Dortmund,F,15,Germany,germany,2021,4615.0,240000.0
+Tuta,Eintracht Frankfurt,D,21,Brazil,germany,2021,4615.0,240000.0
+Brian Behrendt,Arminia Bielefeld,D,28,Germany,germany,2021,4423.0,230000.0
+Felix Götze,Augsburg,M,22,Germany,germany,2021,4423.0,230000.0
+Max Grün,Monchengladbach,K,33,Germany,germany,2021,4423.0,230000.0
+Aymen Barkok,Eintracht Frankfurt,F,22,Morocco,germany,2021,4423.0,230000.0
+Dan-Axel Zagadou,Borussia Dortmund,D,21,France,germany,2021,4423.0,230000.0
+Hamadi Al Ghaddioui,Stuttgart,F,30,Morocco,germany,2021,4231.0,220000.0
+João Queirós,Koln,D,22,Portugal,germany,2021,4231.0,220000.0
+João Klauss,Hoffenheim,F,23,Brazil,germany,2021,4038.0,210000.0
+Lazar Samardzic,Leipzig,F,18,Germany,germany,2021,4038.0,210000.0
+Nathan de Medina,Arminia Bielefeld,D,23,Belgium,germany,2021,4038.0,210000.0
+Romano Schmid,Werder Bremen,M,20,Austria,germany,2021,4038.0,210000.0
+Maxime Awoudja,Stuttgart,D,22,Germany,germany,2021,4038.0,210000.0
+Aílton,Stuttgart,D,25,Brazil,germany,2021,4038.0,210000.0
+Mateo Klimowicz,Stuttgart,F,20,Argentina,germany,2021,3846.0,200000.0
+Tiago Dantas,Bayern Munich,M,20,Portugal,germany,2021,3846.0,200000.0
+Tim Civeja,Augsburg,M,19,Germany,germany,2021,3846.0,200000.0
+Luca Kilian,Mainz,D,21,Germany,germany,2021,3846.0,200000.0
+Tanguy Coulibaly,Stuttgart,F,19,France,germany,2021,3846.0,200000.0
+Roberto Massimo,Stuttgart,F,20,Germany,germany,2021,3654.0,190000.0
+Leon Dajaku,Union Berlin,F,19,Germany,germany,2021,3654.0,190000.0
+Marlon Mustapha,Mainz,F,19,Austria,germany,2021,3654.0,190000.0
+Maxence Lacroix,Wolfsburg,D,20,France,germany,2021,3654.0,190000.0
+Julio Villalba,Monchengladbach,F,22,Paraguay,germany,2021,3654.0,190000.0
+Torben Müsel,Monchengladbach,F,21,Germany,germany,2021,3654.0,190000.0
+Oscar Schönfelder,Werder Bremen,F,19,Germany,germany,2021,3654.0,190000.0
+Andreas Poulsen,Monchengladbach,D,21,Denmark,germany,2021,3654.0,190000.0
+Nick Woltemade,Werder Bremen,F,18,Germany,germany,2021,3654.0,190000.0
+Leon Dajaku,Bayern Munich,F,19,Germany,germany,2021,3654.0,190000.0
+Luca Netz,Hertha Berlin,D,17,Germany,germany,2021,3462.0,180000.0
+Steffen Tigges,Borussia Dortmund,F,22,Germany,germany,2021,3462.0,180000.0
+Jordan Beyer,Monchengladbach,D,20,Germany,germany,2021,3462.0,180000.0
+Angelo Stiller,Bayern Munich,M,19,Germany,germany,2021,3462.0,180000.0
+Philipp Pentke,Hoffenheim,K,35,Germany,germany,2021,3462.0,180000.0
+Keita Endo,Union Berlin,F,22,Japan,germany,2021,3462.0,180000.0
+Jean Manuel Mbom,Werder Bremen,M,20,Germany,germany,2021,3462.0,180000.0
+Michael Zetterer,Werder Bremen,K,25,Germany,germany,2021,3462.0,180000.0
+Masaya Okugawa,Arminia Bielefeld,M,24,Japan,germany,2021,3462.0,180000.0
+Ajdin Hrustic,Eintracht Frankfurt,F,24,Australia,germany,2021,3462.0,180000.0
+Tim Schreiber,Leipzig,K,18,Germany,germany,2021,3077.0,160000.0
+Andreas Voglsammer,Arminia Bielefeld,F,28,Germany,germany,2021,3077.0,160000.0
+Fabrice Hartmann,Leipzig,F,19,Germany,germany,2021,3077.0,160000.0
+Ansgar Knauff,Borussia Dortmund,F,19,Germany,germany,2021,3077.0,160000.0
+Joe Scally,Monchengladbach,D,18,United States,germany,2021,2885.0,150000.0
+Tim Maciejewski,Union Berlin,F,19,Germany,germany,2021,2885.0,150000.0
+Eduardo Dos Santos Haesler,Werder Bremen,K,21,Germany,germany,2021,2885.0,150000.0
+Joscha Wosz,Leipzig,F,18,Germany,germany,2021,2692.0,140000.0
+Lennart Moser,Union Berlin,K,20,Germany,germany,2021,2500.0,130000.0
+Jomaine Consbruch,Arminia Bielefeld,M,18,Germany,germany,2021,2308.0,120000.0
+Darko Churlinov,Stuttgart,F,20,North Macedonia,germany,2021,2115.0,110000.0
+Ron-Thorben Hoffmann,Bayern Munich,K,21,Germany,germany,2021,1923.0,100000.0
+Noah Katterbach,Koln,D,19,Germany,germany,2021,1923.0,100000.0
+Niclas Thiede,Freiburg,K,21,Germany,germany,2021,1923.0,100000.0
+Anderson Lucoqui,Arminia Bielefeld,D,23,Angola,germany,2021,1923.0,100000.0
+Ilia Gruev,Werder Bremen,M,20,Bulgaria,germany,2021,1731.0,90000.0
+Benjamin Leneis,Augsburg,K,21,Germany,germany,2021,1731.0,90000.0
+Kilian Ludewig,Schalke 04,D,20,Germany,germany,2021,1538.0,80000.0
+Tim Siersleben,Wolfsburg,D,20,Germany,germany,2021,1538.0,80000.0
+Ismail Jakobs,Koln,F,21,Germany,germany,2021,1538.0,80000.0
+Nils Körber,Hertha Berlin,K,23,Germany,germany,2021,1538.0,80000.0
+Marius Liesegang,Mainz,K,20,Germany,germany,2021,1538.0,80000.0
+Amos Pieper,Arminia Bielefeld,D,22,Germany,germany,2021,1538.0,80000.0
+Tobias Raschl,Borussia Dortmund,M,20,Germany,germany,2021,1538.0,80000.0
+Chris Richards,Hoffenheim,D,20,United States,germany,2021,1538.0,80000.0
+Chris Richards,Bayern Munich,D,20,United States,germany,2021,1538.0,80000.0
+Yannik Keitel,Freiburg,M,20,Germany,germany,2021,1346.0,70000.0
+Lino Tempelmann,Freiburg,M,21,Germany,germany,2021,1346.0,70000.0
+Márton Dárdai,Hertha Berlin,D,18,Germany,germany,2021,1346.0,70000.0
+Julian Krahl,Koln,K,20,Germany,germany,2021,1346.0,70000.0
+Omer Hanin,Mainz,K,22,Israel,germany,2021,1346.0,70000.0
+Daniels Ontuzans,Bayern Munich,F,20,Latvia,germany,2021,1346.0,70000.0
+Robert Voloder,Koln,D,19,Germany,germany,2021,1154.0,60000.0
+Lino Kasten,Wolfsburg,K,19,Germany,germany,2021,1154.0,60000.0
+Sava-Arangel Cestic,Koln,D,19,Serbia,germany,2021,1154.0,60000.0
+Dion Berisha,Augsburg,F,17,Kosovo,germany,2021,1154.0,60000.0
+Maximilian Beier,Hoffenheim,F,18,Germany,germany,2021,1154.0,60000.0
+Melayro Bogarde,Hoffenheim,D,18,Netherlands,germany,2021,1154.0,60000.0
+Niklas Klinger,Wolfsburg,K,25,Germany,germany,2021,1154.0,60000.0
+Felix Irorere,Eintracht Frankfurt,D,18,Germany,germany,2021,962.0,50000.0
+Luca Mack,Stuttgart,M,20,Germany,germany,2021,962.0,50000.0
+Timo Becker,Schalke 04,D,23,Germany,germany,2021,962.0,50000.0
+Rocco Reitz,Monchengladbach,M,18,Germany,germany,2021,962.0,50000.0
+Jessic Ngankam,Hertha Berlin,F,20,Germany,germany,2021,962.0,50000.0
+Nikolai Rehnen,Arminia Bielefeld,K,23,Germany,germany,2021,962.0,50000.0
+Jabez Makanda,Eintracht Frankfurt,F,19,Angola,germany,2021,962.0,50000.0
+Merveille Papela,Mainz,M,19,Germany,germany,2021,962.0,50000.0
+Fabian Kunze,Arminia Bielefeld,M,22,Germany,germany,2021,962.0,50000.0
+Luca Unbehaun,Borussia Dortmund,K,19,Germany,germany,2021,962.0,50000.0
+Marco John,Hoffenheim,F,18,Germany,germany,2021,962.0,50000.0
+Elias Bördner,Eintracht Frankfurt,K,18,Germany,germany,2021,962.0,50000.0
+Lukas Fahrnberger,Eintracht Frankfurt,M,19,Austria,germany,2021,769.0,40000.0
+Bright Arrey-Mbi,Bayern Munich,D,17,Germany,germany,2021,769.0,40000.0
+Bartosz Bialek,Wolfsburg,F,18,Poland,germany,2021,769.0,40000.0
+Luca Philipp,Hoffenheim,K,19,Germany,germany,2021,769.0,40000.0
+Niklas Tauer,Mainz,M,19,Germany,germany,2021,769.0,40000.0
+Noel Niemann,Arminia Bielefeld,F,20,Germany,germany,2021,769.0,40000.0
+Famana Quizera,Monchengladbach,F,18,Portugal,germany,2021,769.0,40000.0
+Antonis Aidonis,Stuttgart,D,19,Germany,germany,2021,769.0,40000.0
+Carlo Boukhalfa,Freiburg,M,21,Germany,germany,2021,769.0,40000.0
+Paul Nebel,Mainz,F,18,Germany,germany,2021,769.0,40000.0
+Kerim Calhanoglu,Schalke 04,M,18,Germany,germany,2021,769.0,40000.0
+Lilian Egloff,Stuttgart,F,18,Germany,germany,2021,577.0,30000.0
+Cem Türkmen,Bayer Leverkusen,M,18,Turkey,germany,2021,577.0,30000.0
+Sebastian Müller,Arminia Bielefeld,F,19,Germany,germany,2021,577.0,30000.0
+Julian Frommann,Arminia Bielefeld,M,17,Germany,germany,2021,577.0,30000.0
+Can Bozdogan,Schalke 04,F,19,Germany,germany,2021,577.0,30000.0
+Jens Castrop,Koln,F,17,Germany,germany,2021,577.0,30000.0
+Samed Onur,Bayer Leverkusen,F,18,Turkey,germany,2021,577.0,30000.0
+Malick Thiaw,Schalke 04,D,19,Finland,germany,2021,577.0,30000.0
+Marvin Obuz,Koln,F,19,Germany,germany,2021,577.0,30000.0
+Momo Cissé,Stuttgart,F,18,Guinea,germany,2021,385.0,20000.0
+Nick Taitague,Schalke 04,F,21,United States,germany,2021,385.0,20000.0
+Kaan Kurt,Monchengladbach,D,18,Germany,germany,2021,385.0,20000.0
+Fynn Otto,Eintracht Frankfurt,D,18,Germany,germany,2021,385.0,20000.0
+Levent Mercan,Schalke 04,F,19,Germany,germany,2021,385.0,20000.0
+Naouirou Ahamada,Stuttgart,M,18,France,germany,2021,385.0,20000.0
+Yannick Brugger,Eintracht Frankfurt,D,19,Germany,germany,2021,385.0,20000.0

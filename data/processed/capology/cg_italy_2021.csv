@@ -1,0 +1,653 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Cristiano Ronaldo,Juventus,F,35,Portugal,italy,2021,1104038.0,57410000.0
+Edin Dzeko,Roma,F,34,Bosnia-Herzegovina,italy,2021,267115.0,13890000.0
+Paulo Dybala,Juventus,F,26,Argentina,italy,2021,260000.0,13520000.0
+Wojciech Szczesny,Juventus,K,30,Poland,italy,2021,231538.0,12040000.0
+Leonardo Bonucci,Juventus,D,33,Italy,italy,2021,231538.0,12040000.0
+Gianluigi Donnarumma,AC Milan,K,21,Italy,italy,2021,213654.0,11110000.0
+Sami Khedira,Juventus,M,33,Germany,italy,2021,213654.0,11110000.0
+Kalidou Koulibaly,Napoli,D,29,Senegal,italy,2021,213654.0,11110000.0
+Alex Sandro,Juventus,D,29,Brazil,italy,2021,213654.0,11110000.0
+Matthijs de Ligt,Juventus,D,21,Netherlands,italy,2021,197308.0,10260000.0
+Christian Eriksen,Inter Milan,F,28,Denmark,italy,2021,185000.0,9620000.0
+Romelu Lukaku,Inter Milan,F,27,Belgium,italy,2021,185000.0,9620000.0
+Juan Cuadrado,Juventus,D,32,Colombia,italy,2021,178077.0,9260000.0
+Federico Chiesa,Juventus,F,22,Italy,italy,2021,178077.0,9260000.0
+Ivan Perisic,Inter Milan,F,31,Croatia,italy,2021,178077.0,9260000.0
+Zlatan Ibrahimovic,AC Milan,F,39,Sweden,italy,2021,172500.0,8970000.0
+Adrien Rabiot,Juventus,M,25,France,italy,2021,172500.0,8970000.0
+Aaron Ramsey,Juventus,M,29,Wales,italy,2021,172500.0,8970000.0
+Alexis Sánchez,Inter Milan,F,31,Chile,italy,2021,172500.0,8970000.0
+Lorenzo Insigne,Napoli,F,29,Italy,italy,2021,163846.0,8520000.0
+Javier Pastore,Roma,F,31,Argentina,italy,2021,160192.0,8330000.0
+Radja Nainggolan,Inter Milan,F,32,Belgium,italy,2021,160192.0,8330000.0
+Arturo Vidal,Inter Milan,M,33,Chile,italy,2021,160192.0,8330000.0
+Dries Mertens,Napoli,F,33,Belgium,italy,2021,160192.0,8330000.0
+Radja Nainggolan,Cagliari,F,32,Belgium,italy,2021,160192.0,8330000.0
+Federico Bernardeschi,Juventus,F,26,Italy,italy,2021,142500.0,7410000.0
+Konstantinos Manolas,Napoli,D,29,Greece,italy,2021,142500.0,7410000.0
+Ciro Immobile,Lazio,F,30,Italy,italy,2021,142500.0,7410000.0
+Stefan de Vrij,Inter Milan,D,28,Netherlands,italy,2021,135385.0,7040000.0
+Alessio Romagnoli,AC Milan,D,25,Italy,italy,2021,124615.0,6480000.0
+Stephan El Shaarawy,Roma,F,28,Italy,italy,2021,124615.0,6480000.0
+Giorgio Chiellini,Juventus,D,36,Italy,italy,2021,124615.0,6480000.0
+Daniele Rugani,Cagliari,D,26,Italy,italy,2021,124615.0,6480000.0
+Piotr Zielinski,Napoli,M,26,Poland,italy,2021,124615.0,6480000.0
+Marcelo Brozovic,Inter Milan,M,27,Croatia,italy,2021,124615.0,6480000.0
+Álvaro Morata,Juventus,F,27,Spain,italy,2021,123269.0,6410000.0
+Arthur,Juventus,M,24,Brazil,italy,2021,123269.0,6410000.0
+Achraf Hakimi,Inter Milan,M,21,Morocco,italy,2021,123269.0,6410000.0
+Samir Handanovic,Inter Milan,K,36,Slovenia,italy,2021,114038.0,5930000.0
+Sergej Milinkovic-Savic,Lazio,M,25,Serbia,italy,2021,114038.0,5930000.0
+Jordan Veretout,Roma,M,27,France,italy,2021,106923.0,5560000.0
+Aleksandar Kolarov,Inter Milan,D,34,Serbia,italy,2021,106923.0,5560000.0
+Leonardo Spinazzola,Roma,D,27,Italy,italy,2021,106923.0,5560000.0
+Milan Skriniar,Inter Milan,D,25,Slovakia,italy,2021,106923.0,5560000.0
+Alessandro Bastoni,Inter Milan,D,21,Italy,italy,2021,99808.0,5190000.0
+Victor Osimhen,Napoli,F,21,Nigeria,italy,2021,98654.0,5130000.0
+Danilo,Juventus,D,29,Brazil,italy,2021,98654.0,5130000.0
+Franck Ribéry,Fiorentina,F,37,France,italy,2021,98654.0,5130000.0
+Hirving Lozano,Napoli,F,25,Mexico,italy,2021,98654.0,5130000.0
+Chris Smalling,Roma,D,30,England,italy,2021,93654.0,4870000.0
+Nicolò Barella,Inter Milan,M,23,Italy,italy,2021,89038.0,4630000.0
+Lautaro Martínez,Inter Milan,F,23,Argentina,italy,2021,89038.0,4630000.0
+Hakan Calhanoglu,AC Milan,F,26,Turkey,italy,2021,89038.0,4630000.0
+Dejan Kulusevski,Juventus,F,20,Sweden,italy,2021,89038.0,4630000.0
+Amadou Diawara,Roma,M,23,Guinea,italy,2021,89038.0,4630000.0
+Rodrigo Bentancur,Juventus,M,23,Uruguay,italy,2021,89038.0,4630000.0
+Federico Fazio,Roma,D,33,Argentina,italy,2021,89038.0,4630000.0
+Matías Vecino,Inter Milan,M,29,Uruguay,italy,2021,89038.0,4630000.0
+Francesco Acerbi,Lazio,D,32,Italy,italy,2021,89038.0,4630000.0
+Joaquín Correa,Lazio,F,26,Argentina,italy,2021,89038.0,4630000.0
+Luis Alberto,Lazio,F,28,Spain,italy,2021,89038.0,4630000.0
+Arkadiusz Milik,Napoli,F,26,Poland,italy,2021,89038.0,4630000.0
+Nicolò Zaniolo,Roma,F,21,Italy,italy,2021,89038.0,4630000.0
+Ante Rebic,AC Milan,F,27,Croatia,italy,2021,86346.0,4490000.0
+Henrikh Mkhitaryan,Roma,F,31,Armenia,italy,2021,86346.0,4490000.0
+Faouzi Ghoulam,Napoli,D,29,Algeria,italy,2021,85385.0,4440000.0
+Giovanni Di Lorenzo,Napoli,D,27,Italy,italy,2021,81923.0,4260000.0
+Lucas Leiva,Lazio,M,33,Brazil,italy,2021,81923.0,4260000.0
+Lorenzo Pellegrini,Roma,M,24,Italy,italy,2021,81923.0,4260000.0
+Kevin Strootman,Genoa,M,30,Netherlands,italy,2021,81346.0,4230000.0
+Matteo Darmian,Inter Milan,D,30,Italy,italy,2021,78846.0,4100000.0
+Matteo Politano,Napoli,F,27,Italy,italy,2021,78269.0,4070000.0
+Rick Karsdorp,Roma,D,25,Netherlands,italy,2021,78269.0,4070000.0
+José Callejón,Fiorentina,F,33,Spain,italy,2021,78269.0,4070000.0
+Franck Kessié,AC Milan,M,23,Cote d'Ivoire,italy,2021,78269.0,4070000.0
+Juan Jesus,Roma,D,29,Brazil,italy,2021,78269.0,4070000.0
+Mário Rui,Napoli,D,29,Portugal,italy,2021,74808.0,3890000.0
+Pau López,Roma,K,25,Spain,italy,2021,74038.0,3850000.0
+Pedro,Roma,F,33,Spain,italy,2021,74038.0,3850000.0
+Ashley Young,Inter Milan,M,35,England,italy,2021,74038.0,3850000.0
+Diego Godín,Cagliari,D,34,Uruguay,italy,2021,74038.0,3850000.0
+Andrea Belotti,Torino,F,26,Italy,italy,2021,71154.0,3700000.0
+Mateo Musacchio,AC Milan,D,30,Argentina,italy,2021,71154.0,3700000.0
+Andrea Conti,Parma,D,26,Italy,italy,2021,71154.0,3700000.0
+Papu Gómez,Atalanta,F,32,Argentina,italy,2021,71154.0,3700000.0
+Pepe Reina,Lazio,K,38,Spain,italy,2021,71154.0,3700000.0
+Mateo Musacchio,Lazio,D,30,Argentina,italy,2021,71154.0,3700000.0
+Felipe Caicedo,Lazio,F,32,Ecuador,italy,2021,71154.0,3700000.0
+Andrea Conti,AC Milan,D,26,Italy,italy,2021,71154.0,3700000.0
+Stefano Sensi,Inter Milan,M,25,Italy,italy,2021,71154.0,3700000.0
+Gianluca Mancini,Roma,D,24,Italy,italy,2021,71154.0,3700000.0
+Danilo D'Ambrosio,Inter Milan,D,32,Italy,italy,2021,71154.0,3700000.0
+Andrea Pinamonti,Inter Milan,F,21,Italy,italy,2021,71154.0,3700000.0
+Salvatore Sirigu,Torino,K,33,Italy,italy,2021,71154.0,3700000.0
+Bruno Peres,Roma,D,30,Brazil,italy,2021,64038.0,3330000.0
+Duván Zapata,Atalanta,F,29,Colombia,italy,2021,64038.0,3330000.0
+Josip Ilicic,Atalanta,F,32,Slovenia,italy,2021,64038.0,3330000.0
+Andrea Petagna,Napoli,F,25,Italy,italy,2021,64038.0,3330000.0
+Andrea Ranocchia,Inter Milan,D,32,Italy,italy,2021,64038.0,3330000.0
+Bryan Cristante,Roma,M,25,Italy,italy,2021,64038.0,3330000.0
+Mario Mandzukic,AC Milan,F,34,Croatia,italy,2021,64038.0,3330000.0
+Domenico Berardi,Sassuolo,F,26,Italy,italy,2021,64038.0,3330000.0
+Merih Demiral,Juventus,D,22,Turkey,italy,2021,64038.0,3330000.0
+Marash Kumbulla,Roma,D,20,Albania,italy,2021,64038.0,3330000.0
+Fernando Llorente,Napoli,F,35,Spain,italy,2021,61731.0,3210000.0
+Fernando Llorente,Udinese,F,35,Spain,italy,2021,61731.0,3210000.0
+Andreas Pereira,Lazio,F,24,Brazil,italy,2021,61731.0,3210000.0
+Weston McKennie,Juventus,M,22,United States,italy,2021,61731.0,3210000.0
+Diego Demme,Napoli,M,28,Germany,italy,2021,61731.0,3210000.0
+Kamil Glik,Benevento,D,32,Poland,italy,2021,61731.0,3210000.0
+Simone Verdi,Torino,F,28,Italy,italy,2021,60577.0,3150000.0
+Armando Izzo,Torino,D,28,Italy,italy,2021,60577.0,3150000.0
+Simone Zaza,Torino,F,29,Italy,italy,2021,60577.0,3150000.0
+Iago Falque,Benevento,F,30,Spain,italy,2021,60577.0,3150000.0
+Elseid Hysaj,Napoli,D,26,Albania,italy,2021,56923.0,2960000.0
+Gianluca Lapadula,Benevento,F,30,Italy,italy,2021,56923.0,2960000.0
+Soualiho Meïté,AC Milan,M,26,France,italy,2021,56923.0,2960000.0
+Borja Mayoral,Roma,F,23,Spain,italy,2021,56731.0,2950000.0
+Vedat Muriqi,Lazio,F,26,Kosovo,italy,2021,54231.0,2820000.0
+Marko Rog,Cagliari,M,25,Croatia,italy,2021,53462.0,2780000.0
+Manuel Lazzari,Lazio,M,26,Italy,italy,2021,53462.0,2780000.0
+Giovanni Simeone,Cagliari,F,25,Argentina,italy,2021,53462.0,2780000.0
+Samu Castillejo,AC Milan,F,25,Spain,italy,2021,53462.0,2780000.0
+Nikola Kalinic,Hellas Verona,F,32,Croatia,italy,2021,53462.0,2780000.0
+Gianluigi Buffon,Juventus,K,42,Italy,italy,2021,53462.0,2780000.0
+Ismaël Bennacer,AC Milan,M,22,Algeria,italy,2021,53462.0,2780000.0
+Nicolas N'Koulou,Torino,D,30,Cameroon,italy,2021,53462.0,2780000.0
+Fabián Ruiz,Napoli,M,24,Spain,italy,2021,53462.0,2780000.0
+Roberto Gagliardini,Inter Milan,M,26,Italy,italy,2021,53462.0,2780000.0
+Ricardo Rodríguez,Torino,D,28,Switzerland,italy,2021,53462.0,2780000.0
+Giacomo Bonaventura,Fiorentina,M,31,Italy,italy,2021,53462.0,2780000.0
+Antonio Sanabria,Torino,F,24,Paraguay,italy,2021,53462.0,2780000.0
+Davide Santon,Roma,D,29,Italy,italy,2021,53462.0,2780000.0
+Patrick Cutrone,Fiorentina,F,22,Italy,italy,2021,53462.0,2780000.0
+Aleksey Miranchuk,Atalanta,F,24,Russia,italy,2021,53462.0,2780000.0
+Stefan Radu,Lazio,D,33,Romania,italy,2021,49808.0,2590000.0
+Danilo Cataldi,Lazio,M,26,Italy,italy,2021,49808.0,2590000.0
+Daniele Baselli,Torino,M,28,Italy,italy,2021,49808.0,2590000.0
+Tomás Rincón,Torino,M,32,Venezuela,italy,2021,49808.0,2590000.0
+Roberto Inglese,Parma,F,28,Italy,italy,2021,49808.0,2590000.0
+João Pedro,Cagliari,F,28,Brazil,italy,2021,49808.0,2590000.0
+Leonardo Pavoletti,Cagliari,F,31,Italy,italy,2021,49808.0,2590000.0
+Karol Linetty,Torino,M,25,Poland,italy,2021,49808.0,2590000.0
+Gaetano Castrovilli,Fiorentina,M,23,Italy,italy,2021,49808.0,2590000.0
+Tiemoué Bakayoko,Napoli,M,26,France,italy,2021,49231.0,2560000.0
+Carles Pérez,Roma,F,22,Spain,italy,2021,49231.0,2560000.0
+Sandro Tonali,AC Milan,M,20,Italy,italy,2021,46346.0,2410000.0
+Alfred Duncan,Cagliari,M,27,Ghana,italy,2021,46346.0,2410000.0
+Alfred Duncan,Fiorentina,M,27,Ghana,italy,2021,46346.0,2410000.0
+Gervinho,Parma,F,33,Cote d'Ivoire,italy,2021,46346.0,2410000.0
+Antonio Candreva,Sampdoria,M,33,Italy,italy,2021,46346.0,2410000.0
+Luis Muriel,Atalanta,F,29,Colombia,italy,2021,44423.0,2310000.0
+Amir Rrahmani,Napoli,D,26,Kosovo,italy,2021,44423.0,2310000.0
+Cristián Zapata,Genoa,D,34,Colombia,italy,2021,42692.0,2220000.0
+Senad Lulic,Lazio,M,34,Bosnia-Herzegovina,italy,2021,42692.0,2220000.0
+Yann Karamoh,Parma,F,22,France,italy,2021,42692.0,2220000.0
+Stefano Sturaro,Genoa,M,27,Italy,italy,2021,42692.0,2220000.0
+Martín Cáceres,Fiorentina,D,33,Uruguay,italy,2021,42692.0,2220000.0
+Nikola Maksimovic,Napoli,D,28,Serbia,italy,2021,42692.0,2220000.0
+Germán Pezzella,Fiorentina,D,29,Argentina,italy,2021,42692.0,2220000.0
+Marco Parolo,Lazio,M,35,Italy,italy,2021,42692.0,2220000.0
+Fabio Quagliarella,Sampdoria,F,37,Italy,italy,2021,42692.0,2220000.0
+Thomas Strakosha,Lazio,K,25,Albania,italy,2021,42692.0,2220000.0
+Stefano Sturaro,Hellas Verona,M,27,Italy,italy,2021,42692.0,2220000.0
+Christian Kouamé,Fiorentina,F,22,Cote d'Ivoire,italy,2021,42692.0,2220000.0
+Cristiano Biraghi,Fiorentina,D,28,Italy,italy,2021,42692.0,2220000.0
+Domenico Criscito,Genoa,D,33,Italy,italy,2021,42692.0,2220000.0
+Mohamed Fares,Lazio,M,24,Algeria,italy,2021,42692.0,2220000.0
+Aleksandr Kokorin,Fiorentina,F,29,Russia,italy,2021,41923.0,2180000.0
+Nicola Sansone,Bologna,F,29,Italy,italy,2021,39423.0,2050000.0
+Roberto Soriano,Bologna,M,29,Italy,italy,2021,39423.0,2050000.0
+Nahitan Nández,Cagliari,M,24,Uruguay,italy,2021,39423.0,2050000.0
+Stanislav Lobotka,Napoli,M,25,Slovakia,italy,2021,39423.0,2050000.0
+Riccardo Orsolini,Bologna,F,23,Italy,italy,2021,39231.0,2040000.0
+Rodrigo Palacio,Bologna,F,38,Argentina,italy,2021,39231.0,2040000.0
+Marco Benassi,Hellas Verona,M,26,Italy,italy,2021,39231.0,2040000.0
+Soualiho Meïté,Torino,M,26,France,italy,2021,39231.0,2040000.0
+Albin Ekdal,Sampdoria,M,31,Sweden,italy,2021,39231.0,2040000.0
+Andrea Poli,Bologna,M,31,Italy,italy,2021,39231.0,2040000.0
+Gastón Ramírez,Sampdoria,F,29,Uruguay,italy,2021,39231.0,2040000.0
+Rade Krunic,AC Milan,M,27,Bosnia-Herzegovina,italy,2021,39231.0,2040000.0
+Eljif Elmas,Napoli,M,21,North Macedonia,italy,2021,36923.0,1920000.0
+Theo Hernández,AC Milan,D,23,France,italy,2021,36923.0,1920000.0
+Roger Ibañez,Roma,D,21,Brazil,italy,2021,36923.0,1920000.0
+Gary Medel,Bologna,M,33,Chile,italy,2021,36923.0,1920000.0
+Lasse Schöne,Genoa,M,34,Denmark,italy,2021,36923.0,1920000.0
+Sofyan Amrabat,Fiorentina,M,24,Morocco,italy,2021,36923.0,1920000.0
+Patric,Lazio,D,27,Spain,italy,2021,35577.0,1850000.0
+Antonio Donnarumma,AC Milan,K,30,Italy,italy,2021,35577.0,1850000.0
+Riza Durmisi,Lazio,D,26,Denmark,italy,2021,35577.0,1850000.0
+Lorenzo Tonelli,Sampdoria,D,30,Italy,italy,2021,35577.0,1850000.0
+Silvio Proto,Lazio,K,37,Belgium,italy,2021,35577.0,1850000.0
+Cristian Ansaldi,Torino,D,34,Argentina,italy,2021,35577.0,1850000.0
+Diego Farias,Spezia,F,30,Brazil,italy,2021,35577.0,1850000.0
+Borja Valero,Fiorentina,M,35,Spain,italy,2021,35577.0,1850000.0
+Alex Meret,Napoli,K,23,Italy,italy,2021,35577.0,1850000.0
+Luca Ceppitelli,Cagliari,D,31,Italy,italy,2021,35577.0,1850000.0
+Riccardo Saponara,Spezia,F,29,Italy,italy,2021,35577.0,1850000.0
+Davide Calabria,AC Milan,D,23,Italy,italy,2021,35577.0,1850000.0
+Federico Bonazzoli,Torino,F,23,Italy,italy,2021,35577.0,1850000.0
+Andrea Consigli,Sassuolo,K,33,Italy,italy,2021,35577.0,1850000.0
+Adam Ounas,Crotone,F,24,Algeria,italy,2021,35577.0,1850000.0
+Ionut Radu,Inter Milan,K,23,Romania,italy,2021,35577.0,1850000.0
+Rodrigo de Paul,Udinese,F,26,Argentina,italy,2021,35577.0,1850000.0
+Antonio Mirante,Roma,K,37,Italy,italy,2021,35577.0,1850000.0
+Marten de Roon,Atalanta,M,29,Netherlands,italy,2021,35577.0,1850000.0
+Mario Pasalic,Atalanta,M,25,Croatia,italy,2021,35577.0,1850000.0
+Ionuț Radu,Inter Milan,K,23,Romania,italy,2021,35577.0,1850000.0
+Alex Ferrari,Sampdoria,D,26,Italy,italy,2021,35577.0,1850000.0
+Bastos,Lazio,D,29,Angola,italy,2021,35577.0,1850000.0
+Adam Ounas,Cagliari,F,23,Algeria,italy,2021,35577.0,1850000.0
+Federico Santander,Bologna,F,29,Paraguay,italy,2021,35577.0,1850000.0
+Alberto Cerri,Cagliari,F,24,Italy,italy,2021,35577.0,1850000.0
+Alessio Cragno,Cagliari,K,26,Italy,italy,2021,35577.0,1850000.0
+Jasmin Kurtic,Parma,M,31,Slovenia,italy,2021,35577.0,1850000.0
+Andreas Cornelius,Parma,F,27,Denmark,italy,2021,35577.0,1850000.0
+Ragnar Klavan,Cagliari,D,34,Estonia,italy,2021,35577.0,1850000.0
+Rafael Tolói,Atalanta,D,29,Brazil,italy,2021,35577.0,1850000.0
+Mattia Caldara,Atalanta,D,26,Italy,italy,2021,35577.0,1850000.0
+Riccardo Saponara,Fiorentina,F,28,Italy,italy,2021,35577.0,1850000.0
+Wesley Hoedt,Lazio,D,26,Netherlands,italy,2021,34423.0,1790000.0
+Dennis Man,Parma,F,22,Romania,italy,2021,34423.0,1790000.0
+Gonzalo Escalante,Lazio,M,27,Argentina,italy,2021,34423.0,1790000.0
+Gastón Pereiro,Cagliari,F,25,Uruguay,italy,2021,34423.0,1790000.0
+Rafael Leão,AC Milan,F,21,Portugal,italy,2021,34423.0,1790000.0
+David Ospina,Napoli,K,32,Colombia,italy,2021,34423.0,1790000.0
+Milan Badelj,Genoa,M,31,Croatia,italy,2021,34423.0,1790000.0
+Omar Colley,Sampdoria,D,27,The Gambia,italy,2021,33846.0,1760000.0
+Alberto Grassi,Parma,M,25,Italy,italy,2021,32115.0,1670000.0
+Lukasz Skorupski,Bologna,K,29,Poland,italy,2021,32115.0,1670000.0
+Lorenzo De Silvestri,Bologna,D,32,Italy,italy,2021,32115.0,1670000.0
+Erick Pulgar,Fiorentina,M,26,Chile,italy,2021,32115.0,1670000.0
+Pol Lirola,Fiorentina,D,23,Spain,italy,2021,32115.0,1670000.0
+Adam Marusic,Lazio,D,27,Montenegro,italy,2021,32115.0,1670000.0
+Davide Zappacosta,Genoa,D,28,Italy,italy,2021,32115.0,1670000.0
+Eldor Shomurodov,Genoa,F,25,Uzbekistan,italy,2021,32115.0,1670000.0
+Luigi Sepe,Parma,K,29,Italy,italy,2021,32115.0,1670000.0
+Artur Ionita,Benevento,M,30,Moldova,italy,2021,32115.0,1670000.0
+Joshua Zirkzee,Parma,F,19,Netherlands,italy,2021,32115.0,1670000.0
+Jean-Daniel Akpa Akpro,Lazio,M,27,Cote d'Ivoire,italy,2021,32115.0,1670000.0
+Gianluca Caprari,Benevento,F,27,Italy,italy,2021,32115.0,1670000.0
+Davide Di Gennaro,Lazio,M,32,Italy,italy,2021,32115.0,1670000.0
+Adama Soumaoro,Bologna,D,28,France,italy,2021,30962.0,1610000.0
+Grégoire Defrel,Sassuolo,F,29,Martinique,italy,2021,30192.0,1570000.0
+Simon Kjaer,AC Milan,D,31,Denmark,italy,2021,29615.0,1540000.0
+Ciprian Tatarusanu,AC Milan,K,34,Romania,italy,2021,29615.0,1540000.0
+Juraj Kucka,Parma,M,33,Slovakia,italy,2021,29615.0,1540000.0
+Hernani,Parma,M,26,Brazil,italy,2021,29615.0,1540000.0
+Viktor Kovalenko,Atalanta,F,24,Ukraine,italy,2021,29615.0,1540000.0
+Gonzalo Villar,Roma,M,22,Spain,italy,2021,29615.0,1540000.0
+Musa Barrow,Bologna,F,21,The Gambia,italy,2021,28462.0,1480000.0
+Jakub Jankto,Sampdoria,M,24,Czech Republic,italy,2021,28462.0,1480000.0
+Kévin Malcuit,Fiorentina,D,29,France,italy,2021,28462.0,1480000.0
+Vlad Chiricheș,Sassuolo,D,31,Romania,italy,2021,28462.0,1480000.0
+Vlad Chiriches,Sassuolo,D,30,Romania,italy,2021,28462.0,1480000.0
+Ernesto Torregrossa,Sampdoria,F,28,Italy,italy,2021,28462.0,1480000.0
+Luiz Felipe,Lazio,D,23,Brazil,italy,2021,28462.0,1480000.0
+José Luis Palomino,Atalanta,D,30,Argentina,italy,2021,28462.0,1480000.0
+Hans Hateboer,Atalanta,D,26,Netherlands,italy,2021,28462.0,1480000.0
+Mitchell Dijks,Bologna,D,27,Netherlands,italy,2021,28462.0,1480000.0
+Robin Gosens,Atalanta,D,26,Germany,italy,2021,28462.0,1480000.0
+Marko Pjaca,Genoa,F,25,Croatia,italy,2021,28462.0,1480000.0
+Nikola Milenkovic,Fiorentina,D,22,Serbia,italy,2021,28462.0,1480000.0
+Pierluigi Gollini,Atalanta,K,25,Italy,italy,2021,28462.0,1480000.0
+Luca Pellegrini,Genoa,D,21,Italy,italy,2021,28462.0,1480000.0
+Mattia Perin,Genoa,K,27,Italy,italy,2021,28462.0,1480000.0
+Cristiano Piccini,Atalanta,D,28,Italy,italy,2021,28462.0,1480000.0
+Emil Audero,Sampdoria,K,23,Italy,italy,2021,28462.0,1480000.0
+Remo Freuler,Atalanta,M,28,Switzerland,italy,2021,28462.0,1480000.0
+Valentin Eysseric,Fiorentina,F,28,France,italy,2021,28462.0,1480000.0
+Berat Djimsiti,Atalanta,D,27,Albania,italy,2021,28462.0,1480000.0
+Bartlomiej Dragowski,Fiorentina,K,23,Poland,italy,2021,28462.0,1480000.0
+Kévin Malcuit,Napoli,D,29,France,italy,2021,28462.0,1480000.0
+Cristian Romero,Atalanta,D,22,Argentina,italy,2021,28462.0,1480000.0
+Francesco Caputo,Sassuolo,F,33,Italy,italy,2021,28462.0,1480000.0
+Manolo Gabbiadini,Sampdoria,F,28,Italy,italy,2021,27115.0,1410000.0
+Adrien Silva,Sampdoria,M,31,Portugal,italy,2021,27115.0,1410000.0
+Riccardo Calafiori,Roma,D,18,Italy,italy,2021,26731.0,1390000.0
+Nicolas Viola,Benevento,M,30,Italy,italy,2021,26731.0,1390000.0
+Ibrahima Mbaye,Bologna,D,25,Senegal,italy,2021,26731.0,1390000.0
+Sasa Lukic,Torino,M,24,Serbia,italy,2021,25000.0,1300000.0
+Perparim Hetemaj,Benevento,M,33,Finland,italy,2021,25000.0,1300000.0
+Davide Biraschi,Genoa,D,26,Italy,italy,2021,25000.0,1300000.0
+Marco Sau,Benevento,F,32,Italy,italy,2021,25000.0,1300000.0
+Ilija Nestorovski,Udinese,F,30,North Macedonia,italy,2021,25000.0,1300000.0
+Mattia Bani,Genoa,D,26,Italy,italy,2021,25000.0,1300000.0
+Andrea Masiello,Genoa,D,34,Italy,italy,2021,25000.0,1300000.0
+Mattia Bani,Parma,D,27,Italy,italy,2021,25000.0,1300000.0
+Nicola Murru,Torino,D,25,Italy,italy,2021,25000.0,1300000.0
+Francesco Magnanelli,Sassuolo,M,35,Italy,italy,2021,25000.0,1300000.0
+Pasquale Schiattarella,Benevento,M,33,Italy,italy,2021,25000.0,1300000.0
+Andrea Favilli,Hellas Verona,F,23,Italy,italy,2021,25000.0,1300000.0
+Valerio Verre,Sampdoria,M,26,Italy,italy,2021,25000.0,1300000.0
+Manuel Locatelli,Sassuolo,M,22,Italy,italy,2021,25000.0,1300000.0
+Mato Jajalo,Udinese,M,32,Bosnia-Herzegovina,italy,2021,25000.0,1300000.0
+Dodô,Sampdoria,D,28,Brazil,italy,2021,25000.0,1300000.0
+Kevin Lasagna,Hellas Verona,F,28,Italy,italy,2021,25000.0,1300000.0
+Lukas Lerager,Genoa,M,27,Denmark,italy,2021,25000.0,1300000.0
+Rogério,Sassuolo,D,22,Brazil,italy,2021,25000.0,1300000.0
+Sebastiano Luperto,Crotone,D,24,Italy,italy,2021,25000.0,1300000.0
+Christian Maggio,Benevento,D,38,Italy,italy,2021,25000.0,1300000.0
+Samuel Di Carmine,Crotone,F,32,Italy,italy,2021,25000.0,1300000.0
+Kevin Lasagna,Udinese,F,28,Italy,italy,2021,25000.0,1300000.0
+Samuel Di Carmine,Hellas Verona,F,32,Italy,italy,2021,25000.0,1300000.0
+Siriki Sanogo,Benevento,M,18,Cote d'Ivoire,italy,2021,25000.0,1300000.0
+Filip Djuricic,Sassuolo,F,28,Serbia,italy,2021,25000.0,1300000.0
+Jens Petter Hauge,AC Milan,F,20,Norway,italy,2021,24615.0,1280000.0
+Léo Duarte,AC Milan,D,24,Brazil,italy,2021,24615.0,1280000.0
+Lucas Martínez Quarta,Fiorentina,D,24,Argentina,italy,2021,24615.0,1280000.0
+Razvan Marin,Cagliari,M,24,Romania,italy,2021,24615.0,1280000.0
+Ruslan Malinovskyi,Atalanta,F,27,Ukraine,italy,2021,24615.0,1280000.0
+Diogo Dalot,AC Milan,D,21,Portugal,italy,2021,24615.0,1280000.0
+Alexis Saelemaekers,AC Milan,F,21,Belgium,italy,2021,24615.0,1280000.0
+Graziano Pellè,Parma,F,35,Italy,italy,2021,24615.0,1280000.0
+Roberto Pereyra,Udinese,F,29,Argentina,italy,2021,24615.0,1280000.0
+Maya Yoshida,Sampdoria,D,32,Japan,italy,2021,24615.0,1280000.0
+Keita Baldé,Sampdoria,F,25,Senegal,italy,2021,24615.0,1280000.0
+Gerard Deulofeu,Udinese,F,26,Spain,italy,2021,24615.0,1280000.0
+Denis Vavro,Lazio,D,24,Slovakia,italy,2021,24615.0,1280000.0
+Jeroen Zoet,Spezia,K,29,Netherlands,italy,2021,24615.0,1280000.0
+Adolfo Gaich,Benevento,F,21,Argentina,italy,2021,22115.0,1150000.0
+Luca Antei,Benevento,D,28,Italy,italy,2021,21346.0,1110000.0
+Simy,Crotone,F,28,Nigeria,italy,2021,21346.0,1110000.0
+Mehdi Bourabia,Sassuolo,M,29,Morocco,italy,2021,21346.0,1110000.0
+Marlon,Sassuolo,D,25,Brazil,italy,2021,21346.0,1110000.0
+Valter Birsa,Cagliari,F,34,Slovenia,italy,2021,21346.0,1110000.0
+Lyanco,Torino,D,23,Brazil,italy,2021,21346.0,1110000.0
+Jérémie Boga,Sassuolo,F,23,Cote d'Ivoire,italy,2021,21346.0,1110000.0
+Francesco Cassata,Genoa,M,23,Italy,italy,2021,21346.0,1110000.0
+Gian Marco Ferrari,Sassuolo,D,28,Italy,italy,2021,21346.0,1110000.0
+Ivan Radovanovic,Genoa,M,32,Serbia,italy,2021,21346.0,1110000.0
+Manolo Portanova,Genoa,F,20,Italy,italy,2021,21346.0,1110000.0
+Paolo Ghiglione,Genoa,D,23,Italy,italy,2021,21346.0,1110000.0
+Federico Peluso,Sassuolo,D,36,Italy,italy,2021,21346.0,1110000.0
+Vittorio Parigini,Genoa,F,24,Italy,italy,2021,21346.0,1110000.0
+Darko Lazovic,Hellas Verona,M,30,Serbia,italy,2021,21346.0,1110000.0
+Giangiacomo Magnani,Hellas Verona,D,25,Italy,italy,2021,21346.0,1110000.0
+Koray Günter,Hellas Verona,D,26,Germany,italy,2021,21346.0,1110000.0
+Rolando Mandragora,Torino,M,23,Italy,italy,2021,21346.0,1110000.0
+Bram Nuytinck,Udinese,D,30,Netherlands,italy,2021,21346.0,1110000.0
+Juan Musso,Udinese,K,26,Argentina,italy,2021,21346.0,1110000.0
+Bryan Dabo,Benevento,M,28,Burkina Faso,italy,2021,21346.0,1110000.0
+Marco Sportiello,Atalanta,K,28,Italy,italy,2021,21346.0,1110000.0
+Rolando Mandragora,Udinese,M,23,Italy,italy,2021,21346.0,1110000.0
+Bruno Alves,Parma,D,38,Portugal,italy,2021,21346.0,1110000.0
+Sebastien De Maio,Udinese,D,33,France,italy,2021,21346.0,1110000.0
+Matteo Gabbia,AC Milan,D,20,Italy,italy,2021,21346.0,1110000.0
+Arkadiusz Reca,Crotone,M,25,Poland,italy,2021,21346.0,1110000.0
+Fikayo Tomori,AC Milan,D,23,England,italy,2021,20962.0,1090000.0
+Pedro Obiang,Sassuolo,M,28,Equatorial Guinea,italy,2021,20962.0,1090000.0
+Sam Lammers,Atalanta,F,23,Netherlands,italy,2021,19808.0,1030000.0
+Stefano Denswil,Bologna,D,27,Netherlands,italy,2021,19808.0,1030000.0
+Danilo,Bologna,D,36,Brazil,italy,2021,19808.0,1030000.0
+Andreas Skov Olsen,Bologna,F,20,Denmark,italy,2021,19808.0,1030000.0
+Stefano Okaka,Udinese,F,31,Italy,italy,2021,19808.0,1030000.0
+Dusan Vlahovic,Fiorentina,F,20,Serbia,italy,2021,19808.0,1030000.0
+M'Bala Nzola,Spezia,F,24,France,italy,2021,19615.0,1020000.0
+Mattia Destro,Genoa,F,29,Italy,italy,2021,19615.0,1020000.0
+Lisandro Magallán,Crotone,D,27,Argentina,italy,2021,18462.0,960000.0
+Radu Drăgușin,Juventus,D,19,Romania,italy,2021,18077.0,940000.0
+Edoardo Goldaniga,Genoa,D,26,Italy,italy,2021,17885.0,930000.0
+Djavan Anderson,Lazio,M,25,Netherlands,italy,2021,17885.0,930000.0
+Charalampos Lykogiannis,Cagliari,D,26,Greece,italy,2021,17885.0,930000.0
+Jacopo Petriccione,Crotone,M,25,Italy,italy,2021,17885.0,930000.0
+Ignacio Pussetto,Udinese,F,24,Argentina,italy,2021,17885.0,930000.0
+Gianluca Pegolo,Sassuolo,K,39,Italy,italy,2021,17885.0,930000.0
+Ronaldo Vieira,Hellas Verona,M,22,England,italy,2021,17885.0,930000.0
+Fabio Pisacane,Cagliari,D,34,Italy,italy,2021,17885.0,930000.0
+Goran Pandev,Genoa,F,37,North Macedonia,italy,2021,17885.0,930000.0
+Mattias Svanberg,Bologna,M,21,Sweden,italy,2021,17885.0,930000.0
+Miguel Veloso,Hellas Verona,M,34,Portugal,italy,2021,17885.0,930000.0
+Nicolò Armini,Lazio,D,19,Italy,italy,2021,17885.0,930000.0
+Mattia Zaccagni,Hellas Verona,F,25,Italy,italy,2021,17885.0,930000.0
+Marco Silvestri,Hellas Verona,K,29,Italy,italy,2021,17885.0,930000.0
+Federico Ricci,Sassuolo,F,26,Italy,italy,2021,17885.0,930000.0
+Federico Dimarco,Hellas Verona,D,22,Italy,italy,2021,17885.0,930000.0
+Federico Ceccherini,Hellas Verona,D,28,Italy,italy,2021,17885.0,930000.0
+Sofian Kiyine,Lazio,M,23,Morocco,italy,2021,17885.0,930000.0
+Emmanuel Badu,Hellas Verona,M,29,Ghana,italy,2021,17885.0,930000.0
+Davide Faraoni,Hellas Verona,D,28,Italy,italy,2021,17885.0,930000.0
+Valon Behrami,Genoa,M,35,Switzerland,italy,2021,17885.0,930000.0
+Vasco Regini,Sampdoria,D,30,Italy,italy,2021,17885.0,930000.0
+Antonin Barak,Hellas Verona,M,25,Czech Republic,italy,2021,17885.0,930000.0
+Roberto Insigne,Benevento,F,26,Italy,italy,2021,17885.0,930000.0
+Riccardo Sottil,Cagliari,F,21,Italy,italy,2021,17885.0,930000.0
+Daniel Fuzato,Roma,K,23,Brazil,italy,2021,17885.0,930000.0
+Paolo Faragò,Bologna,D,27,Italy,italy,2021,17885.0,930000.0
+Maximiliano Olivera,Fiorentina,D,28,Uruguay,italy,2021,17885.0,930000.0
+Paolo Faragò,Cagliari,M,27,Italy,italy,2021,17885.0,930000.0
+Bremer,Torino,D,23,Brazil,italy,2021,17885.0,930000.0
+Samir,Udinese,D,25,Brazil,italy,2021,17885.0,930000.0
+Hamed Junior Traorè,Sassuolo,F,20,Cote d'Ivoire,italy,2021,17885.0,930000.0
+Daniele Padelli,Inter Milan,K,34,Italy,italy,2021,17885.0,930000.0
+Jens Stryger Larsen,Udinese,D,29,Denmark,italy,2021,17885.0,930000.0
+Johan Mojica,Atalanta,D,28,Colombia,italy,2021,17885.0,930000.0
+Nicolás Domínguez,Bologna,M,22,Argentina,italy,2021,17308.0,900000.0
+Wylan Cyprien,Parma,M,25,France,italy,2021,17308.0,900000.0
+Bryan Reynolds,Roma,D,19,United States,italy,2021,17308.0,900000.0
+Amer Gojak,Torino,F,23,Bosnia-Herzegovina,italy,2021,17308.0,900000.0
+Joakim Maehle,Atalanta,D,23,Denmark,italy,2021,17308.0,900000.0
+Mërgim Vojvoda,Torino,D,25,Kosovo,italy,2021,17308.0,900000.0
+Jeremy Toljan,Sassuolo,D,26,Germany,italy,2021,17308.0,900000.0
+Igor,Fiorentina,D,22,Brazil,italy,2021,17308.0,900000.0
+Vincent Laurini,Parma,D,31,France,italy,2021,17115.0,890000.0
+Ahmad Benali,Crotone,M,28,Libya,italy,2021,16346.0,850000.0
+Federico Barba,Benevento,D,27,Italy,italy,2021,15962.0,830000.0
+Giuseppe Pezzella,Parma,D,22,Italy,italy,2021,15962.0,830000.0
+Bartosz Bereszynski,Sampdoria,D,28,Poland,italy,2021,15962.0,830000.0
+Emmanuel Rivière,Crotone,F,30,Martinique,italy,2021,15962.0,830000.0
+Daniel Bessa,Hellas Verona,M,28,Italy,italy,2021,15962.0,830000.0
+Riccardo Gagliolo,Parma,D,30,Sweden,italy,2021,15962.0,830000.0
+Mattia Sprocati,Parma,F,27,Italy,italy,2021,15962.0,830000.0
+Luca Cigarini,Crotone,M,34,Italy,italy,2021,15192.0,790000.0
+Jacopo Dezi,Parma,M,28,Italy,italy,2021,15000.0,780000.0
+Tolgay Arslan,Udinese,M,30,Germany,italy,2021,14808.0,770000.0
+Rodrigo Becão,Udinese,D,24,Brazil,italy,2021,14808.0,770000.0
+Miha Zajc,Genoa,F,26,Slovenia,italy,2021,14808.0,770000.0
+Filip Bradaric,Cagliari,M,28,Croatia,italy,2021,14808.0,770000.0
+Yordan Osorio,Parma,D,26,Venezuela,italy,2021,14808.0,770000.0
+Valentin Antov,Bologna,D,20,Bulgaria,italy,2021,14808.0,770000.0
+Antonio Barreca,Fiorentina,D,25,Italy,italy,2021,14808.0,770000.0
+Takehiro Tomiyasu,Bologna,D,21,Japan,italy,2021,14808.0,770000.0
+Ardian Ismajli,Spezia,D,24,Albania,italy,2021,14808.0,770000.0
+Pierre Kalulu,AC Milan,D,20,France,italy,2021,14808.0,770000.0
+Maxime López,Sassuolo,M,22,France,italy,2021,14808.0,770000.0
+Kaan Ayhan,Sassuolo,D,25,Turkey,italy,2021,14808.0,770000.0
+Maxime Busi,Parma,D,20,Belgium,italy,2021,14808.0,770000.0
+Marko Pajac,Cagliari,M,27,Croatia,italy,2021,14615.0,760000.0
+Luigi Vitale,Hellas Verona,D,33,Italy,italy,2021,14615.0,760000.0
+Antonio Di Gaudio,Hellas Verona,F,31,Italy,italy,2021,14231.0,740000.0
+Vanja Milinković-Savić,Torino,K,23,Serbia,italy,2021,14231.0,740000.0
+Antonino La Gumina,Sampdoria,F,24,Italy,italy,2021,14231.0,740000.0
+Simone Edera,Torino,F,23,Italy,italy,2021,14231.0,740000.0
+Joseph Marie Minala,Lazio,M,24,Cameroon,italy,2021,14231.0,740000.0
+Kevin Bonifazi,Udinese,D,24,Italy,italy,2021,14231.0,740000.0
+Alan Empereur,Hellas Verona,D,26,Brazil,italy,2021,14231.0,740000.0
+Filippo Romagna,Sassuolo,D,23,Italy,italy,2021,14231.0,740000.0
+Matteo Pessina,Atalanta,M,23,Italy,italy,2021,14231.0,740000.0
+Federico Marchetti,Genoa,K,37,Italy,italy,2021,14231.0,740000.0
+Lorenzo Venuti,Fiorentina,D,25,Italy,italy,2021,14231.0,740000.0
+Andrej Galabinov,Spezia,F,31,Bulgaria,italy,2021,14231.0,740000.0
+Daniele Verde,Spezia,F,24,Italy,italy,2021,14231.0,740000.0
+Jacopo Sala,Spezia,D,28,Italy,italy,2021,14231.0,740000.0
+Luca Marrone,Crotone,D,30,Italy,italy,2021,14231.0,740000.0
+Kevin Agudelo,Spezia,F,21,Colombia,italy,2021,14231.0,740000.0
+Andrea Rispoli,Crotone,M,32,Italy,italy,2021,13269.0,690000.0
+Ivan Provedel,Spezia,K,26,Italy,italy,2021,12885.0,670000.0
+Juan Ramos,Spezia,D,24,Uruguay,italy,2021,12885.0,670000.0
+Fabio Depaoli,Benevento,D,23,Italy,italy,2021,12500.0,650000.0
+Fabio Depaoli,Atalanta,D,23,Italy,italy,2021,12500.0,650000.0
+Angelo da Costa,Bologna,K,36,Brazil,italy,2021,12500.0,650000.0
+Gabriele Moncini,Benevento,F,24,Italy,italy,2021,12500.0,650000.0
+Gaetano Letizia,Benevento,D,30,Italy,italy,2021,12500.0,650000.0
+Felipe Vizeu,Udinese,F,23,Brazil,italy,2021,12500.0,650000.0
+Matteo Scozzarella,Parma,M,32,Italy,italy,2021,12500.0,650000.0
+Marvin Zeegelaar,Udinese,D,30,Netherlands,italy,2021,12308.0,640000.0
+Juan Brunetta,Parma,F,23,Argentina,italy,2021,12308.0,640000.0
+Brahim Díaz,AC Milan,F,21,Spain,italy,2021,12308.0,640000.0
+Adrien Tamèze,Hellas Verona,M,26,Cameroon,italy,2021,12308.0,640000.0
+Morten Thorsby,Sampdoria,M,24,Norway,italy,2021,12308.0,640000.0
+Walace,Udinese,M,25,Brazil,italy,2021,12308.0,640000.0
+Jerdy Schouten,Bologna,M,23,Netherlands,italy,2021,12308.0,640000.0
+Fernando Forestieri,Udinese,F,30,Italy,italy,2021,12308.0,640000.0
+Luca Caldirola,Benevento,D,29,Italy,italy,2021,12308.0,640000.0
+Lautaro Valenti,Parma,D,21,Argentina,italy,2021,12308.0,640000.0
+Cristo,Udinese,F,22,Spain,italy,2021,12115.0,630000.0
+Gastón Brugman,Parma,M,28,Uruguay,italy,2021,12115.0,630000.0
+Andrea Carboni,Cagliari,D,19,Italy,italy,2021,11731.0,610000.0
+Simone Iacoponi,Parma,D,33,Italy,italy,2021,11346.0,590000.0
+Valentin Mihaila,Parma,F,21,Romania,italy,2021,11154.0,580000.0
+Aaron Hickey,Bologna,D,18,Scotland,italy,2021,11154.0,580000.0
+Nehuén Paz,Bologna,D,27,Argentina,italy,2021,11154.0,580000.0
+Lorenzo Del Pinto,Benevento,M,30,Italy,italy,2021,10962.0,570000.0
+Boris Radunović,Atalanta,K,24,Serbia,italy,2021,10962.0,570000.0
+Massimo Volta,Benevento,D,33,Italy,italy,2021,10962.0,570000.0
+Federico Mattiello,Spezia,D,25,Italy,italy,2021,10769.0,560000.0
+Cristian Dell'Orco,Spezia,D,26,Italy,italy,2021,10769.0,560000.0
+Lorenzo Colombo,AC Milan,F,18,Italy,italy,2021,10769.0,560000.0
+Alessandro Deiola,Spezia,M,25,Italy,italy,2021,10769.0,560000.0
+Daniel Maldini,AC Milan,F,18,Italy,italy,2021,10769.0,560000.0
+Hans Nicolussi Caviglia,Parma,M,20,Italy,italy,2021,10769.0,560000.0
+Andrés Tello,Benevento,M,24,Colombia,italy,2021,10769.0,560000.0
+Riccardo Marchizza,Spezia,D,22,Italy,italy,2021,10769.0,560000.0
+Rafael,Spezia,K,38,Brazil,italy,2021,10769.0,560000.0
+Pietro Terracciano,Fiorentina,K,30,Italy,italy,2021,10769.0,560000.0
+Elio Capradossi,Spezia,D,24,Italy,italy,2021,10769.0,560000.0
+Hidde ter Avest,Udinese,D,23,Netherlands,italy,2021,10769.0,560000.0
+Ewandro Costa,Udinese,F,24,Brazil,italy,2021,10769.0,560000.0
+Emanuel Vignato,Bologna,F,20,Italy,italy,2021,10769.0,560000.0
+Alessandro Deiola,Cagliari,M,25,Italy,italy,2021,10769.0,560000.0
+Alessandro Tripaldelli,Cagliari,D,21,Italy,italy,2021,10769.0,560000.0
+Christian Oliva,Cagliari,M,24,Uruguay,italy,2021,10769.0,560000.0
+Nikita Contini,Napoli,K,24,Italy,italy,2021,10769.0,560000.0
+Gabriele Zappa,Cagliari,D,20,Italy,italy,2021,10769.0,560000.0
+Guglielmo Vicario,Cagliari,K,24,Italy,italy,2021,10769.0,560000.0
+Tommaso Pobega,Spezia,M,21,Italy,italy,2021,10769.0,560000.0
+Roberto Piccoli,Spezia,F,19,Italy,italy,2021,10769.0,560000.0
+Carlo Pinsoglio,Juventus,K,30,Italy,italy,2021,10769.0,560000.0
+Eduardo Henrique,Crotone,M,25,Brazil,italy,2021,10385.0,540000.0
+Ivan Lakicevic,Genoa,D,27,Serbia,italy,2021,10192.0,530000.0
+Mehdi Léris,Sampdoria,M,22,France,italy,2021,10000.0,520000.0
+Gianluca Scamacca,Genoa,F,21,Italy,italy,2021,10000.0,520000.0
+Lennart Czyborra,Genoa,D,21,Germany,italy,2021,9808.0,510000.0
+Simon Sohm,Parma,M,19,Switzerland,italy,2021,9808.0,510000.0
+Thomas Ouwejan,Udinese,D,24,Netherlands,italy,2021,9808.0,510000.0
+Milos Vulic,Crotone,M,24,Serbia,italy,2021,9808.0,510000.0
+Mert Müldür,Sassuolo,D,21,Turkey,italy,2021,9808.0,510000.0
+Lukas Haraslin,Sassuolo,F,24,Slovakia,italy,2021,9808.0,510000.0
+Georgios Kyriakopoulos,Sassuolo,D,24,Greece,italy,2021,9808.0,510000.0
+Petar Brlek,Genoa,M,26,Croatia,italy,2021,9808.0,510000.0
+Botond Balogh,Parma,D,18,Hungary,italy,2021,9615.0,500000.0
+Lorenzo Montipò,Benevento,K,24,Italy,italy,2021,9615.0,500000.0
+Luca Siligardi,Crotone,F,32,Italy,italy,2021,9038.0,470000.0
+Koffi Djidji,Crotone,D,27,Cote d'Ivoire,italy,2021,9038.0,470000.0
+Arturo Calabresi,Cagliari,D,24,Italy,italy,2021,8846.0,460000.0
+Tommaso Augello,Sampdoria,D,26,Italy,italy,2021,8846.0,460000.0
+Claudio Terzi,Spezia,D,36,Italy,italy,2021,8846.0,460000.0
+Luca Mora,Spezia,M,32,Italy,italy,2021,8846.0,460000.0
+Zito Luvumbo,Cagliari,F,18,Angola,italy,2021,8846.0,460000.0
+Musa Juwara,Bologna,F,19,The Gambia,italy,2021,8846.0,460000.0
+Arturo Calabresi,Bologna,D,24,Italy,italy,2021,8846.0,460000.0
+Simone Scuffet,Udinese,K,24,Italy,italy,2021,8846.0,460000.0
+Nahuel Estévez,Spezia,M,24,Argentina,italy,2021,8654.0,450000.0
+Lucien Agoume,Spezia,M,18,France,italy,2021,8654.0,450000.0
+Daam Foulon,Benevento,D,21,Belgium,italy,2021,8654.0,450000.0
+Léo Sena,Spezia,M,24,Brazil,italy,2021,8654.0,450000.0
+Vladimir Golemic,Crotone,D,29,Serbia,italy,2021,8654.0,450000.0
+Jacopo Segre,Torino,M,23,Italy,italy,2021,7885.0,410000.0
+Niccolò Zanellato,Crotone,M,22,Italy,italy,2021,7885.0,410000.0
+Sebastian Walukiewicz,Cagliari,D,20,Poland,italy,2021,7308.0,380000.0
+Pedro Pereira,Crotone,M,22,Portugal,italy,2021,7308.0,380000.0
+Kevin Rüegg,Hellas Verona,M,22,Switzerland,italy,2021,7308.0,380000.0
+Jean-Victor Makengo,Udinese,M,22,France,italy,2021,7308.0,380000.0
+Pawel Dawidowicz,Hellas Verona,D,25,Poland,italy,2021,7308.0,380000.0
+Nahuel Molina,Udinese,D,22,Argentina,italy,2021,7308.0,380000.0
+Samir Ujkani,Torino,K,32,Kosovo,italy,2021,7308.0,380000.0
+Matteo Ricci,Spezia,M,26,Italy,italy,2021,7115.0,370000.0
+Eddie Salcedo,Hellas Verona,F,19,Italy,italy,2021,7115.0,370000.0
+Giacomo Raspadori,Sassuolo,F,20,Italy,italy,2021,7115.0,370000.0
+Mamadou Coulibaly,Udinese,M,21,Senegal,italy,2021,7115.0,370000.0
+Pietro Boer,Roma,K,18,Italy,italy,2021,7115.0,370000.0
+Vincenzo Millico,Torino,F,20,Italy,italy,2021,7115.0,370000.0
+Salvatore Molina,Crotone,M,28,Italy,italy,2021,7115.0,370000.0
+Giulio Maggiore,Spezia,M,22,Italy,italy,2021,7115.0,370000.0
+Simone Colombi,Parma,K,29,Italy,italy,2021,7115.0,370000.0
+Riccardo Improta,Benevento,F,26,Italy,italy,2021,7115.0,370000.0
+Lukas Zima,Genoa,K,26,Czech Republic,italy,2021,7115.0,370000.0
+Giovanni Crociata,Crotone,M,23,Italy,italy,2021,7115.0,370000.0
+Paolo Bartolomei,Spezia,M,31,Italy,italy,2021,7115.0,370000.0
+Nícolas,Udinese,K,32,Brazil,italy,2021,7115.0,370000.0
+Ebrima Colley,Hellas Verona,F,20,The Gambia,italy,2021,7115.0,370000.0
+Alessandro Buongiorno,Torino,D,21,Italy,italy,2021,7115.0,370000.0
+Alessandro Tuia,Benevento,D,30,Italy,italy,2021,7115.0,370000.0
+Giuseppe Cuomo,Crotone,D,22,Italy,italy,2021,6346.0,330000.0
+Mattia Mustacchio,Crotone,M,31,Italy,italy,2021,6346.0,330000.0
+Ivan Ilic,Hellas Verona,M,19,Serbia,italy,2021,6154.0,320000.0
+Bosko Sutalo,Atalanta,D,20,Croatia,italy,2021,6154.0,320000.0
+Mert Cetin,Hellas Verona,D,23,Turkey,italy,2021,6154.0,320000.0
+Salva Ferrer,Spezia,D,22,Spain,italy,2021,6154.0,320000.0
+Karim Laribi,Hellas Verona,F,29,Tunisia,italy,2021,5769.0,300000.0
+Axel Bakayoko,Inter Milan,F,22,France,italy,2021,5769.0,300000.0
+Martin Erlic,Spezia,D,22,Croatia,italy,2021,5385.0,280000.0
+Kingsley Michael,Bologna,M,21,Nigeria,italy,2021,5385.0,280000.0
+Gennaro Acampora,Spezia,M,26,Italy,italy,2021,5385.0,280000.0
+Daniele Ragatzu,Cagliari,F,29,Italy,italy,2021,5385.0,280000.0
+Giuseppe Mastinu,Spezia,F,29,Italy,italy,2021,5385.0,280000.0
+Fabrizio Caligara,Cagliari,M,20,Italy,italy,2021,5385.0,280000.0
+Alessandro Berardi,Hellas Verona,K,29,Italy,italy,2021,5385.0,280000.0
+Antonio Mazzotta,Crotone,M,31,Italy,italy,2021,5385.0,280000.0
+Alex Cordaz,Crotone,K,37,Italy,italy,2021,5385.0,280000.0
+Andri Fannar Baldursson,Bologna,M,18,Iceland,italy,2021,5385.0,280000.0
+Antonio Rosati,Torino,K,37,Italy,italy,2021,5385.0,280000.0
+Amad Diallo,Atalanta,F,18,Cote d'Ivoire,italy,2021,5385.0,280000.0
+Antonio Rosati,Fiorentina,K,37,Italy,italy,2021,5385.0,280000.0
+Stefano Turati,Sassuolo,K,19,Italy,italy,2021,5385.0,280000.0
+Simone Aresti,Cagliari,K,34,Italy,italy,2021,5385.0,280000.0
+Daan Dierckx,Parma,D,18,Belgium,italy,2021,5192.0,270000.0
+Nicolás Schiappacasse,Sassuolo,F,21,Uruguay,italy,2021,5000.0,260000.0
+Julian Chabot,Spezia,D,22,Germany,italy,2021,5000.0,260000.0
+Luis Rojas,Crotone,F,18,Chile,italy,2021,5000.0,260000.0
+Sebastian Prödl,Udinese,D,33,Austria,italy,2021,5000.0,260000.0
+Jayden Braaf,Udinese,F,18,Netherlands,italy,2021,5000.0,260000.0
+Kaique Rocha,Sampdoria,D,19,Brazil,italy,2021,5000.0,260000.0
+Wilfried Stephane Singo,Torino,D,19,Cote d'Ivoire,italy,2021,5000.0,260000.0
+Karlo Letica,Sampdoria,K,23,Croatia,italy,2021,5000.0,260000.0
+Tomislav Gomelt,Crotone,M,25,Croatia,italy,2021,4423.0,230000.0
+Darian Males,Genoa,F,19,Switzerland,italy,2021,4231.0,220000.0
+Claudiu Micovschi,Genoa,M,21,Romania,italy,2021,4231.0,220000.0
+Andrea Danzi,Hellas Verona,M,21,Italy,italy,2021,4231.0,220000.0
+Giacomo Ricci,Parma,D,24,Italy,italy,2021,3846.0,200000.0
+Marco Festa,Crotone,K,28,Italy,italy,2021,3846.0,200000.0
+Junior Messias,Crotone,F,29,Brazil,italy,2021,3846.0,200000.0
+Luca Vignali,Spezia,D,24,Italy,italy,2021,3846.0,200000.0
+Denis Dragus,Crotone,F,21,Romania,italy,2021,3654.0,190000.0
+Emmanuel Gyasi,Spezia,F,26,Ghana,italy,2021,3654.0,190000.0
+Vasilios Zagaritis,Parma,D,19,Greece,italy,2021,3654.0,190000.0
+Simone Pinna,Cagliari,D,22,Italy,italy,2021,3654.0,190000.0
+Marco Carnesecchi,Atalanta,K,20,Italy,italy,2021,3654.0,190000.0
+Tòfol Montiel,Fiorentina,F,20,Spain,italy,2021,3654.0,190000.0
+Ivor Pandur,Hellas Verona,K,20,Croatia,italy,2021,3654.0,190000.0
+Matteo Tramoni,Cagliari,M,20,France,italy,2021,3654.0,190000.0
+Brian Oddei,Sassuolo,F,18,Italy,italy,2021,3654.0,190000.0
+Petar Micin,Udinese,F,22,Serbia,italy,2021,3654.0,190000.0
+Francesco Rossi,Atalanta,K,29,Italy,italy,2021,3654.0,190000.0
+Simone Bastoni,Spezia,D,23,Italy,italy,2021,3654.0,190000.0
+Gianluca Frabotta,Juventus,D,21,Italy,italy,2021,3654.0,190000.0
+Nicola Ravaglia,Sampdoria,K,31,Italy,italy,2021,3654.0,190000.0
+Giuseppe Carriero,Parma,M,23,Italy,italy,2021,3269.0,170000.0
+Alberto Paleari,Genoa,K,28,Italy,italy,2021,3269.0,170000.0
+Nicolò Manfredini,Benevento,K,32,Italy,italy,2021,2885.0,150000.0
+Abdallah Basit,Benevento,M,20,Ghana,italy,2021,2885.0,150000.0
+Filip Stankovic,Inter Milan,K,18,Serbia,italy,2021,2885.0,150000.0
+Andrea Adorante,Parma,F,20,Italy,italy,2021,2885.0,150000.0
+Andrea Dini,Parma,K,24,Italy,italy,2021,2885.0,150000.0
+Matteo Lovato,Hellas Verona,D,20,Italy,italy,2021,2885.0,150000.0
+Giuseppe Di Serio,Benevento,F,19,Italy,italy,2021,2885.0,150000.0
+Filippo Rinaldi,Parma,K,18,Italy,italy,2021,2885.0,150000.0
+Erick Ferigra,Torino,D,21,Ecuador,italy,2021,2885.0,150000.0
+Pier Graziano Gori,Benevento,K,40,Italy,italy,2021,2500.0,130000.0
+Manuel Gasparini,Udinese,K,18,Italy,italy,2021,2500.0,130000.0
+Mikkel Damsgaard,Sampdoria,F,20,Denmark,italy,2021,2500.0,130000.0
+Gian Marco Crespi,Crotone,K,19,Italy,italy,2021,2500.0,130000.0
+Bruno Amione,Hellas Verona,D,18,Argentina,italy,2021,2500.0,130000.0
+Kristoffer Askildsen,Sampdoria,M,19,Norway,italy,2021,2500.0,130000.0
+Michel Ndary Adopo,Torino,M,20,France,italy,2021,2115.0,110000.0
+Christian Pastina,Benevento,D,19,Italy,italy,2021,1731.0,90000.0
+Aristóteles Romero,Crotone,M,24,Venezuela,italy,2021,1731.0,90000.0
+Ibrahim Karamoko,Torino,M,19,France,italy,2021,1731.0,90000.0
+Marco Alia,Lazio,K,20,Albania,italy,2021,1731.0,90000.0
+Giuseppe Caso,Genoa,F,21,Italy,italy,2021,1346.0,70000.0
+Martin Palumbo,Udinese,M,18,Norway,italy,2021,1346.0,70000.0
+Sebastian Breza,Bologna,K,22,Canada,italy,2021,1135.0,59000.0
+Federico Ravaglia,Bologna,K,20,Italy,italy,2021,1077.0,56000.0
+Stefano Gori,Juventus,K,24,Italy,italy,2021,1077.0,56000.0
+Filippo Melegoni,Genoa,M,21,Italy,italy,2021,885.0,46000.0
+Madiu Bari,Lazio,M,22,Portugal,italy,2021,712.0,37000.0
+Abukar Mohamed,Lazio,M,22,Finland,italy,2021,712.0,37000.0
+Francesco D'Alterio,Crotone,K,18,Italy,italy,2021,712.0,37000.0
+Matteo Ruggeri,Atalanta,D,18,Italy,italy,2021,712.0,37000.0
+Titas Krapikas,Spezia,K,21,Lithuania,italy,2021,712.0,37000.0
+Nicola Borghetto,Hellas Verona,K,20,Italy,italy,2021,712.0,37000.0
+Destiny Udogie,Hellas Verona,D,17,Italy,italy,2021,712.0,37000.0
+Christian Dalle Mura,Fiorentina,D,18,Italy,italy,2021,712.0,37000.0
+Federico Brancolini,Fiorentina,K,19,Italy,italy,2021,712.0,37000.0
+Igor Lucatelli,Benevento,K,17,Italy,italy,2021,712.0,37000.0
+Davide Masella,Benevento,F,18,Italy,italy,2021,712.0,37000.0
+Reinaldo Radu,Parma,D,18,Romania,italy,2021,712.0,37000.0
+Edoardo Vergani,Bologna,F,19,Italy,italy,2021,712.0,37000.0
+Nicolò Rovella,Genoa,M,18,Italy,italy,2021,712.0,37000.0
+Simone Farelli,Roma,K,37,Italy,italy,2021,712.0,37000.0
+Marcello Gazzola,Parma,D,35,Italy,italy,2021,0.0,0.0
+Jérôme Onguéné,Genoa,D,23,Cameroon,italy,2021,0.0,0.0

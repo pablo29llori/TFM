@@ -1,0 +1,546 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Lionel Messi,Barcelona,F,33,Argentina,spain,2021,1365385.0,71000000.0
+Antoine Griezmann,Barcelona,F,29,France,spain,2021,721154.0,37500000.0
+Samuel Umtiti,Barcelona,D,26,France,spain,2021,615385.0,32000000.0
+Eden Hazard,Real Madrid,F,29,Belgium,spain,2021,600962.0,31250000.0
+Sergio Ramos,Real Madrid,D,34,Spain,spain,2021,468846.0,24380000.0
+Toni Kroos,Real Madrid,M,30,Germany,spain,2021,468846.0,24380000.0
+Marcelo,Real Madrid,D,32,Brazil,spain,2021,468846.0,24380000.0
+Sergio Busquets,Barcelona,M,32,Spain,spain,2021,461538.0,24000000.0
+Luka Modric,Real Madrid,M,35,Croatia,spain,2021,420769.0,21880000.0
+Philippe Coutinho,Barcelona,F,28,Brazil,spain,2021,420769.0,21880000.0
+Jan Oblak,Atletico Madrid,K,27,Slovenia,spain,2021,400000.0,20800000.0
+Karim Benzema,Real Madrid,F,32,France,spain,2021,348654.0,18130000.0
+Gerard Piqué,Barcelona,D,33,Spain,spain,2021,346154.0,18000000.0
+Jordi Alba,Barcelona,D,31,Spain,spain,2021,338462.0,17600000.0
+Raphaël Varane,Real Madrid,D,27,France,spain,2021,328462.0,17080000.0
+Koke,Atletico Madrid,M,28,Spain,spain,2021,307692.0,16000000.0
+Miralem Pjanic,Barcelona,M,30,Bosnia-Herzegovina,spain,2021,300385.0,15620000.0
+Luis Suárez,Atletico Madrid,F,33,Uruguay,spain,2021,300385.0,15620000.0
+Isco,Real Madrid,F,28,Spain,spain,2021,280385.0,14580000.0
+João Félix,Atletico Madrid,F,20,Portugal,spain,2021,280385.0,14580000.0
+Yannick Carrasco,Atletico Madrid,F,27,Belgium,spain,2021,252500.0,13130000.0
+Thibaut Courtois,Real Madrid,K,28,Belgium,spain,2021,252500.0,13130000.0
+Clément Lenglet,Barcelona,D,25,France,spain,2021,230769.0,12000000.0
+Ousmane Dembélé,Barcelona,F,23,France,spain,2021,230769.0,12000000.0
+Saúl Ñíguez,Atletico Madrid,M,25,Spain,spain,2021,230769.0,12000000.0
+Iñaki Williams,Athletic Club,F,26,Spain,spain,2021,219231.0,11400000.0
+Casemiro,Real Madrid,M,28,Brazil,spain,2021,210385.0,10940000.0
+Ferland Mendy,Real Madrid,D,25,France,spain,2021,200385.0,10420000.0
+Daniel Carvajal,Real Madrid,D,28,Spain,spain,2021,196346.0,10210000.0
+Marco Asensio,Real Madrid,F,24,Spain,spain,2021,189038.0,9830000.0
+Lucas Vázquez,Real Madrid,F,29,Spain,spain,2021,180385.0,9380000.0
+Diego Costa,Atletico Madrid,F,32,Spain,spain,2021,178846.0,9300000.0
+Marc-André ter Stegen,Barcelona,K,28,Germany,spain,2021,173077.0,9000000.0
+Sergi Roberto,Barcelona,D,28,Spain,spain,2021,173077.0,9000000.0
+Kévin Gameiro,Valencia,F,33,France,spain,2021,171923.0,8940000.0
+Iñigo Martínez,Athletic Club,D,29,Spain,spain,2021,170577.0,8870000.0
+Nacho Fernández,Real Madrid,D,30,Spain,spain,2021,164231.0,8540000.0
+Luka Jovic,Real Madrid,F,22,Serbia,spain,2021,160192.0,8330000.0
+Mario Hermoso,Atletico Madrid,D,25,Spain,spain,2021,160192.0,8330000.0
+Mariano Díaz,Real Madrid,F,27,Spain,spain,2021,160192.0,8330000.0
+Rodrygo,Real Madrid,F,19,Brazil,spain,2021,160192.0,8330000.0
+Felipe,Atletico Madrid,D,31,Brazil,spain,2021,145385.0,7560000.0
+Sime Vrsaljko,Atletico Madrid,D,28,Croatia,spain,2021,140962.0,7330000.0
+Álvaro Odriozola,Real Madrid,D,24,Spain,spain,2021,140192.0,7290000.0
+Éder Militão,Real Madrid,D,22,Brazil,spain,2021,140192.0,7290000.0
+Carlos Bacca,Villarreal,F,34,Colombia,spain,2021,139615.0,7260000.0
+Geoffrey Kondogbia,Valencia,M,27,Central African Republic,spain,2021,132692.0,6900000.0
+Geoffrey Kondogbia,Atletico Madrid,M,27,Central African Republic,spain,2021,132692.0,6900000.0
+Nabil Fekir,Real Betis,F,27,France,spain,2021,130769.0,6800000.0
+Vitolo,Atletico Madrid,F,30,Spain,spain,2021,129615.0,6740000.0
+Vinícius Júnior,Real Madrid,F,20,Brazil,spain,2021,128269.0,6670000.0
+Thomas Lemar,Atletico Madrid,F,24,France,spain,2021,125000.0,6500000.0
+Ivan Rakitic,Sevilla,M,32,Croatia,spain,2021,124038.0,6450000.0
+Gonçalo Guedes,Valencia,F,23,Portugal,spain,2021,117308.0,6100000.0
+Sergiño Dest,Barcelona,D,19,United States,spain,2021,115385.0,6000000.0
+Héctor Herrera,Atletico Madrid,M,30,Mexico,spain,2021,115385.0,6000000.0
+Martin Braithwaite,Barcelona,F,29,Denmark,spain,2021,115385.0,6000000.0
+Neto,Barcelona,K,31,Brazil,spain,2021,115385.0,6000000.0
+Júnior Firpo,Barcelona,D,24,Spain,spain,2021,115385.0,6000000.0
+Nemanja Gudelj,Sevilla,M,28,Serbia,spain,2021,107692.0,5600000.0
+Raúl García,Athletic Club,F,34,Spain,spain,2021,107692.0,5600000.0
+Gabriel Paulista,Valencia,D,29,Brazil,spain,2021,102500.0,5330000.0
+David Silva,Real Sociedad,F,34,Spain,spain,2021,101923.0,5300000.0
+Paco Alcácer,Villarreal,F,27,Spain,spain,2021,100192.0,5210000.0
+Vicente Iborra,Villarreal,M,32,Spain,spain,2021,99231.0,5160000.0
+Moussa Wagué,Barcelona,D,22,Senegal,spain,2021,96154.0,5000000.0
+Munir El Haddadi,Sevilla,F,25,Morocco,spain,2021,95769.0,4980000.0
+Fernando,Sevilla,M,33,Brazil,spain,2021,93654.0,4870000.0
+Nolito,Celta Vigo,F,34,Spain,spain,2021,88077.0,4580000.0
+Stefan Savic,Atletico Madrid,D,29,Montenegro,spain,2021,86538.0,4500000.0
+Jesús Navas,Sevilla,D,34,Spain,spain,2021,84615.0,4400000.0
+Denis Suárez,Celta Vigo,F,26,Spain,spain,2021,84231.0,4380000.0
+Yuri Berchiche,Athletic Club,D,30,Spain,spain,2021,82308.0,4280000.0
+Unai Simón,Athletic Club,K,23,Spain,spain,2021,82308.0,4280000.0
+Federico Valverde,Real Madrid,M,22,Uruguay,spain,2021,80192.0,4170000.0
+Martin Ödegaard,Real Madrid,F,21,Norway,spain,2021,80192.0,4170000.0
+Roque Mesa,Valladolid,M,31,Spain,spain,2021,80000.0,4160000.0
+Adnan Januzaj,Real Sociedad,F,25,Belgium,spain,2021,76923.0,4000000.0
+José Giménez,Atletico Madrid,D,25,Uruguay,spain,2021,76923.0,4000000.0
+Riqui Puig,Barcelona,M,21,Spain,spain,2021,76923.0,4000000.0
+Pedri,Barcelona,F,17,Spain,spain,2021,76923.0,4000000.0
+Lucas Torreira,Atletico Madrid,M,24,Uruguay,spain,2021,75962.0,3950000.0
+Trincão,Barcelona,F,21,Portugal,spain,2021,75000.0,3900000.0
+Papu Gómez,Sevilla,F,32,Argentina,spain,2021,74231.0,3860000.0
+Pau Torres,Villarreal,D,23,Spain,spain,2021,73077.0,3800000.0
+Franco Vázquez,Sevilla,F,31,Argentina,spain,2021,73077.0,3800000.0
+Dani Parejo,Villarreal,M,31,Spain,spain,2021,73077.0,3800000.0
+Renan Lodi,Atletico Madrid,D,22,Brazil,spain,2021,73077.0,3800000.0
+Jasper Cillessen,Valencia,K,31,Netherlands,spain,2021,72115.0,3750000.0
+Francis Coquelin,Villarreal,M,29,France,spain,2021,71923.0,3740000.0
+Tomas Vaclík,Sevilla,K,31,Czech Republic,spain,2021,71538.0,3720000.0
+Maxime Gonalons,Granada,M,31,France,spain,2021,71154.0,3700000.0
+Patrick Cutrone,Valencia,F,23,Italy,spain,2021,70000.0,3640000.0
+Ángel Correa,Atletico Madrid,F,25,Argentina,spain,2021,67308.0,3500000.0
+José Gayà,Valencia,D,25,Spain,spain,2021,67308.0,3500000.0
+Sergio Asenjo,Villarreal,K,31,Spain,spain,2021,66538.0,3460000.0
+Nacho Monreal,Real Sociedad,D,34,Spain,spain,2021,66346.0,3450000.0
+Daniel Wass,Valencia,D,31,Denmark,spain,2021,66154.0,3440000.0
+Mario Gaspar,Villarreal,D,29,Spain,spain,2021,64038.0,3330000.0
+Diego Carlos,Sevilla,D,27,Brazil,spain,2021,63846.0,3320000.0
+Mikel Merino,Real Sociedad,M,24,Spain,spain,2021,61538.0,3200000.0
+Denis Cheryshev,Valencia,F,29,Russia,spain,2021,61346.0,3190000.0
+Iago Herrerín,Athletic Club,K,32,Spain,spain,2021,61154.0,3180000.0
+Moussa Dembélé,Atletico Madrid,F,24,France,spain,2021,60000.0,3120000.0
+Frenkie de Jong,Barcelona,M,23,Netherlands,spain,2021,57692.0,3000000.0
+Youssef En-Nesyri,Sevilla,F,23,Morocco,spain,2021,57692.0,3000000.0
+Asier Illarramendi,Real Sociedad,M,30,Spain,spain,2021,57692.0,3000000.0
+Gerónimo Rulli,Villarreal,K,28,Argentina,spain,2021,56923.0,2960000.0
+Martín Montoya,Real Betis,D,29,Spain,spain,2021,56731.0,2950000.0
+Iago Aspas,Celta Vigo,F,33,Spain,spain,2021,55769.0,2900000.0
+Jason,Valencia,F,26,Spain,spain,2021,55000.0,2860000.0
+Raúl Albiol,Villarreal,D,35,Spain,spain,2021,54615.0,2840000.0
+Andriy Lunin,Real Madrid,K,21,Ukraine,spain,2021,54038.0,2810000.0
+Suso,Sevilla,F,26,Spain,spain,2021,53846.0,2800000.0
+Dani García,Athletic Club,M,30,Spain,spain,2021,53269.0,2770000.0
+Rodrigo Battaglia,Alaves,M,29,Argentina,spain,2021,52885.0,2750000.0
+Marc Bartra,Real Betis,D,29,Spain,spain,2021,51923.0,2700000.0
+Willian José,Real Sociedad,F,28,Brazil,spain,2021,51923.0,2700000.0
+Iñigo Córdoba,Alaves,F,23,Spain,spain,2021,51154.0,2660000.0
+Iñigo Córdoba,Athletic Club,F,23,Spain,spain,2021,51154.0,2660000.0
+Eliaquim Mangala,Valencia,D,29,France,spain,2021,50577.0,2630000.0
+Manu Vallejo,Valencia,F,23,Spain,spain,2021,50577.0,2630000.0
+Ibai Gómez,Athletic Club,F,30,Spain,spain,2021,48846.0,2540000.0
+Kenedy,Granada,F,24,Brazil,spain,2021,48654.0,2530000.0
+Manu Sánchez,Atletico Madrid,D,20,Spain,spain,2021,48462.0,2520000.0
+Ramiro Funes Mori,Villarreal,D,29,Argentina,spain,2021,48269.0,2510000.0
+Marcos Acuña,Sevilla,D,28,Argentina,spain,2021,48077.0,2500000.0
+Karim Rekik,Sevilla,D,25,Netherlands,spain,2021,48077.0,2500000.0
+Yoshinori Muto,Eibar,F,28,Japan,spain,2021,48077.0,2500000.0
+Joan Jordán,Sevilla,M,26,Spain,spain,2021,46154.0,2400000.0
+Yeray Álvarez,Athletic Club,D,25,Spain,spain,2021,46154.0,2400000.0
+Marc Cucurella,Getafe,M,22,Spain,spain,2021,45962.0,2390000.0
+Rubén Blanco,Celta Vigo,K,25,Spain,spain,2021,45000.0,2340000.0
+Óliver Torres,Sevilla,M,25,Spain,spain,2021,44231.0,2300000.0
+Pervis Estupiñán,Villarreal,D,22,Ecuador,spain,2021,44038.0,2290000.0
+Álex Remiro,Real Sociedad,K,25,Spain,spain,2021,42885.0,2230000.0
+Djené,Getafe,D,28,Togo,spain,2021,42308.0,2200000.0
+Mikel Oyarzabal,Real Sociedad,F,23,Spain,spain,2021,42308.0,2200000.0
+Iker Muniain,Athletic Club,F,27,Spain,spain,2021,42308.0,2200000.0
+Jeison Murillo,Celta Vigo,D,28,Colombia,spain,2021,42115.0,2190000.0
+Kenan Kodro,Valladolid,F,27,Bosnia-Herzegovina,spain,2021,41154.0,2140000.0
+Kenan Kodro,Athletic Club,F,27,Bosnia-Herzegovina,spain,2021,41154.0,2140000.0
+Jaime Mata,Getafe,F,31,Spain,spain,2021,41154.0,2140000.0
+Jaume Doménech,Valencia,K,29,Spain,spain,2021,40577.0,2110000.0
+Portu,Real Sociedad,F,28,Spain,spain,2021,40577.0,2110000.0
+Marcos Llorente,Atletico Madrid,F,25,Spain,spain,2021,40385.0,2100000.0
+Carlos Soler,Valencia,M,23,Spain,spain,2021,40385.0,2100000.0
+Manu Trigueros,Villarreal,M,29,Spain,spain,2021,40000.0,2080000.0
+Denis Vavro,Huesca,D,24,Slovakia,spain,2021,40000.0,2080000.0
+Gerard Moreno,Villarreal,F,28,Spain,spain,2021,40000.0,2080000.0
+Nemanja Maksimovic,Getafe,M,25,Serbia,spain,2021,40000.0,2080000.0
+Kieran Trippier,Atletico Madrid,D,30,England,spain,2021,38462.0,2000000.0
+Juan Foyth,Villarreal,D,22,Argentina,spain,2021,38462.0,2000000.0
+Aarón Martín,Celta Vigo,D,23,Spain,spain,2021,38462.0,2000000.0
+Miguel Ángel Moyá,Real Sociedad,K,36,Spain,spain,2021,37885.0,1970000.0
+Étienne Capoue,Villarreal,M,32,France,spain,2021,36538.0,1900000.0
+Aritz Elustondo,Real Sociedad,D,26,Spain,spain,2021,35577.0,1850000.0
+Néstor Araújo,Celta Vigo,D,29,Mexico,spain,2021,35385.0,1840000.0
+Thierry Correia,Valencia,D,21,Portugal,spain,2021,35385.0,1840000.0
+Fabián Orellana,Valladolid,F,34,Chile,spain,2021,34808.0,1810000.0
+Joseba Zaldua,Real Sociedad,D,28,Spain,spain,2021,34808.0,1810000.0
+Jota Peleteiro,Alaves,F,29,Spain,spain,2021,34808.0,1810000.0
+Óscar de Marcos,Athletic Club,D,31,Spain,spain,2021,34615.0,1800000.0
+José Luis Morales,Levante,F,33,Spain,spain,2021,34615.0,1800000.0
+Alfonso Pedraza,Villarreal,D,24,Spain,spain,2021,34615.0,1800000.0
+Borja Iglesias,Real Betis,F,27,Spain,spain,2021,34615.0,1800000.0
+Jesús Vallejo,Granada,D,23,Spain,spain,2021,34615.0,1800000.0
+Sergio Escudero,Sevilla,D,31,Spain,spain,2021,34615.0,1800000.0
+Raúl Navas,Osasuna,D,32,Spain,spain,2021,34423.0,1790000.0
+Jony,Osasuna,F,29,Spain,spain,2021,34423.0,1790000.0
+Iván Marcone,Elche,M,30,Argentina,spain,2021,34231.0,1780000.0
+Okay Yokuslu,Celta Vigo,M,26,Turkey,spain,2021,34231.0,1780000.0
+Asier Villalibre,Athletic Club,F,23,Spain,spain,2021,34038.0,1770000.0
+Toni Lato,Valencia,D,22,Spain,spain,2021,33846.0,1760000.0
+Hugo Mallo,Celta Vigo,D,29,Spain,spain,2021,33654.0,1750000.0
+Martín Zubimendi,Real Sociedad,M,21,Spain,spain,2021,33077.0,1720000.0
+Sergio Álvarez,Celta Vigo,K,34,Spain,spain,2021,33077.0,1720000.0
+Santi Mina,Celta Vigo,F,24,Spain,spain,2021,32885.0,1710000.0
+Lucas Ocampos,Sevilla,F,26,Argentina,spain,2021,32692.0,1700000.0
+Guido Rodríguez,Real Betis,M,26,Argentina,spain,2021,32692.0,1700000.0
+Unai Núñez,Athletic Club,D,23,Spain,spain,2021,32692.0,1700000.0
+Andrés Guardado,Real Betis,M,34,Mexico,spain,2021,32692.0,1700000.0
+William Carvalho,Real Betis,M,28,Portugal,spain,2021,32692.0,1700000.0
+Álex Berenguer,Athletic Club,F,25,Spain,spain,2021,32692.0,1700000.0
+Rubén Rochina,Levante,F,29,Spain,spain,2021,32692.0,1700000.0
+Álex Blanco,Valencia,F,21,Spain,spain,2021,32308.0,1680000.0
+Cristiano Piccini,Valencia,D,28,Italy,spain,2021,32115.0,1670000.0
+Bono,Sevilla,K,29,Morocco,spain,2021,31923.0,1660000.0
+Joris Gnagnon,Sevilla,D,23,France,spain,2021,31346.0,1630000.0
+Hugo Guillamón,Valencia,D,20,Spain,spain,2021,31154.0,1620000.0
+José Campaña,Levante,M,27,Spain,spain,2021,30769.0,1600000.0
+Claudio Bravo,Real Betis,K,37,Chile,spain,2021,30769.0,1600000.0
+Jokin Ezkieta,Athletic Club,K,24,Spain,spain,2021,30000.0,1560000.0
+Jorge Molina,Granada,F,38,Spain,spain,2021,29615.0,1540000.0
+Mauro Arambarri,Getafe,M,25,Uruguay,spain,2021,29423.0,1530000.0
+Pedro Mosquera,Huesca,M,32,Spain,spain,2021,29231.0,1520000.0
+David Soria,Getafe,K,27,Spain,spain,2021,29038.0,1510000.0
+Víctor Ruiz,Real Betis,D,31,Spain,spain,2021,28846.0,1500000.0
+Sergi Guardiola,Valladolid,F,29,Spain,spain,2021,28846.0,1500000.0
+Joaquín,Real Betis,F,39,Spain,spain,2021,28846.0,1500000.0
+Florian Lejeune,Alaves,D,29,France,spain,2021,28846.0,1500000.0
+Maxi Gómez,Valencia,F,24,Uruguay,spain,2021,28846.0,1500000.0
+Yunus Musah,Valencia,M,18,England,spain,2021,28846.0,1500000.0
+Iñigo Lekue,Athletic Club,D,27,Spain,spain,2021,28846.0,1500000.0
+Aleix Vidal,Sevilla,D,31,Spain,spain,2021,28846.0,1500000.0
+Sandro Ramírez,Huesca,F,25,Spain,spain,2021,28654.0,1490000.0
+Oussama Idrissi,Sevilla,F,24,Morocco,spain,2021,28462.0,1480000.0
+Abdoulay Diaby,Getafe,F,29,Mali,spain,2021,28462.0,1480000.0
+Antonio Sanabria,Real Betis,F,24,Paraguay,spain,2021,28269.0,1470000.0
+Sergio León,Levante,F,31,Spain,spain,2021,27885.0,1450000.0
+Cristian Rivero,Valencia,K,22,Spain,spain,2021,27885.0,1450000.0
+Tomás Pina,Alaves,M,33,Spain,spain,2021,27500.0,1430000.0
+Jaume Costa,Villarreal,D,32,Spain,spain,2021,27500.0,1430000.0
+Iñigo Vicente,Athletic Club,F,22,Spain,spain,2021,27500.0,1430000.0
+Alberto Moreno,Villarreal,D,28,Spain,spain,2021,26923.0,1400000.0
+Lucas Pérez,Alaves,F,32,Spain,spain,2021,26731.0,1390000.0
+Facundo Roncaglia,Osasuna,D,33,Argentina,spain,2021,26538.0,1380000.0
+Ángel Rodríguez,Getafe,F,33,Spain,spain,2021,26154.0,1360000.0
+Darwin Machís,Granada,F,27,Venezuela,spain,2021,26154.0,1360000.0
+Sergi Gómez,Sevilla,D,28,Spain,spain,2021,25962.0,1350000.0
+Brais Méndez,Celta Vigo,F,23,Spain,spain,2021,25962.0,1350000.0
+Pape Diop,Eibar,M,34,Senegal,spain,2021,25577.0,1330000.0
+Juan Miranda,Real Betis,D,20,Spain,spain,2021,25000.0,1300000.0
+Álvaro Negredo,Cadiz,F,35,Spain,spain,2021,24808.0,1290000.0
+Roberto,Valladolid,K,34,Spain,spain,2021,24231.0,1260000.0
+Domingos Duarte,Granada,D,25,Portugal,spain,2021,24231.0,1260000.0
+Joselu,Alaves,F,30,Spain,spain,2021,24038.0,1250000.0
+Sidnei,Real Betis,D,31,Brazil,spain,2021,23846.0,1240000.0
+Guido Carrillo,Elche,F,29,Argentina,spain,2021,23654.0,1230000.0
+David Costas,Celta Vigo,D,25,Spain,spain,2021,23462.0,1220000.0
+Dimitri Foulquier,Granada,D,27,Guadeloupe,spain,2021,23077.0,1200000.0
+Juanmi,Real Betis,F,27,Spain,spain,2021,23077.0,1200000.0
+Luuk de Jong,Sevilla,F,30,Netherlands,spain,2021,23077.0,1200000.0
+Ander Capa,Athletic Club,D,28,Spain,spain,2021,23077.0,1200000.0
+Óscar Rodríguez,Sevilla,F,22,Spain,spain,2021,23077.0,1200000.0
+Aïssa Mandi,Real Betis,D,28,Algeria,spain,2021,23077.0,1200000.0
+Igor Zubeldia,Real Sociedad,M,23,Spain,spain,2021,23077.0,1200000.0
+Takashi Inui,Eibar,F,32,Japan,spain,2021,23077.0,1200000.0
+Idrissa Doumbia,Huesca,M,22,Cote d'Ivoire,spain,2021,22500.0,1170000.0
+Paulo Gazzaniga,Elche,K,29,Argentina,spain,2021,22308.0,1160000.0
+Rubén García,Osasuna,F,27,Spain,spain,2021,22115.0,1150000.0
+Jonathan Calleri,Osasuna,F,27,Argentina,spain,2021,21731.0,1130000.0
+Alexander Isak,Real Sociedad,F,21,Sweden,spain,2021,21538.0,1120000.0
+David Juncà,Celta Vigo,D,26,Spain,spain,2021,21538.0,1120000.0
+Dimitrios Siovas,Huesca,D,32,Greece,spain,2021,21346.0,1110000.0
+Youssouf Koné,Elche,D,25,Mali,spain,2021,21346.0,1110000.0
+Facundo Pellistri,Alaves,F,19,Uruguay,spain,2021,21346.0,1110000.0
+Sergio Canales,Real Betis,F,29,Spain,spain,2021,21154.0,1100000.0
+Jorge Sáenz,Celta Vigo,D,23,Spain,spain,2021,21154.0,1100000.0
+Joseph Aidoo,Celta Vigo,D,25,Ghana,spain,2021,21154.0,1100000.0
+Yangel Herrera,Granada,M,22,Venezuela,spain,2021,21154.0,1100000.0
+Jules Koundé,Sevilla,D,21,France,spain,2021,21154.0,1100000.0
+Samuel Chukwueze,Villarreal,F,21,Nigeria,spain,2021,21154.0,1100000.0
+Nacho Martínez,Valladolid,D,31,Spain,spain,2021,20962.0,1090000.0
+Augusto Fernández,Cadiz,M,34,Argentina,spain,2021,20962.0,1090000.0
+Rubén Martínez,Osasuna,K,36,Spain,spain,2021,20769.0,1080000.0
+Deyverson,Alaves,F,29,Brazil,spain,2021,20769.0,1080000.0
+Roberto Soldado,Granada,F,35,Spain,spain,2021,20769.0,1080000.0
+Luis Milla,Granada,M,26,Spain,spain,2021,20577.0,1070000.0
+Pere Pons,Alaves,M,27,Spain,spain,2021,20192.0,1050000.0
+Rubén Peña,Villarreal,D,29,Spain,spain,2021,20192.0,1050000.0
+Cristian Tello,Real Betis,F,29,Spain,spain,2021,20000.0,1040000.0
+Enis Bardhi,Levante,M,25,North Macedonia,spain,2021,19615.0,1020000.0
+Cucho Hernández,Getafe,F,21,Colombia,spain,2021,19423.0,1010000.0
+Takefusa Kubo,Getafe,F,19,Japan,spain,2021,19231.0,1000000.0
+Carlos Fernández,Real Sociedad,F,24,Spain,spain,2021,19231.0,1000000.0
+Santiago Cáseres,Villarreal,M,23,Argentina,spain,2021,19231.0,1000000.0
+Aitor Fernández,Levante,K,29,Spain,spain,2021,19231.0,1000000.0
+Mikel Vesga,Athletic Club,M,27,Spain,spain,2021,19231.0,1000000.0
+Lucas Olaza,Celta Vigo,D,26,Uruguay,spain,2021,19231.0,1000000.0
+Jon Guridi,Real Sociedad,M,25,Spain,spain,2021,19231.0,1000000.0
+Takefusa Kubo,Villarreal,F,19,Japan,spain,2021,19231.0,1000000.0
+Lucas Olaza,Valladolid,D,26,Uruguay,spain,2021,19231.0,1000000.0
+Sergio Álvarez,Eibar,M,28,Spain,spain,2021,19038.0,990000.0
+Pablo Maffeo,Huesca,D,23,Spain,spain,2021,18846.0,980000.0
+Emre Mor,Celta Vigo,F,23,Turkey,spain,2021,18654.0,970000.0
+Francisco Portillo,Getafe,F,30,Spain,spain,2021,18654.0,970000.0
+Nikola Vukcevic,Levante,M,28,Montenegro,spain,2021,18462.0,960000.0
+Emerson,Real Betis,D,21,Brazil,spain,2021,18462.0,960000.0
+Loren Morón,Real Betis,F,26,Spain,spain,2021,18462.0,960000.0
+Ansu Fati,Barcelona,F,17,Spain,spain,2021,18077.0,940000.0
+Ante Palaversa,Getafe,M,20,Croatia,spain,2021,18077.0,940000.0
+Johan Mojica,Elche,D,28,Colombia,spain,2021,17885.0,930000.0
+Marko Dmitrovic,Eibar,K,28,Serbia,spain,2021,17885.0,930000.0
+Luismi,Elche,M,28,Spain,spain,2021,17885.0,930000.0
+Yassin Fekir,Real Betis,F,23,France,spain,2021,17885.0,930000.0
+Luca Sangalli,Real Sociedad,F,25,Spain,spain,2021,17885.0,930000.0
+Bobby Adekanye,Cadiz,F,21,Netherlands,spain,2021,17692.0,920000.0
+Paulo Oliveira,Eibar,D,28,Portugal,spain,2021,17500.0,910000.0
+Mikel Balenziaga,Athletic Club,D,32,Spain,spain,2021,17308.0,900000.0
+Andoni Gorosabel,Real Sociedad,D,24,Spain,spain,2021,17308.0,900000.0
+Chimy Ávila,Osasuna,F,26,Argentina,spain,2021,17308.0,900000.0
+Ronald Araújo,Barcelona,D,21,Uruguay,spain,2021,17308.0,900000.0
+Brandon,Osasuna,F,25,Spain,spain,2021,17308.0,900000.0
+Joel Robles,Real Betis,K,30,Spain,spain,2021,17308.0,900000.0
+Rubén Alcaraz,Valladolid,M,29,Spain,spain,2021,17308.0,900000.0
+Andrés Fernández,Huesca,K,33,Spain,spain,2021,17308.0,900000.0
+Víctor Camarasa,Real Betis,M,26,Spain,spain,2021,17115.0,890000.0
+Uros Racic,Valencia,M,22,Serbia,spain,2021,16923.0,880000.0
+Unai López,Athletic Club,M,24,Spain,spain,2021,16923.0,880000.0
+Ander Guevara,Real Sociedad,M,23,Spain,spain,2021,16731.0,870000.0
+Fede Vico,Granada,F,26,Spain,spain,2021,16731.0,870000.0
+Ivo Grbic,Atletico Madrid,K,24,Croatia,spain,2021,16538.0,860000.0
+Nehuén Pérez,Granada,D,20,Argentina,spain,2021,16538.0,860000.0
+Enes Ünal,Getafe,F,23,Turkey,spain,2021,16538.0,860000.0
+Pedro León,Eibar,F,33,Spain,spain,2021,16538.0,860000.0
+Aihen Muñoz,Real Sociedad,D,23,Spain,spain,2021,16538.0,860000.0
+Enric Gallego,Osasuna,F,34,Spain,spain,2021,16538.0,860000.0
+Recio,Eibar,M,29,Spain,spain,2021,16346.0,850000.0
+Fernando Pacheco,Alaves,K,28,Spain,spain,2021,16346.0,850000.0
+Sergi Enrich,Eibar,F,30,Spain,spain,2021,16346.0,850000.0
+Ivan Saponjic,Cadiz,F,23,Serbia,spain,2021,16154.0,840000.0
+Jeremías Ledesma,Cadiz,K,27,Argentina,spain,2021,16154.0,840000.0
+Adrián López,Osasuna,F,32,Spain,spain,2021,16154.0,840000.0
+Jens Jönsson,Cadiz,M,27,Denmark,spain,2021,16154.0,840000.0
+Luis Rioja,Alaves,F,27,Spain,spain,2021,15769.0,820000.0
+Pablo Hervías,Valladolid,F,27,Spain,spain,2021,15577.0,810000.0
+Yoel Rodríguez,Eibar,K,32,Spain,spain,2021,15385.0,800000.0
+Luis Suárez,Granada,F,22,Colombia,spain,2021,15385.0,800000.0
+Mouctar Diakhaby,Valencia,D,23,France,spain,2021,15385.0,800000.0
+David García,Osasuna,D,26,Spain,spain,2021,15385.0,800000.0
+Ante Budimir,Osasuna,F,29,Croatia,spain,2021,15385.0,800000.0
+Miguel Baeza,Celta Vigo,F,20,Spain,spain,2021,15000.0,780000.0
+Manu Sánchez,Osasuna,D,20,Spain,spain,2021,15000.0,780000.0
+Fran Beltrán,Celta Vigo,M,21,Spain,spain,2021,14808.0,770000.0
+Manu García,Alaves,M,34,Spain,spain,2021,14808.0,770000.0
+Rúben Vezo,Levante,D,26,Portugal,spain,2021,14423.0,750000.0
+Pedro Bigas,Eibar,D,30,Spain,spain,2021,14231.0,740000.0
+Pedro Alcalá,Cadiz,D,31,Spain,spain,2021,14231.0,740000.0
+Edu Expósito,Eibar,M,24,Spain,spain,2021,13846.0,720000.0
+Javi Ontiveros,Huesca,F,23,Spain,spain,2021,13846.0,720000.0
+Roberto Torres,Osasuna,F,31,Spain,spain,2021,13654.0,710000.0
+Rubén Sobrino,Cadiz,F,28,Spain,spain,2021,13462.0,700000.0
+Roger Martí,Levante,F,29,Spain,spain,2021,13462.0,700000.0
+Rubén Sobrino,Valencia,F,28,Spain,spain,2021,13462.0,700000.0
+Marcos André,Valladolid,F,24,Brazil,spain,2021,13462.0,700000.0
+Moi Gómez,Villarreal,F,26,Spain,spain,2021,13462.0,700000.0
+Ángel Montoro,Granada,M,32,Spain,spain,2021,13462.0,700000.0
+Jota,Valladolid,F,21,Portugal,spain,2021,13269.0,690000.0
+Shinji Okazaki,Huesca,F,34,Japan,spain,2021,13269.0,690000.0
+Ramon Azeez,Granada,M,27,Nigeria,spain,2021,13269.0,690000.0
+Jairo Izquierdo,Cadiz,F,26,Spain,spain,2021,13077.0,680000.0
+Jonás Ramalho,Osasuna,D,27,Angola,spain,2021,13077.0,680000.0
+Nemanja Radoja,Levante,M,27,Serbia,spain,2021,13077.0,680000.0
+Coke,Levante,D,33,Spain,spain,2021,13077.0,680000.0
+Álex Moreno,Real Betis,D,27,Spain,spain,2021,13077.0,680000.0
+Jawad El Yamiq,Valladolid,D,28,Morocco,spain,2021,12885.0,670000.0
+Augusto Solari,Celta Vigo,F,29,Argentina,spain,2021,12692.0,660000.0
+David Timor,Getafe,M,31,Spain,spain,2021,12692.0,660000.0
+Rodrigo Ely,Alaves,D,26,Brazil,spain,2021,12500.0,650000.0
+Robin Le Normand,Real Sociedad,D,23,France,spain,2021,12500.0,650000.0
+Víctor Laguardia,Alaves,D,30,Spain,spain,2021,12500.0,650000.0
+Ander Barrenetxea,Real Sociedad,F,18,Spain,spain,2021,12500.0,650000.0
+Edgar Badia,Elche,K,28,Spain,spain,2021,12500.0,650000.0
+Juan Pérez,Osasuna,K,24,Spain,spain,2021,12500.0,650000.0
+Bruno González,Valladolid,D,30,Spain,spain,2021,12308.0,640000.0
+Antonio Puertas,Granada,F,28,Spain,spain,2021,12308.0,640000.0
+Germán Sánchez,Granada,D,33,Spain,spain,2021,12308.0,640000.0
+Carles Aleñá,Barcelona,M,22,Spain,spain,2021,12115.0,630000.0
+Carles Aleñá,Getafe,M,23,Spain,spain,2021,12115.0,630000.0
+Mathías Olivera,Getafe,D,22,Uruguay,spain,2021,11923.0,620000.0
+Christian Oliva,Valencia,M,24,Uruguay,spain,2021,11923.0,620000.0
+Allan Nyom,Getafe,D,32,Cameroon,spain,2021,11923.0,620000.0
+Darko Brasanac,Osasuna,M,28,Serbia,spain,2021,11923.0,620000.0
+Fidel,Elche,F,30,Spain,spain,2021,11923.0,620000.0
+Emiliano Rigoni,Elche,F,27,Argentina,spain,2021,11923.0,620000.0
+Damián Suárez,Getafe,D,32,Uruguay,spain,2021,11923.0,620000.0
+Kang-in Lee,Valencia,F,19,South Korea,spain,2021,11923.0,620000.0
+Choco Lozano,Cadiz,F,27,Honduras,spain,2021,11923.0,620000.0
+Oihan Sancet,Athletic Club,F,20,Spain,spain,2021,11538.0,600000.0
+Javi Galán,Huesca,D,25,Spain,spain,2021,11538.0,600000.0
+Alberto Soro,Granada,F,21,Spain,spain,2021,11154.0,580000.0
+Juan Cala,Cadiz,D,30,Spain,spain,2021,11154.0,580000.0
+Rubén Duarte,Alaves,D,25,Spain,spain,2021,10962.0,570000.0
+Jorge Pombo,Cadiz,F,26,Spain,spain,2021,10962.0,570000.0
+Martín Merquelanz,Real Sociedad,F,25,Spain,spain,2021,10769.0,560000.0
+Sergio Gómez,Huesca,F,20,Spain,spain,2021,10769.0,560000.0
+Carlos Fernández,Sevilla,F,24,Spain,spain,2021,10769.0,560000.0
+Mikel Rico,Huesca,M,35,Spain,spain,2021,10577.0,550000.0
+Matheus Fernandes,Barcelona,M,22,Brazil,spain,2021,10577.0,550000.0
+Fede San Emeterio,Valladolid,M,23,Spain,spain,2021,10577.0,550000.0
+Cheick Doukouré,Levante,M,28,Cote d'Ivoire,spain,2021,10192.0,530000.0
+Kike García,Eibar,F,30,Spain,spain,2021,10192.0,530000.0
+Jaime Seoane,Huesca,M,23,Spain,spain,2021,10192.0,530000.0
+Anaitz Arbilla,Eibar,D,33,Spain,spain,2021,10192.0,530000.0
+Mickaël Malsa,Levante,M,25,Martinique,spain,2021,10192.0,530000.0
+Domingos Quina,Granada,M,21,Portugal,spain,2021,10000.0,520000.0
+John Guidetti,Alaves,F,28,Sweden,spain,2021,10000.0,520000.0
+Kiko Olivas,Valladolid,D,32,Spain,spain,2021,9808.0,510000.0
+Edgar Méndez,Alaves,F,30,Spain,spain,2021,9615.0,500000.0
+Fali,Cadiz,D,27,Spain,spain,2021,9615.0,500000.0
+Alfonso Espino,Cadiz,D,28,Uruguay,spain,2021,9615.0,500000.0
+Toño,Levante,D,30,Spain,spain,2021,9615.0,500000.0
+Raúl Carnero,Valladolid,D,31,Spain,spain,2021,9615.0,500000.0
+Yan Eteki,Granada,M,23,Cameroon,spain,2021,9615.0,500000.0
+Kevin Vázquez,Celta Vigo,D,27,Spain,spain,2021,9615.0,500000.0
+Álex Baena,Villarreal,F,19,Spain,spain,2021,9615.0,500000.0
+Daniel Raba,Villarreal,F,24,Spain,spain,2021,9615.0,500000.0
+Javi Díaz,Sevilla,K,23,Spain,spain,2021,9615.0,500000.0
+Fer Niño,Villarreal,F,20,Spain,spain,2021,9615.0,500000.0
+Jon Morcillo,Athletic Club,F,22,Spain,spain,2021,9615.0,500000.0
+Carlos Clerc,Levante,D,28,Spain,spain,2021,9615.0,500000.0
+Kévin Rodrigues,Eibar,D,26,Portugal,spain,2021,9615.0,500000.0
+Álex Fernández,Cadiz,F,28,Spain,spain,2021,9423.0,490000.0
+Jon Bautista,Real Sociedad,F,25,Spain,spain,2021,9423.0,490000.0
+Óscar Plano,Valladolid,F,29,Spain,spain,2021,9423.0,490000.0
+Xabier Etxeita,Getafe,D,32,Spain,spain,2021,9231.0,480000.0
+Jordi Masip,Valladolid,K,31,Spain,spain,2021,9231.0,480000.0
+Burgui,Alaves,F,26,Spain,spain,2021,9231.0,480000.0
+Iza Carcelén,Cadiz,D,27,Spain,spain,2021,9231.0,480000.0
+Gonzalo Melero,Levante,M,26,Spain,spain,2021,9038.0,470000.0
+Neyder Lozano,Granada,D,26,Colombia,spain,2021,9038.0,470000.0
+Iván Alejo,Cadiz,F,25,Spain,spain,2021,9038.0,470000.0
+José Ángel,Eibar,D,31,Spain,spain,2021,9038.0,470000.0
+Raúl Guti,Elche,M,23,Spain,spain,2021,9038.0,470000.0
+Erick Cabaco,Getafe,D,25,Uruguay,spain,2021,9038.0,470000.0
+Yann Bodiger,Cadiz,M,25,France,spain,2021,8846.0,460000.0
+Víctor Mollejo,Getafe,F,19,Spain,spain,2021,8846.0,460000.0
+Carlos Akapo,Cadiz,D,27,Equatorial Guinea,spain,2021,8654.0,450000.0
+Paul Akouokou,Real Betis,M,22,Cote d'Ivoire,spain,2021,8654.0,450000.0
+Óscar Duarte,Levante,D,31,Costa Rica,spain,2021,8654.0,450000.0
+Rui Silva,Granada,K,26,Portugal,spain,2021,8654.0,450000.0
+Chema,Getafe,D,28,Spain,spain,2021,8462.0,440000.0
+Sergio Postigo,Levante,D,31,Spain,spain,2021,8462.0,440000.0
+Víctor Díaz,Granada,D,32,Spain,spain,2021,8462.0,440000.0
+Nacho Vidal,Osasuna,D,25,Spain,spain,2021,8462.0,440000.0
+Leandro Chichizola,Getafe,K,30,Argentina,spain,2021,8462.0,440000.0
+Modibo Sagnan,Real Sociedad,D,21,France,spain,2021,8462.0,440000.0
+Míchel Herrero,Valladolid,M,32,Spain,spain,2021,8462.0,440000.0
+Peru Nolaskoain,Athletic Club,M,21,Spain,spain,2021,8462.0,440000.0
+Toni Villa,Valladolid,F,25,Spain,spain,2021,8269.0,430000.0
+Edgar Sevikyan,Levante,F,19,Russia,spain,2021,8077.0,420000.0
+Kike Pérez,Valladolid,M,23,Spain,spain,2021,8077.0,420000.0
+Jorge de Frutos,Levante,F,23,Spain,spain,2021,8077.0,420000.0
+Damian Kadzior,Eibar,F,28,Poland,spain,2021,7885.0,410000.0
+Álvaro Giménez,Cadiz,F,29,Spain,spain,2021,7885.0,410000.0
+Rafa Mir,Huesca,F,23,Spain,spain,2021,7885.0,410000.0
+José Mari,Cadiz,M,32,Spain,spain,2021,7885.0,410000.0
+Filip Malbašić,Cadiz,F,27,Serbia,spain,2021,7885.0,410000.0
+Aridane Hernández,Osasuna,D,31,Spain,spain,2021,7885.0,410000.0
+Luis Pérez,Valladolid,D,25,Spain,spain,2021,7692.0,400000.0
+Nano Mesa,Cadiz,F,25,Spain,spain,2021,7692.0,400000.0
+Renato Tapia,Celta Vigo,M,25,Peru,spain,2021,7692.0,400000.0
+Diego Lainez,Real Betis,F,20,Mexico,spain,2021,7692.0,400000.0
+Quique González,Eibar,F,30,Spain,spain,2021,7692.0,400000.0
+Jon Ander Garrido,Cadiz,M,31,Spain,spain,2021,7500.0,390000.0
+Álvaro Fernández,Huesca,K,22,Spain,spain,2021,7500.0,390000.0
+Juan Carlos Real,Huesca,F,29,Spain,spain,2021,7500.0,390000.0
+Unai García,Osasuna,D,28,Spain,spain,2021,7500.0,390000.0
+Roberto López,Real Sociedad,F,20,Spain,spain,2021,7308.0,380000.0
+Carlos Neva,Granada,D,24,Spain,spain,2021,7308.0,380000.0
+Juan Sánchez Miño,Elche,D,30,Argentina,spain,2021,7115.0,370000.0
+Quini,Granada,D,31,Spain,spain,2021,7115.0,370000.0
+Ximo Navarro,Alaves,D,30,Spain,spain,2021,6923.0,360000.0
+Son,Levante,D,26,Spain,spain,2021,6923.0,360000.0
+Aleix García,Eibar,M,23,Spain,spain,2021,6923.0,360000.0
+Diego Rodríguez,Elche,K,31,Argentina,spain,2021,6923.0,360000.0
+Gastón Silva,Huesca,D,26,Uruguay,spain,2021,6731.0,350000.0
+Dani Martín,Real Betis,K,22,Spain,spain,2021,6731.0,350000.0
+Sergio Herrera,Osasuna,K,27,Spain,spain,2021,6731.0,350000.0
+Martín Aguirregabiria,Alaves,D,24,Spain,spain,2021,6731.0,350000.0
+Oier,Osasuna,M,34,Spain,spain,2021,6538.0,340000.0
+Pablo Insua,Huesca,D,27,Spain,spain,2021,6538.0,340000.0
+Antonio Barragán,Elche,D,33,Spain,spain,2021,6538.0,340000.0
+Sergio González,Cadiz,M,23,Spain,spain,2021,6538.0,340000.0
+Marcos Mauro,Cadiz,D,29,Argentina,spain,2021,6538.0,340000.0
+Pere Milla,Elche,F,28,Spain,spain,2021,6538.0,340000.0
+David Gil,Cadiz,K,26,Spain,spain,2021,6346.0,330000.0
+Lucas Boyé,Elche,F,24,Argentina,spain,2021,6154.0,320000.0
+Jorge Miramón,Levante,D,31,Spain,spain,2021,6154.0,320000.0
+Iván Villar,Celta Vigo,K,23,Spain,spain,2021,6154.0,320000.0
+Aitor Ruibal,Real Betis,F,24,Spain,spain,2021,6154.0,320000.0
+Esteban Burgos,Eibar,D,28,Argentina,spain,2021,5962.0,310000.0
+Víctor Rodríguez,Elche,F,31,Spain,spain,2021,5962.0,310000.0
+Waldo Rubio,Valladolid,F,25,Spain,spain,2021,5962.0,310000.0
+Iñigo Pérez,Osasuna,M,32,Spain,spain,2021,5962.0,310000.0
+Joaquín Fernández,Valladolid,D,24,Spain,spain,2021,5962.0,310000.0
+Jon Moncayola,Osasuna,M,22,Spain,spain,2021,5769.0,300000.0
+Rober Pier,Levante,D,25,Spain,spain,2021,5769.0,300000.0
+Stiven Plaza,Valladolid,F,21,Ecuador,spain,2021,5769.0,300000.0
+Koke Vegas,Levante,K,25,Spain,spain,2021,5769.0,300000.0
+Damián Musto,Huesca,M,33,Argentina,spain,2021,5769.0,300000.0
+Lucas Torró,Osasuna,M,26,Spain,spain,2021,5769.0,300000.0
+Tete Morente,Elche,F,23,Spain,spain,2021,5577.0,290000.0
+Shon Weissman,Valladolid,F,24,Israel,spain,2021,5577.0,290000.0
+Alberto Perea,Cadiz,F,29,Spain,spain,2021,5577.0,290000.0
+Roberto Correa,Eibar,D,28,Spain,spain,2021,5385.0,280000.0
+Luismi Quezada,Cadiz,D,24,Dominican Republic,spain,2021,5385.0,280000.0
+Eugeni Valderrama,Huesca,F,26,Spain,spain,2021,5000.0,260000.0
+Luisinho,Huesca,D,35,Portugal,spain,2021,5000.0,260000.0
+José Antonio Martínez,Eibar,D,27,Spain,spain,2021,4808.0,250000.0
+Bryan Gil,Eibar,F,19,Spain,spain,2021,4808.0,250000.0
+Pepe Sánchez,Granada,D,20,Spain,spain,2021,4808.0,250000.0
+Saidy Janko,Valladolid,D,24,Switzerland,spain,2021,4808.0,250000.0
+Borja García,Huesca,F,29,Spain,spain,2021,4808.0,250000.0
+Alex Sola,Real Sociedad,D,21,Spain,spain,2021,4615.0,240000.0
+Darío Poveda,Getafe,F,23,Spain,spain,2021,4615.0,240000.0
+Iñaki Peña,Barcelona,K,21,Spain,spain,2021,4423.0,230000.0
+Salvi Sánchez,Cadiz,F,29,Spain,spain,2021,4423.0,230000.0
+Juan Cruz,Osasuna,D,28,Spain,spain,2021,4423.0,230000.0
+Omenuke Mfulu,Elche,M,26,Democratic Republic of the Congo,spain,2021,4423.0,230000.0
+Miguel Cifuentes,Elche,D,30,Spain,spain,2021,4231.0,220000.0
+Konrad de la Fuente,Barcelona,F,19,United States,spain,2021,4231.0,220000.0
+Kike Barja,Osasuna,F,23,Spain,spain,2021,4231.0,220000.0
+Roberto Olabe,Eibar,M,24,Spain,spain,2021,4231.0,220000.0
+Óscar Mingueza,Barcelona,D,21,Spain,spain,2021,4231.0,220000.0
+Jorge Pulido,Huesca,D,29,Spain,spain,2021,4231.0,220000.0
+Pedro López,Huesca,D,36,Spain,spain,2021,4038.0,210000.0
+Dani Escriche,Huesca,F,22,Spain,spain,2021,4038.0,210000.0
+Dani Cárdenas,Levante,K,23,Spain,spain,2021,3846.0,200000.0
+Arnau Tenas,Barcelona,K,19,Spain,spain,2021,3846.0,200000.0
+Unai Vencedor,Athletic Club,M,19,Spain,spain,2021,3846.0,200000.0
+Oier Zarraga,Athletic Club,M,22,Spain,spain,2021,3846.0,200000.0
+Miguel Rodríguez,Celta Vigo,F,17,Spain,spain,2021,3846.0,200000.0
+Alejandro Pozo,Eibar,D,21,Spain,spain,2021,3846.0,200000.0
+Antonio Sivera,Alaves,K,24,Spain,spain,2021,3846.0,200000.0
+Adrián Marín,Alaves,D,23,Spain,spain,2021,3654.0,190000.0
+Adrián Marín,Granada,D,24,Spain,spain,2021,3654.0,190000.0
+David Ferreiro,Huesca,F,32,Spain,spain,2021,3654.0,190000.0
+Josema,Elche,D,24,Spain,spain,2021,3462.0,180000.0
+Rubén Yáñez,Getafe,K,27,Spain,spain,2021,3462.0,180000.0
+Dani Calvo,Elche,D,26,Spain,spain,2021,3462.0,180000.0
+Soufiane Chakla,Villarreal,D,27,Morocco,spain,2021,3269.0,170000.0
+Soufiane Chakla,Getafe,D,27,Morocco,spain,2021,3269.0,170000.0
+Jeison Lucumí,Elche,F,25,Colombia,spain,2021,3077.0,160000.0
+Antonio Valera,Huesca,K,24,Spain,spain,2021,3077.0,160000.0
+Javi Sánchez,Valladolid,D,23,Spain,spain,2021,3077.0,160000.0
+Kelechi Nwakali,Huesca,F,22,Nigeria,spain,2021,3077.0,160000.0
+Aarón Escandell,Granada,K,25,Spain,spain,2021,3077.0,160000.0
+Javi López,Alaves,D,18,Spain,spain,2021,2981.0,155000.0
+Gonzalo Verdú,Elche,D,32,Spain,spain,2021,2981.0,155000.0
+Tachi,Alaves,D,23,Spain,spain,2021,2981.0,155000.0
+Diego González,Elche,D,25,Spain,spain,2021,2981.0,155000.0
+Josan,Elche,F,30,Spain,spain,2021,2981.0,155000.0
+Rafa Soares,Eibar,D,25,Portugal,spain,2021,2885.0,150000.0
+Ferro,Valencia,D,23,Portugal,spain,2021,2885.0,150000.0
+Tomás Tavares,Alaves,D,19,Portugal,spain,2021,2500.0,130000.0
+Nino,Elche,F,40,Spain,spain,2021,2308.0,120000.0
+Yeremi Pino,Villarreal,F,18,Spain,spain,2021,1923.0,100000.0
+Santi Ramos Mingo,Barcelona,D,18,Argentina,spain,2021,1731.0,90000.0
+Rodri,Real Betis,F,20,Spain,spain,2021,1538.0,80000.0
+Abdallahi Mahmoud,Alaves,M,20,Mauritania,spain,2021,1538.0,80000.0
+Miguel San Román,Atletico Madrid,K,23,Spain,spain,2021,1154.0,60000.0
+Gabri Veiga,Celta Vigo,M,18,Spain,spain,2021,962.0,50000.0
+Borja Sainz,Alaves,F,19,Spain,spain,2021,769.0,40000.0

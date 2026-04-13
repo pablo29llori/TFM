@@ -1,0 +1,552 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Robert Lewandowski,Barcelona,F,36,Poland,spain,2425,640962.0,33330000.0
+Kylian Mbappé,Real Madrid,F,26,France,spain,2425,600962.0,31250000.0
+Vinicius Junior,Real Madrid,F,24,Brazil,spain,2425,480769.0,25000000.0
+David Alaba,Real Madrid,D,32,Austria,spain,2425,432692.0,22500000.0
+Jan Oblak,Atletico Madrid,K,32,Slovenia,spain,2425,400577.0,20830000.0
+Jude Bellingham,Real Madrid,F,21,England,spain,2425,400577.0,20830000.0
+Frenkie de Jong,Barcelona,M,27,Netherlands,spain,2425,365385.0,19000000.0
+Federico Valverde,Real Madrid,M,26,Uruguay,spain,2425,320577.0,16670000.0
+Rodrygo,Real Madrid,F,24,Brazil,spain,2425,320577.0,16670000.0
+Raphinha,Barcelona,F,28,Brazil,spain,2425,320577.0,16670000.0
+Thibaut Courtois,Real Madrid,K,32,Belgium,spain,2425,288462.0,15000000.0
+Antonio Rüdiger,Real Madrid,D,31,Germany,spain,2425,280385.0,14580000.0
+Éder Militão,Real Madrid,D,27,Brazil,spain,2425,280385.0,14580000.0
+Ansu Fati,Barcelona,F,22,Spain,spain,2425,268269.0,13950000.0
+Jules Koundé,Barcelona,D,26,France,spain,2425,260577.0,13550000.0
+Aurélien Tchouaméni,Real Madrid,M,25,France,spain,2425,240385.0,12500000.0
+Antoine Griezmann,Atletico Madrid,F,34,France,spain,2425,240385.0,12500000.0
+Dani Olmo,Barcelona,F,26,Spain,spain,2425,240385.0,12500000.0
+Ronald Araujo,Barcelona,D,25,Uruguay,spain,2425,240385.0,12500000.0
+Eduardo Camavinga,Real Madrid,M,22,France,spain,2425,240385.0,12500000.0
+Pedri,Barcelona,M,22,Spain,spain,2425,240385.0,12500000.0
+Marc-André ter Stegen,Barcelona,K,32,Germany,spain,2425,240385.0,12500000.0
+Iñaki Williams,Athletic Club,F,30,Ghana,spain,2425,219231.0,11400000.0
+Ferland Mendy,Real Madrid,D,29,France,spain,2425,200385.0,10420000.0
+Nico Williams,Athletic Club,F,22,Spain,spain,2425,200385.0,10420000.0
+Luka Modric,Real Madrid,M,39,Croatia,spain,2425,200385.0,10420000.0
+Julián Alvarez,Atletico Madrid,F,25,Argentina,spain,2425,200385.0,10420000.0
+Daniel Carvajal,Real Madrid,D,33,Spain,spain,2425,200385.0,10420000.0
+Dani Ceballos,Real Madrid,M,28,Spain,spain,2425,200385.0,10420000.0
+Ferran Torres,Barcelona,F,24,Spain,spain,2425,192308.0,10000000.0
+Gavi,Barcelona,M,20,Spain,spain,2425,180385.0,9380000.0
+Lucas Vázquez,Real Madrid,D,33,Spain,spain,2425,180385.0,9380000.0
+Iñigo Martínez,Barcelona,D,33,Spain,spain,2425,174231.0,9060000.0
+Andreas Christensen,Barcelona,D,28,Denmark,spain,2425,173077.0,9000000.0
+Conor Gallagher,Atletico Madrid,M,25,England,spain,2425,173077.0,9000000.0
+Unai Simón,Athletic Club,K,27,Spain,spain,2425,160385.0,8340000.0
+Marcos Llorente,Atletico Madrid,M,30,Spain,spain,2425,160192.0,8330000.0
+Axel Witsel,Atletico Madrid,D,36,Belgium,spain,2425,160192.0,8330000.0
+César Azpilicueta,Atletico Madrid,D,35,Spain,spain,2425,153846.0,8000000.0
+Alexander Sörloth,Atletico Madrid,F,29,Norway,spain,2425,140385.0,7300000.0
+Brahim Díaz,Real Madrid,F,25,Morocco,spain,2425,140192.0,7290000.0
+Saúl Ñíguez,Atletico Madrid,M,29,Spain,spain,2425,134615.0,7000000.0
+Koke,Atletico Madrid,M,33,Spain,spain,2425,128269.0,6670000.0
+Rodrigo De Paul,Atletico Madrid,M,30,Argentina,spain,2425,128269.0,6670000.0
+Mikel Oyarzabal,Real Sociedad,F,27,Spain,spain,2425,120385.0,6260000.0
+José Giménez,Atletico Madrid,D,30,Uruguay,spain,2425,120192.0,6250000.0
+Raúl Asencio,Real Madrid,D,21,Spain,spain,2425,120192.0,6250000.0
+Pablo Barrios,Atletico Madrid,M,21,Spain,spain,2425,120192.0,6250000.0
+Robin Le Normand,Atletico Madrid,D,28,Spain,spain,2425,120192.0,6250000.0
+Isco,Real Betis,F,32,Spain,spain,2425,120192.0,6250000.0
+Bryan Zaragoza,Osasuna,F,23,Spain,spain,2425,120192.0,6250000.0
+Eric García,Barcelona,D,24,Spain,spain,2425,115385.0,6000000.0
+Fran García,Real Madrid,D,25,Spain,spain,2425,100192.0,5210000.0
+Arthur,Girona,M,28,Brazil,spain,2425,100192.0,5210000.0
+Takefusa Kubo,Real Sociedad,F,23,Japan,spain,2425,100000.0,5200000.0
+Arda Güler,Real Madrid,F,19,Turkey,spain,2425,100000.0,5200000.0
+Brais Méndez,Real Sociedad,F,28,Spain,spain,2425,100000.0,5200000.0
+Giovani Lo Celso,Real Betis,M,28,Argentina,spain,2425,100000.0,5200000.0
+Saúl Ñíguez,Sevilla,M,30,Spain,spain,2425,96154.0,5000000.0
+Kelechi Iheanacho,Sevilla,F,27,Nigeria,spain,2425,92308.0,4800000.0
+Borja Mayoral,Getafe,F,27,Spain,spain,2425,92115.0,4790000.0
+İlkay Gündoğan,Barcelona,M,33,Germany,spain,2425,90192.0,4690000.0
+Vedat Muriqi,Mallorca,F,30,Kosovo,spain,2425,88077.0,4580000.0
+José Gayà,Valencia,D,29,Spain,spain,2425,88077.0,4580000.0
+Andriy Lunin,Real Madrid,K,25,Ukraine,spain,2425,86538.0,4500000.0
+Juan Bernat,Villarreal,D,31,Spain,spain,2425,84231.0,4380000.0
+Marcão,Sevilla,D,28,Brazil,spain,2425,84231.0,4380000.0
+Yuri Berchiche,Athletic Club,D,35,Spain,spain,2425,82308.0,4280000.0
+Loïc Badé,Sevilla,D,24,France,spain,2425,80192.0,4170000.0
+Tanguy Nianzou,Sevilla,D,22,France,spain,2425,80192.0,4170000.0
+Marcos Alonso,Celta Vigo,D,34,Spain,spain,2425,80192.0,4170000.0
+Djibril Sow,Sevilla,M,28,Switzerland,spain,2425,80192.0,4170000.0
+Hugo Duro,Valencia,F,25,Spain,spain,2425,80192.0,4170000.0
+James Rodríguez,Rayo Vallecano,F,33,Colombia,spain,2425,80000.0,4160000.0
+Oihan Sancet,Athletic Club,F,24,Spain,spain,2425,80000.0,4160000.0
+Endrick,Real Madrid,F,18,Brazil,spain,2425,80000.0,4160000.0
+Álex Remiro,Real Sociedad,K,29,Spain,spain,2425,80000.0,4160000.0
+Cucho Hernández,Real Betis,F,25,Colombia,spain,2425,80000.0,4160000.0
+Jonathan Bamba,Celta Vigo,F,28,Cote d'Ivoire,spain,2425,80000.0,4160000.0
+Clément Lenglet,Atletico Madrid,D,29,France,spain,2425,76923.0,4000000.0
+Fermín López,Barcelona,M,21,Spain,spain,2425,76923.0,4000000.0
+Pau Cubarsí,Barcelona,D,18,Spain,spain,2425,76923.0,4000000.0
+Mouctar Diakhaby,Valencia,D,28,Guinea,spain,2425,76923.0,4000000.0
+Nemanja Gudelj,Sevilla,M,33,Serbia,spain,2425,76154.0,3960000.0
+Nahuel Molina,Atletico Madrid,D,26,Argentina,spain,2425,72308.0,3760000.0
+David López,Girona,D,35,Spain,spain,2425,72115.0,3750000.0
+Martin Valjent,Mallorca,D,29,Slovakia,spain,2425,72115.0,3750000.0
+Gerard Moreno,Villarreal,F,32,Spain,spain,2425,72115.0,3750000.0
+Marash Kumbulla,Espanyol,D,24,Albania,spain,2425,72115.0,3750000.0
+Dani Parejo,Villarreal,M,35,Spain,spain,2425,72115.0,3750000.0
+Juan Bernat,Getafe,D,31,Spain,spain,2425,71923.0,3740000.0
+Mauro Arambarri,Getafe,M,29,Uruguay,spain,2425,71923.0,3740000.0
+Dani Vivian,Athletic Club,D,25,Spain,spain,2425,70000.0,3640000.0
+Joan Jordán,Alaves,M,30,Spain,spain,2425,69231.0,3600000.0
+Vitor Roque,Real Betis,F,19,Brazil,spain,2425,67308.0,3500000.0
+Oriol Romeu,Girona,M,33,Spain,spain,2425,67308.0,3500000.0
+Ángel Correa,Atletico Madrid,F,29,Argentina,spain,2425,67308.0,3500000.0
+Alfonso Pedraza,Villarreal,D,28,Spain,spain,2425,64231.0,3340000.0
+Lamine Yamal,Barcelona,F,17,Spain,spain,2425,64038.0,3330000.0
+Daley Blind,Girona,D,34,Netherlands,spain,2425,64038.0,3330000.0
+Juan Musso,Atletico Madrid,K,30,Argentina,spain,2425,64038.0,3330000.0
+Thomas Lemar,Atletico Madrid,F,29,France,spain,2425,62500.0,3250000.0
+Iñaki Peña,Barcelona,K,25,Spain,spain,2425,62500.0,3250000.0
+Albert Sambi Lokonga,Sevilla,M,25,Belgium,spain,2425,60192.0,3130000.0
+Jesús Navas,Sevilla,D,38,Spain,spain,2425,60192.0,3130000.0
+Adnan Januzaj,Sevilla,F,30,Belgium,spain,2425,60192.0,3130000.0
+Donny van de Beek,Girona,M,27,Netherlands,spain,2425,60192.0,3130000.0
+Arnaut Danjuma,Girona,F,28,Netherlands,spain,2425,60192.0,3130000.0
+Isaac Romero,Sevilla,F,24,Spain,spain,2425,60192.0,3130000.0
+Rubén Vargas,Sevilla,F,26,Switzerland,spain,2425,60192.0,3130000.0
+Antony,Real Betis,F,24,Brazil,spain,2425,60192.0,3130000.0
+Ander Barrenetxea,Real Sociedad,F,23,Spain,spain,2425,60000.0,3120000.0
+Diego Llorente,Real Betis,D,31,Spain,spain,2425,60000.0,3120000.0
+Álex Berenguer,Athletic Club,F,29,Spain,spain,2425,60000.0,3120000.0
+Héctor Bellerín,Real Betis,D,29,Spain,spain,2425,60000.0,3120000.0
+Nicolas Pépé,Villarreal,F,29,Cote d'Ivoire,spain,2425,60000.0,3120000.0
+Djené,Getafe,D,33,Togo,spain,2425,60000.0,3120000.0
+Eric Bailly,Villarreal,D,30,Cote d'Ivoire,spain,2425,60000.0,3120000.0
+Javi Galán,Atletico Madrid,D,30,Spain,spain,2425,60000.0,3120000.0
+Denis Suárez,Villarreal,F,31,Spain,spain,2425,60000.0,3120000.0
+Johnny,Real Betis,M,23,United States,spain,2425,60000.0,3120000.0
+Igor Zubeldia,Real Sociedad,D,27,Spain,spain,2425,60000.0,3120000.0
+Ayoze Pérez,Villarreal,F,31,Spain,spain,2425,60000.0,3120000.0
+Pape Gueye,Villarreal,M,26,Senegal,spain,2425,60000.0,3120000.0
+Ante Budimir,Osasuna,F,33,Croatia,spain,2425,60000.0,3120000.0
+Pablo Fornals,Real Betis,F,28,Spain,spain,2425,60000.0,3120000.0
+Raúl de Tomás,Rayo Vallecano,F,30,Spain,spain,2425,59615.0,3100000.0
+Dodi Lukébakio,Sevilla,F,27,Belgium,spain,2425,57692.0,3000000.0
+Ander Herrera,Athletic Club,M,35,Spain,spain,2425,57692.0,3000000.0
+Wojciech Szczesny,Barcelona,K,34,Poland,spain,2425,57692.0,3000000.0
+Martín Zubimendi,Real Sociedad,M,26,Spain,spain,2425,57692.0,3000000.0
+Iago Aspas,Celta Vigo,F,37,Spain,spain,2425,56154.0,2920000.0
+Fábio Silva,Las Palmas,F,22,Portugal,spain,2425,55962.0,2910000.0
+Suso,Sevilla,F,31,Spain,spain,2425,53846.0,2800000.0
+Sergi Darder,Mallorca,M,31,Spain,spain,2425,51923.0,2700000.0
+Viktor Tsyhankov,Girona,F,27,Ukraine,spain,2425,51923.0,2700000.0
+Álvaro Odriozola,Real Sociedad,D,29,Spain,spain,2425,51923.0,2700000.0
+Cédric Bakambu,Real Betis,F,33,Democratic Republic of the Congo,spain,2425,51923.0,2700000.0
+Carles Pérez,Getafe,F,26,Spain,spain,2425,49231.0,2560000.0
+Florian Grillitsch,Valladolid,M,29,Austria,spain,2425,48077.0,2500000.0
+David Soria,Getafe,K,31,Spain,spain,2425,48077.0,2500000.0
+Juanlu Sánchez,Sevilla,D,21,Spain,spain,2425,48077.0,2500000.0
+Marc Bartra,Real Betis,D,34,Spain,spain,2425,48077.0,2500000.0
+Sébastien Haller,Leganes,F,30,Cote d'Ivoire,spain,2425,48077.0,2500000.0
+Bryan Gil,Girona,F,23,Spain,spain,2425,48077.0,2500000.0
+Logan Costa,Villarreal,D,23,Cape Verde,spain,2425,48077.0,2500000.0
+Ricardo Rodríguez,Real Betis,D,32,Switzerland,spain,2425,48077.0,2500000.0
+José Ángel Carmona,Sevilla,D,23,Spain,spain,2425,48077.0,2500000.0
+Giuliano Simeone,Atletico Madrid,F,22,Argentina,spain,2425,48077.0,2500000.0
+Sergio Gómez,Real Sociedad,F,24,Spain,spain,2425,48077.0,2500000.0
+Fran Beltrán,Celta Vigo,M,26,Spain,spain,2425,48077.0,2500000.0
+Marc Roca,Real Betis,M,28,Spain,spain,2425,48077.0,2500000.0
+Juanmi,Real Betis,F,31,Spain,spain,2425,46154.0,2400000.0
+Yeray Álvarez,Athletic Club,D,30,Spain,spain,2425,46154.0,2400000.0
+Juanmi,Getafe,F,31,Spain,spain,2425,46154.0,2400000.0
+Hamari Traoré,Real Sociedad,D,33,Mali,spain,2425,46154.0,2400000.0
+Vicente Guaita,Celta Vigo,K,38,Spain,spain,2425,46154.0,2400000.0
+William Carvalho,Real Betis,M,32,Portugal,spain,2425,45192.0,2350000.0
+Santi Comesaña,Villarreal,M,28,Spain,spain,2425,44231.0,2300000.0
+Iván Martín,Girona,F,25,Spain,spain,2425,44231.0,2300000.0
+Natan,Real Betis,D,24,Brazil,spain,2425,44038.0,2290000.0
+Chimy Ávila,Real Betis,F,31,Argentina,spain,2425,40000.0,2080000.0
+Aritz Elustondo,Real Sociedad,D,30,Spain,spain,2425,40000.0,2080000.0
+Isi Palazón,Rayo Vallecano,F,30,Spain,spain,2425,40000.0,2080000.0
+Florian Lejeune,Rayo Vallecano,D,33,France,spain,2425,40000.0,2080000.0
+Álvaro García,Rayo Vallecano,F,32,Spain,spain,2425,40000.0,2080000.0
+Jon Aramburu,Real Sociedad,D,22,Venezuela,spain,2425,40000.0,2080000.0
+Lucas Torró,Osasuna,M,30,Spain,spain,2425,40000.0,2080000.0
+Diego Rico,Getafe,D,31,Spain,spain,2425,40000.0,2080000.0
+Umar Sadiq,Real Sociedad,F,27,Nigeria,spain,2425,40000.0,2080000.0
+Abel Ruiz,Girona,F,25,Spain,spain,2425,40000.0,2080000.0
+Mikel Vesga,Athletic Club,M,31,Spain,spain,2425,40000.0,2080000.0
+Mikel Jauregizar,Athletic Club,M,21,Spain,spain,2425,40000.0,2080000.0
+Sergi Altimira,Real Betis,M,23,Spain,spain,2425,40000.0,2080000.0
+Luiz Júnior,Villarreal,K,24,Brazil,spain,2425,40000.0,2080000.0
+Gorka Guruzeta,Athletic Club,F,28,Spain,spain,2425,40000.0,2080000.0
+Aitor Paredes,Athletic Club,D,24,Spain,spain,2425,40000.0,2080000.0
+Adnan Januzaj,Las Palmas,F,30,Belgium,spain,2425,40000.0,2080000.0
+Kike Salas,Sevilla,D,22,Spain,spain,2425,40000.0,2080000.0
+Scott McKenna,Las Palmas,D,28,Scotland,spain,2425,40000.0,2080000.0
+Sergi Cardona,Villarreal,D,25,Spain,spain,2425,40000.0,2080000.0
+Oliver McBurnie,Las Palmas,F,28,Scotland,spain,2425,40000.0,2080000.0
+Clément Lenglet,Barcelona,D,29,France,spain,2425,38462.0,2000000.0
+Juan Foyth,Villarreal,D,27,Argentina,spain,2425,38462.0,2000000.0
+Álex Baena,Villarreal,F,23,Spain,spain,2425,38462.0,2000000.0
+Alex Král,Espanyol,M,26,Czech Republic,spain,2425,38077.0,1980000.0
+Pau López,Girona,K,29,Spain,spain,2425,37500.0,1950000.0
+Hugo Guillamón,Valencia,M,25,Spain,spain,2425,36923.0,1920000.0
+Rafa Mir,Valencia,F,27,Spain,spain,2425,36538.0,1900000.0
+Akor Adams,Sevilla,F,25,Nigeria,spain,2425,36154.0,1880000.0
+Johan Mojica,Mallorca,D,32,Colombia,spain,2425,36154.0,1880000.0
+Jorge de Frutos,Rayo Vallecano,F,27,Spain,spain,2425,36154.0,1880000.0
+Óscar Valentín,Rayo Vallecano,M,30,Spain,spain,2425,36154.0,1880000.0
+Edu Expósito,Espanyol,M,28,Spain,spain,2425,36154.0,1880000.0
+Romain Perraud,Real Betis,D,27,France,spain,2425,36154.0,1880000.0
+Pep Chavarría,Rayo Vallecano,D,26,Spain,spain,2425,36154.0,1880000.0
+Chidera Ejuke,Sevilla,F,27,Nigeria,spain,2425,36154.0,1880000.0
+Portu,Girona,F,32,Spain,spain,2425,36154.0,1880000.0
+Álvaro Djaló,Athletic Club,F,25,Spain,spain,2425,36154.0,1880000.0
+Cristhian Mosquera,Valencia,D,20,Spain,spain,2425,36154.0,1880000.0
+Diego Conde,Villarreal,K,26,Spain,spain,2425,36154.0,1880000.0
+Rubén García,Osasuna,F,31,Spain,spain,2425,36154.0,1880000.0
+Nayef Aguerd,Real Sociedad,D,28,Morocco,spain,2425,35000.0,1820000.0
+Jesús Vallejo,Real Madrid,D,28,Spain,spain,2425,34615.0,1800000.0
+Valentin Rosier,Leganes,D,28,France,spain,2425,34231.0,1780000.0
+Toni Martínez,Alaves,F,27,Spain,spain,2425,34231.0,1780000.0
+Lucas Ocampos,Sevilla,F,30,Argentina,spain,2425,32692.0,1700000.0
+Unai Núñez,Athletic Club,D,28,Spain,spain,2425,32692.0,1700000.0
+Aimar Oroz,Osasuna,F,23,Spain,spain,2425,32115.0,1670000.0
+Alejandro Catena,Osasuna,D,30,Spain,spain,2425,32115.0,1670000.0
+Luka Romero,Alaves,F,19,Argentina,spain,2425,32115.0,1670000.0
+Alejandro Balde,Barcelona,D,21,Spain,spain,2425,32115.0,1670000.0
+Aitor Ruibal,Real Betis,D,28,Spain,spain,2425,31923.0,1660000.0
+Sergi Gómez,Espanyol,D,32,Spain,spain,2425,31923.0,1660000.0
+Pepelu,Valencia,M,26,Spain,spain,2425,31923.0,1660000.0
+Dimitri Foulquier,Valencia,D,32,Guadeloupe,spain,2425,31923.0,1660000.0
+Luka Sucic,Real Sociedad,M,22,Croatia,spain,2425,31923.0,1660000.0
+Unai López,Rayo Vallecano,M,29,Spain,spain,2425,31923.0,1660000.0
+Aihen Muñoz,Real Sociedad,D,27,Spain,spain,2425,31923.0,1660000.0
+Beñat Turrientes,Real Sociedad,M,23,Spain,spain,2425,31923.0,1660000.0
+Antonio Raíllo,Mallorca,D,33,Spain,spain,2425,31538.0,1640000.0
+Ilaix Moriba,Celta Vigo,M,22,Guinea,spain,2425,31154.0,1620000.0
+Kenedy,Valladolid,F,28,Brazil,spain,2425,31154.0,1620000.0
+Joseph Aidoo,Valladolid,D,29,Ghana,spain,2425,30769.0,1600000.0
+Borja Iglesias,Celta Vigo,F,32,Spain,spain,2425,30769.0,1600000.0
+Andoni Gorosabel,Athletic Club,D,28,Spain,spain,2425,30000.0,1560000.0
+Jaime Mata,Las Palmas,F,36,Spain,spain,2425,30000.0,1560000.0
+Joseph Aidoo,Celta Vigo,D,28,Ghana,spain,2425,30000.0,1560000.0
+Paulo Gazzaniga,Girona,K,33,Argentina,spain,2425,30000.0,1560000.0
+Tajon Buchanan,Villarreal,M,25,Canada,spain,2425,30000.0,1560000.0
+Carl Starfelt,Celta Vigo,D,29,Sweden,spain,2425,30000.0,1560000.0
+Pedro Díaz,Rayo Vallecano,M,26,Spain,spain,2425,30000.0,1560000.0
+Valentín Barco,Sevilla,D,20,Argentina,spain,2425,30000.0,1560000.0
+Antonio Sivera,Alaves,K,28,Spain,spain,2425,30000.0,1560000.0
+Stoichkov,Alaves,F,30,Spain,spain,2425,30000.0,1560000.0
+Sergi Canós,Valencia,F,28,Spain,spain,2425,28846.0,1500000.0
+Daley Sinkgraven,Las Palmas,D,29,Netherlands,spain,2425,28846.0,1500000.0
+Marcos André,Valladolid,F,28,Brazil,spain,2425,28846.0,1500000.0
+Stefan Bajcetic,Las Palmas,M,20,Spain,spain,2425,28846.0,1500000.0
+Anuar,Valladolid,F,30,Morocco,spain,2425,28846.0,1500000.0
+Alejo Veliz,Espanyol,F,21,Argentina,spain,2425,28846.0,1500000.0
+Giorgi Mamardashvili,Valencia,K,24,Georgia,spain,2425,28846.0,1500000.0
+Sandro Ramírez,Las Palmas,F,29,Spain,spain,2425,28654.0,1490000.0
+Jon Moncayola,Osasuna,M,26,Spain,spain,2425,28077.0,1460000.0
+Adrián,Real Betis,K,38,Spain,spain,2425,28077.0,1460000.0
+Andrei Rațiu,Rayo Vallecano,D,26,Romania,spain,2425,28077.0,1460000.0
+Beñat Prados,Athletic Club,M,23,Spain,spain,2425,28077.0,1460000.0
+Ander Guevara,Alaves,M,27,Spain,spain,2425,28077.0,1460000.0
+Luis Milla,Getafe,M,30,Spain,spain,2425,28077.0,1460000.0
+Iñigo Ruiz de Galarreta,Athletic Club,M,31,Spain,spain,2425,28077.0,1460000.0
+Abde Ezzalzouli,Real Betis,F,23,Morocco,spain,2425,28077.0,1460000.0
+Pablo Maffeo,Mallorca,D,27,Argentina,spain,2425,28077.0,1460000.0
+Munir El Haddadi,Leganes,F,29,Morocco,spain,2425,28077.0,1460000.0
+Renato Tapia,Leganes,M,29,Peru,spain,2425,28077.0,1460000.0
+Takuma Asano,Mallorca,F,30,Japan,spain,2425,28077.0,1460000.0
+Toni Lato,Mallorca,D,27,Spain,spain,2425,28077.0,1460000.0
+Moi Gómez,Osasuna,F,30,Spain,spain,2425,28077.0,1460000.0
+Antonio Sánchez,Mallorca,M,27,Spain,spain,2425,28077.0,1460000.0
+Jaume Doménech,Valencia,K,34,Spain,spain,2425,27885.0,1450000.0
+Darwin Machís,Valladolid,F,31,Venezuela,spain,2425,27885.0,1450000.0
+Willy Kambwala,Villarreal,D,20,France,spain,2425,27885.0,1450000.0
+Sheraldo Becker,Real Sociedad,F,29,Suriname,spain,2425,26923.0,1400000.0
+Gonzalo Montiel,Sevilla,D,27,Argentina,spain,2425,26538.0,1380000.0
+Gerard Martín,Barcelona,D,22,Spain,spain,2425,26154.0,1360000.0
+Yeremi Pino,Villarreal,F,22,Spain,spain,2425,25962.0,1350000.0
+Anastasios Douvikas,Celta Vigo,F,25,Greece,spain,2425,25000.0,1300000.0
+Raúl García,Osasuna,F,24,Spain,spain,2425,24231.0,1260000.0
+Juan Cruz,Osasuna,D,32,Spain,spain,2425,24231.0,1260000.0
+Randy Nteka,Rayo Vallecano,F,27,Angola,spain,2425,24231.0,1260000.0
+Jon Guridi,Alaves,M,29,Spain,spain,2425,24231.0,1260000.0
+Arsen Zakharyan,Real Sociedad,F,21,Russia,spain,2425,24231.0,1260000.0
+Enzo Boyomo,Osasuna,D,23,Cameroon,spain,2425,24231.0,1260000.0
+Domingos Duarte,Getafe,D,29,Portugal,spain,2425,24231.0,1260000.0
+Max Aarons,Valencia,D,25,England,spain,2425,24038.0,1250000.0
+Óscar de Marcos,Athletic Club,D,35,Spain,spain,2425,24038.0,1250000.0
+Pere Milla,Espanyol,F,32,Spain,spain,2425,24038.0,1250000.0
+Fernando Calero,Espanyol,D,29,Spain,spain,2425,24038.0,1250000.0
+Borna Barisic,Leganes,D,32,Croatia,spain,2425,24038.0,1250000.0
+Stanko Juric,Valladolid,M,28,Croatia,spain,2425,24038.0,1250000.0
+Ørjan Nyland,Sevilla,K,34,Norway,spain,2425,24038.0,1250000.0
+Antonio Candela,Valladolid,D,24,Italy,spain,2425,24038.0,1250000.0
+Manu Morlanes,Mallorca,M,26,Spain,spain,2425,24038.0,1250000.0
+Samuel Lino,Atletico Madrid,F,25,Brazil,spain,2425,24038.0,1250000.0
+Enzo Barrenechea,Valencia,M,23,Argentina,spain,2425,24038.0,1250000.0
+Ladislav Krejci,Girona,D,25,Czech Republic,spain,2425,23846.0,1240000.0
+André Almeida,Valencia,F,24,Portugal,spain,2425,23846.0,1240000.0
+Álvaro Valles,Las Palmas,K,27,Spain,spain,2425,23846.0,1240000.0
+Yáser Asprilla,Girona,F,21,Colombia,spain,2425,23846.0,1240000.0
+Miguel Gutiérrez,Girona,D,23,Spain,spain,2425,23846.0,1240000.0
+Arnau Martínez,Girona,D,21,Spain,spain,2425,23846.0,1240000.0
+Franco Cervi,Celta Vigo,F,30,Argentina,spain,2425,23846.0,1240000.0
+Stole Dimitrievski,Valencia,K,31,North Macedonia,spain,2425,23846.0,1240000.0
+Umar Sadiq,Valencia,F,28,Nigeria,spain,2425,23077.0,1200000.0
+Omar Alderete,Getafe,D,28,Paraguay,spain,2425,23077.0,1200000.0
+Cristhian Stuani,Girona,F,38,Uruguay,spain,2425,23077.0,1200000.0
+Salvi Sánchez,Espanyol,F,33,Spain,spain,2425,23077.0,1200000.0
+Óscar Mingueza,Celta Vigo,D,25,Spain,spain,2425,22115.0,1150000.0
+Javier Manquillo,Celta Vigo,D,30,Spain,spain,2425,21923.0,1140000.0
+Yangel Herrera,Girona,M,27,Venezuela,spain,2425,21154.0,1100000.0
+Adrià Pedrosa,Sevilla,D,26,Spain,spain,2425,21154.0,1100000.0
+Iván Sánchez,Valladolid,F,32,Spain,spain,2425,20769.0,1080000.0
+Mihailo Ristic,Celta Vigo,D,29,Serbia,spain,2425,20192.0,1050000.0
+Tadeo Allende,Celta Vigo,F,25,Argentina,spain,2425,20192.0,1050000.0
+Thierry Correia,Valencia,D,25,Portugal,spain,2425,20000.0,1040000.0
+Pablo Marín,Real Sociedad,F,21,Spain,spain,2425,20000.0,1040000.0
+Luis Rioja,Valencia,F,31,Spain,spain,2425,20000.0,1040000.0
+Samú Costa,Mallorca,M,24,Portugal,spain,2425,20000.0,1040000.0
+Raúl Moro,Valladolid,F,22,Spain,spain,2425,20000.0,1040000.0
+Iván Villar,Celta Vigo,K,27,Spain,spain,2425,20000.0,1040000.0
+Abel Bretones,Osasuna,D,24,Spain,spain,2425,20000.0,1040000.0
+Álex Sola,Getafe,F,25,Spain,spain,2425,20000.0,1040000.0
+Óscar Rodríguez,Leganes,F,26,Spain,spain,2425,20000.0,1040000.0
+Jon Pacheco,Real Sociedad,D,24,Spain,spain,2425,20000.0,1040000.0
+Leandro Cabrera,Espanyol,D,33,Uruguay,spain,2425,20000.0,1040000.0
+Antonio Blanco,Alaves,M,24,Spain,spain,2425,20000.0,1040000.0
+Lucien Agoume,Sevilla,M,22,France,spain,2425,20000.0,1040000.0
+Oscar Trejo,Rayo Vallecano,F,36,Argentina,spain,2425,20000.0,1040000.0
+Jofre Carreras,Espanyol,F,23,Spain,spain,2425,20000.0,1040000.0
+Carlos Vicente,Alaves,F,25,Spain,spain,2425,20000.0,1040000.0
+Eray Cömert,Valladolid,D,27,Switzerland,spain,2425,20000.0,1040000.0
+Orri Óskarsson,Real Sociedad,F,20,Iceland,spain,2425,20000.0,1040000.0
+Manu Sánchez,Alaves,D,24,Spain,spain,2425,19231.0,1000000.0
+Kiko Femenía,Villarreal,D,34,Spain,spain,2425,19231.0,1000000.0
+Fernando Pacheco,Espanyol,K,32,Spain,spain,2425,19231.0,1000000.0
+Iñigo Lekue,Athletic Club,D,31,Spain,spain,2425,19231.0,1000000.0
+Adrián Embarba,Rayo Vallecano,F,32,Spain,spain,2425,18462.0,960000.0
+Sergio Herrera,Osasuna,K,31,Spain,spain,2425,18269.0,950000.0
+Alfonso Espino,Rayo Vallecano,D,33,Uruguay,spain,2425,18077.0,940000.0
+Iván Balliu,Rayo Vallecano,D,33,Albania,spain,2425,18077.0,940000.0
+Facundo Garcés,Alaves,D,25,Argentina,spain,2425,18077.0,940000.0
+Pol Lozano,Espanyol,M,25,Spain,spain,2425,18077.0,940000.0
+Nahuel Tenaglia,Alaves,D,28,Argentina,spain,2425,18077.0,940000.0
+Marc Casadó,Barcelona,M,21,Spain,spain,2425,18077.0,940000.0
+Hugo Álvarez,Celta Vigo,F,21,Spain,spain,2425,18077.0,940000.0
+Álvaro Aguado,Espanyol,M,28,Spain,spain,2425,18077.0,940000.0
+Raúl Albiol,Villarreal,D,39,Spain,spain,2425,18077.0,940000.0
+Jailson,Celta Vigo,M,29,Brazil,spain,2425,17885.0,930000.0
+Thierno Barry,Villarreal,F,22,France,spain,2425,17692.0,920000.0
+Mamadou Sylla,Valladolid,F,30,Senegal,spain,2425,17308.0,900000.0
+Rui Silva,Real Betis,K,30,Portugal,spain,2425,17308.0,900000.0
+Nacho Vidal,Osasuna,D,29,Spain,spain,2425,16731.0,870000.0
+Víctor Meseguer,Valladolid,M,25,Spain,spain,2425,16731.0,870000.0
+Youssouf Sabaly,Real Betis,D,31,Senegal,spain,2425,16346.0,850000.0
+Siebe Van der Heyden,Mallorca,D,26,Belgium,spain,2425,16346.0,850000.0
+Jon Martín,Real Sociedad,D,18,Spain,spain,2425,16154.0,840000.0
+Omar El Hilali,Espanyol,D,21,Morocco,spain,2425,16154.0,840000.0
+Rubén Peña,Osasuna,D,33,Spain,spain,2425,16154.0,840000.0
+Kike Barja,Osasuna,F,27,Spain,spain,2425,16154.0,840000.0
+Juanmi Latasa,Valladolid,F,23,Spain,spain,2425,16154.0,840000.0
+Sergio Camello,Rayo Vallecano,F,23,Spain,spain,2425,16154.0,840000.0
+Aitor Fernández,Osasuna,K,33,Spain,spain,2425,16154.0,840000.0
+Omar Mascarell,Mallorca,M,32,Equatorial Guinea,spain,2425,16154.0,840000.0
+Mateu Morey Bauzà,Mallorca,D,24,Spain,spain,2425,16154.0,840000.0
+Javi Rodríguez,Celta Vigo,D,21,Spain,spain,2425,16154.0,840000.0
+Dani Rodríguez,Mallorca,F,36,Spain,spain,2425,16154.0,840000.0
+Cyle Larin,Mallorca,F,29,Canada,spain,2425,16154.0,840000.0
+Héctor Fort,Barcelona,D,18,Spain,spain,2425,16154.0,840000.0
+Roberto López,Leganes,F,24,Spain,spain,2425,16154.0,840000.0
+Maroan Sannadi,Athletic Club,F,24,Spain,spain,2425,16154.0,840000.0
+Javi Hernández,Leganes,D,26,Spain,spain,2425,16154.0,840000.0
+Tomás Conechny,Alaves,F,26,Argentina,spain,2425,16154.0,840000.0
+Jasper Cillessen,Las Palmas,K,35,Netherlands,spain,2425,16154.0,840000.0
+Kirian Rodríguez,Las Palmas,F,28,Spain,spain,2425,15962.0,830000.0
+José Campaña,Las Palmas,M,31,Spain,spain,2425,15962.0,830000.0
+Diego López,Valencia,F,22,Spain,spain,2425,15385.0,800000.0
+Moussa Diarra,Alaves,D,24,Mali,spain,2425,15385.0,800000.0
+Reinildo Mandava,Atletico Madrid,D,31,Mozambique,spain,2425,15385.0,800000.0
+Augusto Batalla,Rayo Vallecano,K,28,Argentina,spain,2425,15000.0,780000.0
+Julen Agirrezabala,Athletic Club,K,24,Spain,spain,2425,14038.0,730000.0
+Aleksandar Sedlar,Alaves,D,33,Serbia,spain,2425,14038.0,730000.0
+Abde Rebbach,Alaves,F,26,Algeria,spain,2425,14038.0,730000.0
+Alejandro Francés,Girona,D,22,Spain,spain,2425,13846.0,720000.0
+Bojan Miovski,Girona,F,25,North Macedonia,spain,2425,13846.0,720000.0
+Javi Muñoz,Las Palmas,M,29,Spain,spain,2425,13846.0,720000.0
+Álvaro Fernández,Sevilla,K,26,Spain,spain,2425,13846.0,720000.0
+Javi López,Real Sociedad,D,22,Spain,spain,2425,13846.0,720000.0
+Asier Villalibre,Alaves,F,27,Spain,spain,2425,13846.0,720000.0
+Hugo Sotelo,Celta Vigo,M,21,Spain,spain,2425,13846.0,720000.0
+Carlos Benavidez,Alaves,M,26,Uruguay,spain,2425,13846.0,720000.0
+Abdón Prats,Mallorca,F,32,Spain,spain,2425,13846.0,720000.0
+Joan García,Espanyol,K,23,Spain,spain,2425,13846.0,720000.0
+Robert Navarro,Mallorca,F,22,Spain,spain,2425,13846.0,720000.0
+Juan Iglesias,Getafe,D,26,Spain,spain,2425,13846.0,720000.0
+Pejiño,Las Palmas,F,28,Spain,spain,2425,13846.0,720000.0
+Iván Jaime,Valencia,F,24,Spain,spain,2425,13846.0,720000.0
+Amath Ndiaye,Valladolid,F,28,Senegal,spain,2425,13846.0,720000.0
+Iker Muñoz,Osasuna,M,22,Spain,spain,2425,13846.0,720000.0
+José Manuel Arnáiz,Osasuna,F,29,Spain,spain,2425,13077.0,680000.0
+Jackson Porozo,Leganes,D,24,Ecuador,spain,2425,12692.0,660000.0
+Javi Sánchez,Valladolid,D,27,Spain,spain,2425,12692.0,660000.0
+Kike García,Alaves,F,35,Spain,spain,2425,12500.0,650000.0
+Gerard Gumbau,Rayo Vallecano,M,30,Spain,spain,2425,12500.0,650000.0
+Marc Cardona,Las Palmas,F,29,Spain,spain,2425,12115.0,630000.0
+Enzo Loiodice,Las Palmas,M,24,France,spain,2425,12115.0,630000.0
+Carles Aleñá,Alaves,M,27,Spain,spain,2425,12115.0,630000.0
+Carles Aleñá,Getafe,M,26,Spain,spain,2425,12115.0,630000.0
+Alex Suárez,Las Palmas,D,31,Spain,spain,2425,12115.0,630000.0
+Williot Swedberg,Celta Vigo,F,21,Sweden,spain,2425,11923.0,620000.0
+Rodrigo Riquelme,Atletico Madrid,F,24,Spain,spain,2425,11923.0,620000.0
+Álvaro Tejero,Espanyol,D,28,Spain,spain,2425,11923.0,620000.0
+Allan Nyom,Getafe,D,36,Cameroon,spain,2425,11923.0,620000.0
+Jiri Letacek,Getafe,K,26,Czech Republic,spain,2425,11923.0,620000.0
+Alberto Moleiro,Las Palmas,F,21,Spain,spain,2425,11923.0,620000.0
+Álex Muñoz,Las Palmas,D,30,Spain,spain,2425,11923.0,620000.0
+Juan Soriano,Leganes,K,27,Spain,spain,2425,11923.0,620000.0
+Matija Nastasić,Leganes,D,31,Serbia,spain,2425,11923.0,620000.0
+Dani Cárdenas,Rayo Vallecano,K,27,Spain,spain,2425,11923.0,620000.0
+Pathé Ciss,Rayo Vallecano,M,30,Senegal,spain,2425,11923.0,620000.0
+Peque Fernández,Sevilla,F,22,Spain,spain,2425,11923.0,620000.0
+Fran Pérez,Valencia,F,22,Spain,spain,2425,11923.0,620000.0
+Jesús Vázquez,Valencia,D,22,Spain,spain,2425,11923.0,620000.0
+Yarek Gasiorowski,Valencia,D,20,Spain,spain,2425,11923.0,620000.0
+Karl Hein,Valladolid,K,22,Estonia,spain,2425,11923.0,620000.0
+Chiquinho,Mallorca,F,25,Portugal,spain,2425,11538.0,600000.0
+Fabrizio Angileri,Getafe,D,30,Argentina,spain,2425,11538.0,600000.0
+Ilias Akhomach,Villarreal,F,20,Morocco,spain,2425,11538.0,600000.0
+Bertuğ Yıldırım,Getafe,F,22,Turkey,spain,2425,11538.0,600000.0
+Juanpe,Girona,D,33,Spain,spain,2425,11538.0,600000.0
+Sergio Carreira,Celta Vigo,D,24,Spain,spain,2425,11538.0,600000.0
+Cenk Özkacar,Valladolid,D,24,Turkey,spain,2425,11346.0,590000.0
+Irvin Cardona,Espanyol,F,27,France,spain,2425,10769.0,560000.0
+Dani Gómez,Valencia,F,26,Spain,spain,2425,10577.0,550000.0
+Brian Oliván,Espanyol,D,30,Spain,spain,2425,10385.0,540000.0
+Unai García,Osasuna,D,33,Spain,spain,2425,10192.0,530000.0
+Maximiliano Caufriez,Valencia,D,27,Belgium,spain,2425,10192.0,530000.0
+Darko Brasanac,Leganes,M,32,Serbia,spain,2425,10000.0,520000.0
+Dinko Horkas,Las Palmas,K,25,Croatia,spain,2425,10000.0,520000.0
+Manu Fuster,Las Palmas,F,27,Spain,spain,2425,10000.0,520000.0
+Pau Navarro,Villarreal,D,19,Spain,spain,2425,10000.0,520000.0
+Abdul Mumin,Rayo Vallecano,D,26,Ghana,spain,2425,10000.0,520000.0
+Álex Padilla,Athletic Club,K,21,Mexico,spain,2425,10000.0,520000.0
+Tamás Nikitscher,Valladolid,M,25,Hungary,spain,2425,10000.0,520000.0
+Luis Pérez,Valladolid,D,30,Spain,spain,2425,10000.0,520000.0
+Álvaro Rodríguez,Getafe,F,20,Uruguay,spain,2425,10000.0,520000.0
+Juan Berrocal,Getafe,D,26,Spain,spain,2425,10000.0,520000.0
+Peter Federico,Getafe,F,22,Dominican Republic,spain,2425,10000.0,520000.0
+Jhon Solís,Girona,M,20,Colombia,spain,2425,10000.0,520000.0
+Marko Dmitrovic,Leganes,K,33,Serbia,spain,2425,10000.0,520000.0
+Juan Cruz,Leganes,F,24,Spain,spain,2425,10000.0,520000.0
+Andy Pelmard,Las Palmas,D,24,France,spain,2425,10000.0,520000.0
+Sergi Guardiola,Rayo Vallecano,F,33,Spain,spain,2425,9615.0,500000.0
+Rodri,Real Betis,F,24,Spain,spain,2425,9615.0,500000.0
+Assane Diao,Real Betis,F,18,Spain,spain,2425,9615.0,500000.0
+José Gragera,Espanyol,M,24,Spain,spain,2425,9231.0,480000.0
+Dário Essugo,Las Palmas,M,19,Portugal,spain,2425,9231.0,480000.0
+Enric Franquesa,Leganes,D,27,Spain,spain,2425,9231.0,480000.0
+Aridane Hernández,Rayo Vallecano,D,35,Spain,spain,2425,8846.0,460000.0
+Selim Amallah,Valladolid,F,28,Morocco,spain,2425,8846.0,460000.0
+Carlos Romero,Espanyol,D,23,Spain,spain,2425,8654.0,450000.0
+Daniel Raba,Leganes,F,29,Spain,spain,2425,8462.0,440000.0
+Miguel de la Fuente,Leganes,F,25,Spain,spain,2425,8269.0,430000.0
+Carlos Martín,Alaves,F,22,Spain,spain,2425,8077.0,420000.0
+Jorge Herrando,Osasuna,D,23,Spain,spain,2425,8077.0,420000.0
+Diego García,Leganes,F,24,Spain,spain,2425,8077.0,420000.0
+Viti Rozada,Las Palmas,D,27,Spain,spain,2425,8077.0,420000.0
+Mika Mármol,Las Palmas,D,23,Spain,spain,2425,8077.0,420000.0
+Marvin Park,Las Palmas,D,24,Spain,spain,2425,8077.0,420000.0
+Iván Gil,Las Palmas,F,24,Spain,spain,2425,8077.0,420000.0
+Stanis Idumbo,Sevilla,F,19,Belgium,spain,2425,8077.0,420000.0
+Roberto Fernández,Espanyol,F,22,Spain,spain,2425,8077.0,420000.0
+Naci Ünüvar,Espanyol,F,21,Turkey,spain,2425,8077.0,420000.0
+Kike Pérez,Valladolid,M,27,Spain,spain,2425,8077.0,420000.0
+Pablo Durán,Celta Vigo,F,23,Spain,spain,2425,8077.0,420000.0
+Marc Bernal,Barcelona,M,17,Spain,spain,2425,8077.0,420000.0
+Borja Garcés,Atletico Madrid,F,25,Spain,spain,2425,8077.0,420000.0
+Adama Boiro,Athletic Club,D,22,Spain,spain,2425,8077.0,420000.0
+Urko González de Zarate,Real Sociedad,M,23,Spain,spain,2425,7885.0,410000.0
+Urko González de Zarate,Espanyol,M,23,Spain,spain,2425,7885.0,410000.0
+Jesús Areso,Osasuna,D,25,Spain,spain,2425,7692.0,400000.0
+Javi Guerra,Valencia,M,21,Spain,spain,2425,7692.0,400000.0
+Pau Víctor,Barcelona,F,23,Spain,spain,2425,7308.0,380000.0
+Benito Ramírez,Las Palmas,F,29,Spain,spain,2425,7308.0,380000.0
+Javi Puado,Espanyol,F,26,Spain,spain,2425,7308.0,380000.0
+Juan Carlos,Girona,K,37,Spain,spain,2425,7115.0,370000.0
+Abdel Abqar,Alaves,D,25,Morocco,spain,2425,7115.0,370000.0
+César de la Hoz,Valladolid,M,32,Spain,spain,2425,6923.0,360000.0
+Valery Fernández,Mallorca,F,25,Spain,spain,2425,6923.0,360000.0
+Jorge Sáenz,Leganes,D,28,Spain,spain,2425,6923.0,360000.0
+Alfon González,Celta Vigo,F,25,Spain,spain,2425,6923.0,360000.0
+Hugo Novoa,Alaves,D,22,Spain,spain,2425,6731.0,350000.0
+Duk,Leganes,F,24,Cape Verde,spain,2425,6154.0,320000.0
+Germán Valera,Valencia,F,22,Spain,spain,2425,6154.0,320000.0
+Seydouba Cissé,Leganes,M,23,Guinea,spain,2425,6154.0,320000.0
+Santiago Mouriño,Alaves,D,22,Uruguay,spain,2425,6154.0,320000.0
+André Ferreira,Valladolid,K,28,Portugal,spain,2425,6154.0,320000.0
+Pau Cabanes,Alaves,F,19,Spain,spain,2425,6154.0,320000.0
+Adrián Pica,Alaves,D,22,Spain,spain,2425,6154.0,320000.0
+Iker Benito,Osasuna,F,22,Spain,spain,2425,6154.0,320000.0
+Iker Losada,Celta Vigo,F,23,Spain,spain,2425,6154.0,320000.0
+Damián Rodríguez,Celta Vigo,M,21,Spain,spain,2425,6154.0,320000.0
+Iker Álvarez,Villarreal,K,23,Andorra,spain,2425,6154.0,320000.0
+Iker Losada,Real Betis,F,23,Spain,spain,2425,6154.0,320000.0
+Manu Bueno,Sevilla,M,20,Spain,spain,2425,6154.0,320000.0
+Walid Cheddira,Espanyol,F,27,Morocco,spain,2425,5962.0,310000.0
+Adam Aznou,Valladolid,D,18,Morocco,spain,2425,5962.0,310000.0
+Nico Serrano,Athletic Club,F,21,Spain,spain,2425,5962.0,310000.0
+Jon Ander Olasagasti,Real Sociedad,M,24,Spain,spain,2425,5769.0,300000.0
+Julián Chicco,Leganes,M,27,Argentina,spain,2425,5769.0,300000.0
+Yvan Neyou,Leganes,M,28,Cameroon,spain,2425,5769.0,300000.0
+Unai Gómez,Athletic Club,F,21,Spain,spain,2425,5769.0,300000.0
+Jesús Rodriguez,Real Betis,F,19,Spain,spain,2425,5769.0,300000.0
+Dominik Greif,Mallorca,K,27,Slovakia,spain,2425,5769.0,300000.0
+Luca de la Torre,Celta Vigo,M,26,United States,spain,2425,5192.0,270000.0
+Leo Román,Mallorca,K,24,Spain,spain,2425,5192.0,270000.0
+Javi Llabrés,Mallorca,F,21,Spain,spain,2425,5192.0,270000.0
+David Torres,Valladolid,D,21,Spain,spain,2425,5192.0,270000.0
+Jesús Owono,Alaves,K,23,Equatorial Guinea,spain,2425,4615.0,240000.0
+Pedro Ortiz,Sevilla,M,24,Spain,spain,2425,4615.0,240000.0
+José Copete,Mallorca,D,25,Spain,spain,2425,4038.0,210000.0
+Ángel Fortuño,Espanyol,K,23,Spain,spain,2425,4038.0,210000.0
+Pablo Ramón,Espanyol,D,23,Spain,spain,2425,4038.0,210000.0
+Justin Smith,Espanyol,M,22,Canada,spain,2425,4038.0,210000.0
+Pablo Torre,Barcelona,F,21,Spain,spain,2425,4038.0,210000.0
+Sergio González,Leganes,D,32,Spain,spain,2425,4038.0,210000.0
+César Tárrega,Valencia,D,22,Spain,spain,2425,3846.0,200000.0
+Ramón Terrats,Getafe,M,24,Spain,spain,2425,3846.0,200000.0
+Jon Magunazelaia,Real Sociedad,F,23,Spain,spain,2425,3846.0,200000.0
+Ander Astralaga,Barcelona,K,20,Spain,spain,2425,3846.0,200000.0
+Ramón Terrats,Villarreal,M,23,Spain,spain,2425,3846.0,200000.0
+Omar Sadik,Espanyol,F,20,Morocco,spain,2425,3654.0,190000.0
+Unai Marrero,Real Sociedad,K,23,Spain,spain,2425,3462.0,180000.0
+Gabriel Misehouy,Girona,F,19,Netherlands,spain,2425,3462.0,180000.0
+Marc Domènech,Mallorca,F,18,Spain,spain,2425,3462.0,180000.0
+Antoniu Roca,Espanyol,F,22,Spain,spain,2425,3462.0,180000.0
+Min-su Kim,Girona,F,19,South Korea,spain,2425,3462.0,180000.0
+Vladyslav Krapyvtsov,Girona,K,19,Ukraine,spain,2425,3462.0,180000.0
+Juanma Herzog,Las Palmas,D,20,Spain,spain,2425,3462.0,180000.0
+Joni Montiel,Rayo Vallecano,F,26,Spain,spain,2425,3462.0,180000.0
+Pablo Ibáñez,Osasuna,M,26,Spain,spain,2425,3462.0,180000.0
+Javier Martón,Athletic Club,F,25,Spain,spain,2425,3462.0,180000.0
+Alvin Abajas,Leganes,K,21,Spain,spain,2425,3462.0,180000.0
+David López,Mallorca,D,22,Spain,spain,2425,3462.0,180000.0
+Christantus Uche,Getafe,F,21,Nigeria,spain,2425,3462.0,180000.0
+Iván Cuéllar,Mallorca,K,40,Spain,spain,2425,3462.0,180000.0
+Rafel Bauzà,Espanyol,M,20,Spain,spain,2425,3269.0,170000.0
+Adrián Rodríguez,Alaves,K,24,Argentina,spain,2425,3269.0,170000.0
+Pelayo Fernández,Rayo Vallecano,D,21,Spain,spain,2425,3077.0,160000.0
+Fran Vieites,Real Betis,K,25,Spain,spain,2425,3077.0,160000.0
+Mateo Flores,Real Betis,M,20,Spain,spain,2425,3077.0,160000.0
+Javi Martínez,Osasuna,F,24,Spain,spain,2425,3077.0,160000.0
+Carlos Domínguez,Celta Vigo,D,23,Spain,spain,2425,2885.0,150000.0
+Adrià Altimira,Leganes,D,23,Spain,spain,2425,2885.0,150000.0
+Coba da Costa,Getafe,F,22,Spain,spain,2425,2692.0,140000.0
+Yellu Santiago,Getafe,M,20,Spain,spain,2425,2692.0,140000.0
+Naim García,Leganes,F,22,Spain,spain,2425,2692.0,140000.0
+Alberto Risco,Getafe,F,19,Spain,spain,2425,2308.0,120000.0
+Fabio González,Las Palmas,M,27,Spain,spain,2425,2308.0,120000.0
+Lucas Rosa,Valladolid,D,24,Brazil,spain,2425,1923.0,100000.0
+Mario Martín,Valladolid,M,20,Spain,spain,2425,1923.0,100000.0
+Chuki,Valladolid,F,20,Spain,spain,2425,1923.0,100000.0
+Álvaro Aceves,Valladolid,K,21,Spain,spain,2425,1923.0,100000.0

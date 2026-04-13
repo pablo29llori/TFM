@@ -1,0 +1,502 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Ousmane Dembélé,PSG,F,28,France,france,2526,349615.0,18180000.0
+Khvicha Kvaratskhelia,PSG,F,24,Georgia,france,2526,314615.0,16360000.0
+Achraf Hakimi,PSG,D,27,Morocco,france,2526,262308.0,13640000.0
+Marquinhos,PSG,D,31,Brazil,france,2526,258654.0,13450000.0
+Lucas Hernández,PSG,D,29,France,france,2526,255192.0,13270000.0
+Vitinha,PSG,M,25,Portugal,france,2526,227308.0,11820000.0
+Warren Zaïre-Emery,PSG,M,19,France,france,2526,220192.0,11450000.0
+Nuno Mendes,PSG,D,23,Portugal,france,2526,209808.0,10910000.0
+Benjamin Pavard,Marseille,D,29,France,france,2526,139808.0,7270000.0
+Bradley Barcola,PSG,F,23,France,france,2526,139808.0,7270000.0
+Désiré Doué,PSG,F,20,France,france,2526,132885.0,6910000.0
+Lucas Chevalier,PSG,K,24,France,france,2526,122308.0,6360000.0
+Corentin Tolisso,Lyon,M,31,France,france,2526,122308.0,6360000.0
+Fabián Ruiz,PSG,M,29,Spain,france,2526,122308.0,6360000.0
+Gonçalo Ramos,PSG,F,24,Portugal,france,2526,122308.0,6360000.0
+Willian Pacho,PSG,D,24,Ecuador,france,2526,111923.0,5820000.0
+João Neves,PSG,M,21,Portugal,france,2526,111923.0,5820000.0
+Ilya Zabarnyi,PSG,D,23,Ukraine,france,2526,104808.0,5450000.0
+Mason Greenwood,Marseille,F,24,England,france,2526,104808.0,5450000.0
+Tanguy Ndombélé,Nice,M,29,France,france,2526,104808.0,5450000.0
+Geoffrey Kondogbia,Marseille,M,32,Central African Republic,france,2526,104808.0,5450000.0
+Moussa Niakhaté,Lyon,D,29,Senegal,france,2526,104808.0,5450000.0
+Pierre-Emile Højbjerg,Marseille,M,30,Denmark,france,2526,104808.0,5450000.0
+Morgan Sanson,Nice,M,31,France,france,2526,97885.0,5090000.0
+Brice Samba,Rennes,K,31,France,france,2526,97885.0,5090000.0
+Breel Embolo,Rennes,F,28,Switzerland,france,2526,97885.0,5090000.0
+Igor Paixão,Marseille,F,25,Brazil,france,2526,97885.0,5090000.0
+Orel Mangala,Lyon,M,27,Belgium,france,2526,94423.0,4910000.0
+Nayef Aguerd,Marseille,D,29,Morocco,france,2526,94423.0,4910000.0
+Denis Zakaria,Monaco,M,29,Switzerland,france,2526,88462.0,4600000.0
+Benjamin André,Lille,M,35,France,france,2526,87500.0,4550000.0
+Sebastian Szymanski,Rennes,F,26,Poland,france,2526,87500.0,4550000.0
+Thomas Meunier,Lille,D,34,Belgium,france,2526,87500.0,4550000.0
+Pierre-Emerick Aubameyang,Marseille,F,36,Gabon,france,2526,87500.0,4550000.0
+Ludovic Blas,Rennes,M,28,France,france,2526,87500.0,4550000.0
+Quinten Timber,Marseille,M,24,Netherlands,france,2526,87500.0,4550000.0
+Timothy Weah,Marseille,F,25,United States,france,2526,87500.0,4550000.0
+André Gomes,Lille,M,32,Portugal,france,2526,87500.0,4550000.0
+Amine Gouiri,Marseille,F,25,Algeria,france,2526,87500.0,4550000.0
+Kang-in Lee,PSG,F,24,South Korea,france,2526,87500.0,4550000.0
+Dante,Nice,D,42,Brazil,france,2526,87500.0,4550000.0
+Jonathan Clauss,Nice,D,33,France,france,2526,87500.0,4550000.0
+Takumi Minamino,Monaco,F,31,Japan,france,2526,84038.0,4370000.0
+Aleksandr Golovin,Monaco,F,29,Russia,france,2526,84038.0,4370000.0
+Leonardo Balerdi,Marseille,D,27,Argentina,france,2526,83846.0,4360000.0
+Facundo Medina,Marseille,D,26,Argentina,france,2526,80385.0,4180000.0
+Lucas Beraldo,PSG,D,22,Brazil,france,2526,80385.0,4180000.0
+Hamed Junior Traorè,Marseille,F,25,Cote d'Ivoire,france,2526,76923.0,4000000.0
+Valentin Rongier,Rennes,M,31,France,france,2526,76923.0,4000000.0
+Paul Pogba,Monaco,M,32,France,france,2526,75192.0,3910000.0
+Ernest Nuamah,Lyon,F,22,Ghana,france,2526,73462.0,3820000.0
+Thilo Kehrer,Monaco,D,29,Germany,france,2526,70769.0,3680000.0
+Ainsley Maitland-Niles,Lyon,D,28,England,france,2526,70000.0,3640000.0
+Ben Chilwell,Strasbourg,D,29,England,france,2526,70000.0,3640000.0
+Glen Kamara,Rennes,M,30,Finland,france,2526,70000.0,3640000.0
+Matvey Safonov,PSG,K,26,Russia,france,2526,70000.0,3640000.0
+Ciro Immobile,Paris FC,F,35,Italy,france,2526,70000.0,3640000.0
+Anthony Lopes,Nantes,K,35,Portugal,france,2526,70000.0,3640000.0
+Emerson,Marseille,D,31,Italy,france,2526,70000.0,3640000.0
+Eric Dier,Monaco,D,32,England,france,2526,66346.0,3450000.0
+Nicolás Tagliafico,Lyon,D,33,Argentina,france,2526,62885.0,3270000.0
+Francis Coquelin,Nantes,M,34,France,france,2526,62885.0,3270000.0
+Florian Thauvin,Lens,F,33,France,france,2526,62885.0,3270000.0
+Sofiane Diop,Nice,F,25,Morocco,france,2526,62885.0,3270000.0
+Melvin Bard,Nice,D,25,France,france,2526,62885.0,3270000.0
+Folarin Balogun,Monaco,F,24,United States,france,2526,61923.0,3220000.0
+Mohammed Salisu,Monaco,D,26,Ghana,france,2526,61923.0,3220000.0
+Maghnes Akliouche,Monaco,F,23,France,france,2526,61923.0,3220000.0
+Vanderson,Monaco,D,24,Brazil,france,2526,61923.0,3220000.0
+Charles Vanhoutte,Nice,M,27,Belgium,france,2526,59423.0,3090000.0
+Odsonne Édouard,Lens,F,28,France,france,2526,59423.0,3090000.0
+Przemyslaw Frankowski,Rennes,M,30,Poland,france,2526,59423.0,3090000.0
+Krépin Diatta,Monaco,F,26,Senegal,france,2526,57500.0,2990000.0
+Caio Henrique,Monaco,D,28,Brazil,france,2526,57500.0,2990000.0
+Mahdi Camara,Rennes,M,27,France,france,2526,55962.0,2910000.0
+Tanner Tessmann,Lyon,M,24,United States,france,2526,55962.0,2910000.0
+Adrien Thomasson,Lens,M,32,France,france,2526,55962.0,2910000.0
+Yehvann Diouf,Nice,K,26,Senegal,france,2526,55962.0,2910000.0
+Michael Murillo,Marseille,D,29,Panama,france,2526,55962.0,2910000.0
+Amadou Haidara,Lens,M,28,Mali,france,2526,55962.0,2910000.0
+Mika Biereth,Monaco,F,22,Denmark,france,2526,55192.0,2870000.0
+Quentin Merlin,Rennes,M,23,France,france,2526,52500.0,2730000.0
+Kevin Trapp,Paris FC,K,35,Germany,france,2526,52500.0,2730000.0
+Youssouf Ndayishimiye,Nice,D,27,Burundi,france,2526,52500.0,2730000.0
+Romain Del Castillo,Brest,F,29,France,france,2526,52500.0,2730000.0
+Mostafa Mohamed,Nantes,F,28,Egypt,france,2526,52500.0,2730000.0
+Jonathan Gradit,Lens,D,33,France,france,2526,52500.0,2730000.0
+Chancel Mbemba,Lille,D,31,Democratic Republic of the Congo,france,2526,52500.0,2730000.0
+Estéban Lepaul,Rennes,F,25,France,france,2526,52500.0,2730000.0
+Lilian Brassier,Rennes,D,26,France,france,2526,52500.0,2730000.0
+Olivier Giroud,Lille,F,39,France,france,2526,52500.0,2730000.0
+Seko Fofana,Rennes,M,30,Cote d'Ivoire,france,2526,52500.0,2730000.0
+Gerónimo Rulli,Marseille,K,33,Argentina,france,2526,52500.0,2730000.0
+Arthur Vermeeren,Marseille,M,20,Belgium,france,2526,52500.0,2730000.0
+Pavel Sulc,Lyon,F,25,Czech Republic,france,2526,52500.0,2730000.0
+Malick Fofana,Lyon,F,20,Belgium,france,2526,52500.0,2730000.0
+Brendan Chardonnet,Brest,D,31,France,france,2526,52500.0,2730000.0
+Moses Simon,Paris FC,F,30,Nigeria,france,2526,52500.0,2730000.0
+Ansu Fati,Monaco,F,23,Spain,france,2526,50769.0,2640000.0
+Julio Enciso,Strasbourg,F,22,Paraguay,france,2526,49038.0,2550000.0
+Abner,Lyon,D,25,Brazil,france,2526,49038.0,2550000.0
+Ludovic Ajorque,Brest,F,31,France,france,2526,49038.0,2550000.0
+Ethan Nwaneri,Marseille,F,18,England,france,2526,47115.0,2450000.0
+Romain Perraud,Lille,D,28,France,france,2526,45385.0,2360000.0
+Ruben Aguilar,Lens,D,32,France,france,2526,45385.0,2360000.0
+Mama Baldé,Brest,F,30,Guinea-Bissau,france,2526,45385.0,2360000.0
+Gaëtan Perrin,Lille,F,29,France,france,2526,45385.0,2360000.0
+Pierre Lees-Melou,Paris FC,M,32,France,france,2526,45385.0,2360000.0
+Djibril Sidibé,Toulouse,D,33,France,france,2526,41923.0,2180000.0
+Gauthier Hein,Metz,F,29,France,france,2526,41923.0,2180000.0
+Ibrahima Sissoko,Nantes,M,28,Mali,france,2526,41923.0,2180000.0
+Rasmus Nicolaisen,Toulouse,D,28,Denmark,france,2526,41923.0,2180000.0
+Jordan Teze,Monaco,D,26,Netherlands,france,2526,41923.0,2180000.0
+Malang Sarr,Lens,D,27,France,france,2526,41923.0,2180000.0
+Nicolas Cozza,Nantes,D,27,France,france,2526,41923.0,2180000.0
+Ali Abdi,Nice,D,32,Tunisia,france,2526,41923.0,2180000.0
+Habib Diallo,Metz,F,30,Senegal,france,2526,41923.0,2180000.0
+Senny Mayulu,PSG,M,19,France,france,2526,41923.0,2180000.0
+Alexsandro,Lille,D,26,Brazil,france,2526,41923.0,2180000.0
+Abdallah Sima,Lens,F,24,Senegal,france,2526,41923.0,2180000.0
+Clinton Mata,Lyon,D,33,Angola,france,2526,41923.0,2180000.0
+Haris Belkebla,Angers,M,32,Algeria,france,2526,41923.0,2180000.0
+Jordan Lefort,Angers,D,32,France,france,2526,41923.0,2180000.0
+Otávio,Paris FC,D,23,Brazil,france,2526,41923.0,2180000.0
+Mousa Al-Tamari,Rennes,M,28,Jordan,france,2526,41923.0,2180000.0
+Radoslaw Majecki,Brest,K,26,Poland,france,2526,41923.0,2180000.0
+Laurent Abergel,Lorient,M,33,France,france,2526,41923.0,2180000.0
+Marshall Munetsi,Paris FC,M,29,Zimbabwe,france,2526,40192.0,2090000.0
+Deiver Machado,Nantes,D,32,Colombia,france,2526,38462.0,2000000.0
+Hamari Traoré,Paris FC,D,34,Mali,france,2526,38462.0,2000000.0
+Mamadou Sangaré,Lens,M,23,Mali,france,2526,38462.0,2000000.0
+Matthieu Udol,Lens,D,29,France,france,2526,38462.0,2000000.0
+Lucas Tousart,Brest,M,28,France,france,2526,38462.0,2000000.0
+Wesley Saïd,Lens,F,30,France,france,2526,38462.0,2000000.0
+Aïssa Mandi,Lille,D,34,Algeria,france,2526,38462.0,2000000.0
+Angel Gomes,Marseille,F,25,England,france,2526,38462.0,2000000.0
+Jérémie Boga,Nice,F,29,Cote d'Ivoire,france,2526,38462.0,2000000.0
+Endrick,Lyon,F,19,Brazil,france,2526,35000.0,1820000.0
+Anthony Rouault,Rennes,D,24,France,france,2526,35000.0,1820000.0
+Hugo Magnetti,Brest,M,27,France,france,2526,35000.0,1820000.0
+Samson Baidoo,Lens,D,21,Austria,france,2526,35000.0,1820000.0
+Ilan Kebbal,Paris FC,F,27,Algeria,france,2526,35000.0,1820000.0
+Ismaël Doukouré,Strasbourg,D,22,France,france,2526,35000.0,1820000.0
+Yvon Mvogo,Lorient,K,31,Switzerland,france,2526,35000.0,1820000.0
+Romain Faivre,Auxerre,F,27,France,france,2526,35000.0,1820000.0
+Jessy Deminguet,Metz,M,28,France,france,2526,35000.0,1820000.0
+Allan Saint-Maximin,Lens,F,28,France,france,2526,35000.0,1820000.0
+Dro Fernández,PSG,F,18,Spain,france,2526,35000.0,1820000.0
+Saud Abdulhamid,Lens,D,26,Saudi Arabia,france,2526,35000.0,1820000.0
+Benjamin Stambouli,Metz,M,35,France,france,2526,35000.0,1820000.0
+Hicham Boudaoui,Nice,M,26,Algeria,france,2526,35000.0,1820000.0
+Tiago Santos,Lille,D,23,Portugal,france,2526,35000.0,1820000.0
+Elye Wahi,Nice,F,23,France,france,2526,35000.0,1820000.0
+Nabil Bentaleb,Lille,M,31,Algeria,france,2526,35000.0,1820000.0
+Dominik Greif,Lyon,K,28,Slovakia,france,2526,35000.0,1820000.0
+Kenny Lala,Brest,D,34,France,france,2526,35000.0,1820000.0
+Florian Sotoca,Lens,F,35,France,france,2526,35000.0,1820000.0
+Carlens Arcus,Angers,D,29,Haiti,france,2526,35000.0,1820000.0
+Mark McKenzie,Toulouse,D,26,United States,france,2526,35000.0,1820000.0
+CJ Egan-Riley,Marseille,D,23,England,france,2526,35000.0,1820000.0
+Philipp Köhn,Monaco,K,27,Switzerland,france,2526,33077.0,1720000.0
+Arthur Masuaku,Lens,D,32,Democratic Republic of the Congo,france,2526,31731.0,1650000.0
+Jean-Victor Makengo,Lorient,F,27,France,france,2526,31538.0,1640000.0
+Berke Özer,Lille,K,25,Turkey,france,2526,31538.0,1640000.0
+Jean-Philippe Gbamin,Metz,D,30,Cote d'Ivoire,france,2526,31538.0,1640000.0
+Rémy Descamps,Lyon,K,29,France,france,2526,31538.0,1640000.0
+Boubacar Traoré,Metz,M,24,Mali,france,2526,31538.0,1640000.0
+Maxime Lopez,Paris FC,M,28,France,france,2526,31538.0,1640000.0
+Jonathan Ikoné,Paris FC,F,27,France,france,2526,31538.0,1640000.0
+Aron Dønnum,Toulouse,M,27,Norway,france,2526,31538.0,1640000.0
+Fabien Centonze,Nantes,D,30,France,france,2526,31538.0,1640000.0
+Joaquín Panichelli,Strasbourg,F,23,Argentina,france,2526,31538.0,1640000.0
+Moïse Bombito,Nice,D,25,Canada,france,2526,31538.0,1640000.0
+Gideon Mensah,Auxerre,D,27,Ghana,france,2526,31538.0,1640000.0
+Sékou Mara,Auxerre,F,23,France,france,2526,29808.0,1550000.0
+Neal Maupay,Marseille,F,29,France,france,2526,29808.0,1550000.0
+Amine Harit,Marseille,F,28,Morocco,france,2526,29038.0,1510000.0
+Wout Faes,Monaco,D,27,Belgium,france,2526,28654.0,1490000.0
+Lukas Hradecky,Monaco,K,36,Finland,france,2526,28654.0,1490000.0
+Willem Geubbels,Paris FC,F,24,France,france,2526,27885.0,1450000.0
+Abdoulaye Touré,Le Havre,M,31,Guinea,france,2526,27885.0,1450000.0
+Gautier Lloris,Le Havre,D,30,France,france,2526,27885.0,1450000.0
+Chidozie Awaziem,Nantes,D,29,Nigeria,france,2526,27885.0,1450000.0
+Jean-Philippe Krasso,Paris FC,F,28,Cote d'Ivoire,france,2526,27885.0,1450000.0
+Mohamed Bayo,Lille,F,27,Guinea,france,2526,27885.0,1450000.0
+Mohamed Abdelmonem,Nice,D,27,Egypt,france,2526,27885.0,1450000.0
+Quentin Ndjantou,PSG,F,18,France,france,2526,27885.0,1450000.0
+Emanuel Emegha,Strasbourg,F,23,Netherlands,france,2526,27885.0,1450000.0
+Francisco Sierralta,Auxerre,D,28,Chile,france,2526,27885.0,1450000.0
+Elisha Owusu,Auxerre,M,28,Ghana,france,2526,27885.0,1450000.0
+Hans Hateboer,Lyon,D,32,Netherlands,france,2526,27885.0,1450000.0
+Kevin Carlos,Nice,F,24,Spain,france,2526,27885.0,1450000.0
+Calvin Verdonk,Lille,D,28,Indonesia,france,2526,27885.0,1450000.0
+Lamine Camara,Monaco,M,22,Senegal,france,2526,26538.0,1380000.0
+Joris Chotard,Brest,M,24,France,france,2526,26154.0,1360000.0
+Hákon Arnar Haraldsson,Lille,F,22,Iceland,france,2526,26154.0,1360000.0
+Osame Sahraoui,Lille,F,24,Morocco,france,2526,26154.0,1360000.0
+Isak Jansson,Nice,F,24,Sweden,france,2526,26154.0,1360000.0
+Alidu Seidu,Rennes,D,25,Ghana,france,2526,26154.0,1360000.0
+Simon Adingra,Monaco,F,24,Cote d'Ivoire,france,2526,25385.0,1320000.0
+Hamza Igamane,Lille,F,23,Morocco,france,2526,24423.0,1270000.0
+Kelvin Amian,Nantes,D,27,France,france,2526,24423.0,1270000.0
+Sebastian Nanasi,Strasbourg,M,23,Sweden,france,2526,24423.0,1270000.0
+Mathieu Cafaro,Paris FC,F,28,France,france,2526,24423.0,1270000.0
+Félix Correia,Lille,F,25,Portugal,france,2526,24423.0,1270000.0
+Guela Doué,Strasbourg,D,23,Cote d'Ivoire,france,2526,24423.0,1270000.0
+Hervé Koffi,Angers,K,29,Burkina Faso,france,2526,24423.0,1270000.0
+Diego Moreira,Strasbourg,M,21,Belgium,france,2526,24423.0,1270000.0
+Donovan Léon,Auxerre,K,33,French Guiana,france,2526,24423.0,1270000.0
+Andrew Omobamidele,Strasbourg,D,23,Ireland,france,2526,24423.0,1270000.0
+Pierre-Yves Hamel,Paris FC,F,32,France,france,2526,24423.0,1270000.0
+Arnaud Bodart,Lille,K,27,Belgium,france,2526,24423.0,1270000.0
+Bamo Meïté,Lorient,D,24,Cote d'Ivoire,france,2526,24423.0,1270000.0
+Tyler Morton,Lyon,M,23,England,france,2526,24423.0,1270000.0
+Frank Magri,Toulouse,F,26,Cameroon,france,2526,24423.0,1270000.0
+Christian Mawissa,Monaco,D,20,France,france,2526,24231.0,1260000.0
+Matthis Abline,Nantes,F,22,France,france,2526,22692.0,1180000.0
+Danny Loader,Auxerre,F,25,Cameroon,france,2526,22692.0,1180000.0
+Matías Fernández-Pardo,Lille,F,21,Spain,france,2526,22692.0,1180000.0
+Salis Abdul Samed,Nice,M,25,Ghana,france,2526,22692.0,1180000.0
+Lassine Sinayoko,Auxerre,F,26,Mali,france,2526,22692.0,1180000.0
+Souleymane Isaak Touré,Lorient,D,22,France,france,2526,22692.0,1180000.0
+Roman Yaremchuk,Lyon,F,30,Ukraine,france,2526,21923.0,1140000.0
+Fodé Ballo-Touré,Metz,D,29,Senegal,france,2526,20962.0,1090000.0
+Lucas Høgsberg,Strasbourg,D,19,Denmark,france,2526,20962.0,1090000.0
+Ayyoub Bouaddi,Lille,M,18,France,france,2526,20962.0,1090000.0
+Ruben Kluivert,Lyon,D,24,Netherlands,france,2526,20962.0,1090000.0
+Maxime Colin,Metz,D,34,France,france,2526,20962.0,1090000.0
+Aarón Anselmino,Strasbourg,D,20,Argentina,france,2526,20962.0,1090000.0
+Montassar Talbi,Lorient,D,27,Tunisia,france,2526,20962.0,1090000.0
+Tiago Gouveia,Nice,F,24,Portugal,france,2526,20962.0,1090000.0
+Nouha Dicko,Paris FC,F,33,Mali,france,2526,20962.0,1090000.0
+Branco van den Boomen,Angers,M,30,Netherlands,france,2526,20962.0,1090000.0
+Sinaly Diomandé,Auxerre,D,24,Cote d'Ivoire,france,2526,20962.0,1090000.0
+Mohamed-Ali Cho,Nice,F,22,France,france,2526,20962.0,1090000.0
+Valentín Barco,Strasbourg,M,21,Argentina,france,2526,20962.0,1090000.0
+Aiyegun Tosin,Lorient,F,27,Benin,france,2526,20962.0,1090000.0
+Naouirou Ahamada,Auxerre,M,23,France,france,2526,20962.0,1090000.0
+Josué Casimir,Auxerre,F,24,Haiti,france,2526,20962.0,1090000.0
+Rachid Ghezzal,Lyon,F,33,Algeria,france,2526,20962.0,1090000.0
+Mathis Amougou,Strasbourg,M,20,France,france,2526,20962.0,1090000.0
+Ignatius Ganago,Nantes,F,26,Cameroon,france,2526,20962.0,1090000.0
+Cheikh Sabaly,Metz,F,26,Senegal,france,2526,20962.0,1090000.0
+Ngal'ayel Mukau,Lille,M,21,Democratic Republic of the Congo,france,2526,19231.0,1000000.0
+Cristian Cásseres Jr,Toulouse,M,26,Venezuela,france,2526,19231.0,1000000.0
+Terry Yegbe,Metz,D,25,Ghana,france,2526,19231.0,1000000.0
+Mike Penders,Strasbourg,K,20,Belgium,france,2526,19231.0,1000000.0
+Guillaume Restes,Toulouse,K,20,France,france,2526,19231.0,1000000.0
+Ulisses Garcia,Marseille,D,29,Switzerland,france,2526,19231.0,1000000.0
+Djaoui Cissé,Rennes,M,22,France,france,2526,19231.0,1000000.0
+Charlie Cresswell,Toulouse,D,23,England,france,2526,19231.0,1000000.0
+Soumaïla Coulibaly,Brest,D,22,France,france,2526,19231.0,1000000.0
+Kévin Danois,Auxerre,M,21,France,france,2526,19231.0,1000000.0
+Kassoum Ouattara,Monaco,D,21,France,france,2526,17692.0,920000.0
+Timothée Kolodziejczak,Paris FC,D,34,France,france,2526,17500.0,910000.0
+Maxime Dupé,Nice,K,32,France,france,2526,17500.0,910000.0
+Étienne Youté Kinkoué,Le Havre,D,24,France,france,2526,17500.0,910000.0
+Arouna Sangante,Le Havre,D,23,Senegal,france,2526,17500.0,910000.0
+Noah Cadiou,Lorient,M,27,Guadeloupe,france,2526,17500.0,910000.0
+Nathaniel Adjei,Lorient,D,23,Ghana,france,2526,17500.0,910000.0
+Mohamed Bamba,Lorient,F,24,Cote d'Ivoire,france,2526,17500.0,910000.0
+Igor Silva,Lorient,D,29,Brazil,france,2526,17500.0,910000.0
+Khalis Merah,Lyon,M,18,France,france,2526,17500.0,910000.0
+Bamba Dieng,Lorient,F,25,Senegal,france,2526,17500.0,910000.0
+Himad Abdelli,Marseille,F,26,Algeria,france,2526,17500.0,910000.0
+Jeffrey de Lange,Marseille,K,27,Netherlands,france,2526,17500.0,910000.0
+Samir El Mourabet,Strasbourg,M,20,Morocco,france,2526,17500.0,910000.0
+Nathan Ngoy,Lille,D,22,Belgium,france,2526,17500.0,910000.0
+Marius Broholm,Lille,F,21,Norway,france,2526,17500.0,910000.0
+Bouna Sarr,Metz,D,34,Senegal,france,2526,17500.0,910000.0
+Martial Godo,Strasbourg,F,22,Cote d'Ivoire,france,2526,17500.0,910000.0
+Joel Asoro,Metz,F,26,Sweden,france,2526,17500.0,910000.0
+Junior Mwanga,Strasbourg,M,22,France,france,2526,17500.0,910000.0
+Koffi Kouao,Metz,D,27,Cote d'Ivoire,france,2526,17500.0,910000.0
+Florent Hanin,Angers,D,36,France,france,2526,17500.0,910000.0
+David Datro Fofana,Strasbourg,F,23,Cote d'Ivoire,france,2526,17500.0,910000.0
+Jérémy Jacquet,Rennes,D,20,France,france,2526,17500.0,910000.0
+Clément Akpa,Auxerre,D,24,Cote d'Ivoire,france,2526,17500.0,910000.0
+Ibrahim Mbaye,PSG,F,18,Senegal,france,2526,17500.0,910000.0
+Timothée Pembélé,Le Havre,D,23,France,france,2526,17500.0,910000.0
+Vincent Marchetti,Paris FC,M,28,France,france,2526,17500.0,910000.0
+Thibault De Smet,Paris FC,D,27,Belgium,france,2526,17500.0,910000.0
+Reda Khadra,Le Havre,F,24,Germany,france,2526,17500.0,910000.0
+Rassoul Ndiaye,Le Havre,M,24,Senegal,france,2526,17500.0,910000.0
+Mory Diaw,Le Havre,K,32,Senegal,france,2526,17500.0,910000.0
+Louis Leroux,Nantes,F,20,France,france,2526,17500.0,910000.0
+Mbwana Samatta,Le Havre,F,33,Tanzania,france,2526,17500.0,910000.0
+Adam Karabec,Lyon,F,22,Czech Republic,france,2526,17500.0,910000.0
+Rémy Cabella,Nantes,F,35,France,france,2526,17500.0,910000.0
+Éric Ebimbe,Brest,M,25,Cameroon,france,2526,17500.0,910000.0
+Youssef El Arabi,Nantes,F,39,Morocco,france,2526,17500.0,910000.0
+Loïc Nego,Le Havre,D,35,Hungary,france,2526,17500.0,910000.0
+Julien Lopez,Paris FC,F,33,Algeria,france,2526,17500.0,910000.0
+Alimami Gory,Paris FC,F,29,France,france,2526,17500.0,910000.0
+Yassine Kechta,Le Havre,M,23,Morocco,france,2526,15769.0,820000.0
+Johann Lepenant,Nantes,M,23,France,france,2526,15769.0,820000.0
+Panos Katseris,Lorient,M,24,Greece,france,2526,15769.0,820000.0
+Tom Louchet,Nice,M,22,France,france,2526,15769.0,820000.0
+Sambou Soumano,Lorient,F,25,Senegal,france,2526,15769.0,820000.0
+Nhoa Sangui,Paris FC,D,19,France,france,2526,15769.0,820000.0
+Marvin Senaya,Auxerre,D,25,France,france,2526,15769.0,820000.0
+Jonathan Fischer,Metz,K,24,Denmark,france,2526,15769.0,820000.0
+Oussama El Azzouzi,Auxerre,M,24,Morocco,france,2526,15769.0,820000.0
+Yassir Zabiri,Rennes,F,20,Morocco,france,2526,15769.0,820000.0
+Emmanuel Biumla,Angers,D,20,France,france,2526,15769.0,820000.0
+Jim Allevinah,Angers,F,30,Gabon,france,2526,15769.0,820000.0
+Rudy Matondo,Paris FC,M,17,France,france,2526,15769.0,820000.0
+Uros Radakovic,Nantes,D,31,Serbia,france,2526,15769.0,820000.0
+Abdoulaye Bamba,Angers,D,35,Cote d'Ivoire,france,2526,15769.0,820000.0
+Karl-Johan Johnsson,Strasbourg,K,36,Sweden,france,2526,15769.0,820000.0
+Arnaud Nordin,Rennes,F,27,France,france,2526,15769.0,820000.0
+Noah Nartey,Lyon,F,20,Denmark,france,2526,15769.0,820000.0
+Abu Francis,Toulouse,M,24,Ghana,france,2526,15769.0,820000.0
+Yann Gboho,Toulouse,F,25,France,france,2526,15769.0,820000.0
+Obed Nkambadio,Paris FC,K,22,France,france,2526,15769.0,820000.0
+Martín Satriano,Lyon,F,24,Uruguay,france,2526,15769.0,820000.0
+Bilal Nadir,Marseille,M,22,Morocco,france,2526,15769.0,820000.0
+Stanis Idumbo,Monaco,F,20,Belgium,france,2526,15385.0,800000.0
+Giorgi Kvilitaia,Metz,F,32,Georgia,france,2526,14038.0,730000.0
+Maxi Oyedele,Strasbourg,M,21,Poland,france,2526,14038.0,730000.0
+Noah Edjouma,Lille,F,20,France,france,2526,14038.0,730000.0
+Rafael Luís,Strasbourg,M,20,Portugal,france,2526,14038.0,730000.0
+Samuel Amo-Ameyaw,Strasbourg,F,19,England,france,2526,14038.0,730000.0
+Abdoulaye Faye,Lorient,D,21,Senegal,france,2526,14038.0,730000.0
+Amine Sbaï,Angers,F,25,Morocco,france,2526,14038.0,730000.0
+Lamine Gueye,Paris FC,F,27,Senegal,france,2526,14038.0,730000.0
+Juma Bah,Nice,D,19,Sierra Leone,france,2526,14038.0,730000.0
+Sofiane Boufal,Le Havre,F,32,Morocco,france,2526,14038.0,730000.0
+Niklas Schmidt,Toulouse,M,27,Germany,france,2526,14038.0,730000.0
+Tylel Tati,Nantes,D,18,France,france,2526,14038.0,730000.0
+Samir Chergui,Paris FC,D,26,Algeria,france,2526,14038.0,730000.0
+Rémy Riou,Paris FC,K,38,France,france,2526,14038.0,730000.0
+Bingourou Kamara,Lorient,K,29,Senegal,france,2526,14038.0,730000.0
+Diego Coppola,Paris FC,D,22,Italy,france,2526,14038.0,730000.0
+Pablo Pagis,Lorient,F,23,France,france,2526,14038.0,730000.0
+Kamory Doumbia,Brest,F,22,Mali,france,2526,14038.0,730000.0
+Goduine Koyalipou,Angers,F,25,Central African Republic,france,2526,14038.0,730000.0
+Robin Risser,Lens,K,21,France,france,2526,14038.0,730000.0
+Ethan Mbappé,Lille,F,19,France,france,2526,14038.0,730000.0
+Louis Mouton,Angers,F,23,France,france,2526,14038.0,730000.0
+Antoine Mendy,Nice,D,21,Senegal,france,2526,14038.0,730000.0
+Pierrick Capelle,Angers,M,38,France,france,2526,14038.0,730000.0
+Giorgi Tsitaishvili,Metz,F,25,Georgia,france,2526,14038.0,730000.0
+Jhoanner Chávez,Lens,D,23,Ecuador,france,2526,14038.0,730000.0
+Ayumu Seko,Le Havre,M,25,Japan,france,2526,14038.0,730000.0
+Afonso Moreira,Lyon,F,20,Portugal,france,2526,12308.0,640000.0
+Théo Le Bris,Lorient,M,23,France,france,2526,12308.0,640000.0
+Darline Yongwa,Lorient,D,25,Cameroon,france,2526,12308.0,640000.0
+Arsène Kouassi,Lorient,M,21,Burkina Faso,france,2526,12308.0,640000.0
+Abakar Sylla,Nantes,D,23,Cote d'Ivoire,france,2526,12308.0,640000.0
+Simon Ebonog,Le Havre,M,21,France,france,2526,12308.0,640000.0
+Frédéric Guilbert,Nantes,D,31,France,france,2526,12308.0,640000.0
+Lucas Gourna-Douath,Le Havre,M,22,France,france,2526,12308.0,640000.0
+Patrik Carlgren,Nantes,K,34,Sweden,france,2526,12308.0,640000.0
+Lionel Mpasi-Nzau,Le Havre,K,31,Democratic Republic of the Congo,france,2526,12308.0,640000.0
+Kojo Peprah Oppong,Nice,D,21,Ghana,france,2526,12308.0,640000.0
+Pathé Mboup,Brest,F,22,Senegal,france,2526,12308.0,640000.0
+Luck Zogbé,Brest,D,20,Cote d'Ivoire,france,2526,12308.0,640000.0
+Bradley Locko,Brest,D,23,France,france,2526,12308.0,640000.0
+Ibrahim Osman,Auxerre,F,21,Ghana,france,2526,12308.0,640000.0
+Abdelhamid Ait Boudlal,Rennes,D,19,Morocco,france,2526,12308.0,640000.0
+Assane Dioussé,Auxerre,M,28,Senegal,france,2526,12308.0,640000.0
+Yassin Belkhdim,Angers,M,23,Morocco,france,2526,12308.0,640000.0
+Lilian Raolisoa,Angers,D,25,France,france,2526,12308.0,640000.0
+Abakar Sylla,Strasbourg,D,23,Cote d'Ivoire,france,2526,12308.0,640000.0
+Gessime Yassine,Strasbourg,F,20,Morocco,france,2526,12308.0,640000.0
+Emersonn,Toulouse,F,21,Brazil,france,2526,12308.0,640000.0
+Santiago Hidalgo,Toulouse,F,20,Argentina,france,2526,12308.0,640000.0
+Mamadou Coulibaly,Monaco,M,21,France,france,2526,10962.0,570000.0
+Issa Soumaré,Le Havre,F,25,Senegal,france,2526,10577.0,550000.0
+Tuomas Ollila,Paris FC,D,25,Finland,france,2526,10577.0,550000.0
+Dayann Methalie,Toulouse,M,19,France,france,2526,10577.0,550000.0
+Godson Kyeremeh,Le Havre,F,25,France,france,2526,10577.0,550000.0
+Dermane Karim,Lorient,F,22,Togo,france,2526,10577.0,550000.0
+Warren Kamanzi,Toulouse,D,25,Norway,france,2526,10577.0,550000.0
+Benjamin Leroy,Lorient,K,36,France,france,2526,10577.0,550000.0
+Luca Koleosho,Paris FC,F,21,Italy,france,2526,10577.0,550000.0
+Mamadou Mbow,Paris FC,D,25,Senegal,france,2526,10577.0,550000.0
+Arthur Avom,Lorient,M,21,Cameroon,france,2526,10577.0,550000.0
+Yanis Zouaoui,Le Havre,D,27,France,france,2526,10577.0,550000.0
+Pape Demba Diop,Toulouse,M,22,Senegal,france,2526,10577.0,550000.0
+Rafael Fernandes,Lille,D,23,Portugal,france,2526,10577.0,550000.0
+Tochukwu Nnadi,Marseille,M,22,Nigeria,france,2526,10577.0,550000.0
+Lasso Coulibaly,Auxerre,F,23,Cote d'Ivoire,france,2526,10577.0,550000.0
+Nidal Celik,Lens,D,19,Bosnia-Herzegovina,france,2526,10577.0,550000.0
+Daouda Guindo,Brest,D,23,Mali,france,2526,10577.0,550000.0
+Mario Sauer,Toulouse,M,21,Slovakia,france,2526,10577.0,550000.0
+Jacen Russell-Rowe,Toulouse,F,23,Canada,france,2526,10577.0,550000.0
+Junior Diaz,Brest,D,22,Cote d'Ivoire,france,2526,10577.0,550000.0
+Sofiane Alakouch,Paris FC,D,27,Morocco,france,2526,10577.0,550000.0
+Herba Guirassy,Nantes,F,19,France,france,2526,10577.0,550000.0
+Amady Camara,Nantes,F,20,Mali,france,2526,10577.0,550000.0
+Paris Brunner,Monaco,F,19,Germany,france,2526,10000.0,520000.0
+Rémy Labeau Lascary,Brest,F,22,France,france,2526,8654.0,450000.0
+Anthony Bermont,Lens,F,20,France,france,2526,8654.0,450000.0
+Rafik Messali,Toulouse,M,22,Algeria,france,2526,8654.0,450000.0
+Renato Marin,PSG,K,19,Italy,france,2526,8654.0,450000.0
+Rayan Fofana,Lens,F,19,France,france,2526,8654.0,450000.0
+Fodé Sylla,Lens,M,19,France,france,2526,8654.0,450000.0
+Fodé Doucouré,Le Havre,D,25,Mali,france,2526,8654.0,450000.0
+Mohamed Kaba,Nantes,M,24,France,france,2526,8654.0,450000.0
+Bryan Okoh,Auxerre,D,22,Switzerland,france,2526,8654.0,450000.0
+Ismaëlo Ganiou,Lens,D,20,Burkina Faso,france,2526,8654.0,450000.0
+Jacques Ekomié,Angers,D,22,Gabon,france,2526,8654.0,450000.0
+Felix Mambimbi,Le Havre,F,25,Switzerland,france,2526,8654.0,450000.0
+Mathys De Carvalho,Lyon,M,20,Portugal,france,2526,8654.0,450000.0
+Ousmane Camara,Angers,D,22,Mali,france,2526,8654.0,450000.0
+Adama Camara,Paris FC,M,29,France,france,2526,8654.0,450000.0
+Stefan Bajic,Strasbourg,K,24,France,france,2526,8654.0,450000.0
+Saïdou Sow,Strasbourg,D,23,Guinea,france,2526,8654.0,450000.0
+Joel Mvuka,Lorient,F,23,Norway,france,2526,8077.0,420000.0
+Marc-Aurèle Caillard,Lille,K,31,France,france,2526,6923.0,360000.0
+Mahamadou Nagida,Rennes,D,20,Cameroon,france,2526,6923.0,360000.0
+Mathys Silistrie,Rennes,K,20,France,france,2526,6923.0,360000.0
+Kjetil Haug,Toulouse,K,27,Norway,france,2526,6923.0,360000.0
+Grégoire Coudert,Brest,K,26,France,france,2526,6923.0,360000.0
+Ali Youssif,Nantes,D,24,Libya,france,2526,6923.0,360000.0
+Noham Kamara,Lyon,D,19,France,france,2526,6923.0,360000.0
+Julián Vignolo,Toulouse,F,19,Argentina,france,2526,6923.0,360000.0
+Álex Domínguez,Toulouse,K,27,Spain,france,2526,6923.0,360000.0
+Bandiougou Fadiga,Lorient,F,25,France,france,2526,6923.0,360000.0
+Andrija Bulatovic,Lens,M,19,Montenegro,france,2526,6923.0,360000.0
+Lamine Sy,Auxerre,D,23,France,france,2526,6923.0,360000.0
+Théo Vermot,Marseille,K,29,France,france,2526,6923.0,360000.0
+Régis Gurtner,Lens,K,39,France,france,2526,6923.0,360000.0
+Giorgi Abuashvili,Metz,F,22,Georgia,france,2526,6923.0,360000.0
+Michel Mboula,Metz,D,22,Gabon,france,2526,6923.0,360000.0
+Pape Sy,Metz,K,28,Senegal,france,2526,6923.0,360000.0
+Abdoul Ouattara,Strasbourg,F,20,Cote d'Ivoire,france,2526,6923.0,360000.0
+Achraf Laâziri,Lyon,D,22,Morocco,france,2526,6923.0,360000.0
+Edan Diop,Monaco,M,21,France,france,2526,6538.0,340000.0
+Aladji Bamba,Monaco,M,19,France,france,2526,6538.0,340000.0
+Trevan Sanusi,Lorient,F,18,England,france,2526,6346.0,330000.0
+Mathieu Gorgelin,Lens,K,35,France,france,2526,6346.0,330000.0
+Fredrik Oppegård,Auxerre,D,23,Norway,france,2526,6346.0,330000.0
+Jules Stawiecki,Monaco,K,18,France,france,2526,5577.0,290000.0
+Gabin Bernardeau,Nice,F,20,France,france,2526,5192.0,270000.0
+Yassine Benhattab,Nantes,F,23,France,france,2526,5192.0,270000.0
+Mathys Tourraine,Paris FC,D,24,Morocco,france,2526,5192.0,270000.0
+Dehmaine Tabibou,Nantes,M,20,France,france,2526,5192.0,270000.0
+Théo De Percin,Auxerre,K,25,France,france,2526,5192.0,270000.0
+Melvin Zinga,Angers,K,23,France,france,2526,5192.0,270000.0
+Lassine Diarra,Lyon,K,23,Mali,france,2526,5192.0,270000.0
+Sadibou Sané,Metz,D,21,Senegal,france,2526,5192.0,270000.0
+Lucas Michal,Metz,F,20,France,france,2526,5192.0,270000.0
+Ousmane Touré,Lille,D,20,France,france,2526,5192.0,270000.0
+Jelle Van Neck,Marseille,K,21,Belgium,france,2526,5192.0,270000.0
+Telli Siwe,Auxerre,D,21,France,france,2526,4231.0,220000.0
+Ousmane Ba,Metz,K,23,Senegal,france,2526,4231.0,220000.0
+Harouna Djibirin,Angers,F,19,Cameroon,france,2526,4231.0,220000.0
+Yannis Lawson,Metz,D,21,Belgium,france,2526,4231.0,220000.0
+Lanroy Machine,Angers,F,20,France,france,2526,4231.0,220000.0
+Alpha Touré,Metz,M,20,Senegal,france,2526,4231.0,220000.0
+Marius Courcoul,Angers,M,19,France,france,2526,4231.0,220000.0
+Alexis Mirbach,Nantes,K,20,France,france,2526,3462.0,180000.0
+Morgan Bokele,Metz,F,21,Cameroon,france,2526,3462.0,180000.0
+Lohann Doucet,Paris FC,M,23,France,france,2526,3462.0,180000.0
+Nordan Mukiele,Rennes,F,19,France,france,2526,3462.0,180000.0
+Hamidou Makalou,Brest,M,19,Mali,france,2526,3462.0,180000.0
+Djibril Coulibaly,Nice,M,17,France,france,2526,3462.0,180000.0
+Noah Jauny,Brest,K,21,Ireland,france,2526,3462.0,180000.0
+Adel Mahamoud,Nantes,F,23,Comoros,france,2526,3462.0,180000.0
+Dan Sinaté,Angers,D,19,Mali,france,2526,3462.0,180000.0
+Lucas Michal,Monaco,F,20,France,france,2526,3269.0,170000.0
+Yann Lienard,Monaco,K,22,France,france,2526,3269.0,170000.0
+Raphaël Le Guen,Brest,D,19,France,france,2526,3077.0,160000.0
+Oumar Pona,Angers,K,19,Mali,france,2526,3077.0,160000.0
+Nathan Buayi-Kiala,Auxerre,M,21,France,france,2526,3077.0,160000.0
+Enzo Faty,Toulouse,F,18,France,france,2526,3077.0,160000.0
+Bartosz Zelazowski,Nice,K,20,Poland,france,2526,3077.0,160000.0
+Kenny Quetant,Le Havre,F,19,France,france,2526,3077.0,160000.0
+Bahmed Deuff,Nantes,M,19,France,france,2526,3077.0,160000.0
+Seny Koumbassa,Toulouse,D,18,France,france,2526,3077.0,160000.0
+Daren Mosengo,Le Havre,M,19,France,france,2526,3077.0,160000.0
+Alpha Diallo,Lens,F,19,France,france,2526,3077.0,160000.0
+Noam Obougou,Le Havre,F,19,France,france,2526,3077.0,160000.0
+Prosper Peter,Angers,F,18,France,france,2526,3077.0,160000.0
+Ryan Rodin,Auxerre,F,19,France,france,2526,3077.0,160000.0
+Ismaël Guerti,Metz,F,21,Morocco,france,2526,3077.0,160000.0
+Elías Legendre Quiñónez,Rennes,F,17,Ecuador,france,2526,3077.0,160000.0
+Marius Louër,Angers,D,18,France,france,2526,2885.0,150000.0
+Kyllian Antonio,Lens,D,18,France,france,2526,2885.0,150000.0
+Alvin Petit Dol,Auxerre,D,19,France,france,2526,2885.0,150000.0
+Guy-Noël Zohouri,Le Havre,M,19,Cote d'Ivoire,france,2526,2885.0,150000.0
+Joseph Mangondo,Metz,F,20,France,france,2526,2885.0,150000.0
+Cléo Mélières,Metz,D,20,France,france,2526,2885.0,150000.0
+Louis Mezerette,Auxerre,K,19,France,france,2526,2885.0,150000.0
+Alexis Vossah,Toulouse,M,17,France,france,2526,2885.0,150000.0
+Tom Negrel,Auxerre,K,22,France,france,2526,2885.0,150000.0
+Paul Argney,Le Havre,K,19,France,france,2526,2885.0,150000.0
+Sékou Doucouré,Nantes,D,20,Mali,france,2526,2885.0,150000.0
+Saliou Diop,Brest,F,20,Senegal,france,2526,2885.0,150000.0
+Ilan Jourdren,Lens,K,17,France,france,2526,2500.0,130000.0
+Tidiane Devernois,Auxerre,M,18,France,france,2526,2500.0,130000.0
+Stephan Zagadou,Le Havre,D,17,France,france,2526,2500.0,130000.0
+Elikya Legros,Auxerre,D,17,France,france,2526,2115.0,110000.0
+Mahamadou Diawara,Lyon,M,20,France,france,2526,,
+Randal Kolo Muani,PSG,F,26,France,france,2526,,
+Renato Sanches,PSG,M,27,Portugal,france,2526,,
+Duje Caleta-Car,Lyon,D,28,Croatia,france,2526,,
+Rayane Messi,Strasbourg,F,18,France,france,2526,,

@@ -1,0 +1,570 @@
+player,club,position,age,nationality,data_country,data_season,gross_weekly_eur,gross_annual_eur
+Robert Lewandowski,Bayern Munich,F,33,Poland,germany,2122,442308.0,23000000.0
+Manuel Neuer,Bayern Munich,K,36,Germany,germany,2122,403846.0,21000000.0
+Thomas Müller,Bayern Munich,F,32,Germany,germany,2122,394231.0,20500000.0
+Joshua Kimmich,Bayern Munich,M,26,Germany,germany,2122,375000.0,19500000.0
+Kingsley Coman,Bayern Munich,F,25,France,germany,2122,326923.0,17000000.0
+Leroy Sané,Bayern Munich,F,26,Germany,germany,2122,288462.0,15000000.0
+Lucas Hernández,Bayern Munich,D,25,France,germany,2122,288462.0,15000000.0
+Leon Goretzka,Bayern Munich,M,26,Germany,germany,2122,250000.0,13000000.0
+Marcel Sabitzer,Bayern Munich,M,27,Austria,germany,2122,240385.0,12500000.0
+Marco Reus,Borussia Dortmund,F,32,Germany,germany,2122,230769.0,12000000.0
+Alphonso Davies,Bayern Munich,D,21,Canada,germany,2122,216346.0,11250000.0
+Christopher Nkunku,Leipzig,F,24,France,germany,2122,192308.0,10000000.0
+Mats Hummels,Borussia Dortmund,D,33,Germany,germany,2122,192308.0,10000000.0
+Dayot Upamecano,Bayern Munich,D,23,France,germany,2122,192308.0,10000000.0
+Emre Can,Borussia Dortmund,M,28,Germany,germany,2122,163462.0,8500000.0
+Axel Witsel,Borussia Dortmund,M,33,Belgium,germany,2122,153846.0,8000000.0
+Serge Gnabry,Bayern Munich,F,26,Germany,germany,2122,153846.0,8000000.0
+Erling Haaland,Borussia Dortmund,F,21,Norway,germany,2122,151923.0,7900000.0
+Thomas Meunier,Borussia Dortmund,D,30,Belgium,germany,2122,144231.0,7500000.0
+Niklas Süle,Bayern Munich,D,26,Germany,germany,2122,134615.0,7000000.0
+Julian Brandt,Borussia Dortmund,F,25,Germany,germany,2122,134615.0,7000000.0
+Corentin Tolisso,Bayern Munich,M,27,France,germany,2122,134615.0,7000000.0
+Emil Forsberg,Leipzig,F,30,Sweden,germany,2122,126923.0,6600000.0
+Donyell Malen,Borussia Dortmund,F,23,Netherlands,germany,2122,115385.0,6000000.0
+Patrik Schick,Bayer Leverkusen,F,26,Czech Republic,germany,2122,115385.0,6000000.0
+Krzysztof Piatek,Hertha Berlin,F,26,Poland,germany,2122,108846.0,5660000.0
+Péter Gulácsi,Leipzig,K,31,Hungary,germany,2122,107692.0,5600000.0
+Maximilian Arnold,Wolfsburg,M,27,Germany,germany,2122,105769.0,5500000.0
+Raphaël Guerreiro,Borussia Dortmund,D,28,Portugal,germany,2122,105769.0,5500000.0
+Lukas Klostermann,Leipzig,D,25,Germany,germany,2122,100000.0,5200000.0
+Jamal Musiala,Bayern Munich,F,18,Germany,germany,2122,96154.0,5000000.0
+Benjamin Pavard,Bayern Munich,D,25,France,germany,2122,96154.0,5000000.0
+Thorgan Hazard,Borussia Dortmund,F,28,Belgium,germany,2122,96154.0,5000000.0
+Nico Schulz,Borussia Dortmund,D,28,Germany,germany,2122,96154.0,5000000.0
+André Silva,Leipzig,F,26,Portugal,germany,2122,96154.0,5000000.0
+Karim Bellarabi,Bayer Leverkusen,F,31,Germany,germany,2122,94231.0,4900000.0
+Florian Wirtz,Bayer Leverkusen,F,18,Germany,germany,2122,86538.0,4500000.0
+Breel Embolo,Monchengladbach,F,24,Switzerland,germany,2122,80769.0,4200000.0
+Dani Olmo,Leipzig,F,23,Spain,germany,2122,80769.0,4200000.0
+Dominik Szoboszlai,Leipzig,F,21,Hungary,germany,2122,80769.0,4200000.0
+Willi Orbán,Leipzig,D,29,Hungary,germany,2122,80769.0,4200000.0
+Yussuf Poulsen,Leipzig,F,27,Denmark,germany,2122,76923.0,4000000.0
+Mahmoud Dahoud,Borussia Dortmund,M,26,Germany,germany,2122,76923.0,4000000.0
+Maximilian Philipp,Wolfsburg,F,27,Germany,germany,2122,76923.0,4000000.0
+Koen Casteels,Wolfsburg,K,29,Belgium,germany,2122,76923.0,4000000.0
+Yann Sommer,Monchengladbach,K,33,Switzerland,germany,2122,76923.0,4000000.0
+Andrej Kramaric,Hoffenheim,F,30,Croatia,germany,2122,76923.0,4000000.0
+John Anthony Brooks,Wolfsburg,D,29,United States,germany,2122,75962.0,3950000.0
+Diadié Samassékou,Hoffenheim,M,26,Mali,germany,2122,75000.0,3900000.0
+Sebastian Rudy,Hoffenheim,M,31,Germany,germany,2122,73846.0,3840000.0
+Max Kruse,Wolfsburg,F,33,Germany,germany,2122,73077.0,3800000.0
+Benjamin Henrichs,Leipzig,D,24,Germany,germany,2122,73077.0,3800000.0
+Charles Aránguiz,Bayer Leverkusen,M,32,Chile,germany,2122,72692.0,3780000.0
+Maxence Lacroix,Wolfsburg,D,21,France,germany,2122,69615.0,3620000.0
+Marcel Schmelzer,Borussia Dortmund,D,34,Germany,germany,2122,69231.0,3600000.0
+Yannick Gerhardt,Wolfsburg,M,27,Germany,germany,2122,69231.0,3600000.0
+Jonas Hector,Koln,D,31,Germany,germany,2122,67308.0,3500000.0
+Angeliño,Leipzig,M,25,Spain,germany,2122,67308.0,3500000.0
+Amadou Haidara,Leipzig,M,24,Mali,germany,2122,67308.0,3500000.0
+Kevin Trapp,Eintracht Frankfurt,K,31,Germany,germany,2122,67308.0,3500000.0
+Anthony Modeste,Koln,F,33,France,germany,2122,67308.0,3500000.0
+Munas Dabbur,Hoffenheim,F,29,Israel,germany,2122,67308.0,3500000.0
+Eric Maxim Choupo-Moting,Bayern Munich,F,32,Cameroon,germany,2122,67308.0,3500000.0
+Timo Horn,Koln,K,28,Germany,germany,2122,67308.0,3500000.0
+Luca Waldschmidt,Wolfsburg,F,25,Germany,germany,2122,65385.0,3400000.0
+Josuha Guilavogui,Wolfsburg,M,30,France,germany,2122,63462.0,3300000.0
+Marius Wolf,Borussia Dortmund,F,26,Germany,germany,2122,63462.0,3300000.0
+Jude Bellingham,Borussia Dortmund,M,18,England,germany,2122,62308.0,3240000.0
+Kerem Demirbay,Bayer Leverkusen,M,28,Germany,germany,2122,61538.0,3200000.0
+Sardar Azmoun,Bayer Leverkusen,F,27,Iran,germany,2122,61538.0,3200000.0
+Marcus Thuram,Monchengladbach,F,24,France,germany,2122,61538.0,3200000.0
+Daniel Ginczek,Wolfsburg,F,30,Germany,germany,2122,61538.0,3200000.0
+Suat Serdar,Hertha Berlin,M,24,Germany,germany,2122,60192.0,3130000.0
+Alassane Plea,Monchengladbach,F,28,France,germany,2122,59615.0,3100000.0
+Matthias Ginter,Monchengladbach,D,28,Germany,germany,2122,59615.0,3100000.0
+Kevin Mbabu,Wolfsburg,D,26,Switzerland,germany,2122,59615.0,3100000.0
+Konrad Laimer,Leipzig,M,24,Austria,germany,2122,57692.0,3000000.0
+Marcel Halstenberg,Leipzig,D,30,Germany,germany,2122,57692.0,3000000.0
+Sven Ulreich,Bayern Munich,K,33,Germany,germany,2122,57692.0,3000000.0
+Filip Kostic,Eintracht Frankfurt,M,29,Serbia,germany,2122,57692.0,3000000.0
+Roman Bürki,Borussia Dortmund,K,31,Switzerland,germany,2122,57692.0,3000000.0
+Christoph Kramer,Monchengladbach,M,30,Germany,germany,2122,57692.0,3000000.0
+Oliver Baumann,Hoffenheim,K,31,Germany,germany,2122,57692.0,3000000.0
+Xaver Schlager,Wolfsburg,M,24,Austria,germany,2122,57692.0,3000000.0
+Wout Weghorst,Wolfsburg,F,29,Netherlands,germany,2122,57692.0,3000000.0
+Jérôme Roussillon,Wolfsburg,D,29,France,germany,2122,57692.0,3000000.0
+Lucas Alario,Bayer Leverkusen,F,29,Argentina,germany,2122,56923.0,2960000.0
+Jonathan Tah,Bayer Leverkusen,D,25,Germany,germany,2122,54423.0,2830000.0
+Nadiem Amiri,Bayer Leverkusen,F,24,Germany,germany,2122,54423.0,2830000.0
+Sebastiaan Bornauw,Wolfsburg,D,22,Belgium,germany,2122,54231.0,2820000.0
+Lars Stindl,Monchengladbach,F,33,Germany,germany,2122,53846.0,2800000.0
+Admir Mehmedi,Wolfsburg,F,30,Switzerland,germany,2122,53846.0,2800000.0
+Marc Roca,Bayern Munich,M,25,Spain,germany,2122,53846.0,2800000.0
+Ihlas Bebou,Hoffenheim,F,27,Togo,germany,2122,51923.0,2700000.0
+Martin Hinteregger,Eintracht Frankfurt,D,29,Austria,germany,2122,50577.0,2630000.0
+Florian Grillitsch,Hoffenheim,M,26,Austria,germany,2122,50000.0,2600000.0
+Nordi Mukiele,Leipzig,D,24,France,germany,2122,50000.0,2600000.0
+Lucas Tousart,Hertha Berlin,M,24,France,germany,2122,50000.0,2600000.0
+Ellyes Skhiri,Koln,M,26,Tunisia,germany,2122,48077.0,2500000.0
+Sebastian Rode,Eintracht Frankfurt,M,31,Germany,germany,2122,48077.0,2500000.0
+Santos Borré,Eintracht Frankfurt,F,26,Colombia,germany,2122,48077.0,2500000.0
+Florian Neuhaus,Monchengladbach,M,24,Germany,germany,2122,48077.0,2500000.0
+Jonas Hofmann,Monchengladbach,F,29,Germany,germany,2122,48077.0,2500000.0
+Marin Pongracic,Borussia Dortmund,D,24,Croatia,germany,2122,48077.0,2500000.0
+Manuel Akanji,Borussia Dortmund,D,26,Switzerland,germany,2122,48077.0,2500000.0
+Nico Elvedi,Monchengladbach,D,25,Switzerland,germany,2122,48077.0,2500000.0
+Dodi Lukébakio,Wolfsburg,F,24,Belgium,germany,2122,48077.0,2500000.0
+Giovanni Reyna,Borussia Dortmund,F,19,United States,germany,2122,48077.0,2500000.0
+Kevin Kampl,Leipzig,M,31,Slovenia,germany,2122,48077.0,2500000.0
+Sebastian Andersson,Koln,F,30,Sweden,germany,2122,48077.0,2500000.0
+Amin Younes,Eintracht Frankfurt,F,28,Germany,germany,2122,46154.0,2400000.0
+Dedryck Boyata,Hertha Berlin,D,31,Belgium,germany,2122,46154.0,2400000.0
+Vladimir Darida,Hertha Berlin,M,31,Czech Republic,germany,2122,46154.0,2400000.0
+Lukas Hradecky,Bayer Leverkusen,K,32,Finland,germany,2122,46154.0,2400000.0
+Luca Netz,Monchengladbach,D,18,Germany,germany,2122,46154.0,2400000.0
+Kevin Vogt,Hoffenheim,D,30,Germany,germany,2122,46154.0,2400000.0
+Marcelo Saracchi,Leipzig,D,23,Uruguay,germany,2122,45385.0,2360000.0
+Stefan Lainer,Monchengladbach,D,29,Austria,germany,2122,44231.0,2300000.0
+Julian Baumgartlinger,Bayer Leverkusen,M,34,Austria,germany,2122,44231.0,2300000.0
+Moussa Diaby,Bayer Leverkusen,F,22,France,germany,2122,43462.0,2260000.0
+Edmond Tapsoba,Bayer Leverkusen,D,23,Burkina Faso,germany,2122,43462.0,2260000.0
+Marwin Hitz,Borussia Dortmund,K,34,Switzerland,germany,2122,42308.0,2200000.0
+Daniel Didavi,Stuttgart,F,31,Germany,germany,2122,40385.0,2100000.0
+Denis Zakaria,Monchengladbach,M,24,Switzerland,germany,2122,40385.0,2100000.0
+Daniel Caligiuri,Augsburg,F,34,Italy,germany,2122,40385.0,2100000.0
+Rune Jarstein,Hertha Berlin,K,37,Norway,germany,2122,40000.0,2080000.0
+Djibril Sow,Eintracht Frankfurt,M,24,Switzerland,germany,2122,39808.0,2070000.0
+Jonas Wind,Wolfsburg,F,22,Denmark,germany,2122,39231.0,2040000.0
+Gregor Kobel,Borussia Dortmund,K,24,Switzerland,germany,2122,39231.0,2040000.0
+Ramy Bensebaini,Monchengladbach,D,26,Algeria,germany,2122,38462.0,2000000.0
+Daichi Kamada,Eintracht Frankfurt,F,25,Japan,germany,2122,38462.0,2000000.0
+Pavel Kaderabek,Hoffenheim,D,29,Czech Republic,germany,2122,38462.0,2000000.0
+Marvin Friedrich,Monchengladbach,D,26,Germany,germany,2122,38462.0,2000000.0
+Lukas Nmecha,Wolfsburg,F,23,Germany,germany,2122,38462.0,2000000.0
+Aarón Martín,Mainz,D,24,Spain,germany,2122,38462.0,2000000.0
+Paul Wanner,Bayern Munich,F,16,Germany,germany,2122,38462.0,2000000.0
+Tanguy Nianzou,Bayern Munich,D,19,France,germany,2122,38462.0,2000000.0
+Kouadio Koné,Monchengladbach,M,20,France,germany,2122,36923.0,1920000.0
+Hannes Wolf,Monchengladbach,F,22,Austria,germany,2122,36923.0,1920000.0
+Bouna Sarr,Bayern Munich,D,30,Senegal,germany,2122,36538.0,1900000.0
+William,Wolfsburg,D,26,Brazil,germany,2122,36538.0,1900000.0
+Jens Petter Hauge,Eintracht Frankfurt,F,22,Norway,germany,2122,36346.0,1890000.0
+Edimilson Fernandes,Arminia Bielefeld,M,25,Switzerland,germany,2122,35000.0,1820000.0
+Jacob Bruun Larsen,Hoffenheim,F,23,Denmark,germany,2122,34615.0,1800000.0
+Josko Gvardiol,Leipzig,D,20,Croatia,germany,2122,34615.0,1800000.0
+Stefan Bell,Mainz,D,30,Germany,germany,2122,34615.0,1800000.0
+Dominik Kohr,Mainz,M,28,Germany,germany,2122,34615.0,1800000.0
+Almamy Touré,Eintracht Frankfurt,D,25,France,germany,2122,34615.0,1800000.0
+Mark Uth,Koln,F,30,Germany,germany,2122,34615.0,1800000.0
+Ridle Baku,Wolfsburg,M,23,Germany,germany,2122,34615.0,1800000.0
+Robert Skov,Hoffenheim,F,25,Denmark,germany,2122,34615.0,1800000.0
+Genki Haraguchi,Union Berlin,F,30,Japan,germany,2122,32885.0,1710000.0
+Patrick Herrmann,Monchengladbach,F,30,Germany,germany,2122,32692.0,1700000.0
+Havard Nordtveit,Hoffenheim,D,31,Norway,germany,2122,32692.0,1700000.0
+Ermin Bicakcic,Hoffenheim,D,32,Bosnia-Herzegovina,germany,2122,32692.0,1700000.0
+Exequiel Palacios,Bayer Leverkusen,M,23,Argentina,germany,2122,32692.0,1700000.0
+Leandro Barreiro Martins,Mainz,M,22,Luxembourg,germany,2122,32308.0,1680000.0
+Odilon Kossounou,Bayer Leverkusen,D,21,Cote d'Ivoire,germany,2122,31346.0,1630000.0
+Jesper Lindström,Eintracht Frankfurt,F,21,Denmark,germany,2122,31154.0,1620000.0
+Ilaix Moriba,Leipzig,M,18,Guinea,germany,2122,31154.0,1620000.0
+Mitchel Bakker,Bayer Leverkusen,D,21,Netherlands,germany,2122,30962.0,1610000.0
+Andi Zeqiri,Augsburg,F,22,Switzerland,germany,2122,30962.0,1610000.0
+André Hahn,Augsburg,F,31,Germany,germany,2122,30769.0,1600000.0
+Robert Andrich,Bayer Leverkusen,M,27,Germany,germany,2122,30769.0,1600000.0
+Santiago Ascacíbar,Hertha Berlin,M,24,Argentina,germany,2122,30769.0,1600000.0
+Carlos Gruezo,Augsburg,M,26,Ecuador,germany,2122,30769.0,1600000.0
+Sam Lammers,Eintracht Frankfurt,F,24,Netherlands,germany,2122,29038.0,1510000.0
+Taiwo Awoniyi,Union Berlin,F,24,Nigeria,germany,2122,28846.0,1500000.0
+Tony Jantschke,Monchengladbach,D,31,Germany,germany,2122,28846.0,1500000.0
+Chris Führich,Stuttgart,F,24,Germany,germany,2122,28846.0,1500000.0
+Robin Knoche,Union Berlin,D,29,Germany,germany,2122,28846.0,1500000.0
+Christopher Trimmel,Union Berlin,D,34,Austria,germany,2122,28846.0,1500000.0
+Michaël Cuisance,Bayern Munich,M,22,France,germany,2122,28846.0,1500000.0
+Jonathan Burkardt,Mainz,F,21,Germany,germany,2122,28846.0,1500000.0
+Alexander Hack,Mainz,D,28,Germany,germany,2122,28846.0,1500000.0
+Tuta,Eintracht Frankfurt,D,22,Brazil,germany,2122,28846.0,1500000.0
+Davie Selke,Hertha Berlin,F,27,Germany,germany,2122,28846.0,1500000.0
+Robin Zentner,Mainz,K,27,Germany,germany,2122,28846.0,1500000.0
+Christoph Baumgartner,Hoffenheim,F,22,Austria,germany,2122,28846.0,1500000.0
+Florian Niederlechner,Augsburg,F,31,Germany,germany,2122,28846.0,1500000.0
+Jeffrey Gouweleeuw,Augsburg,D,30,Netherlands,germany,2122,28846.0,1500000.0
+Marvin Plattenhardt,Hertha Berlin,D,30,Germany,germany,2122,28846.0,1500000.0
+Makoto Hasebe,Eintracht Frankfurt,M,38,Japan,germany,2122,26923.0,1400000.0
+Stefan Ilsanker,Eintracht Frankfurt,M,32,Austria,germany,2122,26923.0,1400000.0
+Erik Durm,Eintracht Frankfurt,D,29,Germany,germany,2122,26923.0,1400000.0
+Dennis Geiger,Hoffenheim,M,23,Germany,germany,2122,26538.0,1380000.0
+Micky van de Ven,Wolfsburg,D,20,Netherlands,germany,2122,26538.0,1380000.0
+Sheraldo Becker,Union Berlin,F,26,Suriname,germany,2122,26538.0,1380000.0
+Jeremie Frimpong,Bayer Leverkusen,D,21,Netherlands,germany,2122,25385.0,1320000.0
+Stevan Jovetic,Hertha Berlin,F,32,Montenegro,germany,2122,25192.0,1310000.0
+Silvan Widmer,Mainz,D,28,Switzerland,germany,2122,25000.0,1300000.0
+Paulinho,Bayer Leverkusen,F,21,Brazil,germany,2122,25000.0,1300000.0
+Eduard Löwen,Bochum,M,25,Germany,germany,2122,25000.0,1300000.0
+Brian Brobbey,Leipzig,F,19,Netherlands,germany,2122,24231.0,1260000.0
+Andrey Lunev,Bayer Leverkusen,K,30,Russia,germany,2122,23846.0,1240000.0
+Daley Sinkgraven,Bayer Leverkusen,D,26,Netherlands,germany,2122,23462.0,1220000.0
+Omar Marmoush,Stuttgart,F,22,Egypt,germany,2122,23077.0,1200000.0
+Kingsley Schindler,Koln,F,28,Germany,germany,2122,23077.0,1200000.0
+Jorge Meré,Koln,D,24,Spain,germany,2122,23077.0,1200000.0
+Renato Steffen,Wolfsburg,F,30,Switzerland,germany,2122,23077.0,1200000.0
+Pavao Pervan,Wolfsburg,K,34,Austria,germany,2122,23077.0,1200000.0
+Gonzalo Castro,Arminia Bielefeld,M,34,Germany,germany,2122,23077.0,1200000.0
+András Schäfer,Union Berlin,M,22,Hungary,germany,2122,23077.0,1200000.0
+Ádám Szalai,Mainz,F,34,Hungary,germany,2122,23077.0,1200000.0
+Frederik Rönnow,Union Berlin,K,29,Denmark,germany,2122,23077.0,1200000.0
+Timothy Chandler,Eintracht Frankfurt,D,31,United States,germany,2122,23077.0,1200000.0
+Marcus Ingvartsen,Mainz,F,26,Denmark,germany,2122,23077.0,1200000.0
+Evan N'Dicka,Eintracht Frankfurt,D,22,France,germany,2122,23077.0,1200000.0
+Niklas Stark,Hertha Berlin,D,26,Germany,germany,2122,23077.0,1200000.0
+Gonçalo Paciência,Eintracht Frankfurt,F,27,Portugal,germany,2122,23077.0,1200000.0
+Kevin-Prince Boateng,Hertha Berlin,F,34,Ghana,germany,2122,23077.0,1200000.0
+Alfred Finnbogason,Augsburg,F,33,Iceland,germany,2122,22500.0,1170000.0
+Bastian Oczipka,Union Berlin,D,33,Germany,germany,2122,22308.0,1160000.0
+Fredrik Björkan,Hertha Berlin,D,23,Norway,germany,2122,22115.0,1150000.0
+Alessandro Schöpf,Arminia Bielefeld,M,27,Austria,germany,2122,22115.0,1150000.0
+Hiroki Ito,Stuttgart,D,22,Japan,germany,2122,22115.0,1150000.0
+Paulo Otávio,Wolfsburg,D,27,Brazil,germany,2122,22115.0,1150000.0
+Myziane Maolida,Hertha Berlin,F,22,France,germany,2122,21923.0,1140000.0
+Amine Adli,Bayer Leverkusen,F,21,France,germany,2122,21923.0,1140000.0
+Lászlo Bénes,Monchengladbach,M,24,Slovakia,germany,2122,21154.0,1100000.0
+Max Kruse,Union Berlin,F,33,Germany,germany,2122,21154.0,1100000.0
+Ondrej Duda,Koln,F,27,Slovakia,germany,2122,21154.0,1100000.0
+Erik Thommy,Stuttgart,M,27,Germany,germany,2122,21154.0,1100000.0
+Angelo Stiller,Hoffenheim,M,20,Germany,germany,2122,20769.0,1080000.0
+Marc Oliver Kempf,Hertha Berlin,D,27,Germany,germany,2122,20769.0,1080000.0
+Jürgen Locadia,Bochum,F,28,Netherlands,germany,2122,20769.0,1080000.0
+Luca Itter,Furth,D,23,Germany,germany,2122,20192.0,1050000.0
+Kristijan Jakic,Eintracht Frankfurt,M,24,Croatia,germany,2122,20000.0,1040000.0
+Timo Baumgartl,Union Berlin,D,25,Germany,germany,2122,20000.0,1040000.0
+Soumaïla Coulibaly,Borussia Dortmund,D,18,France,germany,2122,20000.0,1040000.0
+Christian Günter,Freiburg,D,28,Germany,germany,2122,19615.0,1020000.0
+Marc Oliver Kempf,Stuttgart,D,26,Germany,germany,2122,19423.0,1010000.0
+Stefan Posch,Hoffenheim,D,24,Austria,germany,2122,19231.0,1000000.0
+Tyler Adams,Leipzig,M,22,United States,germany,2122,19231.0,1000000.0
+Iago,Augsburg,D,24,Brazil,germany,2122,19231.0,1000000.0
+Michael Gregoritsch,Augsburg,F,27,Austria,germany,2122,19231.0,1000000.0
+Arne Maier,Augsburg,M,23,Germany,germany,2122,19231.0,1000000.0
+Tomas Koubek,Augsburg,K,29,Czech Republic,germany,2122,19231.0,1000000.0
+Tobias Strobl,Augsburg,M,31,Germany,germany,2122,19231.0,1000000.0
+Maximilian Mittelstädt,Hertha Berlin,D,24,Germany,germany,2122,19038.0,990000.0
+Kasim Adams,Hoffenheim,D,26,Ghana,germany,2122,18846.0,980000.0
+Mateu Morey Bauzà,Borussia Dortmund,D,21,Spain,germany,2122,18846.0,980000.0
+Joshua Brenet,Hoffenheim,D,27,Netherlands,germany,2122,18654.0,970000.0
+Jannes Horn,Koln,D,24,Germany,germany,2122,18654.0,970000.0
+Dominique Heintz,Freiburg,D,28,Germany,germany,2122,18462.0,960000.0
+Maximilian Eggestein,Freiburg,M,25,Germany,germany,2122,18462.0,960000.0
+Dominique Heintz,Union Berlin,D,28,Germany,germany,2122,18462.0,960000.0
+Kingsley Ehizibue,Koln,D,26,Nigeria,germany,2122,18462.0,960000.0
+Jeremiah St. Juste,Mainz,D,25,Netherlands,germany,2122,18462.0,960000.0
+Niklas Dorsch,Augsburg,M,24,Germany,germany,2122,18269.0,950000.0
+Vincenzo Grifo,Freiburg,F,28,Italy,germany,2122,18269.0,950000.0
+Orel Mangala,Stuttgart,M,23,Belgium,germany,2122,18077.0,940000.0
+Joel Pohjanpalo,Bayer Leverkusen,F,26,Finland,germany,2122,18077.0,940000.0
+Panagiotis Retsos,Bayer Leverkusen,D,23,Greece,germany,2122,17885.0,930000.0
+Paul Seguin,Furth,M,26,Germany,germany,2122,17692.0,920000.0
+Anton Stach,Mainz,M,23,Germany,germany,2122,17500.0,910000.0
+Robert Tesche,Bochum,M,34,Germany,germany,2122,17500.0,910000.0
+Benno Schmitz,Koln,D,27,Germany,germany,2122,17308.0,900000.0
+Kevin Paredes,Wolfsburg,M,18,United States,germany,2122,17308.0,900000.0
+Timothy Fosu-Mensah,Bayer Leverkusen,D,24,Netherlands,germany,2122,17308.0,900000.0
+Nicolas Höfler,Freiburg,M,31,Germany,germany,2122,17308.0,900000.0
+Delano Burgzorg,Mainz,F,23,Netherlands,germany,2122,17308.0,900000.0
+Louis Schaub,Koln,F,27,Austria,germany,2122,17115.0,890000.0
+Felix Passlack,Borussia Dortmund,D,23,Germany,germany,2122,17115.0,890000.0
+Jae-sung Lee,Mainz,F,29,South Korea,germany,2122,16923.0,880000.0
+Benjamin Hübner,Hoffenheim,D,32,Germany,germany,2122,16923.0,880000.0
+Alexander Schwolow,Hertha Berlin,K,29,Germany,germany,2122,16923.0,880000.0
+Kevin Akpoguma,Hoffenheim,D,26,Nigeria,germany,2122,16731.0,870000.0
+Raman Chibsah,Bochum,M,28,Ghana,germany,2122,16538.0,860000.0
+Piero Hincapié,Bayer Leverkusen,D,20,Ecuador,germany,2122,16346.0,850000.0
+Rubén Vargas,Augsburg,F,23,Switzerland,germany,2122,16346.0,850000.0
+Rani Khedira,Union Berlin,M,28,Germany,germany,2122,16346.0,850000.0
+Ricardo Pepi,Augsburg,F,19,United States,germany,2122,16154.0,840000.0
+Sebastian Polter,Bochum,F,30,Germany,germany,2122,16154.0,840000.0
+Dejan Ljubicic,Koln,M,24,Austria,germany,2122,16154.0,840000.0
+Manuel Riemann,Bochum,K,33,Germany,germany,2122,16154.0,840000.0
+Lennart Grill,Bayer Leverkusen,K,23,Germany,germany,2122,16154.0,840000.0
+Levin Öztunali,Union Berlin,M,25,Germany,germany,2122,16154.0,840000.0
+Mijat Gacinovic,Hoffenheim,F,26,Serbia,germany,2122,15769.0,820000.0
+Julian Green,Furth,M,26,United States,germany,2122,15769.0,820000.0
+Jonathan Schmid,Freiburg,D,31,France,germany,2122,15577.0,810000.0
+Elvis Rexhbecaj,Bochum,M,24,Germany,germany,2122,15385.0,800000.0
+Reece Oxford,Augsburg,D,23,England,germany,2122,15385.0,800000.0
+Felix Uduokhai,Augsburg,D,24,Germany,germany,2122,15385.0,800000.0
+Florian Kainz,Koln,F,29,Austria,germany,2122,15385.0,800000.0
+Martin Pecar,Eintracht Frankfurt,F,19,Slovenia,germany,2122,15192.0,790000.0
+Jurgen Ekkelenkamp,Hertha Berlin,M,21,Netherlands,germany,2122,15000.0,780000.0
+David Raum,Hoffenheim,D,23,Germany,germany,2122,15000.0,780000.0
+Sasa Kalajdzic,Stuttgart,F,24,Austria,germany,2122,15000.0,780000.0
+Chris Richards,Hoffenheim,D,21,United States,germany,2122,15000.0,780000.0
+Danny da Costa,Eintracht Frankfurt,D,28,Germany,germany,2122,15000.0,780000.0
+Jordan Torunarigha,Hertha Berlin,D,24,Germany,germany,2122,14808.0,770000.0
+Philipp Förster,Stuttgart,F,26,Germany,germany,2122,14808.0,770000.0
+Daniel Brosinski,Mainz,D,33,Germany,germany,2122,14808.0,770000.0
+Saulo Decarli,Bochum,D,29,Switzerland,germany,2122,14808.0,770000.0
+Sascha Burchert,Furth,K,32,Germany,germany,2122,14808.0,770000.0
+Cedric Itten,Furth,F,24,Switzerland,germany,2122,14615.0,760000.0
+Konstantinos Mavropanos,Stuttgart,D,24,Greece,germany,2122,14615.0,760000.0
+Moussa Niakhaté,Mainz,D,25,France,germany,2122,14615.0,760000.0
+Ishak Belfodil,Hertha Berlin,F,30,Algeria,germany,2122,14615.0,760000.0
+Gianluca Schäfer,Eintracht Frankfurt,F,18,Germany,germany,2122,14615.0,760000.0
+Nils Petersen,Freiburg,F,33,Germany,germany,2122,14423.0,750000.0
+Rafal Gikiewicz,Augsburg,K,34,Poland,germany,2122,14423.0,750000.0
+Lennart Czyborra,Arminia Bielefeld,D,22,Germany,germany,2122,14423.0,750000.0
+Waldemar Anton,Stuttgart,D,25,Germany,germany,2122,14423.0,750000.0
+Janik Haberer,Freiburg,M,27,Germany,germany,2122,14231.0,740000.0
+Peter Pekarik,Hertha Berlin,D,35,Slovakia,germany,2122,14231.0,740000.0
+Rafael Czichos,Koln,D,31,Germany,germany,2122,14038.0,730000.0
+Lukas Klünter,Hertha Berlin,D,25,Germany,germany,2122,14038.0,730000.0
+Salih Özcan,Koln,M,24,Germany,germany,2122,14038.0,730000.0
+Kevin Behrens,Union Berlin,F,30,Germany,germany,2122,13846.0,720000.0
+Konstantinos Stafylidis,Bochum,D,28,Greece,germany,2122,13846.0,720000.0
+Roland Sallai,Freiburg,F,24,Hungary,germany,2122,13846.0,720000.0
+Kevin Möhwald,Union Berlin,M,28,Germany,germany,2122,13846.0,720000.0
+Grischa Prömel,Union Berlin,M,27,Germany,germany,2122,13846.0,720000.0
+Christopher Lenz,Eintracht Frankfurt,D,27,Germany,germany,2122,13846.0,720000.0
+Jan Thielmann,Koln,F,19,Germany,germany,2122,13846.0,720000.0
+Dong-jun Lee,Hertha Berlin,F,25,South Korea,germany,2122,13654.0,710000.0
+Pascal Stenzel,Stuttgart,D,25,Germany,germany,2122,13654.0,710000.0
+Havard Nielsen,Furth,F,28,Norway,germany,2122,13462.0,700000.0
+Noah Sarenren Bazee,Augsburg,F,25,Germany,germany,2122,13462.0,700000.0
+Sven Michel,Union Berlin,F,31,Germany,germany,2122,13269.0,690000.0
+Philipp Lienhart,Freiburg,D,25,Austria,germany,2122,13077.0,680000.0
+Conor Noß,Monchengladbach,F,21,Ireland,germany,2122,13077.0,680000.0
+Sargis Adamyan,Hoffenheim,F,28,Armenia,germany,2122,12885.0,670000.0
+Jean-Paul Boëtius,Mainz,F,27,Netherlands,germany,2122,12885.0,670000.0
+Kevin Stöger,Mainz,F,28,Austria,germany,2122,12692.0,660000.0
+Wataru Endo,Stuttgart,M,28,Japan,germany,2122,12692.0,660000.0
+Nick Viergever,Furth,D,32,Netherlands,germany,2122,12500.0,650000.0
+Philipp Klement,Stuttgart,F,28,Germany,germany,2122,12500.0,650000.0
+Erhan Masovic,Bochum,D,23,Serbia,germany,2122,12308.0,640000.0
+Borna Sosa,Stuttgart,D,24,Croatia,germany,2122,12308.0,640000.0
+Anthony Ujah,Union Berlin,F,31,Nigeria,germany,2122,11923.0,620000.0
+Nikolas Nartey,Stuttgart,M,21,Denmark,germany,2122,11923.0,620000.0
+Tobias Sippel,Monchengladbach,K,33,Germany,germany,2122,11538.0,600000.0
+Georginio Rutter,Hoffenheim,F,19,France,germany,2122,11538.0,600000.0
+Reinier,Borussia Dortmund,F,20,Brazil,germany,2122,11538.0,600000.0
+Mohamed Simakan,Leipzig,D,21,France,germany,2122,11538.0,600000.0
+Felix Nmecha,Wolfsburg,F,21,Germany,germany,2122,11538.0,600000.0
+Deyovaisio Zeefuik,Hertha Berlin,D,23,Netherlands,germany,2122,11538.0,600000.0
+Simon Zoller,Bochum,F,30,Germany,germany,2122,11538.0,600000.0
+Andreas Linde,Furth,K,28,Sweden,germany,2122,11538.0,600000.0
+Aster Vranckx,Wolfsburg,M,19,Belgium,germany,2122,11538.0,600000.0
+Niko Gießelmann,Union Berlin,D,30,Germany,germany,2122,11538.0,600000.0
+Cristian Gamboa,Bochum,D,32,Costa Rica,germany,2122,11538.0,600000.0
+Benjamin Uphoff,Freiburg,K,28,Germany,germany,2122,11538.0,600000.0
+Karim Onisiwo,Mainz,F,29,Austria,germany,2122,11346.0,590000.0
+Tymoteusz Puchacz,Union Berlin,D,22,Poland,germany,2122,11154.0,580000.0
+Lasse Günther,Augsburg,F,18,Germany,germany,2122,11154.0,580000.0
+Tomas Ostrak,Koln,F,21,Czech Republic,germany,2122,11154.0,580000.0
+Raphael Framberger,Augsburg,D,26,Germany,germany,2122,10962.0,570000.0
+Marvin Friedrich,Union Berlin,D,25,Germany,germany,2122,10962.0,570000.0
+Silas Katompa Mvumpa,Stuttgart,M,23,Democratic Republic of the Congo,germany,2122,10769.0,560000.0
+Mamadou Doucouré,Monchengladbach,D,23,France,germany,2122,10385.0,540000.0
+Keven Schlotterbeck,Freiburg,D,24,Germany,germany,2122,10385.0,540000.0
+Anthony Losilla,Bochum,M,35,France,germany,2122,10385.0,540000.0
+Sergio Córdova,Augsburg,F,24,Venezuela,germany,2122,10385.0,540000.0
+Niklas Tauer,Mainz,M,20,Germany,germany,2122,10385.0,540000.0
+Niklas Hauptmann,Koln,M,25,Germany,germany,2122,10385.0,540000.0
+Julian Ryerson,Union Berlin,D,24,Norway,germany,2122,10385.0,540000.0
+Jan Moravek,Augsburg,M,32,Czech Republic,germany,2122,10192.0,530000.0
+Philipp Tschauner,Leipzig,K,36,Germany,germany,2122,10192.0,530000.0
+Gerrit Holtmann,Bochum,F,26,Philippines,germany,2122,10000.0,520000.0
+Lucas Höler,Freiburg,F,27,Germany,germany,2122,10000.0,520000.0
+Timo Hübers,Koln,D,25,Germany,germany,2122,10000.0,520000.0
+Cedric Teuchert,Union Berlin,F,24,Germany,germany,2122,9808.0,510000.0
+Justin Hoogma,Furth,D,23,Netherlands,germany,2122,9808.0,510000.0
+Omar Richards,Bayern Munich,D,23,England,germany,2122,9615.0,500000.0
+Christian Früchtl,Bayern Munich,K,22,Germany,germany,2122,9615.0,500000.0
+Afimico Pululu,Furth,F,22,Angola,germany,2122,9615.0,500000.0
+Stefanos Kapino,Arminia Bielefeld,K,27,Greece,germany,2122,9423.0,490000.0
+Fabian Bredlow,Stuttgart,K,26,Germany,germany,2122,9423.0,490000.0
+Manuel Gulde,Freiburg,D,30,Germany,germany,2122,9231.0,480000.0
+Finn Dahmen,Mainz,K,23,Germany,germany,2122,9231.0,480000.0
+Suleiman Abdullahi,Union Berlin,F,25,Nigeria,germany,2122,9231.0,480000.0
+Atakan Karazor,Stuttgart,M,25,Germany,germany,2122,9038.0,470000.0
+Herbert Bockhorn,Bochum,D,27,Germany,germany,2122,9038.0,470000.0
+Joakim Nilsson,Arminia Bielefeld,D,27,Sweden,germany,2122,8846.0,460000.0
+Mads Pedersen,Augsburg,D,25,Denmark,germany,2122,8846.0,460000.0
+Takuma Asano,Bochum,F,27,Japan,germany,2122,8654.0,450000.0
+Oliver Christensen,Hertha Berlin,K,22,Denmark,germany,2122,8654.0,450000.0
+Marco Richter,Hertha Berlin,F,24,Germany,germany,2122,8654.0,450000.0
+Rick van Drongelen,Union Berlin,D,22,Netherlands,germany,2122,8462.0,440000.0
+Nunoo Sarpei,Furth,M,23,Ghana,germany,2122,8462.0,440000.0
+Danilo Soares,Bochum,D,30,Brazil,germany,2122,8269.0,430000.0
+Paul Jaeckel,Union Berlin,D,23,Germany,germany,2122,8077.0,420000.0
+Woo-yeong Jeong,Freiburg,F,22,South Korea,germany,2122,8077.0,420000.0
+Branimir Hrgota,Furth,F,29,Sweden,germany,2122,8077.0,420000.0
+Bright Arrey-Mbi,Koln,D,18,Germany,germany,2122,8077.0,420000.0
+Jakob Busk,Union Berlin,K,28,Denmark,germany,2122,8077.0,420000.0
+George Bello,Arminia Bielefeld,D,20,United States,germany,2122,8077.0,420000.0
+Fredrik Jensen,Augsburg,F,24,Finland,germany,2122,7885.0,410000.0
+Anderson Lucoqui,Mainz,D,24,Angola,germany,2122,7885.0,410000.0
+Sebastian Griesbeck,Furth,M,31,Germany,germany,2122,7885.0,410000.0
+Ermedin Demirovic,Freiburg,F,23,Bosnia-Herzegovina,germany,2122,7692.0,400000.0
+Nishan Burkart,Freiburg,F,22,Switzerland,germany,2122,7500.0,390000.0
+Lukas Kübler,Freiburg,D,29,Germany,germany,2122,7500.0,390000.0
+Cédric Brunner,Arminia Bielefeld,D,27,Switzerland,germany,2122,7500.0,390000.0
+Andreas Luthe,Union Berlin,K,34,Germany,germany,2122,7308.0,380000.0
+Julian Chabot,Koln,D,23,Germany,germany,2122,7308.0,380000.0
+Marvin Schwäbe,Koln,K,26,Germany,germany,2122,7115.0,370000.0
+Fabian Klos,Arminia Bielefeld,F,34,Germany,germany,2122,7115.0,370000.0
+Silvère Ganvoula,Bochum,F,25,Congo,germany,2122,6923.0,360000.0
+Jan Olschowsky,Monchengladbach,K,20,Germany,germany,2122,6923.0,360000.0
+Luca Kilian,Koln,D,22,Germany,germany,2122,6923.0,360000.0
+Tobias Raschl,Furth,M,21,Germany,germany,2122,6731.0,350000.0
+Ragnar Ache,Eintracht Frankfurt,F,23,Germany,germany,2122,6731.0,350000.0
+Danny Blum,Bochum,F,31,Germany,germany,2122,6731.0,350000.0
+Mark Flekken,Freiburg,K,28,Netherlands,germany,2122,6731.0,350000.0
+Anselmo García MacNulty,Wolfsburg,D,18,Ireland,germany,2122,6731.0,350000.0
+Adrian Fein,Furth,M,22,Germany,germany,2122,6731.0,350000.0
+Jens Grahl,Eintracht Frankfurt,K,33,Germany,germany,2122,6731.0,350000.0
+Stefan Drljaca,Borussia Dortmund,K,22,Germany,germany,2122,6731.0,350000.0
+Simon Asta,Furth,D,21,Germany,germany,2122,6346.0,330000.0
+Michael Esser,Bochum,K,34,Germany,germany,2122,6346.0,330000.0
+Andreas Voglsammer,Union Berlin,F,30,Germany,germany,2122,6154.0,320000.0
+Patrick Wimmer,Arminia Bielefeld,F,20,Austria,germany,2122,6154.0,320000.0
+Marco Meyerhöfer,Furth,D,26,Germany,germany,2122,6154.0,320000.0
+Kiliann Sildillia,Freiburg,D,19,France,germany,2122,6154.0,320000.0
+Guilherme Ramos,Arminia Bielefeld,D,24,Portugal,germany,2122,5962.0,310000.0
+David Nemeth,Mainz,D,20,Austria,germany,2122,5962.0,310000.0
+Emil Berggreen,Furth,F,28,Denmark,germany,2122,5962.0,310000.0
+Jetro Willems,Furth,D,27,Netherlands,germany,2122,5962.0,310000.0
+Josep Martínez,Leipzig,K,23,Spain,germany,2122,5962.0,310000.0
+Wahid Faghir,Stuttgart,F,18,Denmark,germany,2122,5962.0,310000.0
+Manuel Prietl,Arminia Bielefeld,M,30,Austria,germany,2122,5769.0,300000.0
+Clinton Mola,Stuttgart,M,20,England,germany,2122,5769.0,300000.0
+Maxim Leitsch,Bochum,D,23,Germany,germany,2122,5769.0,300000.0
+Stefan Ortega Moreno,Arminia Bielefeld,K,29,Germany,germany,2122,5769.0,300000.0
+Christopher Antwi-Adjei,Bochum,F,27,Ghana,germany,2122,5769.0,300000.0
+Malik Tillman,Bayern Munich,F,19,Germany,germany,2122,5769.0,300000.0
+Keanan Bennetts,Monchengladbach,M,22,England,germany,2122,5769.0,300000.0
+Vasilios Lampropoulos,Bochum,D,31,Greece,germany,2122,5769.0,300000.0
+Enzo Millot,Stuttgart,M,19,France,germany,2122,5769.0,300000.0
+Armel Bella Kotchap,Bochum,D,20,Germany,germany,2122,5577.0,290000.0
+Jacob Barrett Laursen,Arminia Bielefeld,D,27,Denmark,germany,2122,5385.0,280000.0
+Gideon Jung,Furth,D,27,Germany,germany,2122,5385.0,280000.0
+Kevin Schade,Freiburg,F,20,Germany,germany,2122,5385.0,280000.0
+Hugo Novoa,Leipzig,F,19,Spain,germany,2122,5192.0,270000.0
+Niklas Lomb,Bayer Leverkusen,K,28,Germany,germany,2122,5192.0,270000.0
+Florian Müller,Stuttgart,K,24,Germany,germany,2122,5192.0,270000.0
+Sebastian Vasiliadis,Arminia Bielefeld,M,24,Greece,germany,2122,5192.0,270000.0
+Nico Schlotterbeck,Freiburg,D,22,Germany,germany,2122,5000.0,260000.0
+Florian Krüger,Arminia Bielefeld,F,22,Germany,germany,2122,5000.0,260000.0
+Jeremy Dudziak,Furth,F,26,Germany,germany,2122,4808.0,250000.0
+Robert Gumny,Augsburg,D,23,Poland,germany,2122,4808.0,250000.0
+Tim Lemperle,Koln,F,19,Germany,germany,2122,4615.0,240000.0
+Luca Unbehaun,Borussia Dortmund,K,20,Germany,germany,2122,4615.0,240000.0
+Lasse Rieß,Mainz,K,20,Germany,germany,2122,4615.0,240000.0
+Youssoufa Moukoko,Borussia Dortmund,F,17,Germany,germany,2122,4615.0,240000.0
+Patrick Osterhage,Bochum,M,22,Germany,germany,2122,4615.0,240000.0
+Mathias Olesen,Koln,M,20,Luxembourg,germany,2122,4615.0,240000.0
+Aymen Barkok,Eintracht Frankfurt,F,23,Morocco,germany,2122,4423.0,230000.0
+Dan-Axel Zagadou,Borussia Dortmund,D,22,France,germany,2122,4423.0,230000.0
+Timothy Tillman,Furth,F,23,Germany,germany,2122,4231.0,220000.0
+Hamadi Al Ghaddioui,Stuttgart,F,30,Morocco,germany,2122,4231.0,220000.0
+Nathan de Medina,Arminia Bielefeld,D,24,Belgium,germany,2122,4038.0,210000.0
+Bryan Lasme,Arminia Bielefeld,F,23,France,germany,2122,4038.0,210000.0
+Pawel Wszolek,Union Berlin,F,29,Poland,germany,2122,4038.0,210000.0
+Tim Civeja,Augsburg,M,20,Germany,germany,2122,3846.0,200000.0
+Josip Stanisic,Bayern Munich,D,21,Croatia,germany,2122,3846.0,200000.0
+Tanguy Coulibaly,Stuttgart,F,20,France,germany,2122,3846.0,200000.0
+Diant Ramaj,Eintracht Frankfurt,K,20,Germany,germany,2122,3846.0,200000.0
+Janni Serra,Arminia Bielefeld,F,23,Germany,germany,2122,3846.0,200000.0
+Tarsis Bonga,Bochum,F,25,Germany,germany,2122,3846.0,200000.0
+Jonas Michelbrink,Hertha Berlin,M,20,Germany,germany,2122,3846.0,200000.0
+Mateo Klimowicz,Stuttgart,F,21,Germany,germany,2122,3846.0,200000.0
+Robin Hack,Arminia Bielefeld,F,23,Germany,germany,2122,3846.0,200000.0
+Roberto Massimo,Stuttgart,M,21,Germany,germany,2122,3654.0,190000.0
+Tom Weilandt,Bochum,F,29,Germany,germany,2122,3654.0,190000.0
+Torben Müsel,Monchengladbach,F,22,Germany,germany,2122,3654.0,190000.0
+Maximilian Bauer,Furth,D,21,Germany,germany,2122,3654.0,190000.0
+Marius Funk,Furth,K,26,Germany,germany,2122,3654.0,190000.0
+Marvin Stefaniak,Wolfsburg,F,26,Germany,germany,2122,3462.0,180000.0
+Jordan Beyer,Monchengladbach,D,21,Germany,germany,2122,3462.0,180000.0
+Steffen Tigges,Borussia Dortmund,F,23,Germany,germany,2122,3462.0,180000.0
+Masaya Okugawa,Arminia Bielefeld,F,25,Japan,germany,2122,3462.0,180000.0
+Ajdin Hrustic,Eintracht Frankfurt,M,25,Australia,germany,2122,3462.0,180000.0
+Philipp Pentke,Hoffenheim,K,36,Germany,germany,2122,3462.0,180000.0
+Kelian Nsona,Hertha Berlin,F,19,France,germany,2122,3462.0,180000.0
+Justin Che,Hoffenheim,D,18,United States,germany,2122,3462.0,180000.0
+Keita Endo,Union Berlin,F,24,Japan,germany,2122,3462.0,180000.0
+Abdoulaye Kamara,Borussia Dortmund,M,17,Guinea,germany,2122,3462.0,180000.0
+Paul Grave,Bochum,K,20,Germany,germany,2122,3269.0,170000.0
+Ansgar Knauff,Borussia Dortmund,F,19,Germany,germany,2122,3077.0,160000.0
+Soma Novothny,Bochum,F,27,Hungary,germany,2122,3077.0,160000.0
+Ansgar Knauff,Eintracht Frankfurt,F,20,Germany,germany,2122,3077.0,160000.0
+Emrehan Gedikli,Bayer Leverkusen,F,18,Germany,germany,2122,2885.0,150000.0
+Leon Schaffran,Furth,K,23,Germany,germany,2122,2885.0,150000.0
+Milos Pantovic,Bochum,F,25,Serbia,germany,2122,2885.0,150000.0
+Zidan Sertdemir,Bayer Leverkusen,M,16,Denmark,germany,2122,2885.0,150000.0
+Enrique Herrero García,Eintracht Frankfurt,F,17,Spain,germany,2122,2885.0,150000.0
+Jamie Leweling,Furth,F,20,Germany,germany,2122,2885.0,150000.0
+Hugo Siquet,Freiburg,D,19,Belgium,germany,2122,2885.0,150000.0
+Nils Seufert,Furth,M,24,Germany,germany,2122,2885.0,150000.0
+Abdourahmane Barry,Furth,D,21,France,germany,2122,2885.0,150000.0
+Joe Scally,Monchengladbach,D,19,United States,germany,2122,2885.0,150000.0
+Max Christiansen,Furth,M,25,Germany,germany,2122,2692.0,140000.0
+Andrés Andrade,Arminia Bielefeld,D,23,Panama,germany,2122,2692.0,140000.0
+Joscha Wosz,Leipzig,F,19,Germany,germany,2122,2692.0,140000.0
+Ömer Beyaz,Stuttgart,F,18,Turkey,germany,2122,2500.0,130000.0
+Antonio Foti,Eintracht Frankfurt,M,18,Cyprus,germany,2122,2308.0,120000.0
+Nahuel Noll,Hoffenheim,K,18,Germany,germany,2122,2308.0,120000.0
+Fabio Blanco,Eintracht Frankfurt,F,17,Spain,germany,2122,2308.0,120000.0
+Solomon Bonnah,Leipzig,D,18,Netherlands,germany,2122,2308.0,120000.0
+Fisnik Asllani,Hoffenheim,F,19,Germany,germany,2122,2308.0,120000.0
+Tiago Tomás,Stuttgart,F,19,Portugal,germany,2122,2308.0,120000.0
+Elias Kratzer,Furth,D,21,Germany,germany,2122,2115.0,110000.0
+Arne Schulz,Arminia Bielefeld,K,18,Germany,germany,2122,1923.0,100000.0
+Lucas Copado,Bayern Munich,F,18,Germany,germany,2122,1923.0,100000.0
+Laurenz Dehl,Union Berlin,F,20,Germany,germany,2122,1923.0,100000.0
+Noah Katterbach,Koln,D,20,Germany,germany,2122,1923.0,100000.0
+Jan Schröder,Eintracht Frankfurt,D,18,Germany,germany,2122,1731.0,90000.0
+Vladislav Cherny,Arminia Bielefeld,F,18,Russia,germany,2122,1731.0,90000.0
+Kimberly Ezekwem,Freiburg,D,20,Germany,germany,2122,1731.0,90000.0
+Noah Weißhaupt,Freiburg,F,20,Germany,germany,2122,1731.0,90000.0
+Luca Philipp,Hoffenheim,K,21,Germany,germany,2122,1731.0,90000.0
+Jannik Horz,Eintracht Frankfurt,K,18,Germany,germany,2122,1538.0,80000.0
+Tom Bischof,Hoffenheim,F,16,Germany,germany,2122,1538.0,80000.0
+Nils Körber,Hertha Berlin,K,25,Germany,germany,2122,1538.0,80000.0
+Marius Liesegang,Mainz,K,21,Germany,germany,2122,1538.0,80000.0
+Tobias Raschl,Borussia Dortmund,M,21,Germany,germany,2122,1538.0,80000.0
+Amos Pieper,Arminia Bielefeld,D,24,Germany,germany,2122,1538.0,80000.0
+Frederik Winther,Augsburg,D,21,Denmark,germany,2122,1538.0,80000.0
+Burak Ince,Arminia Bielefeld,M,18,Turkey,germany,2122,1538.0,80000.0
+Márton Dárdai,Hertha Berlin,D,19,Germany,germany,2122,1346.0,70000.0
+Omer Hanin,Mainz,K,23,Israel,germany,2122,1346.0,70000.0
+Yannik Keitel,Freiburg,M,21,Germany,germany,2122,1346.0,70000.0
+Dennis Jastrzembski,Hertha Berlin,F,21,Germany,germany,2122,1346.0,70000.0
+Sava-Arangel Cestic,Koln,D,20,Serbia,germany,2122,1154.0,60000.0
+Iker Bravo,Bayer Leverkusen,F,17,Spain,germany,2122,1154.0,60000.0
+Robin Kehr,Furth,F,21,Germany,germany,2122,1154.0,60000.0
+Jonas Kersken,Monchengladbach,K,21,Germany,germany,2122,1154.0,60000.0
+Anton Kade,Hertha Berlin,F,18,Germany,germany,2122,1154.0,60000.0
+Niklas Klinger,Wolfsburg,K,26,Germany,germany,2122,1154.0,60000.0
+Melayro Bogarde,Hoffenheim,D,19,Netherlands,germany,2122,1154.0,60000.0
+Caden Clark,Leipzig,F,18,United States,germany,2122,1154.0,60000.0
+Ruwen Werthmüller,Hertha Berlin,F,21,Switzerland,germany,2122,1154.0,60000.0
+Noah Atubolu,Freiburg,K,19,Germany,germany,2122,1154.0,60000.0
+Matthias Köbbing,Koln,K,24,Germany,germany,2122,1154.0,60000.0
+Philipp Schulze,Wolfsburg,K,19,Germany,germany,2122,962.0,50000.0
+Merveille Papela,Mainz,M,21,Germany,germany,2122,962.0,50000.0
+Jessic Ngankam,Furth,F,21,Germany,germany,2122,962.0,50000.0
+Alexis Tibidi,Stuttgart,F,18,France,germany,2122,962.0,50000.0
+Fabian Kunze,Arminia Bielefeld,M,23,Germany,germany,2122,962.0,50000.0
+Marco John,Hoffenheim,M,19,Germany,germany,2122,962.0,50000.0
+Mathis Bruns,Union Berlin,D,17,Germany,germany,2122,769.0,40000.0
+Paul Nebel,Mainz,F,19,Germany,germany,2122,769.0,40000.0
+Fabian Eutinger,Leipzig,K,18,Germany,germany,2122,769.0,40000.0
+Bartosz Bialek,Wolfsburg,F,20,Poland,germany,2122,769.0,40000.0
+Dickson Abiama,Furth,F,23,Nigeria,germany,2122,769.0,40000.0
+Jonas Urbig,Koln,K,18,Germany,germany,2122,769.0,40000.0
+Fabio Schneider,Union Berlin,M,19,Germany,germany,2122,769.0,40000.0
+Tjark Ernst,Bochum,K,18,Germany,germany,2122,769.0,40000.0
+Marvin Obuz,Koln,F,20,Germany,germany,2122,577.0,30000.0
+Jens Castrop,Koln,F,18,Germany,germany,2122,577.0,30000.0
+Lasse Schulz,Furth,K,18,Finland,germany,2122,577.0,30000.0
+Jannis Lang,Wolfsburg,D,19,Germany,germany,2122,577.0,30000.0
+Lilian Egloff,Stuttgart,F,19,Germany,germany,2122,577.0,30000.0
+Mohamed Sankoh,Stuttgart,F,18,Netherlands,germany,2122,577.0,30000.0
+Ben Klefisch,Leipzig,M,18,Germany,germany,2122,577.0,30000.0
+Florian Schock,Stuttgart,K,20,Germany,germany,2122,577.0,30000.0
+Luis Hartwig,Bochum,F,19,Germany,germany,2122,385.0,20000.0
+Sidney Raebiger,Leipzig,M,16,Germany,germany,2122,385.0,20000.0
+Momo Cissé,Stuttgart,F,18,Guinea,germany,2122,385.0,20000.0
+Naouirou Ahamada,Stuttgart,M,19,France,germany,2122,385.0,20000.0
+Daniel Klein,Augsburg,K,20,Germany,germany,2122,385.0,20000.0
+Linus Gechter,Hertha Berlin,D,17,Germany,germany,2122,385.0,20000.0
+Mert-Yusuf Torlak,Furth,F,19,Germany,germany,2122,385.0,20000.0
