@@ -2,7 +2,7 @@
 
 > Trabajo Fin de Máster en Big Data
 > **Autor:** Pablo Llorián González
-> **Tutor:** Marcos Sergio Pacheco Junior Dos Santos Lima
+> **Tutor:** Marcos Sergio Pacheco Dos Santos Lima Junior
 > **Universidad:** Universidad Europea de Andalucía
 > **Curso:** 2025/2026
 
