@@ -40,13 +40,18 @@ TFM/
 │   │   ├── capology/
 │   │   └── sofascore/
 │   ├── master/              # 36 masters por liga × temporada + master_total.csv (output fase 03)
-│   └── clean/               # Dataset analítico depurado: master_clean.csv (output fase 04)
+│   ├── clean/               # Dataset analítico depurado (output fase 04 + filtros 05_01)
+│   │   ├── master_clean.csv
+│   │   └── master_filtered.csv
+│   └── modeling/            # Datasets específicos por modelo (output fase 05)
+│       ├── regression/      # regresion_dataset.csv
+│       └── similarity/      # similitud_dataset.csv (pendiente)
 └── notebooks/
     ├── 01_ingesta/          # Scraping desde Sofascore y Capology
     ├── 02_preprocesamiento/ # Limpieza técnica por fuente
     ├── 03_procesamiento/    # Integración (matching + merge) + tabla master única
     ├── 04_eda/              # Análisis exploratorio (5 notebooks)
-    ├── 05_fe/               # Feature engineering
+    ├── 05_features_engineering/  # Feature engineering específico por modelo
     ├── 06_ml/               # Modelos de regresión y similitud
     └── 07_visualizacion/    # Aplicación Streamlit
 ```
@@ -111,17 +116,29 @@ Análisis exploratorio estructurado en 5 notebooks temáticos, cuyo output princ
 - **`04_04_numericas_y_correlaciones.ipynb`** — Matriz de correlación 110×110, identificación de 27 pares con r ≥ 0.95. **Clustering jerárquico** que redescubre 5 facetas naturales del juego (Volumen/Pase posicional, Creación ofensiva, Definición, Portería, Duelos/Defensa). **PCA exploratorio**: la dimensión intrínseca del dataset es ~22 componentes (80% varianza), confirmando la fuerte redundancia.
 - **`04_05_target_vs_features.ipynb`** — Correlaciones Pearson, Spearman e información mutua de las 110 stats con `log(salario)`. Análisis diferenciado por posición, que motiva el modelado segmentado en fase 06. **Auditoría de `goalsPrevented`**: detección de un sesgo estructural en la fuente (Sofascore replica la stat colectiva del portero del equipo en jugadores de campo en algunos casos puntuales, especialmente en Premier League 22/23), con decisión de limpieza para fase 05.
 
-### 5. Feature engineering (`05_fe/`)
+### 5. Feature engineering (`05_features_engineering/`)
 
-Preparación de variables para el modelado. Decisiones acumuladas del EDA que se aplicarán:
+Preparación de variables para el modelado. La fase se organiza en notebooks específicos por etapa, separando los filtros y limpiezas comunes (05_01) de los datasets específicos por modelo (05_02 para regresión, 05_03 pendiente para similitud).
 
-- Limpieza de `goalsPrevented` para que sea estrictamente variable de portero.
-- Tratamiento del 8.6% de jugadores sin posición asignada.
-- Selección de features por cluster temático (eliminación de redundancia).
-- Normalización per-90 minutos para stats que escalan con tiempo de juego.
-- Codificación de variables categóricas (`position` *one-hot*, `nationality` reducida a top-N + "Otras").
-- Transformación logarítmica del target salarial.
-- Tratamiento de los 524 casos multi-liga (decisión empírica entre agregación, selección por minutos máximos o tratamiento como observaciones independientes).
+- **`05_01_limpieza_y_filtros.ipynb`** — Aplicación de los filtros y limpiezas decididas en el EDA:
+  - **Limpieza de `goalsPrevented`** para que sea estrictamente variable de portero (NaN para outfielders).
+  - **Tratamiento del 8.6% de jugadores sin posición**: imputación a `M` (mediocampista, posición más frecuente y "neutra") tras verificar que no genera sesgo sistemático.
+  - **Resolución del caso multi-liga**: para los 524 jugadores con dos filas en una misma temporada (cambio de liga en mercado de invierno), se conserva la fila con mayor `minutesPlayed`. Se descarta la agregación por la inconsistencia entre stats acumulables y ratios.
+  - **Filtro de minutos**: se eliminan jugadores con menos de 450 minutos (5 partidos completos) para garantizar significancia estadística de las stats per-90 y reducir ruido.
+  - Output: `data/clean/master_filtered.csv` — **14.202 filas × 121 columnas**, cobertura salarial del **99.9%**.
+
+- **`05_02_features_regresion.ipynb`** — Construcción del dataset específico para el modelo de regresión salarial:
+  - **Filtro del target**: solo filas con salario disponible (14.202 → 14.184 filas, cobertura 99.87%).
+  - **Construcción del target**: `log_salary = log(gross_annual_eur)` siguiendo la decisión validada en el 04_02.
+  - **Selección de features por cluster temático**: aplicación de los criterios derivados del clustering del 04_04 sobre el dataset filtrado. Estrategia de **núcleo informativo amplio**: se mantienen 2-3 variables representativas por cluster grande y se eliminan únicamente las redundancias evidentes (34 stats descartadas: 28 por correlación r ≥ 0.95 + 6 por baja cardinalidad informativa).
+  - **Tratamiento de NaN estructurales**: `expectedGoals`, `expectedAssists` y `ballRecovery` no están disponibles en todas las temporadas (Sofascore las añadió progresivamente a partir de 22/23-23/24). Se imputan a 0 y se crean flags `*_available` para que los modelos basados en árboles puedan distinguir disponibilidad real de valor cero. Se descarta `outfielderBlocks` por cobertura inviable (solo 25/26 completa).
+  - **Normalización per-90 minutos** sobre 61 stats acumulables. Se mantienen sin transformar los ratios, porcentajes, `rating` y `totwAppearances`.
+  - **Curva de Mincer**: se añade `age_squared` para capturar la concavidad de la relación edad-salario. La edad-pico estimada en el dataset (31.8 años) es coherente con la literatura de mercados laborales en deporte de élite.
+  - **One-hot con baselines explícitas** para evitar multicolinealidad perfecta en modelos lineales: se omite `position_M`, `country_turkey`, `season_2021` y `nationality_grp_Otras`. La elección permite que los coeficientes de las dummy restantes se interpreten como diferencias respecto a categorías "neutras" o de referencia económica/temporal.
+  - **`nationality`** se reduce a top-15 + "Otras" para evitar columnas muy esparsas.
+  - Output: `data/modeling/regression/regresion_dataset.csv` — **14.184 filas × 110 columnas**, sin NaN ni infinitos, listo para entrenar.
+
+- **`05_03_features_similitud.ipynb`** *(pendiente)* — Dataset específico para el sistema de similitud entre jugadores. Necesidades distintas a regresión: sin target salarial (recupera filas perdidas), sin variables contextuales (país/temporada/nacionalidad), con reducción dimensional más agresiva (PCA por bloque o selección estricta) y estandarización obligatoria para distancias euclídeas. Tratamiento por posición para evitar comparaciones cross-posicionales sin sentido.
 
 ### 6. Machine learning (`06_ml/`)
 
@@ -151,22 +168,33 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 | 02 · Preprocesamiento | ✅ Completo | |
 | 03 · Procesamiento | ✅ Completo* | *Snapshots 25/26 pendientes de actualización al cierre de ligas |
 | 04 · EDA | ✅ Completo | 5 notebooks temáticos + `master_clean.csv` generado |
-| 05 · Feature engineering | ⏳ Pendiente | |
+| 05 · Feature engineering | 🟡 En curso | 05_01 ✅ y 05_02 ✅ completados; 05_03 (similitud) pendiente |
 | 06 · Machine learning | ⏳ Pendiente | |
 | 07 · Visualización (Streamlit) | ⏳ Pendiente | |
 | Memoria LaTeX | 🟡 En curso | Plantilla de la universidad — redacción en paralelo |
 
-### 📊 Métricas clave del dataset actual
+### 📊 Métricas clave del dataset
+
+**Pipeline de tablas:**
+
+| Tabla | Filas | Columnas | Origen |
+|---|---:|---:|---|
+| `master_total.csv` | 20.316 | 122 | Output fase 03 (integración cruda) |
+| `master_clean.csv` | 20.307 | 121 | Output fase 04 (post-EDA, depurado) |
+| `master_filtered.csv` | 14.202 | 121 | Output 05_01 (filtros y multi-liga resuelto) |
+| `regresion_dataset.csv` | 14.184 | 110 | Output 05_02 (FE específico para regresión) |
+
+**Métricas globales:**
 
 | Métrica | Valor |
 |---|---|
-| Filas totales | 20.316 |
-| Columnas | 122 (master_total) / 121 (master_clean) |
 | Jugadores únicos (`player_id`) | 7.759 |
 | Equipos únicos | 171 |
-| Cobertura salarial global | 91.3% |
+| Cobertura salarial global (`master_clean`) | 91.3% |
 | Cobertura por liga × temporada | 82.6% – 97.3% |
-| Variables stats numéricas | 110 |
+| Cobertura tras filtros (`master_filtered`) | 99.9% |
+| Variables stats numéricas originales | 110 |
+| Stats tras selección por cluster (regresión) | 61 (per-90) + 16 estructurales |
 | Dimensión intrínseca (PCA, 80% var.) | ~22 componentes |
 
 ---
@@ -183,14 +211,24 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 - **Modelado segmentado por posición.** El análisis por posición revela que las features predictivas del salario son drásticamente distintas para porteros, defensas, mediocentros y delanteros. Esto motiva considerar modelos separados o interacciones `posición × stat` en la fase 06.
 
-- **Auditoría crítica de los datos.** Se identificó y documentó un sesgo estructural en la fuente: `goalsPrevented` aparece replicada en jugadores de campo en algunos casos (notablemente en Premier League 22/23). Se corregirá en fase 05 forzando la variable a NaN para todas las posiciones distintas de portero.
+- **Auditoría crítica de los datos.** Se identificó y documentó un sesgo estructural en la fuente: `goalsPrevented` aparece replicada en jugadores de campo en algunos casos (notablemente en Premier League 22/23). Corregido en 05_01 forzando la variable a NaN para todas las posiciones distintas de portero.
+
+- **Filtro de exposición mínima (≥ 450 minutos).** Equivalente a 5 partidos completos. Por debajo de este umbral, las stats per-90 se vuelven inestables (un solo gol en 90 minutos da una tasa per-90 de 1.0, dominando la métrica). Decisión aplicada en 05_01: 14.202 filas conservadas con cobertura salarial del 99.9%, frente al 91.3% del dataset crudo.
+
+- **Resolución del caso multi-liga por máximos minutos.** Los 524 jugadores con dos filas en una misma temporada (traspasos en mercado invernal entre ligas distintas) se reducen a una sola fila — la del club donde acumularon más minutos. Se descartó la agregación porque las stats acumulables (goles, pases) y los ratios (% acierto pase, rating) requieren tratamientos contradictorios.
+
+- **Selección de features por cluster temático con núcleo informativo amplio.** Aplicada en 05_02. Se mantienen 2-3 variables representativas por cluster grande del 04_04 y se eliminan las redundancias críticas (34 stats descartadas). Estrategia coherente con el uso previsto de modelos basados en árboles (XGBoost, RF), que toleran multicolinealidad moderada. Para el modelo de similitud (05_03) se aplicará una reducción más agresiva.
+
+- **Tratamiento de NaN estructurales con flags de disponibilidad.** Las stats `expectedGoals`, `expectedAssists` y `ballRecovery` no están disponibles uniformemente en todas las temporadas (Sofascore las incorporó progresivamente). En lugar de descartarlas o imputar con la mediana (que introduciría señal artificial), se imputan a 0 y se crean flags binarias `*_available`. Los modelos basados en árboles pueden aprender patrones diferenciados según la disponibilidad real del dato.
+
+- **One-hot con baselines explícitas.** Aplicado en 05_02. Para evitar multicolinealidad perfecta en modelos lineales (cuando las dummy de una categórica suman 1, la matriz de diseño no tiene rango completo), se omite una categoría de referencia por variable: `position_M` (mediocampistas, categoría más frecuente), `country_turkey` (liga económicamente más débil, sirve como baseline para leer las demás como "premium sobre Turquía"), `season_2021` (primera temporada, los coeficientes capturan inflación acumulada) y `nationality_grp_Otras` (bolsa residual).
+
+- **Normalización per-90 minutos.** Estándar en analítica futbolística. Se aplica a todas las stats acumulables (goles, asistencias, pases, tiros, regates, tackles, etc.) para hacer comparables a jugadores con distintos minutos jugados. Los ratios y porcentajes ya están normalizados por construcción y se mantienen sin transformar.
 
 - **Estrategia de validación temporal en ML.** *(Decisión abierta hasta fase 06.)* Se evaluarán dos esquemas:
   - **Opción A:** entrenar con 20/21 → 24/25 y aplicar sobre 25/26 para detectar desajustes de la temporada actual.
   - **Opción C:** train con 20/21 → 23/24, validación sobre 24/25 con métricas reales (RMSE, R², MAE), y aplicación final sobre 25/26.
   La opción C aporta mayor rigor estadístico al disponer de ground truth para validar.
-
-- **Multi-fila por jugador en una misma temporada.** Los 524 casos de jugadores que cambiaron de liga a mitad de temporada se conservan tal cual en el dataset. La decisión sobre cómo agregarlos para el modelado se toma en la fase 05.
 
 ---
 
@@ -210,10 +248,10 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 ## 📅 Próximos pasos
 
-1. **Redacción de la memoria LaTeX** en paralelo, documentando todo el trabajo realizado en las fases 01-04.
+1. **Redacción de la memoria LaTeX** en paralelo, documentando todo el trabajo realizado en las fases 01-05.
 2. **Refrescar snapshots de la 25/26** hasta el cierre completo de las 6 ligas (finales de mayo / principios de junio).
 3. **Reejecutar las fases 01–03** sobre los datos definitivos de la 25/26 cuando estén disponibles.
-4. **Fase 05 — Feature engineering:** aplicar todas las decisiones acumuladas en el EDA.
+4. **Completar fase 05** con `05_03_features_similitud.ipynb` para el dataset del modelo de similitud.
 5. **Fase 06 — Machine learning:** desarrollo de los modelos de regresión salarial y de similitud entre jugadores.
 6. **Fase 07 — Aplicación Streamlit** integrando ambos modelos.
 7. **Revisión final y entrega** de la memoria a mediados de julio.
