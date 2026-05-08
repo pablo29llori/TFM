@@ -45,7 +45,7 @@ TFM/
 │   │   └── master_filtered.csv
 │   └── modeling/            # Datasets específicos por modelo (output fase 05)
 │       ├── regression/      # regresion_dataset.csv
-│       └── similarity/      # similitud_dataset.csv (pendiente)
+│       └── similarity/      # similitud_outfielders.csv + similitud_keepers.csv
 └── notebooks/
     ├── 01_ingesta/          # Scraping desde Sofascore y Capology
     ├── 02_preprocesamiento/ # Limpieza técnica por fuente
@@ -118,7 +118,7 @@ Análisis exploratorio estructurado en 5 notebooks temáticos, cuyo output princ
 
 ### 5. Feature engineering (`05_features_engineering/`)
 
-Preparación de variables para el modelado. La fase se organiza en notebooks específicos por etapa, separando los filtros y limpiezas comunes (05_01) de los datasets específicos por modelo (05_02 para regresión, 05_03 pendiente para similitud).
+Preparación de variables para el modelado. La fase se organiza en notebooks específicos por etapa, separando los filtros y limpiezas comunes (05_01) de los datasets específicos por modelo (05_02 para regresión, 05_03 para similitud).
 
 - **`05_01_limpieza_y_filtros.ipynb`** — Aplicación de los filtros y limpiezas decididas en el EDA:
   - **Limpieza de `goalsPrevented`** para que sea estrictamente variable de portero (NaN para outfielders).
@@ -138,7 +138,16 @@ Preparación de variables para el modelado. La fase se organiza en notebooks esp
   - **`nationality`** se reduce a top-15 + "Otras" para evitar columnas muy esparsas.
   - Output: `data/modeling/regression/regresion_dataset.csv` — **14.184 filas × 110 columnas**, sin NaN ni infinitos, listo para entrenar.
 
-- **`05_03_features_similitud.ipynb`** *(pendiente)* — Dataset específico para el sistema de similitud entre jugadores. Necesidades distintas a regresión: sin target salarial (recupera filas perdidas), sin variables contextuales (país/temporada/nacionalidad), con reducción dimensional más agresiva (PCA por bloque o selección estricta) y estandarización obligatoria para distancias euclídeas. Tratamiento por posición para evitar comparaciones cross-posicionales sin sentido.
+- **`05_03_features_similitud.ipynb`** — Construcción de los datasets para el sistema de similitud entre jugadores. Las necesidades del FE divergen significativamente respecto al modelo de regresión, lo que justifica un notebook independiente:
+  - **Sin filtro de salario**: las 14.202 filas se conservan completas. El universo de candidatos para sugerir reemplazos incluye canteranos, cesiones y jugadores sin ficha registrada en Capology.
+  - **Variables contextuales excluidas del vector de similitud**: `country`, `season` y `nationality` no entran al cálculo. El objetivo es identificar similitud por *estilo de juego*, no por contexto de mercado. Se preservan `player`, `team`, `country`, `season`, `age` y `gross_annual_eur` como metadatos para permitir filtros post-consulta (p. ej. *"jugadores similares a X con edad ≤ 25"* o *"que jueguen en otra liga"*).
+  - **Datasets separados outfielders / keepers**: las stats relevantes para porteros (saves, goalsPrevented, claims, runsOut...) y outfielders (goles, regates, pases clave...) son drásticamente distintas. Mezclarlos en un mismo espacio generaría ruido en las distancias.
+  - **Selección de features específica por grupo**: ~50 features para outfielders cubriendo las 5 facetas del juego identificadas en el clustering del 04_04; ~24 features para keepers centradas en portería + pase desde portería.
+  - **Tratamiento de NaN estructurales**: misma lógica que 05_02 (imputación a 0 en `expectedGoals`, `expectedAssists`, `ballRecovery`), sin flags (no aplican en cálculos de distancia).
+  - **Normalización per-90 minutos** y **estandarización con `RobustScaler`** (mediana / IQR) antes del PCA, robusto a los outliers que generan las stats per-90 sobre minutos pequeños y coherente con el uso sistemático de la mediana en el resto del TFM.
+  - **PCA con umbral del 85% de varianza explicada**: se generan **17 PCs para outfielders** y **13 PCs para keepers**. La reducción dimensional es necesaria para mitigar la maldición de la dimensionalidad en el k-NN posterior y para descorrelacionar los ejes (la distancia euclídea es más interpretable en el espacio PCA).
+  - **Validación cualitativa**: la inspección manual de los top-N similares para jugadores conocidos confirma que el sistema captura correctamente el estilo de juego: Vinicius Jr. → Kvaratskhelia / Rafael Leão (extremos verticales); Lewandowski → Demirović / Joselu / Darwin Núñez (delanteros centro de área); Van Dijk → Jonny Evans / Willi Orbán (centrales sólidos); Kroos → Vitinha (mediocentros con pase). Para jugadores de élite, el **70-90% de los top-10 más similares vienen de ligas distintas** a la del consultado, validando que el sistema es genuinamente cross-liga.
+  - Output: `data/modeling/similarity/similitud_outfielders.csv` (13.163 × 25) y `data/modeling/similarity/similitud_keepers.csv` (1.039 × 21).
 
 ### 6. Machine learning (`06_ml/`)
 
@@ -168,7 +177,7 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 | 02 · Preprocesamiento | ✅ Completo | |
 | 03 · Procesamiento | ✅ Completo* | *Snapshots 25/26 pendientes de actualización al cierre de ligas |
 | 04 · EDA | ✅ Completo | 5 notebooks temáticos + `master_clean.csv` generado |
-| 05 · Feature engineering | 🟡 En curso | 05_01 ✅ y 05_02 ✅ completados; 05_03 (similitud) pendiente |
+| 05 · Feature engineering | ✅ Completo | 05_01, 05_02 y 05_03 generan los datasets para regresión y similitud |
 | 06 · Machine learning | ⏳ Pendiente | |
 | 07 · Visualización (Streamlit) | ⏳ Pendiente | |
 | Memoria LaTeX | 🟡 En curso | Plantilla de la universidad — redacción en paralelo |
@@ -183,6 +192,8 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 | `master_clean.csv` | 20.307 | 121 | Output fase 04 (post-EDA, depurado) |
 | `master_filtered.csv` | 14.202 | 121 | Output 05_01 (filtros y multi-liga resuelto) |
 | `regresion_dataset.csv` | 14.184 | 110 | Output 05_02 (FE específico para regresión) |
+| `similitud_outfielders.csv` | 13.163 | 25 | Output 05_03 (8 metadatos + 17 PCs) |
+| `similitud_keepers.csv` | 1.039 | 21 | Output 05_03 (8 metadatos + 13 PCs) |
 
 **Métricas globales:**
 
@@ -225,6 +236,14 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 - **Normalización per-90 minutos.** Estándar en analítica futbolística. Se aplica a todas las stats acumulables (goles, asistencias, pases, tiros, regates, tackles, etc.) para hacer comparables a jugadores con distintos minutos jugados. Los ratios y porcentajes ya están normalizados por construcción y se mantienen sin transformar.
 
+- **Datasets separados por familia de posición para similitud.** Aplicado en 05_03. Se construyen dos espacios de similitud independientes: outfielders (D/M/F) y keepers. Las stats que caracterizan el rendimiento son drásticamente distintas (un portero tiene 50+ saves/temporada y 0 goles; un delantero al revés), por lo que mezclarlos en un mismo espacio de distancias generaría comparaciones absurdas. Dentro de outfielders sí se mantienen D, M y F juntos: comparten muchas más stats relevantes entre sí (pase, regate, duelos) y separar más reduciría excesivamente el tamaño de cada subconjunto.
+
+- **Reducción dimensional por PCA para similitud.** Aplicado en 05_03. La similitud por k-NN sufre con la maldición de la dimensionalidad: en espacios de >50 variables las distancias se igualan y el sistema pierde discriminación. Se aplica PCA con umbral del 85% de varianza explicada, lo que reduce el espacio a 17 componentes para outfielders y 13 para keepers. Adicionalmente, el PCA descorrelaciona los ejes, por lo que la distancia euclídea sobre los PCs tiene una interpretación más limpia que sobre el espacio original con multicolinealidad residual.
+
+- **`RobustScaler` antes de PCA en lugar de `StandardScaler`.** Aplicado en 05_03. Las stats per-90 generan outliers extremos por construcción (jugadores con pocos minutos pero muchos eventos puntuales). `StandardScaler` (media/σ) sería sensible a estos outliers y comprimiría artificialmente el rango del resto del dataset. `RobustScaler` (mediana/IQR) es robusto a colas pesadas y coherente con el uso sistemático de la mediana en el resto del proyecto.
+
+- **Variables contextuales excluidas en similitud, mantenidas en regresión.** Decisión consciente y deliberada para que cada modelo capture lo que debe: la regresión necesita aprender el premium de liga e inflación temporal (que son señal real); la similitud quiere encontrar parecidos por estilo de juego, no por liga o temporada de juego (en este caso eso sería ruido). Las variables `country`, `season` y `nationality` se preservan como metadatos del dataset de similitud para permitir filtros post-consulta.
+
 - **Estrategia de validación temporal en ML.** *(Decisión abierta hasta fase 06.)* Se evaluarán dos esquemas:
   - **Opción A:** entrenar con 20/21 → 24/25 y aplicar sobre 25/26 para detectar desajustes de la temporada actual.
   - **Opción C:** train con 20/21 → 23/24, validación sobre 24/25 con métricas reales (RMSE, R², MAE), y aplicación final sobre 25/26.
@@ -251,10 +270,9 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 1. **Redacción de la memoria LaTeX** en paralelo, documentando todo el trabajo realizado en las fases 01-05.
 2. **Refrescar snapshots de la 25/26** hasta el cierre completo de las 6 ligas (finales de mayo / principios de junio).
 3. **Reejecutar las fases 01–03** sobre los datos definitivos de la 25/26 cuando estén disponibles.
-4. **Completar fase 05** con `05_03_features_similitud.ipynb` para el dataset del modelo de similitud.
-5. **Fase 06 — Machine learning:** desarrollo de los modelos de regresión salarial y de similitud entre jugadores.
-6. **Fase 07 — Aplicación Streamlit** integrando ambos modelos.
-7. **Revisión final y entrega** de la memoria a mediados de julio.
+4. **Fase 06 — Machine learning:** entrenamiento de los modelos de regresión salarial (sobre `regresion_dataset.csv`) y de similitud k-NN (sobre los datasets PCA generados en 05_03), con análisis de residuos para identificar jugadores sobrevalorados / infravalorados y combinación regresión + similitud para sugerir reemplazos.
+5. **Fase 07 — Aplicación Streamlit** integrando ambos modelos.
+6. **Revisión final y entrega** de la memoria a mediados de julio.
 
 ---
 
