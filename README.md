@@ -10,7 +10,7 @@
 
 ## 📌 Resumen
 
-Este TFM construye un *pipeline* completo de datos de fútbol que integra estadísticas de rendimiento con datos salariales de las 5 grandes ligas europeas (España, Inglaterra, Italia, Alemania y Francia) y la Süper Lig turca, durante las 6 últimas temporadas (20/21 → 25/26). El objetivo final es aplicar técnicas de aprendizaje automático para **predecir salarios a partir del rendimiento** (detectando jugadores sobrevalorados e infravalorados) y para **identificar similitudes de estilo entre jugadores**, presentando los resultados en una plataforma interactiva.
+Este TFM construye un *pipeline* completo de datos de fútbol que integra estadísticas de rendimiento con datos salariales de seis grandes ligas europeas (España, Inglaterra, Italia, Alemania, Francia y la Süper Lig turca) durante las 6 últimas temporadas (20/21 → 25/26). El objetivo final es aplicar técnicas de aprendizaje automático para **predecir salarios a partir del rendimiento** (detectando jugadores sobrevalorados e infravalorados), **identificar similitudes de estilo entre jugadores** y **descubrir arquetipos de jugador**, presentando los resultados en una plataforma interactiva.
 
 La tabla maestra final integra **20.316 registros** correspondientes a **7.759 jugadores únicos** distribuidos en **171 equipos**, con una **cobertura salarial global del 91.3%**.
 
@@ -21,7 +21,8 @@ La tabla maestra final integra **20.316 registros** correspondientes a **7.759 j
 1. Construir una tabla maestra unificada con estadísticas de rendimiento + datos salariales de las 6 ligas durante 6 temporadas.
 2. Entrenar un modelo de regresión que prediga el salario justo de un jugador en función de su rendimiento, y usar los residuos para identificar desajustes de mercado.
 3. Construir un sistema de similitud entre jugadores que permita encontrar perfiles estadísticamente parecidos, útil para identificar reemplazos potenciales de jugadores sobrepagados.
-4. Desplegar los resultados en una aplicación interactiva con **Streamlit**.
+4. Identificar arquetipos de jugador mediante *clustering* no supervisado, caracterizando los subtipos de estilo dentro de cada posición.
+5. Desplegar los resultados en una aplicación interactiva con **Streamlit**.
 
 ---
 
@@ -43,17 +44,17 @@ TFM/
 │   ├── clean/               # Dataset analítico depurado (output fase 04 + filtros 05_01)
 │   │   ├── master_clean.csv
 │   │   └── master_filtered.csv
-│   └── modeling/            # Datasets específicos por modelo (output fase 05)
-│       ├── regression/      # regresion_dataset.csv
-│       └── similarity/      # similitud_outfielders.csv + similitud_keepers.csv
+│   └── modeling/            # Datasets y artefactos por modelo (output fases 05 y 06)
+│       ├── regression/      # regresion_dataset.csv + salarios_predichos.csv (artefacto 06_01)
+│       └── similarity/      # similitud_outfielders.csv + similitud_keepers.csv + arquetipos.csv (artefacto 06_03)
 └── notebooks/
     ├── 01_ingesta/          # Scraping desde Sofascore y Capology
     ├── 02_preprocesamiento/ # Limpieza técnica por fuente
     ├── 03_procesamiento/    # Integración (matching + merge) + tabla master única
     ├── 04_eda/              # Análisis exploratorio (5 notebooks)
     ├── 05_features_engineering/  # Feature engineering específico por modelo
-    ├── 06_ml/               # Modelos de regresión y similitud
-    └── 07_visualizacion/    # Aplicación Streamlit
+    ├── 06_ml/               # Regresión salarial, similitud y arquetipos (3 notebooks)
+    └── 07_visualizacion/    # Aplicación Streamlit (multipágina)
 ```
 
 ---
@@ -122,7 +123,7 @@ Preparación de variables para el modelado. La fase se organiza en notebooks esp
 
 - **`05_01_limpieza_y_filtros.ipynb`** — Aplicación de los filtros y limpiezas decididas en el EDA:
   - **Limpieza de `goalsPrevented`** para que sea estrictamente variable de portero (NaN para outfielders).
-  - **Tratamiento del 8.6% de jugadores sin posición**: imputación a `M` (mediocampista, posición más frecuente y "neutra") tras verificar que no genera sesgo sistemático.
+  - **Descarte del 8.6% de jugadores sin posición**: los 1.756 registros sin `position` asignada se eliminan. El análisis confirma que son jugadores marginales (mediana de 33 minutos y 2 apariciones), a los que Sofascore no asigna posición principal por falta de muestra. Crucialmente, el **100% de ellos carece de salario registrado** en Capology (sin ficha de primer equipo), por lo que su descarte no introduce sesgo en el modelo de regresión —ninguno tendría target— y el 93% tampoco superaría el filtro de minutos mínimos.
   - **Resolución del caso multi-liga**: para los 524 jugadores con dos filas en una misma temporada (cambio de liga en mercado de invierno), se conserva la fila con mayor `minutesPlayed`. Se descarta la agregación por la inconsistencia entre stats acumulables y ratios.
   - **Filtro de minutos**: se eliminan jugadores con menos de 450 minutos (5 partidos completos) para garantizar significancia estadística de las stats per-90 y reducir ruido.
   - Output: `data/clean/master_filtered.csv` — **14.202 filas × 121 columnas**, cobertura salarial del **99.9%**.
@@ -151,21 +152,48 @@ Preparación de variables para el modelado. La fase se organiza en notebooks esp
 
 ### 6. Machine learning (`06_ml/`)
 
-Dos bloques complementarios:
+Tres notebooks complementarios que cubren un modelo supervisado y dos técnicas no supervisadas.
 
-**a) Regresión sobre salarios (supervisado).**
-Predecir `log(gross_annual_eur)` a partir de las features de rendimiento. El **residuo** (predicción − valor real) actúa como indicador de desajuste:
-- Residuo positivo elevado → jugador **infravalorado**.
-- Residuo negativo elevado → jugador **sobrevalorado**.
+**a) Regresión salarial (`06_01_regresion_salarial.ipynb`).**
+Predice `log(gross_annual_eur)` a partir de las features de rendimiento. El **residuo** (salario real − estimado) es el producto analítico: un residuo positivo señala posible sobrevaloración y uno negativo, infravaloración.
+- **Validación:** *GroupKFold* (4 folds) agrupando por `player_id`, de modo que un mismo jugador nunca aparece a la vez en entrenamiento y validación (evita *data leakage* por jugadores que repiten temporada). Esta es la única estrategia de validación adoptada, sin reserva temporal por año.
+- **Comparativa de modelos:** XGBoost (R² ≈ 0.59), Ridge (≈ 0.59), Lasso (≈ 0.57) y Random Forest (≈ 0.54) rinden de forma equivalente. Se elige **Ridge (α=10)** por parsimonia e interpretabilidad (navaja de Occam): los modelos de árbol no mejoran de forma significativa, probablemente porque la transformación log y la normalización per-90 ya capturan la estructura del problema.
+- **Global vs. segmentado:** se verifica empíricamente que un modelo **global** con la posición como *feature* (R² ≈ 0.588) iguala o supera a cuatro modelos independientes por posición (≈ 0.579), con mucha menos complejidad.
+- **Variables de temporada (`season_*`) excluidas de las features**, por no extrapolar a temporadas futuras no vistas.
+- **Interpretabilidad:** los coeficientes reproducen la curva de Mincer (`age` +, `age_squared` −), el *premium* de liga (`country_england` +) y la penalización de stats defensivas de equipos débiles (`goalsConceded`, `saves` −).
+- **Techo de R² ≈ 0.58 honesto:** atribuido a limitaciones de los datos (ausencia de valor de mercado, marca, potencial, antigüedad del contrato), no a la elección algorítmica. El residuo se interpreta como **señal de sobre/infravaloración, no como error**.
+- **Artefacto exportado:** `data/modeling/regression/salarios_predichos.csv` (14.184 filas: `player_id`, `season`, salario real, estimado y residuo). El modelo de producción se reentrena con **todas las temporadas** antes de generar las predicciones, práctica estándar tras la validación.
 
-Se evaluarán modelos no lineales (XGBoost, Random Forest, Gradient Boosting) por encima de modelos lineales, dada la evidencia de relaciones no monótonas detectadas en el EDA (información mutua). Se comparará el enfoque **modelos separados por posición** vs. **modelo único con interacciones `posición × stat`**.
+**b) Similitud entre jugadores (`06_02_similitud.ipynb`).**
+Sistema de recomendación que, dado un jugador, recupera los más parecidos por **búsqueda de vecinos más cercanos** (distancia euclídea sobre los vectores PCA del 05_03). Es el **núcleo de la plataforma**.
+- **Matiz metodológico:** no es un modelo k-NN de predicción (no clasifica ni predice un valor) ni *clustering*; es recuperación de vecinos sobre un espacio aprendido. El componente de aprendizaje no supervisado reside en el **PCA**.
+- **Universo de candidatos:** jugadores activos en 25/26 (descarta retirados), filtrados a la misma posición que el consultado.
+- **Salario y ahorro potencial:** cada candidato se muestra con su salario real y el ahorro respecto al jugador de referencia, con filtros por edad, liga y "solo más baratos".
+- **Validación cualitativa:** Pedri → Modrić / Barella / Vitinha; Lewandowski → Osimhen / Lautaro / Guirassy. Coherente futbolísticamente.
 
-**b) Similitud entre jugadores (no supervisado).**
-Representación vectorial de cada jugador en un espacio estadístico reducido (PCA o selección por cluster temático) para encontrar perfiles parecidos. Permite responder a "¿qué jugadores se parecen a X y cuánto cobran?" y refuerza las conclusiones de la regresión: la combinación regresión + similitud permite **detectar a un jugador sobrepagado y proponer alternativas más baratas con perfil estadístico similar**.
+**c) Arquetipos de jugador (`06_03_arquetipos.ipynb`).**
+*Clustering* **K-means (K=3) por posición** sobre los vectores PCA, que descubre subtipos de estilo. A diferencia de la búsqueda de vecinos, K-means **sí aprende un modelo** (los centroides), reforzando el componente no supervisado del TFM.
+- **Por qué por posición:** un *clustering* global se limita a reproducir la posición ya conocida (verificado empíricamente); segmentando emergen subtipos con valor informativo.
+- **K=3 elegido por interpretabilidad:** la silueta favorece K=2, pero produce una división demasiado gruesa; K=3 da subtipos claramente legibles. La asignación de nombres se hace leyendo el perfil de stats de cada *cluster* (no su número, que no es determinista).
+- **Arquetipos resultantes:** delanteros (Killer de área, Extremo asociativo, Atacante total/creador), mediocentros (Box-to-box, Organizador creativo, Pivote defensivo) y defensas (Central dominante aéreo, Central de marca, Lateral/carrilero ofensivo). Validación: Lewandowski → Killer de área; Pedri/Rodri/Modrić → Organizador creativo; Saliba → Central de marca.
+- **Hallazgo:** los arquetipos más ofensivos y creativos concentran los salarios medios más altos dentro de cada posición.
+- **Visualización UMAP** del espacio de estilo coloreado por arquetipo (con *fallback* a PCA 2D).
+- **Artefacto exportado:** `data/modeling/similarity/arquetipos.csv` (14.202 filas: `player_id`, `season`, `position`, `arquetipo`).
+
+En conjunto, el TFM emplea **tres técnicas no supervisadas** con propósitos distintos: PCA (representación), búsqueda de vecinos (recomendación) y K-means (tipología); además del modelo supervisado de regresión.
 
 ### 7. Visualización (`07_visualizacion/`)
 
-Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario selecciona un jugador y obtiene su salario real, salario predicho, residuo (clasificación sobre/infravalorado) y top-N jugadores con perfil estadístico similar.
+Aplicación interactiva **multipágina** en **Streamlit** (`streamlit run Inicio.py`) que integra todos los modelos. Consume los artefactos generados en la fase 06 sin recalcular nada. Cinco secciones:
+
+- **🏠 Inicio** — presentación del TFM, competiciones analizadas y créditos.
+- **🔍 Buscador de reemplazos** — núcleo de la plataforma: selecciona un jugador (con filtros encadenados posición/liga/equipo) y obtiene los más similares activos en 25/26, con salario real y ahorro potencial. Filtros de la búsqueda por rango de edad, salario inferior y liga.
+- **👤 Ficha de jugador** — datos, arquetipo, valoración salarial (real vs. estimado por el modelo), radar de percentiles por faceta (adaptado a la posición y calculado respecto a todos los jugadores de esa posición) y totales de la temporada. Permite cualquier jugador-temporada histórico.
+- **🏆 Análisis por liga** — resumen agregado de la competición, rankings configurables de jugadores (totales o per-90) y evolución del salario medio real vs. estimado a lo largo de las temporadas.
+- **🏟️ Análisis por club** — resumen de plantilla y tabla completa con salario real vs. estimado por jugador.
+- **⚔️ Comparador** — dos jugadores de la misma posición enfrentados en un radar superpuesto y tabla comparativa de percentiles.
+
+Detalles de diseño: estilo visual coherente (degradado verde, tarjetas), normalización de nombres de equipo inconsistentes entre temporadas (p. ej. "FC Barcelona" → "Barcelona", único renombrado real detectado por solapamiento de plantilla), filtros estrictos encadenados y nota del corte de datos del 28/04/2026 en las vistas de la temporada en curso.
 
 ---
 
@@ -173,13 +201,13 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 | Fase | Estado | Notas |
 |---|---|---|
-| 01 · Ingesta | ✅ Completo | Falta refrescar snapshots de la 25/26 al cierre de ligas |
+| 01 · Ingesta | ✅ Completo | Snapshot 28/04/2026 adoptado como definitivo para la 25/26 (bloqueo anti-bot de Sofascore) |
 | 02 · Preprocesamiento | ✅ Completo | |
-| 03 · Procesamiento | ✅ Completo* | *Snapshots 25/26 pendientes de actualización al cierre de ligas |
+| 03 · Procesamiento | ✅ Completo | 25/26 fijada al snapshot del 28/04/2026 |
 | 04 · EDA | ✅ Completo | 5 notebooks temáticos + `master_clean.csv` generado |
 | 05 · Feature engineering | ✅ Completo | 05_01, 05_02 y 05_03 generan los datasets para regresión y similitud |
-| 06 · Machine learning | ⏳ Pendiente | |
-| 07 · Visualización (Streamlit) | ⏳ Pendiente | |
+| 06 · Machine learning | ✅ Completo | Regresión, similitud y arquetipos (3 notebooks) + artefactos exportados |
+| 07 · Visualización (Streamlit) | ✅ Completo | Plataforma multipágina con 5 secciones |
 | Memoria LaTeX | 🟡 En curso | Plantilla de la universidad — redacción en paralelo |
 
 ### 📊 Métricas clave del dataset
@@ -194,6 +222,8 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 | `regresion_dataset.csv` | 14.184 | 110 | Output 05_02 (FE específico para regresión) |
 | `similitud_outfielders.csv` | 13.163 | 25 | Output 05_03 (8 metadatos + 17 PCs) |
 | `similitud_keepers.csv` | 1.039 | 21 | Output 05_03 (8 metadatos + 13 PCs) |
+| `salarios_predichos.csv` | 14.184 | 5 | Artefacto 06_01 (real, estimado y residuo) |
+| `arquetipos.csv` | 14.202 | 4 | Artefacto 06_03 (arquetipo por jugador-temporada) |
 
 **Métricas globales:**
 
@@ -212,7 +242,7 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 ## 🧠 Decisiones metodológicas clave
 
-- **Snapshots de la 25/26.** Se trabaja con datos provisionales con fecha en el nombre del archivo (`*_snapshot_<YYYYMMDD>.csv`) hasta el cierre de las ligas. Una vez cerradas todas las competiciones (las cinco grandes terminan a finales de mayo; la Süper Lig se alarga hasta principios de junio), se reejecutan únicamente las fases 01–03 para los 6 archivos de la 25/26.
+- **Snapshot definitivo de la 25/26 (28/04/2026).** La temporada en curso se trabajó inicialmente con *snapshots* fechados. Al intentar refrescarla, Sofascore activó una protección anti-bot (HTTP 403 *challenge*, detección de navegador no de IP) que impidió nuevas descargas pese a múltiples vías (VPN, navegador *headed*, reinstalación de la librería). Se adoptó como **dato definitivo el snapshot del 28/04/2026** (~92% de temporada disputada; los salarios anuales de Capology son fijos y el filtro de ≥450 min se supera sobradamente). Es una limitación documentada: las vistas de la 25/26 en la plataforma indican explícitamente el corte de datos.
 
 - **Fuzzy matching escalonado con revisión manual.** Prioriza minimizar falsos positivos: por defecto solo se aceptan matches con score ≥ 0.90. Los rangos inferiores requieren confirmación explícita en listas blancas (`ACCEPT_LOW_FUZZY`, `ACCEPT_VERY_LOW_FUZZY`) y los casos imposibles para el fuzzy se resuelven con `MANUAL_MATCHES` explícitos.
 
@@ -244,10 +274,13 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 - **Variables contextuales excluidas en similitud, mantenidas en regresión.** Decisión consciente y deliberada para que cada modelo capture lo que debe: la regresión necesita aprender el premium de liga e inflación temporal (que son señal real); la similitud quiere encontrar parecidos por estilo de juego, no por liga o temporada de juego (en este caso eso sería ruido). Las variables `country`, `season` y `nationality` se preservan como metadatos del dataset de similitud para permitir filtros post-consulta.
 
-- **Estrategia de validación temporal en ML.** *(Decisión abierta hasta fase 06.)* Se evaluarán dos esquemas:
-  - **Opción A:** entrenar con 20/21 → 24/25 y aplicar sobre 25/26 para detectar desajustes de la temporada actual.
-  - **Opción C:** train con 20/21 → 23/24, validación sobre 24/25 con métricas reales (RMSE, R², MAE), y aplicación final sobre 25/26.
-  La opción C aporta mayor rigor estadístico al disponer de ground truth para validar.
+- **Estrategia de validación: GroupKFold por jugador.** Tras valorar esquemas de validación temporal (reservar la 25/26 como conjunto de aplicación), se adoptó finalmente **validación cruzada GroupKFold (4 folds) agrupando por `player_id`**, siguiendo la indicación del tutor de que un mismo jugador no aparezca en varios conjuntos del *split*. Esto evita el *data leakage* derivado de jugadores que repiten a lo largo de las temporadas y proporciona una estimación honesta del R² (≈ 0.58) sin necesidad de reservar ninguna temporada. El modelo de producción que alimenta la plataforma se reentrena después con todos los datos disponibles, práctica estándar una vez validado el modelo.
+
+- **Dos usos del modelo de regresión (evaluación vs. producción).** La evaluación honesta se hace con GroupKFold por jugador (mide la capacidad predictiva). El modelo de producción, una vez validado, se reentrena con **todas las temporadas** (incluida la 25/26) antes de generar `salarios_predichos.csv`, para que las estimaciones de la temporada actual —las más relevantes para la herramienta— sean representativas y no extrapoladas.
+
+- **Residuo como producto, no como error.** Por la compresión del modelo hacia la media (limitada por la ausencia de variables como valor de mercado o marca), las estrellas caras tienden a aparecer como "sobrevaloradas". Esto se asume conscientemente: el residuo se interpreta como **señal de desajuste de mercado**, y por ello el **núcleo de la plataforma es el sistema de similitud** (robusto y sin ese sesgo), quedando la regresión como capa complementaria.
+
+- **Tres técnicas no supervisadas con propósitos distintos.** PCA para la representación (espacio de estilo), búsqueda de vecinos más cercanos para la recomendación de reemplazos, y K-means para la tipología (arquetipos por posición). La búsqueda de vecinos no es un k-NN predictivo ni *clustering*: es recuperación sobre el espacio aprendido por PCA.
 
 ---
 
@@ -267,12 +300,11 @@ Aplicación interactiva en **Streamlit** que combina ambos modelos: el usuario s
 
 ## 📅 Próximos pasos
 
-1. **Redacción de la memoria LaTeX** en paralelo, documentando todo el trabajo realizado en las fases 01-05.
-2. **Refrescar snapshots de la 25/26** hasta el cierre completo de las 6 ligas (finales de mayo / principios de junio).
-3. **Reejecutar las fases 01–03** sobre los datos definitivos de la 25/26 cuando estén disponibles.
-4. **Fase 06 — Machine learning:** entrenamiento de los modelos de regresión salarial (sobre `regresion_dataset.csv`) y de similitud k-NN (sobre los datasets PCA generados en 05_03), con análisis de residuos para identificar jugadores sobrevalorados / infravalorados y combinación regresión + similitud para sugerir reemplazos.
-5. **Fase 07 — Aplicación Streamlit** integrando ambos modelos.
-6. **Revisión final y entrega** de la memoria a mediados de julio.
+Con el *pipeline* de datos y modelado (fases 01–06) y la plataforma (fase 07) completos, el trabajo restante se centra en la documentación y la entrega:
+
+1. **Redacción de la memoria** documentando todo el trabajo: pipeline de datos, decisiones metodológicas, modelos (regresión, similitud, arquetipos) y plataforma.
+2. **Preparación de la defensa**, apoyándose en la plataforma interactiva como demostración.
+3. **Revisión final y entrega** de la memoria (fecha límite: 20 de julio).
 
 ---
 
