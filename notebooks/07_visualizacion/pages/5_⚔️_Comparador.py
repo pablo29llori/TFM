@@ -7,25 +7,8 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="Comparador", page_icon="⚔️", layout="wide")
 
 # ============ ESTILO VISUAL ============
-st.markdown("""
-<style>
-.stApp {
-    background: linear-gradient(160deg, #d8f3dc 0%, #b7e4c7 50%, #95d5b2 100%);
-}
-.main .block-container {
-    background-color: rgba(255, 255, 255, 0.92);
-    border-radius: 18px;
-    padding: 2rem 2.5rem;
-    margin-top: 1rem;
-}
-h1 { color: #1b4332; border-bottom: 4px solid #40916c; padding-bottom: 0.3rem; }
-[data-testid="stMetricValue"] {
-    white-space: normal; overflow-wrap: break-word;
-    font-size: 1.4rem; line-height: 1.2;
-}
-[data-testid="stMetricLabel"] { white-space: normal; }
-</style>
-""", unsafe_allow_html=True)
+from estilo import aplicar_estilo
+aplicar_estilo()
 
 ROOT = Path(__file__).resolve().parents[3]
 FILT_PATH = ROOT / "data" / "clean" / "master_filtered.csv"
@@ -71,11 +54,16 @@ def calcular_percentiles(jugador, df):
     for col, nombre in stats.items():
         if col not in df.columns:
             continue
+        if pd.isna(jugador[col]):
+            continue
         if col in NO_PER90:
             serie = sub[col]; valor = jugador[col]
         else:
             serie = sub[col] / sub["minutesPlayed"] * 90
             valor = jugador[col] / mins * 90
+        serie = serie.dropna()
+        if len(serie) == 0:
+            continue
         pct = (serie < valor).mean() * 100
         etiquetas.append(nombre); valores.append(round(pct))
     return etiquetas, valores

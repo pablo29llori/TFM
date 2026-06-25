@@ -55,6 +55,11 @@ TFM/
     ├── 05_features_engineering/  # Feature engineering específico por modelo
     ├── 06_ml/               # Regresión salarial, similitud y arquetipos (3 notebooks)
     └── 07_visualizacion/    # Aplicación Streamlit (multipágina)
+        ├── .streamlit/      #   config.toml: paleta base y tipografía
+        ├── estilo.py        #   Estilo CSS común a todas las páginas
+        ├── assets/          #   Logos de las competiciones
+        ├── Inicio.py        #   Página principal
+        └── pages/           #   Buscador, Jugador, Ligas, Clubes y Comparador
 ```
 
 ---
@@ -193,7 +198,7 @@ Aplicación interactiva **multipágina** en **Streamlit** (`streamlit run Inicio
 - **🏟️ Análisis por club** — resumen de plantilla y tabla completa con salario real vs. estimado por jugador.
 - **⚔️ Comparador** — dos jugadores de la misma posición enfrentados en un radar superpuesto y tabla comparativa de percentiles.
 
-Detalles de diseño: estilo visual coherente (degradado verde, tarjetas), normalización de nombres de equipo inconsistentes entre temporadas (p. ej. "FC Barcelona" → "Barcelona", único renombrado real detectado por solapamiento de plantilla), filtros estrictos encadenados y nota del corte de datos del 28/04/2026 en las vistas de la temporada en curso.
+Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`) aplicado a todas las páginas, más un `config.toml` que fija la paleta base (verde césped moderno) y la tipografía (Inter); contenedor en tarjeta flotante, métricas como mini-tarjetas y barra lateral oscura. Otras correcciones: normalización de nombres de equipo inconsistentes entre temporadas (p. ej. "FC Barcelona" → "Barcelona", único renombrado real detectado por solapamiento de plantilla), filtros estrictos encadenados, nota del corte de datos del 28/04/2026 en las vistas de la temporada en curso, y manejo de las estadísticas no disponibles en todas las temporadas (los *expected goals/assists* solo existen desde 22/23): los percentiles se calculan únicamente contra jugadores con el dato medido y los rankings por liga ocultan esas métricas en las temporadas sin datos.
 
 ---
 

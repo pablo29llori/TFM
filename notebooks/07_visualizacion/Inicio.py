@@ -6,24 +6,8 @@ st.set_page_config(page_title="TFM - Plataforma de futbolistas", page_icon="⚽"
 
 
 # --- Estilo visual ---
-st.markdown("""
-<style>
-.stApp {
-    background: linear-gradient(160deg, #d8f3dc 0%, #b7e4c7 50%, #95d5b2 100%);
-}
-.main .block-container {
-    background-color: rgba(255, 255, 255, 0.92);
-    border-radius: 18px;
-    padding: 2rem 2.5rem;
-    margin-top: 1rem;
-}
-h1 { color: #1b4332; border-bottom: 4px solid #40916c; padding-bottom: 0.3rem; }
-.creditos {
-    text-align: center; color: #40916c; font-size: 0.9rem;
-    margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #b7e4c7;
-}
-</style>
-""", unsafe_allow_html=True)
+from estilo import aplicar_estilo
+aplicar_estilo()
 
 # ============ TÍTULO ============
 st.title("⚽ Plataforma de Análisis de Futbolistas")

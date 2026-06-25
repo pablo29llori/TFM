@@ -1,0 +1,13 @@
+[theme]
+# Paleta futbolística moderna - verde césped elegante
+primaryColor = "#2d6a4f"
+backgroundColor = "#f4faf6"
+secondaryBackgroundColor = "#e4f1e9"
+textColor = "#1b2d24"
+font = "sans serif"
+
+[client]
+showSidebarNavigation = true
+
+[server]
+runOnSave = true

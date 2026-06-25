@@ -7,25 +7,8 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="Ligas", page_icon="🏆", layout="wide")
 
 # ============ ESTILO VISUAL ============
-st.markdown("""
-<style>
-.stApp {
-    background: linear-gradient(160deg, #d8f3dc 0%, #b7e4c7 50%, #95d5b2 100%);
-}
-.main .block-container {
-    background-color: rgba(255, 255, 255, 0.92);
-    border-radius: 18px;
-    padding: 2rem 2.5rem;
-    margin-top: 1rem;
-}
-h1 { color: #1b4332; border-bottom: 4px solid #40916c; padding-bottom: 0.3rem; }
-[data-testid="stMetricValue"] {
-    white-space: normal; overflow-wrap: break-word;
-    font-size: 1.6rem; line-height: 1.2;
-}
-[data-testid="stMetricLabel"] { white-space: normal; }
-</style>
-""", unsafe_allow_html=True)
+from estilo import aplicar_estilo
+aplicar_estilo()
 
 ROOT = Path(__file__).resolve().parents[3]
 FILT_PATH = ROOT / "data" / "clean" / "master_filtered.csv"
@@ -98,9 +81,13 @@ st.divider()
 # ============ RANKINGS ============
 st.subheader("🥇 Rankings de jugadores")
 
+# Solo ofrecer métricas que tengan datos en esta liga+temporada
+# (p. ej. xG no existe antes de 22/23)
+metricas_disponibles = [c for c in RANKINGS if sub[c].notna().any()]
+
 cr1, cr2, cr3 = st.columns([2, 2, 1])
 with cr1:
-    metrica = st.selectbox("Estadística", options=list(RANKINGS.keys()),
+    metrica = st.selectbox("Estadística", options=metricas_disponibles,
                            format_func=lambda x: RANKINGS[x])
 with cr2:
     modo = st.radio("Modo", ["Totales", "Por 90 min"], horizontal=True)
