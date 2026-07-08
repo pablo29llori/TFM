@@ -88,19 +88,22 @@ st.caption("Perfil estadístico detallado · percentiles respecto a su posición
 c1, c2, c3 = st.columns(3)
 with c1:
     f_liga = st.multiselect("Liga", options=sorted(df["country"].dropna().unique()),
-                            format_func=lambda x: LIGAS.get(x, x))
+                            format_func=lambda x: LIGAS.get(x, x),
+                            placeholder="Elige una o varias opciones")
 
 base = df.copy()
 if f_liga:
     base = base[base["country"].isin(f_liga)]
 with c2:
     temporadas = sorted(base["season"].unique(), reverse=True)
-    f_temp = st.multiselect("Temporada", options=temporadas, format_func=fmt_temporada)
+    f_temp = st.multiselect("Temporada", options=temporadas, format_func=fmt_temporada,
+                            placeholder="Elige una o varias opciones")
 
 if f_temp:
     base = base[base["season"].isin(f_temp)]
 with c3:
-    f_equipo = st.multiselect("Equipo", options=sorted(base["team"].dropna().unique()))
+    f_equipo = st.multiselect("Equipo", options=sorted(base["team"].dropna().unique()),
+                              placeholder="Elige una o varias opciones")
 
 if f_equipo:
     base = base[base["team"].isin(f_equipo)]
@@ -205,8 +208,5 @@ if etiqueta_elegida:
                 val = int(jugador[col]) if col != "rating" else round(jugador[col], 2)
                 tot.append(f"- **{nombre}:** {val}")
         st.markdown("\n".join(tot))
-
-    if jugador["season"] == "2526":
-        st.info("ℹ️ Los datos de la temporada 2025/26 están actualizados hasta el 28/04/2026.")
 else:
     st.info("👆 Usa los filtros para encontrar un jugador y ver su ficha.")

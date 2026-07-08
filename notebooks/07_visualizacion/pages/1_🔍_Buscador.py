@@ -81,11 +81,13 @@ st.subheader("1️⃣ Encuentra tu jugador")
 colf1, colf2, colf3 = st.columns(3)
 with colf1:
     f_pos = st.multiselect("Filtrar por posición",
-        options=list(POSICIONES.keys()), format_func=lambda x: POSICIONES[x])
+        options=list(POSICIONES.keys()), format_func=lambda x: POSICIONES[x],
+        placeholder="Elige una o varias opciones")
 with colf2:
     f_liga = st.multiselect("Filtrar por liga",
         options=sorted(todos["country"].dropna().unique()),
-        format_func=lambda x: LIGAS.get(x, x))
+        format_func=lambda x: LIGAS.get(x, x),
+        placeholder="Elige una o varias opciones")
 
 # Los equipos disponibles dependen de la liga elegida
 if f_liga:
@@ -94,7 +96,8 @@ else:
     equipos_disponibles = sorted(ultima["team"].dropna().unique())
 
 with colf3:
-    f_equipo = st.multiselect("Filtrar por equipo", options=equipos_disponibles)
+    f_equipo = st.multiselect("Filtrar por equipo", options=equipos_disponibles,
+        placeholder="Elige una o varias opciones")
 
 # Aplicar los filtros a la lista de jugadores seleccionables
 filtrada = ultima.copy()
@@ -143,7 +146,8 @@ if etiqueta_elegida:
         with g3:
             ligas_sel = st.multiselect("Ligas del reemplazo (vacío = todas)",
                 options=sorted(todos["country"].dropna().unique()),
-                format_func=lambda x: LIGAS.get(x, x))
+                format_func=lambda x: LIGAS.get(x, x),
+                placeholder="Elige una o varias opciones")
 
     if st.button("🔎 Buscar reemplazos", type="primary", use_container_width=True):
         ref, similares = buscar_similares(

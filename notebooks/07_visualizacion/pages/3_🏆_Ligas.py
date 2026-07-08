@@ -73,9 +73,6 @@ gasto = sub["gross_annual_eur"].sum()
 r4.metric("Gasto salarial", f"{gasto/1e6:.0f}M €" if pd.notna(gasto) else "N/D")
 r5.metric("Rating medio", f"{sub['rating'].mean():.2f}")
 
-if temp == "2526":
-    st.info("ℹ️ Los datos de la temporada 2025/26 están actualizados hasta el 28/04/2026.")
-
 st.divider()
 
 # ============ RANKINGS ============
