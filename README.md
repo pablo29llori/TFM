@@ -139,10 +139,10 @@ Preparación de variables para el modelado. La fase se organiza en notebooks esp
   - **Selección de features por cluster temático**: aplicación de los criterios derivados del clustering del 04_04 sobre el dataset filtrado. Estrategia de **núcleo informativo amplio**: se mantienen 2-3 variables representativas por cluster grande y se eliminan únicamente las redundancias evidentes (34 stats descartadas: 28 por correlación r ≥ 0.95 + 6 por baja cardinalidad informativa).
   - **Tratamiento de NaN estructurales**: `expectedGoals`, `expectedAssists` y `ballRecovery` no están disponibles en todas las temporadas (Sofascore las añadió progresivamente a partir de 22/23-23/24). Se imputan a 0 y se crean flags `*_available` para que los modelos basados en árboles puedan distinguir disponibilidad real de valor cero. Se descarta `outfielderBlocks` por cobertura inviable (solo 25/26 completa).
   - **Normalización per-90 minutos** sobre 61 stats acumulables. Se mantienen sin transformar los ratios, porcentajes, `rating` y `totwAppearances`.
-  - **Curva de Mincer**: se añade `age_squared` para capturar la concavidad de la relación edad-salario. La edad-pico estimada en el dataset (31.8 años) es coherente con la literatura de mercados laborales en deporte de élite.
-  - **One-hot con baselines explícitas** para evitar multicolinealidad perfecta en modelos lineales: se omite `position_M`, `country_turkey`, `season_2021` y `nationality_grp_Otras`. La elección permite que los coeficientes de las dummy restantes se interpreten como diferencias respecto a categorías "neutras" o de referencia económica/temporal.
-  - **`nationality`** se reduce a top-15 + "Otras" para evitar columnas muy esparsas.
-  - Output: `data/modeling/regression/regresion_dataset.csv` — **14.184 filas × 110 columnas**, sin NaN ni infinitos, listo para entrenar.
+  - **Edad**: se evaluó añadir `age_squared` (curva de Mincer) para capturar la concavidad de la relación edad-salario, pero finalmente se descartó por impacto despreciable en el R² y por dejar un ranking de importancia de variables más limpio. Se conserva `age` sin transformar.
+  - **One-hot con baselines explícitas** para evitar multicolinealidad perfecta en modelos lineales: se codifican `position`, `country` y `season`, omitiendo una categoría de referencia por variable (`position_M`, `country_turkey`, `season_2021`). La elección permite que los coeficientes de las dummy restantes se interpreten como diferencias respecto a categorías "neutras" o de referencia económica/temporal.
+  - **`nationality` se descarta como variable predictora**: el EDA (04_03/04_05) mostró que su relación con el salario es en gran medida espuria, ya que refleja sobre todo la liga en la que juega el futbolista (variable que el modelo ya recoge). Se conserva únicamente como metadato.
+  - Output: `data/modeling/regression/regresion_dataset.csv` — **14.184 filas**, sin NaN ni infinitos, listo para entrenar. Las variables de histórico salarial (`salario_lag1`, `tendencia`) se incorporan en la fase de modelado (06_01).
 
 - **`05_03_features_similitud.ipynb`** — Construcción de los datasets para el sistema de similitud entre jugadores. Las necesidades del FE divergen significativamente respecto al modelo de regresión, lo que justifica un notebook independiente:
   - **Sin filtro de salario**: las 14.202 filas se conservan completas. El universo de candidatos para sugerir reemplazos incluye canteranos, cesiones y jugadores sin ficha registrada en Capology.
@@ -161,12 +161,13 @@ Tres notebooks complementarios que cubren un modelo supervisado y dos técnicas 
 
 **a) Regresión salarial (`06_01_regresion_salarial.ipynb`).**
 Predice `log(gross_annual_eur)` a partir de las features de rendimiento. El **residuo** (salario real − estimado) es el producto analítico: un residuo positivo señala posible sobrevaloración y uno negativo, infravaloración.
-- **Validación:** *GroupKFold* (4 folds) agrupando por `player_id`, de modo que un mismo jugador nunca aparece a la vez en entrenamiento y validación (evita *data leakage* por jugadores que repiten temporada). Esta es la única estrategia de validación adoptada, sin reserva temporal por año.
-- **Comparativa de modelos:** XGBoost (R² ≈ 0.59), Ridge (≈ 0.59), Lasso (≈ 0.57) y Random Forest (≈ 0.54) rinden de forma equivalente. Se elige **Ridge (α=10)** por parsimonia e interpretabilidad (navaja de Occam): los modelos de árbol no mejoran de forma significativa, probablemente porque la transformación log y la normalización per-90 ya capturan la estructura del problema.
-- **Global vs. segmentado:** se verifica empíricamente que un modelo **global** con la posición como *feature* (R² ≈ 0.588) iguala o supera a cuatro modelos independientes por posición (≈ 0.579), con mucha menos complejidad.
-- **Variables de temporada (`season_*`) excluidas de las features**, por no extrapolar a temporadas futuras no vistas.
-- **Interpretabilidad:** los coeficientes reproducen la curva de Mincer (`age` +, `age_squared` −), el *premium* de liga (`country_england` +) y la penalización de stats defensivas de equipos débiles (`goalsConceded`, `saves` −).
-- **Techo de R² ≈ 0.58 honesto:** atribuido a limitaciones de los datos (ausencia de valor de mercado, marca, potencial, antigüedad del contrato), no a la elección algorítmica. El residuo se interpreta como **señal de sobre/infravaloración, no como error**.
+- **Validación:** partición **por jugador** — se reserva un 20% de los jugadores como conjunto de test (no interviene hasta la evaluación final) y sobre el resto se ajusta con **validación cruzada *GroupKFold* agrupada por `player_id`**. Así, todas las temporadas de un mismo futbolista caen siempre juntas y nunca se evalúa sobre alguien ya visto (evita *data leakage* por jugadores que repiten temporada).
+- **Comparativa de modelos:** se comparan cuatro familias, dos lineales (Ridge, Lasso) y dos basadas en árboles (Random Forest, XGBoost), con resultados iniciales parecidos (R² ≈ 0.57). Se optimizan los hiperparámetros de **XGBoost** con **Optuna**, que se confirma como la mejor opción.
+- **Global vs. segmentado:** se verifica empíricamente que un modelo **global** con la posición como *feature* iguala o supera a cuatro modelos independientes por posición, con mucha menos complejidad. Se adopta el modelo global.
+- **Incorporación del histórico salarial (dos modelos):** el salto de calidad llega al añadir la trayectoria salarial del jugador mediante dos variables, `salario_lag1` (salario de la temporada anterior) y `tendencia` (evolución reciente). Como no todos los jugadores tienen año previo (debutantes, recién llegados de ligas no cubiertas), se adopta un **esquema de dos modelos**: *Modelo A* usa el histórico para quienes lo tienen y *Modelo B* recurre solo al rendimiento para el resto. Cada jugador se predice con el que le corresponde.
+- **Resultados (conjunto de test):** el **modelo combinado alcanza R² ≈ 0.72** (MAE 0.45, RMSE 0.64), frente a **R² ≈ 0.59** del modelo basado solo en rendimiento (XGBoost) y **0.56** de la referencia lineal (Ridge). `salario_lag1` es, con diferencia, el predictor más influyente, seguido de la liga (Premier League) y de las métricas de rendimiento.
+- **Interpretabilidad:** el modelo lineal de referencia (Ridge) confirma el *premium* de liga (`country_england` +) y la edad como uno de los coeficientes positivos destacados. La estimación se obtiene mediante validación cruzada (*out-of-fold*), de modo que el salario estimado de cada jugador procede de un modelo que nunca lo ha visto durante el entrenamiento.
+- **Lectura del R²:** el modelo solo-rendimiento (≈ 0.59-0.60) mide de forma más honesta cuánto explica el rendimiento; buena parte del salto a 0.72 procede de la fuerte inercia del propio salario. El residuo (salario real − estimado) se interpreta como **señal de sobre/infravaloración, no como error**.
 - **Artefacto exportado:** `data/modeling/regression/salarios_predichos.csv` (14.184 filas: `player_id`, `season`, salario real, estimado y residuo). El modelo de producción se reentrena con **todas las temporadas** antes de generar las predicciones, práctica estándar tras la validación.
 
 **b) Similitud entre jugadores (`06_02_similitud.ipynb`).**
@@ -177,12 +178,12 @@ Sistema de recomendación que, dado un jugador, recupera los más parecidos por 
 - **Validación cualitativa:** Pedri → Modrić / Barella / Vitinha; Lewandowski → Osimhen / Lautaro / Guirassy. Coherente futbolísticamente.
 
 **c) Arquetipos de jugador (`06_03_arquetipos.ipynb`).**
-*Clustering* **K-means (K=3) por posición** sobre los vectores PCA, que descubre subtipos de estilo. A diferencia de la búsqueda de vecinos, K-means **sí aprende un modelo** (los centroides), reforzando el componente no supervisado del TFM.
+*Clustering* **K-means por posición** sobre los vectores PCA, que descubre subtipos de estilo. A diferencia de la búsqueda de vecinos, K-means **sí aprende un modelo** (los centroides), reforzando el componente no supervisado del TFM.
 - **Por qué por posición:** un *clustering* global se limita a reproducir la posición ya conocida (verificado empíricamente); segmentando emergen subtipos con valor informativo.
-- **K=3 elegido por interpretabilidad:** la silueta favorece K=2, pero produce una división demasiado gruesa; K=3 da subtipos claramente legibles. La asignación de nombres se hace leyendo el perfil de stats de cada *cluster* (no su número, que no es determinista).
-- **Arquetipos resultantes:** delanteros (Killer de área, Extremo asociativo, Atacante total/creador), mediocentros (Box-to-box, Organizador creativo, Pivote defensivo) y defensas (Central dominante aéreo, Central de marca, Lateral/carrilero ofensivo). Validación: Lewandowski → Killer de área; Pedri/Rodri/Modrić → Organizador creativo; Saliba → Central de marca.
+- **K=2 por posición (seis arquetipos).** El número de grupos se decide analizando el coeficiente de silueta no solo en su valor medio, sino en la calidad de cada grupo por separado (`silhouette_samples`). K=3 introduce siempre un grupo de baja calidad con muchos jugadores mal asignados, mientras que K=2 produce agrupaciones limpias y equilibradas. La asignación de nombres se hace leyendo el perfil de stats de cada *cluster* (no su número, que no es determinista).
+- **Arquetipos resultantes:** defensas (Central de área, Defensa lateral), mediocentros (Medio creativo, Medio de contención) y delanteros (Rematador de área, Atacante asociativo). Validación: Lewandowski → Rematador de área; Vinicius → Atacante asociativo; Pedri/Rodri → Medio creativo.
 - **Hallazgo:** los arquetipos más ofensivos y creativos concentran los salarios medios más altos dentro de cada posición.
-- **Visualización UMAP** del espacio de estilo coloreado por arquetipo (con *fallback* a PCA 2D).
+- **Visualización** del espacio de estilo coloreado por arquetipo, proyectado en 2D (PCA).
 - **Artefacto exportado:** `data/modeling/similarity/arquetipos.csv` (14.202 filas: `player_id`, `season`, `position`, `arquetipo`).
 
 En conjunto, el TFM emplea **tres técnicas no supervisadas** con propósitos distintos: PCA (representación), búsqueda de vecinos (recomendación) y K-means (tipología); además del modelo supervisado de regresión.
@@ -211,9 +212,9 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
 | 03 · Procesamiento | ✅ Completo | 25/26 fijada al snapshot del 28/04/2026 |
 | 04 · EDA | ✅ Completo | 5 notebooks temáticos + `master_clean.csv` generado |
 | 05 · Feature engineering | ✅ Completo | 05_01, 05_02 y 05_03 generan los datasets para regresión y similitud |
-| 06 · Machine learning | ✅ Completo | Regresión, similitud y arquetipos (3 notebooks) + artefactos exportados |
+| 06 · Machine learning | ✅ Completo | Regresión (XGBoost + histórico, R² ≈ 0.72), similitud y arquetipos (K=2) + artefactos exportados |
 | 07 · Visualización (Streamlit) | ✅ Completo | Plataforma multipágina con 5 secciones |
-| Memoria LaTeX | 🟡 En curso | Plantilla de la universidad — redacción en paralelo |
+| Memoria LaTeX | ✅ Prácticamente completa | Redacción finalizada; en revisión final del tutor antes del depósito |
 
 ### 📊 Métricas clave del dataset
 
@@ -255,7 +256,7 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
 
 - **Uso sistemático de la mediana** como medida de tendencia central, en coherencia con el carácter asimétrico del salario y siguiendo la práctica estándar en estadísticas de ingresos (INE, Eurostat, OCDE).
 
-- **Modelado segmentado por posición.** El análisis por posición revela que las features predictivas del salario son drásticamente distintas para porteros, defensas, mediocentros y delanteros. Esto motiva considerar modelos separados o interacciones `posición × stat` en la fase 06.
+- **Modelo global con la posición como *feature* (no segmentado).** Aunque el EDA revela que las features predictivas del salario difieren por posición, se verificó empíricamente en la fase 06 que un único modelo global con la posición codificada iguala o supera a cuatro modelos independientes por posición: segmentar hace que cada modelo pierda los patrones comunes entre posiciones. Se adopta el modelo global.
 
 - **Auditoría crítica de los datos.** Se identificó y documentó un sesgo estructural en la fuente: `goalsPrevented` aparece replicada en jugadores de campo en algunos casos (notablemente en Premier League 22/23). Corregido en 05_01 forzando la variable a NaN para todas las posiciones distintas de portero.
 
@@ -267,7 +268,9 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
 
 - **Tratamiento de NaN estructurales con flags de disponibilidad.** Las stats `expectedGoals`, `expectedAssists` y `ballRecovery` no están disponibles uniformemente en todas las temporadas (Sofascore las incorporó progresivamente). En lugar de descartarlas o imputar con la mediana (que introduciría señal artificial), se imputan a 0 y se crean flags binarias `*_available`. Los modelos basados en árboles pueden aprender patrones diferenciados según la disponibilidad real del dato.
 
-- **One-hot con baselines explícitas.** Aplicado en 05_02. Para evitar multicolinealidad perfecta en modelos lineales (cuando las dummy de una categórica suman 1, la matriz de diseño no tiene rango completo), se omite una categoría de referencia por variable: `position_M` (mediocampistas, categoría más frecuente), `country_turkey` (liga económicamente más débil, sirve como baseline para leer las demás como "premium sobre Turquía"), `season_2021` (primera temporada, los coeficientes capturan inflación acumulada) y `nationality_grp_Otras` (bolsa residual).
+- **One-hot con baselines explícitas.** Aplicado en 05_02. Para evitar multicolinealidad perfecta en modelos lineales (cuando las dummy de una categórica suman 1, la matriz de diseño no tiene rango completo), se omite una categoría de referencia por variable: `position_M` (mediocampistas, categoría más frecuente), `country_turkey` (liga económicamente más débil, sirve como baseline para leer las demás como "premium sobre Turquía") y `season_2021` (primera temporada, los coeficientes capturan inflación acumulada).
+
+- **`nationality` y `age_squared` descartadas como predictoras.** La nacionalidad refleja sobre todo la liga en la que juega el futbolista (relación espuria que la variable de liga ya captura), y `age_squared` aportaba una mejora despreciable en R² a costa de enturbiar el ranking de importancia. Ambas decisiones, alineadas con la revisión del tutor, simplifican el modelo sin coste predictivo.
 
 - **Normalización per-90 minutos.** Estándar en analítica futbolística. Se aplica a todas las stats acumulables (goles, asistencias, pases, tiros, regates, tackles, etc.) para hacer comparables a jugadores con distintos minutos jugados. Los ratios y porcentajes ya están normalizados por construcción y se mantienen sin transformar.
 
@@ -279,7 +282,7 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
 
 - **Variables contextuales excluidas en similitud, mantenidas en regresión.** Decisión consciente y deliberada para que cada modelo capture lo que debe: la regresión necesita aprender el premium de liga e inflación temporal (que son señal real); la similitud quiere encontrar parecidos por estilo de juego, no por liga o temporada de juego (en este caso eso sería ruido). Las variables `country`, `season` y `nationality` se preservan como metadatos del dataset de similitud para permitir filtros post-consulta.
 
-- **Estrategia de validación: GroupKFold por jugador.** Tras valorar esquemas de validación temporal (reservar la 25/26 como conjunto de aplicación), se adoptó finalmente **validación cruzada GroupKFold (4 folds) agrupando por `player_id`**, siguiendo la indicación del tutor de que un mismo jugador no aparezca en varios conjuntos del *split*. Esto evita el *data leakage* derivado de jugadores que repiten a lo largo de las temporadas y proporciona una estimación honesta del R² (≈ 0.58) sin necesidad de reservar ninguna temporada. El modelo de producción que alimenta la plataforma se reentrena después con todos los datos disponibles, práctica estándar una vez validado el modelo.
+- **Estrategia de validación: partición por jugador (test 20% + GroupKFold).** Se reserva un 20% de los jugadores como conjunto de test y sobre el resto se ajusta con **validación cruzada GroupKFold agrupada por `player_id`**, siguiendo la indicación del tutor de que un mismo jugador no aparezca en varios conjuntos del *split*. Esto evita el *data leakage* derivado de jugadores que repiten a lo largo de las temporadas y proporciona una estimación honesta. El modelo combinado (con histórico) alcanza **R² ≈ 0.72** sobre el test, frente a ≈ 0.59 del modelo basado solo en rendimiento. El modelo de producción que alimenta la plataforma se reentrena después con todos los datos disponibles, práctica estándar una vez validado el modelo.
 
 - **Dos usos del modelo de regresión (evaluación vs. producción).** La evaluación honesta se hace con GroupKFold por jugador (mide la capacidad predictiva). El modelo de producción, una vez validado, se reentrena con **todas las temporadas** (incluida la 25/26) antes de generar `salarios_predichos.csv`, para que las estimaciones de la temporada actual —las más relevantes para la herramienta— sean representativas y no extrapoladas.
 
@@ -303,13 +306,12 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
 
 ---
 
-## 📅 Próximos pasos
+## 📅 Estado y próximos pasos
 
-Con el *pipeline* de datos y modelado (fases 01–06) y la plataforma (fase 07) completos, el trabajo restante se centra en la documentación y la entrega:
+El *pipeline* de datos y modelado (fases 01–06), la plataforma (fase 07) y la memoria están completos. El trabajo restante se centra en la entrega y la defensa:
 
-1. **Redacción de la memoria** documentando todo el trabajo: pipeline de datos, decisiones metodológicas, modelos (regresión, similitud, arquetipos) y plataforma.
+1. **Depósito de la memoria** para la revisión final del tutor (fecha límite: 20 de julio; margen para ajustes hasta el 24 de julio).
 2. **Preparación de la defensa**, apoyándose en la plataforma interactiva como demostración.
-3. **Revisión final y entrega** de la memoria (fecha límite: 20 de julio).
 
 ---
 
