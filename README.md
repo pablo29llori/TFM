@@ -8,6 +8,13 @@
 
 ---
 
+## 📄 Documentación
+
+- **[Memoria del TFM](Memoria_TFM.pdf)** — documento completo del trabajo, con el desarrollo matemático, técnico y metodológico en detalle.
+- **[Presentación de la defensa](Presentacion_TFM.pdf)** — diapositivas utilizadas en la defensa ante el tribunal.
+
+---
+
 ## 📌 Resumen
 
 Este TFM construye un *pipeline* completo de datos de fútbol que integra estadísticas de rendimiento con datos salariales de seis grandes ligas europeas (España, Inglaterra, Italia, Alemania, Francia y la Süper Lig turca) durante las 6 últimas temporadas (20/21 → 25/26). El objetivo final es aplicar técnicas de aprendizaje automático para **predecir salarios a partir del rendimiento** (detectando jugadores sobrevalorados e infravalorados), **identificar similitudes de estilo entre jugadores** y **descubrir arquetipos de jugador**, presentando los resultados en una plataforma interactiva.
@@ -33,6 +40,8 @@ TFM/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+├── Memoria_TFM.pdf          # Memoria completa del trabajo
+├── Presentacion_TFM.pdf     # Diapositivas de la defensa
 ├── data/
 │   ├── raw/                 # Datos originales sin tocar (output fase 01)
 │   │   ├── capology/        # 36 CSVs salariales (cg_<liga>_<temporada>.csv)
@@ -190,7 +199,11 @@ En conjunto, el TFM emplea **tres técnicas no supervisadas** con propósitos di
 
 ### 7. Visualización (`07_visualizacion/`)
 
-Aplicación interactiva **multipágina** en **Streamlit** (`streamlit run Inicio.py`) que integra todos los modelos. Consume los artefactos generados en la fase 06 sin recalcular nada. Cinco secciones:
+Aplicación interactiva **multipágina** en **Streamlit** (`streamlit run Inicio.py`) que integra todos los modelos. Consume los artefactos generados en la fase 06 sin recalcular nada. Desplegada en **[tfm-futbolistas.streamlit.app](https://tfm-futbolistas.streamlit.app)**.
+
+> ℹ️ La aplicación está alojada en el plan gratuito de Streamlit Community Cloud, que suspende las apps tras un periodo de inactividad. Si al entrar aparece un mensaje de reposo, basta con pulsar *"Yes, get this app back up!"* y esperar unos segundos a que arranque. Funciona con normalidad.
+
+Cinco secciones:
 
 - **🏠 Inicio** — presentación del TFM, competiciones analizadas y créditos.
 - **🔍 Buscador de reemplazos** — núcleo de la plataforma: selecciona un jugador (con filtros encadenados posición/liga/equipo) y obtiene los más similares activos en 25/26, con salario real y ahorro potencial. Filtros de la búsqueda por rango de edad, salario inferior y liga.
@@ -203,20 +216,7 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
 
 ---
 
-## ✅ Estado de avance
-
-| Fase | Estado | Notas |
-|---|---|---|
-| 01 · Ingesta | ✅ Completo | Snapshot 28/04/2026 adoptado como definitivo para la 25/26 (bloqueo anti-bot de Sofascore) |
-| 02 · Preprocesamiento | ✅ Completo | |
-| 03 · Procesamiento | ✅ Completo | 25/26 fijada al snapshot del 28/04/2026 |
-| 04 · EDA | ✅ Completo | 5 notebooks temáticos + `master_clean.csv` generado |
-| 05 · Feature engineering | ✅ Completo | 05_01, 05_02 y 05_03 generan los datasets para regresión y similitud |
-| 06 · Machine learning | ✅ Completo | Regresión (XGBoost + histórico, R² ≈ 0.72), similitud y arquetipos (K=2) + artefactos exportados |
-| 07 · Visualización (Streamlit) | ✅ Completo | Plataforma multipágina con 5 secciones |
-| Memoria LaTeX | ✅ Prácticamente completa | Redacción finalizada; en revisión final del tutor antes del depósito |
-
-### 📊 Métricas clave del dataset
+## 📊 Métricas del proyecto
 
 **Pipeline de tablas:**
 
@@ -303,15 +303,6 @@ Detalles de diseño: tema visual centralizado en un único módulo (`estilo.py`)
   pip install -r requirements.txt
   ```
 - **Ejecución:** los notebooks están numerados por orden de ejecución dentro de `notebooks/`. Las rutas se resuelven con `pathlib` desde la raíz del proyecto, sin dependencias absolutas.
-
----
-
-## 📅 Estado y próximos pasos
-
-El *pipeline* de datos y modelado (fases 01–06), la plataforma (fase 07) y la memoria están completos. El trabajo restante se centra en la entrega y la defensa:
-
-1. **Depósito de la memoria** para la revisión final del tutor (fecha límite: 20 de julio; margen para ajustes hasta el 24 de julio).
-2. **Preparación de la defensa**, apoyándose en la plataforma interactiva como demostración.
 
 ---
 
